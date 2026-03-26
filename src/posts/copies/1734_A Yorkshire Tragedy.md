@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22341 Copy 5"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161373-153834"]
-notes: null
-local_notes: ["cs0532. The title leaf is inlaid and mounted; the remaining leaves are inlaid. Wanting the blank leaf."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. markings on t.p."]
-condition: ["\N"]
-binding: ["Green goatskin"]
-binder: ["Macdonald"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscribed by Kemble on t.p.: "Collated & Perfect J.P.K. 1798"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 735
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161373-153834
 
-cs0532. The title leaf is inlaid and mounted; the remaining leaves are inlaid. Wanting the blank leaf.
-
 0
 
 0
-
-MS. markings on t.p.
-
-\N
-
-Green goatskin
-
-Macdonald
-
-\N
-
-\N
-
-0
-
-0
-
-Inscribed by Kemble on t.p.: "Collated & Perfect J.P.K. 1798"
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["IUA11494"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["17"]
 width: ["11.8"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full red morocco with title on spine and front cover; gilt-tooled inner dentelles."]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Stonehill on 27 December 1943. Possibly the Thomas Phillipps copy, sold 24 June 1919, lot 880a, bound with other quartos, £710 to Henry Sotheran, who sold it to Gabriel Wells, who had each play rebound separately."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4088
@@ -99,38 +76,8 @@ t
 
 \N
 
-\N
-
 17
 
 11.8
-
-\N
-
-Bound in full red morocco with title on spine and front cover; gilt-tooled inner dentelles.
-
-Riviere & Son
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased from Stonehill on 27 December 1943. Possibly the Thomas Phillipps copy, sold 24 June 1919, lot 880a, bound with other quartos, £710 to Henry Sotheran, who sold it to Gabriel Wells, who had each play rebound separately.
-
-\N
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

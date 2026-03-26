@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.176.43"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/birthofmerlinorc00rowl/page/n12"]
-notes: null
-local_notes: ["A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco panelled in triple-ruled gilt."]
-binder: ["Clarke & Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Armorial bookplate of the Barton Library."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1933
@@ -97,38 +74,8 @@ t
 
 https://archive.org/details/birthofmerlinorc00rowl/page/n12
 
-A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front.
-
 0
 
 0
-
-\N
-
-Red morocco panelled in triple-ruled gilt.
-
-Clarke & Bedford
-
-\N
-
-\N
-
-0
-
-0
-
-Armorial bookplate of the Barton Library.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

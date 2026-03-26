@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.12.g.26"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Inscriptions on t.p.: "517 [struck-through]", "15383" [ZL]"]
 height: ["18"]
 width: ["12.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half goatskin over marbled paper, stamped in gold with the crest of George III on the spine"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Part of the George III collection. The number "15383" is from Thomas and John Egerton's Catalogue of Books (1792); the previous number "517" is from their Catalogue of Old Quarto Plays (1790). [ZL]"]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 108-15, 118, 120, 142, 182-83n46, 183n50, 184n54."]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1445
@@ -99,40 +76,8 @@ t
 
 \N
 
-Inscriptions on t.p.: "517 [struck-through]", "15383" [ZL]
-
 18
 
 12.5
-
-\N
-
-Half goatskin over marbled paper, stamped in gold with the crest of George III on the spine
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Part of the George III collection. The number "15383" is from Thomas and John Egerton's Catalogue of Books (1792); the previous number "517" is from their Catalogue of Old Quarto Plays (1790). [ZL]
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 108-15, 118, 120, 142, 182-83n46, 183n50, 184n54.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

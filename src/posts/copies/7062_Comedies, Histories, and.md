@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2914 Fo.3 no.17"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: no title leaf, no "verses" leaf, but with some of the additional plays. Lacking all leaves through M6 (prelims., Temp., Two Gent., Merry Wives, M. for M., Errors, Much Ado, and LLL). Also wants N2-4, 2N2, 3L1, 3P5,6, 4C1-4E4 (Cymb.), and b1 through end (the end of Pericles and the rest of the additional plays entire). Leaves a1-6 (beginning of Pericles) are misbound at the front of the book. Leaves N1,5, R1, and a1 are mutilated and (except R1) patched, affecting text (only slightly on R1). Other imperfections affect text slightly on 2Y1 and very slightly on S3, Y1, 2D6, and 2L1. Variant states and printings, as recorded by James G. McManaway, "New discoveries in the Third Folio," PBSA, v. 70, (1976), 469-80, and other such variations, are identified in file."]
 height: ["34"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Adam Sim Coulter; J. Blackwood Greenshields of Kerse"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7061
@@ -99,38 +76,8 @@ t
 
 \N
 
-In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here.
-
-Includes: no title leaf, no "verses" leaf, but with some of the additional plays. Lacking all leaves through M6 (prelims., Temp., Two Gent., Merry Wives, M. for M., Errors, Much Ado, and LLL). Also wants N2-4, 2N2, 3L1, 3P5,6, 4C1-4E4 (Cymb.), and b1 through end (the end of Pericles and the rest of the additional plays entire). Leaves a1-6 (beginning of Pericles) are misbound at the front of the book. Leaves N1,5, R1, and a1 are mutilated and (except R1) patched, affecting text (only slightly on R1). Other imperfections affect text slightly on 2Y1 and very slightly on S3, Y1, 2D6, and 2L1. Variant states and printings, as recorded by James G. McManaway, "New discoveries in the Third Folio," PBSA, v. 70, (1976), 469-80, and other such variations, are identified in file.
-
 34
 
 0
-
-\N
-
-\N
-
-\N
-
-Adam Sim Coulter; J. Blackwood Greenshields of Kerse
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

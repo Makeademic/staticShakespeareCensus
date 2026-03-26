@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 57"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Green morocco,  covers gold-tooled in a floral spray and geometric pattern, with doublures of red morocco."]
-binder: ["Chambolle-Duru"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Abby E. Pope; Robert Hoe; Roderick Terry; Allerton Hickmott"]
-bibliography: ["Mary L. Avery, "The Library of a Brooklyn Bibliophile," Pratt Institute Monthly vol. 2, no. 7 (March 1894): p. 203-209 (on Abby E. Pope)"]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1537
@@ -99,40 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-Green morocco,  covers gold-tooled in a floral spray and geometric pattern, with doublures of red morocco.
-
-Chambolle-Duru
-
-\N
-
-\N
-
-0
-
-0
-
-Abby E. Pope; Robert Hoe; Roderick Terry; Allerton Hickmott
-
-Mary L. Avery, "The Library of a Brooklyn Bibliophile," Pratt Institute Monthly vol. 2, no. 7 (March 1894): p. 203-209 (on Abby E. Pope)
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

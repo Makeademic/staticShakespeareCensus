@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.39.i.20"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["In this copy, besides the irregularities of pagination common to all copies, in pt. I., p. 478 is paged in the wrong corner, and pp. 650, 651, 659, 660, 662, 663, are respectively misprinted 649, 650, 657, 658, 660, 661; in pt. III., pp. 12, 13, 18, 41, 36, are respectively misprinted 4, 5, 16, 36, 41; and pp. 36 and 41 are both paged in the wrong corner, and both bear the wrong portion of the running title. Photographs of the titlepage with portrait, and the leaf of verses, of the First Issue (1663) have been inserted from the copy in Wadham College, Oxford."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. notes and additions"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6897
@@ -99,40 +76,8 @@ f
 
 \N
 
-In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here.
-
-In this copy, besides the irregularities of pagination common to all copies, in pt. I., p. 478 is paged in the wrong corner, and pp. 650, 651, 659, 660, 662, 663, are respectively misprinted 649, 650, 657, 658, 660, 661; in pt. III., pp. 12, 13, 18, 41, 36, are respectively misprinted 4, 5, 16, 36, 41; and pp. 36 and 41 are both paged in the wrong corner, and both bear the wrong portion of the running title. Photographs of the titlepage with portrait, and the leaf of verses, of the First Issue (1663) have been inserted from the copy in Wadham College, Oxford.
-
 0
 
 0
-
-MS. notes and additions
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

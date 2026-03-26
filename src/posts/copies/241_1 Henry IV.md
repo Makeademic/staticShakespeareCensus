@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig 6Db 622"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Imperfect: t.p. very slightly bled; leaf I1 slightly mutilated."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS inscriptions on TP: "Martha Fletcher 1745"; "Anne & Janet Kepburn"; "JFletcher"; "RFletcher"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["254"]
-Bartlett1939_notes: ["QUARITCH. 6 7/8 x 4 5/8". Title shaved, injuring 2 letters; A3, B4, D1, D2, I3 have\r\nsmall hole; I1 has defect in paper injuring 5 or 6 letters. With old signatures of\r\nJ. Fletcher, R. Fletcher, Martha Fletcher 1745, Anne Hepburn, and Janet Hepburn. The O'Donnell (April 12, 1938, n. 297) copy. Bound in red levant morocco, by Riviere, June, 1938, for Quaritch."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bartlett identification needs to be confirmed."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 462
@@ -99,42 +76,8 @@ t
 
 \N
 
-Imperfect: t.p. very slightly bled; leaf I1 slightly mutilated.
-
 0
 
 0
-
-MS inscriptions on TP: "Martha Fletcher 1745"; "Anne & Janet Kepburn"; "JFletcher"; "RFletcher"
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-254
-
-QUARITCH. 6 7/8 x 4 5/8". Title shaved, injuring 2 letters; A3, B4, D1, D2, I3 have\r\nsmall hole; I1 has defect in paper injuring 5 or 6 letters. With old signatures of\r\nJ. Fletcher, R. Fletcher, Martha Fletcher 1745, Anne Hepburn, and Janet Hepburn. The O'Donnell (April 12, 1938, n. 297) copy. Bound in red levant morocco, by Riviere, June, 1938, for Quaritch.
-
-0
-
-Bartlett identification needs to be confirmed.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

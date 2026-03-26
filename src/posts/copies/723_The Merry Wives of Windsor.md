@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22300 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163952-157584"]
-notes: null
-local_notes: ["cs115. Several tail corners are repaired. Burn-hole on D1, affecting text."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Divided into acts in MS. (see B3r)."]
-condition: ["\N"]
-binding: ["Brown, blind-stamped goatskin, with blue paper doublures."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["711"]
-Bartlett1939_notes: ["FOLGER. 6¾ x 4 9/16 ". Lower corner of two leaves torn. The Sotheby (March 16, 1903, n. 1263, £165) copy. Bound in brown morocco, blue paper doublures."]
-Bartlett1916: ["499"]
-Bartlett1916_notes: ["FOLGER. Lower corner of two leaves torn. The Sotheby (March 16, 1903, No.\r\n1263) copy. Bound in morocco."]
-Lee_notes: null
-prov_info: ["Folger purchase from Sotheby sale, March 16, 1903, lot 1263."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1304
@@ -99,44 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163952-157584
 
-cs115. Several tail corners are repaired. Burn-hole on D1, affecting text.
-
 0
 
 0
-
-Divided into acts in MS. (see B3r).
-
-\N
-
-Brown, blind-stamped goatskin, with blue paper doublures.
-
-\N
-
-\N
-
-\N
-
-711
-
-FOLGER. 6¾ x 4 9/16 ". Lower corner of two leaves torn. The Sotheby (March 16, 1903, n. 1263, £165) copy. Bound in brown morocco, blue paper doublures.
-
-499
-
-FOLGER. Lower corner of two leaves torn. The Sotheby (March 16, 1903, No.\r\n1263) copy. Bound in morocco.
-
-Folger purchase from Sotheby sale, March 16, 1903, lot 1263.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

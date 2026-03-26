@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2 no.11"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Richard Hawkins as the publisher."]
-local_notes: ["In Folger copy 11, port. (on title page) is in state 3. Imperfections affect text very slightly on B1,2, L3, O5, R2, m5, u3,4, 2b6, 2h6, 2k6, and 2s5."]
 height: ["34"]
 width: ["0"]
-marginalia: ["Manuscript additions include 16 lines of verse, rhyming couplets in iambic pentameter, that mention Othello, in an 18th-cent. hand (bleached) (*1 verso)."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6990
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Richard Hawkins as the publisher.
-
-In Folger copy 11, port. (on title page) is in state 3. Imperfections affect text very slightly on B1,2, L3, O5, R2, m5, u3,4, 2b6, 2h6, 2k6, and 2s5.
-
 34
 
 0
-
-Manuscript additions include 16 lines of verse, rhyming couplets in iambic pentameter, that mention Othello, in an 18th-cent. hand (bleached) (*1 verso).
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

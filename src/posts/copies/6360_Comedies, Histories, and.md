@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig12 +632 copy 5"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["T.p., leaf of verses and last 5 leaves are wanting and supplied in facsimile. Several leaves restored; other minor defects."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["A. Edward Newton; Howard Lehman Goodhart"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7356
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-T.p., leaf of verses and last 5 leaves are wanting and supplied in facsimile. Several leaves restored; other minor defects.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-A. Edward Newton; Howard Lehman Goodhart
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22303 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163931-157524"]
-notes: ["\N"]
-local_notes: ["cs135. Evidence of a removed bookplate on front paste-down."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Crimson goatskin"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1326
@@ -97,38 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib163931-157524
 
-\N
-
-cs135. Evidence of a removed bookplate on front paste-down.
-
 0
 
 0
-
-\N
-
-Crimson goatskin
-
-Riviere & Son
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of Iowa"]
 shelfmark: ["FOLIO PR2751 .A2 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["The title page may be a facsimile, because neither the title page (leaf [A2]) nor the Effigies leaf ([A5]) bears the required watermark and these two leaves, together with leaf [ddd4], are printed on paper with 27-28mm between chainlines instead of 25mm. In this copy the 8th and 9th preliminary leaves (*2 and [*3]) are bound in reverse order."]
 height: ["33"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in red gilt morocco"]
-binder: ["Rivière"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7269
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-The title page may be a facsimile, because neither the title page (leaf [A2]) nor the Effigies leaf ([A5]) bears the required watermark and these two leaves, together with leaf [ddd4], are printed on paper with 27-28mm between chainlines instead of 25mm. In this copy the 8th and 9th preliminary leaves (*2 and [*3]) are bound in reverse order.
-
 33
 
 0
-
-\N
-
-Bound in red gilt morocco
-
-Rivière
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

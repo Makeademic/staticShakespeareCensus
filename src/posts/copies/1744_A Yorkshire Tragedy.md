@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["From Sotheby's auction catalogue: "lacking blank D3, each leaf inlaid onto early 19th century laid paper, binding rubbed, one endpaper starting"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Sotheby's by order of the Mary Roxburghe Trust, 9-10 July 2018, lot 420,  £18,750, purchaser unknown. From Sotheby's auction catalogue: "George Steevens, 1736-1800 (ownership inscription on title page); ? sale of his library, Mr King's of King Street, London, 13-23 May 1800, lot 1311, 9s; "The gift of Hyades [?], b[ough]t by Him at Mr Nassau's Sale 1824 [presumably the library of George Nassau, Evans, February-March 1824, but not found in the catalogue]; Robert Crewe-Milnes, Marquess of Crewe, 1858-1945 (armorial bookplate)"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1719
@@ -99,38 +76,8 @@ t
 
 \N
 
-From Sotheby's auction catalogue: "lacking blank D3, each leaf inlaid onto early 19th century laid paper, binding rubbed, one endpaper starting"
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Sold at Sotheby's by order of the Mary Roxburghe Trust, 9-10 July 2018, lot 420,  £18,750, purchaser unknown. From Sotheby's auction catalogue: "George Steevens, 1736-1800 (ownership inscription on title page); ? sale of his library, Mr King's of King Street, London, 13-23 May 1800, lot 1311, 9s; "The gift of Hyades [?], b[ough]t by Him at Mr Nassau's Sale 1824 [presumably the library of George Nassau, Evans, February-March 1824, but not found in the catalogue]; Robert Crewe-Milnes, Marquess of Crewe, 1858-1945 (armorial bookplate)"
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

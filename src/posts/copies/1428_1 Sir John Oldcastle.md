@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 18796 Copy 6"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161370-153823"]
-notes: ["\N"]
-local_notes: ["cs455. A1, B1 and K4 from another copy."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Plain dark goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Halliwell-Phillipps copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1416
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161370-153823
 
-\N
-
-cs455. A1, B1 and K4 from another copy.
-
 0
 
 0
-
-\N
-
-Plain dark goatskin
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Halliwell-Phillipps copy.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

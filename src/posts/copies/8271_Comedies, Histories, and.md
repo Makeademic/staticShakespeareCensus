@@ -24,31 +24,8 @@ location_name: ["Niedersachsische Staats- und Universitatsbibliothek Göttingen 
 shelfmark: ["2DGP.dr.IV,4565rara"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: ["Mutilated; affecting titlepage and leaves throughout"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6920
@@ -99,38 +76,8 @@ f
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
-Mutilated; affecting titlepage and leaves throughout
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["F2-18 MR 3232"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["Repairs to several leaves, last leaf remargined, h3 inserted from smaller copy."]
 height: ["34.5"]
 width: ["23.7"]
-marginalia: ["Annotated throughout, many faded and hard to decipher"]
-condition: ["\N"]
-binding: ["Early ninteenth-century russia, rebacked, edges reddened, marbled endpapers"]
-binder: ["\N"]
-bookplate: ["Arthur Wilmer Lissauer"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8085
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-Repairs to several leaves, last leaf remargined, h3 inserted from smaller copy.
-
 34.5
 
 23.7
-
-Annotated throughout, many faded and hard to decipher
-
-\N
-
-Early ninteenth-century russia, rebacked, edges reddened, marbled endpapers
-
-\N
-
-Arthur Wilmer Lissauer
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JA 3730"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["With nineteenth-century manuscript inscription in ink on verso of front fly-leaf."]
-condition: ["\N"]
-binding: ["Nineteenth-century full red morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, intricate gilt decoration and title lettering; gilt tooling to board edges and turn-ins, "Bound by F. Bedford" in gilt to lower front turn-in; gilt edges; marbled endpapers"]
-binder: ["F. Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["545"]
-Bartlett1939_notes: ["EDINBURGH UNIVERSITY. 7 1/8 x 5 3/16 ". Title tender and mended; cropped at\r\ntop, injuring a few head-lines; uncut at foot. The Halliwell (presented, 1872) copy. Bound in light brown levant morocco, by Bedford."]
-Bartlett1916: ["364"]
-Bartlett1916_notes: ["EDINBURGH UNIVERSITY. 7 1/8 x 5 3/16 ". Title tender and mended; cropped at top, injuring a few headlines; uncut at foot. The Halliwell (presented, 1872) copy. Bound in light brown levant morocco, by Bedford."]
-Lee_notes: null
-prov_info: ["Halliwell-Phillipps Collection"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 944
@@ -102,39 +79,5 @@ t
 0
 
 0
-
-With nineteenth-century manuscript inscription in ink on verso of front fly-leaf.
-
-\N
-
-Nineteenth-century full red morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, intricate gilt decoration and title lettering; gilt tooling to board edges and turn-ins, "Bound by F. Bedford" in gilt to lower front turn-in; gilt edges; marbled endpapers
-
-F. Bedford
-
-\N
-
-\N
-
-545
-
-EDINBURGH UNIVERSITY. 7 1/8 x 5 3/16 ". Title tender and mended; cropped at\r\ntop, injuring a few head-lines; uncut at foot. The Halliwell (presented, 1872) copy. Bound in light brown levant morocco, by Bedford.
-
-364
-
-EDINBURGH UNIVERSITY. 7 1/8 x 5 3/16 ". Title tender and mended; cropped at top, injuring a few headlines; uncut at foot. The Halliwell (presented, 1872) copy. Bound in light brown levant morocco, by Bedford.
-
-Halliwell-Phillipps Collection
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

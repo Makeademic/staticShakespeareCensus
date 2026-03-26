@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69346"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Birdsall of Northampton"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Devonshire copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 113
@@ -99,38 +76,8 @@ t
 
 \N
 
-There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]
-
 0
 
 0
-
-\N
-
-\N
-
-Birdsall of Northampton
-
-\N
-
-\N
-
-0
-
-0
-
-Devonshire copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Almost certainly a duplicate ESTC record for the Symon copy now at University of Adelaide. Another such duplicate is listed in ESTC under State Library of South Australia."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Owned by a private collector in South Australia"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6490
@@ -97,38 +74,8 @@ f
 
 \N
 
-Almost certainly a duplicate ESTC record for the Symon copy now at University of Adelaide. Another such duplicate is listed in ESTC under State Library of South Australia.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Owned by a private collector in South Australia
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

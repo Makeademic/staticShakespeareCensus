@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22339 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163949-157574"]
-notes: null
-local_notes: ["cs452."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half calf"]
-binder: ["\N"]
-bookplate: ["Armorial bookplate of Sir Francis Freeling; armorial bookplate of John Kershaw (motto "perseverando")"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["Mr. Perry's copy, which was acquired with the Halliwell[-Phillipps] collection of Shakespearean rarities in 1895, measures 7 1/8 x 5¼". It has the book-plates of Sir Francis Freeling and John Kershaw, and some manuscript notes by Halliwell[-Phillipps]."]
-prov_info: ["MS. bibliographical note by Freeling on front fly-leaf; on back paste-down, MS. note and initials of James Orchard Halliwell-Phillipps"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["64"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1392
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163949-157574
 
-cs452.
-
 0
 
 0
-
-\N
-
-Half calf
-
-\N
-
-Armorial bookplate of Sir Francis Freeling; armorial bookplate of John Kershaw (motto "perseverando")
-
-\N
-
-0
-
-0
-
-Mr. Perry's copy, which was acquired with the Halliwell[-Phillipps] collection of Shakespearean rarities in 1895, measures 7 1/8 x 5¼". It has the book-plates of Sir Francis Freeling and John Kershaw, and some manuscript notes by Halliwell[-Phillipps].
-
-MS. bibliographical note by Freeling on front fly-leaf; on back paste-down, MS. note and initials of James Orchard Halliwell-Phillipps
-
-1
-
-f
-
-f
-
-64
-
-0
-
-f
 
 f

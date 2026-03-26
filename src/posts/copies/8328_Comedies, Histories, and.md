@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.60a.17 no.9"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["The additional plays only, pp. 213-296, but with the first leaf of each play and the last 7 pages of Locrine wanting."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7811
@@ -99,36 +76,8 @@ t
 
 \N
 
-The additional plays only, pp. 213-296, but with the first leaf of each play and the last 7 pages of Locrine wanting.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

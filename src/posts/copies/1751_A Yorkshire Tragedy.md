@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz 207"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Straight-grain green goatskin, gold tooling with acorns on the cover."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["This copy was sold as lot 100 in the Inglis sale by Sotheby's, 12 April 1826. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911."]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 181n32, 188n24."]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 728
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-Straight-grain green goatskin, gold tooling with acorns on the cover.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-This copy was sold as lot 100 in the Inglis sale by Sotheby's, 12 April 1826. The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 181n32, 188n24.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

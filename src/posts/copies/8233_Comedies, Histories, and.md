@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2915 Fo.4 no.08"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, R. Chiswell, and R. Bentley as publishers in the imprint."]
-local_notes: ["In Folger copy 8, the port. is in state 4. Leaf πA4 is misbound immediately following its conjugate, πA1, and before πA2.3. Leaf 2I4, narrow, perhaps is supplied from another copy. Imperfections affect text on I5 and *3C5, slightly on E6, H6, 2L5,6, and 3M1, and very slightly on U3, 2E1, *3E6, and 4A6."]
 height: ["36"]
 width: ["0"]
-marginalia: ["Manuscript addition in the same hand as "Rayner Limehouse" (A1r) on 3E6 recto. With notes on Shakespeare’s tomb in a different 18th-cent. hand, π1 recto (red-ruled)."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Signed "Thomas Rayner, Brewer at Limehouse. St Ann’s Mddx", π2 recto (title page)"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7198
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, R. Chiswell, and R. Bentley as publishers in the imprint.
-
-In Folger copy 8, the port. is in state 4. Leaf πA4 is misbound immediately following its conjugate, πA1, and before πA2.3. Leaf 2I4, narrow, perhaps is supplied from another copy. Imperfections affect text on I5 and *3C5, slightly on E6, H6, 2L5,6, and 3M1, and very slightly on U3, 2E1, *3E6, and 4A6.
-
 36
 
 0
-
-Manuscript addition in the same hand as "Rayner Limehouse" (A1r) on 3E6 recto. With notes on Shakespeare’s tomb in a different 18th-cent. hand, π1 recto (red-ruled).
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Signed "Thomas Rayner, Brewer at Limehouse. St Ann’s Mddx", π2 recto (title page)
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

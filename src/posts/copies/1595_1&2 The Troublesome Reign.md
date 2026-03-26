@@ -24,31 +24,8 @@ location_name: ["Martin Bodmer Foundation, Geneva"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056522?page=013"]
-notes: null
-local_notes: ["Bound in green levant morocco, gilt, gilt edges, by Riviere. Described in Erne & Singh, #85."]
 height: ["17.9"]
 width: ["12.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from A.S.W. Rosenbach in 1951-52."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1514
@@ -97,38 +74,8 @@ t
 
 https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056522?page=013
 
-Bound in green levant morocco, gilt, gilt edges, by Riviere. Described in Erne & Singh, #85.
-
 17.9
 
 12.7
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased from A.S.W. Rosenbach in 1951-52.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

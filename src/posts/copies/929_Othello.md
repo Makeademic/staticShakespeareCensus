@@ -24,31 +24,8 @@ location_name: ["California State Library, Sutro"]
 shelfmark: ["822.33 T3b"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["21.7"]
 width: ["16.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in 3/4 calf over marbled paper boards; title and date stamped in gold on spine."]
-binder: ["\N"]
-bookplate: ["Sutro Library, San Francisco, CA"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["893"]
-Bartlett1939_notes: ["CALIFORNIA STATE LIBRARY, SUTRO BRANCH. Size not given. The Quaritch,\r\nAdolph Sutro (bequeathed, 1913) copy. Bound in half calf."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Quaritch's consignmemt, at auction by Butterfield, June 15 & 16, 1894--from front pastedown."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1014
@@ -102,35 +79,5 @@ t
 21.7
 
 16.5
-
-\N
-
-Bound in 3/4 calf over marbled paper boards; title and date stamped in gold on spine.
-
-\N
-
-Sutro Library, San Francisco, CA
-
-Front pastedown
-
-893
-
-CALIFORNIA STATE LIBRARY, SUTRO BRANCH. Size not given. The Quaritch,\r\nAdolph Sutro (bequeathed, 1913) copy. Bound in half calf.
-
-0
-
-Quaritch's consignmemt, at auction by Butterfield, June 15 & 16, 1894--from front pastedown.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

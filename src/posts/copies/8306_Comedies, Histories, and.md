@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["MR 1444"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1685 folio edition."]
-local_notes: ["Portrait and title leaves in facsimile"]
 height: ["37"]
 width: ["24.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Boxed in full morocco case"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8151
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1685 folio edition.
-
-Portrait and title leaves in facsimile
-
 37
 
 24.5
-
-\N
-
-Boxed in full morocco case
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

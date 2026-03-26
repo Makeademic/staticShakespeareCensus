@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["F2-22 MR 3601"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: null
 height: ["33.4"]
 width: ["22"]
-marginalia: ["John Milton written in pencil next to his commendatory poem"]
-condition: ["\N"]
-binding: ["18th-century red morocco, gilt and patterned edges, marbled endpapers"]
-binder: ["\N"]
-bookplate: ["Anonymous bookplate with "Nec Timere, Nec Timede"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["In ink on verso of endpaper: "Collated perfect. PL[?]"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8089
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
 33.4
 
 22
-
-John Milton written in pencil next to his commendatory poem
-
-\N
-
-18th-century red morocco, gilt and patterned edges, marbled endpapers
-
-\N
-
-Anonymous bookplate with "Nec Timere, Nec Timede"
-
-\N
-
-0
-
-0
-
-In ink on verso of endpaper: "Collated perfect. PL[?]"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

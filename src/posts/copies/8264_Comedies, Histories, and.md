@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["MR 0789"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: null
 height: ["37.3"]
 width: ["23.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Boxed in a pull-off case"]
-binder: ["\N"]
-bookplate: ["Abel Berland"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["From the Library of York Minster, with library stamp on the backstrip."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8156
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
 37.3
 
 23.5
-
-\N
-
-Boxed in a pull-off case
-
-\N
-
-Abel Berland
-
-\N
-
-0
-
-0
-
-From the Library of York Minster, with library stamp on the backstrip.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

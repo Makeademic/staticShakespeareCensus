@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.532"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/91527905"]
-notes: ["Many bibliographies and library catalogues consider this edition to include Pericles as well, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions."]
-local_notes: ["Whole Contention only. Inscriptions on t.p.: "501 [struck-through]", "15300", "Second Edition Perfect [partially trimmed]"  [ZL]"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["The number "15300" is from Thomas and John Egerton's Catalogue of Books (1792); the previous number "501" is from their Catalogue of Old Quarto Plays (1790). [ZL]"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 300
@@ -97,40 +74,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/91527905
 
-Many bibliographies and library catalogues consider this edition to include Pericles as well, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions.
-
-Whole Contention only. Inscriptions on t.p.: "501 [struck-through]", "15300", "Second Edition Perfect [partially trimmed]"  [ZL]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The number "15300" is from Thomas and John Egerton's Catalogue of Books (1792); the previous number "501" is from their Catalogue of Old Quarto Plays (1790). [ZL]
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

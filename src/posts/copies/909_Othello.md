@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["13408.124.15*"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["White copy."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["883"]
-Bartlett1939_notes: ["HARVARD. 8 5/8 x 6½". The White (purchased, March, 1892, presented, June, 1928)\r\ncopy. Bound in half red levant morocco."]
-Bartlett1916: ["638"]
-Bartlett1916_notes: ["WHITE. 8 5/8 x 6½". Purchased, March, 1892. Bound in half red levant\r\nmorocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1024
@@ -99,40 +76,8 @@ t
 
 \N
 
-White copy.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-883
-
-HARVARD. 8 5/8 x 6½". The White (purchased, March, 1892, presented, June, 1928)\r\ncopy. Bound in half red levant morocco.
-
-638
-
-WHITE. 8 5/8 x 6½". Purchased, March, 1892. Bound in half red levant\r\nmorocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

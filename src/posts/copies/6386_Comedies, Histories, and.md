@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2/fragment 04"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Sigs D2-E6 (Merry Wives), i3-l4 (Hen. V and the first page of 1 Hen. VI), and 2n4-2r5 (Macb. and Ham.) only.  Each segment of leaves in this vol. is probably supplied from a different original copy of the 2nd Folio. Leaf 2n4 is probably supplied from a copy different from the one in which the rest of Macb. originated.  Leaf 2p6 is supplied from a copy different from the one in which the rest of Ham. originated."]
 height: ["33"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscribed "Ex lib: W. A. Smith ... Nov. 19 1802"."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7282
@@ -99,38 +76,8 @@ t
 
 \N
 
-Sigs D2-E6 (Merry Wives), i3-l4 (Hen. V and the first page of 1 Hen. VI), and 2n4-2r5 (Macb. and Ham.) only.  Each segment of leaves in this vol. is probably supplied from a different original copy of the 2nd Folio. Leaf 2n4 is probably supplied from a copy different from the one in which the rest of Macb. originated.  Leaf 2p6 is supplied from a copy different from the one in which the rest of Ham. originated.
-
 33
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Inscribed "Ex lib: W. A. Smith ... Nov. 19 1802".
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

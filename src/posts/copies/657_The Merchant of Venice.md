@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1619 (Shakespeare, W.) (Merchant of Venice)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["643"]
-Bartlett1939_notes: ["NEW YORK PUBLIC. 7 1/8 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin purple morocco, by Clarke."]
-Bartlett1916: ["443"]
-Bartlett1916_notes: ["NEW YORK PUBLIC. 7 1/8 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin purple morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 122
@@ -97,40 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-643
-
-NEW YORK PUBLIC. 7 1/8 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin purple morocco, by Clarke.
-
-443
-
-NEW YORK PUBLIC. 7 1/8 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin purple morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

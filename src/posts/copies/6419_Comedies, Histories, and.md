@@ -24,31 +24,8 @@ location_name: ["Southern Utah University"]
 shelfmark: ["PR2751.A3 T74 1632"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: p. 399-419 (Cymbeline)"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Donated by Mr Bryan Watabe, July 2018."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7321
@@ -99,38 +76,8 @@ f
 
 \N
 
-Fragment: p. 399-419 (Cymbeline)
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Donated by Mr Bryan Watabe, July 2018.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

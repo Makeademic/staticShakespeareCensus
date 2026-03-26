@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2951 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Most bibliographies date this edition to 1676 and list it as a variant issue of Wing S2950 but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in five lines." [ESTC]"]
-local_notes: ["Wormed. T.p. stained, affecting imprint."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["103"]
-Bartlett1939_notes: ["FOLGER. 8 7/16 x 6¼". The Warwick (sold, 1897) copy. Bound in half green morocco."]
-Bartlett1916: ["78"]
-Bartlett1916_notes: ["FOLGER. The Warwick copy."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1132
@@ -97,42 +74,8 @@ t
 
 \N
 
-Most bibliographies date this edition to 1676 and list it as a variant issue of Wing S2950 but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in five lines." [ESTC]
-
-Wormed. T.p. stained, affecting imprint.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Warwick Castle
-
-\N
-
-103
-
-FOLGER. 8 7/16 x 6¼". The Warwick (sold, 1897) copy. Bound in half green morocco.
-
-78
-
-FOLGER. The Warwick copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

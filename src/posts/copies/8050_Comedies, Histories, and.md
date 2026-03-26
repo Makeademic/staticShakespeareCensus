@@ -24,31 +24,8 @@ location_name: ["Free Library of Philadelphia"]
 shelfmark: ["RBD EL Sh15w 1685"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["37"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Contemporary calf, splitting at shoulders, repairs to corners/spine, small loss of leather at tooling stamp."]
-binder: ["\N"]
-bookplate: ["Philip Sidney, Earl of Leicester"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["MS inscription on tp: “Ann Leicester her Book 1710”."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7425
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 37
 
 0
-
-\N
-
-Contemporary calf, splitting at shoulders, repairs to corners/spine, small loss of leather at tooling stamp.
-
-\N
-
-Philip Sidney, Earl of Leicester
-
-\N
-
-0
-
-0
-
-MS inscription on tp: “Ann Leicester her Book 1710”.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

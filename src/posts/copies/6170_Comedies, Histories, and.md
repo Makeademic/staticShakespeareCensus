@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC+ 1632 (Copy 7)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists William Aspley as the publisher."]
-local_notes: ["Prelims out of order/missing as follows: A2, A5, A2 (A3), A4, A6. "To the Reader" laid down; title page possibly partly in pen facsimile at top"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in red morocco with gilt tooling"]
-binder: ["\N"]
-bookplate: ["Lenox Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7233
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists William Aspley as the publisher.
-
-Prelims out of order/missing as follows: A2, A5, A2 (A3), A4, A6. "To the Reader" laid down; title page possibly partly in pen facsimile at top
-
 0
 
 0
-
-\N
-
-Bound in red morocco with gilt tooling
-
-\N
-
-Lenox Library
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

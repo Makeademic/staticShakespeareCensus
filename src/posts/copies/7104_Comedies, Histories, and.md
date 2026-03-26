@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["F3-20 MR 3605"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: 1664 "verses" leaf (possibly in facsimile), 1664 title leaf, all additional plays."]
 height: ["32.7"]
 width: ["22"]
-marginalia: ["Occasional MS corrections and commonplacing marks; on 2Q4r: "my dear fearwell"]
-condition: ["\N"]
-binding: ["Late seventeenth-century brown calf, boxed in solander case"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8099
@@ -99,40 +76,8 @@ t
 
 \N
 
-In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here.
-
-Includes: 1664 "verses" leaf (possibly in facsimile), 1664 title leaf, all additional plays.
-
 32.7
 
 22
-
-Occasional MS corrections and commonplacing marks; on 2Q4r: "my dear fearwell"
-
-\N
-
-Late seventeenth-century brown calf, boxed in solander case
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

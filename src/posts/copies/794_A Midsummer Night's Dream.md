@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G d.42 (1)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["trimmed and inlaid."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["750"]
-Bartlett1939_notes: ["BODLEIAN. 7½ x 5½". The Malone (presented, 1821) copy. Inlaid and bound\r\nwith other plays in Vol. IV."]
-Bartlett1916: ["533"]
-Bartlett1916_notes: ["BODLEIAN. 7½ x 5½". The Malone (presented, 1821) copy. Inlaid and\r\nbound with other plays in Vol. IV. Pressmark, Malone, 35."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 277
@@ -97,42 +74,8 @@ t
 
 \N
 
-\N
-
-trimmed and inlaid.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-750
-
-BODLEIAN. 7½ x 5½". The Malone (presented, 1821) copy. Inlaid and bound\r\nwith other plays in Vol. IV.
-
-533
-
-BODLEIAN. 7½ x 5½". The Malone (presented, 1821) copy. Inlaid and\r\nbound with other plays in Vol. IV. Pressmark, Malone, 35.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S163.2F Case"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["N1 mutilated and repaired, affecting small portion of text; t.p. repaired, not affecting text; very small holes on C6, S4, b4, c3-5, g6 and 2b4, slightly affecting text; small stains on c3v, i1, n4-5, o2v, p5-6, q1, 2k1-3, 2m2v, 2t4r, 2y3, 2z6r, 3c3-6 and 3d1, slightly affecting text; occasional minor light stains; x5 slashed, not affecting text;"]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. ink note on 2C3r, and MS. ink marks on g6r and 2i6v;"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6852
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-N1 mutilated and repaired, affecting small portion of text; t.p. repaired, not affecting text; very small holes on C6, S4, b4, c3-5, g6 and 2b4, slightly affecting text; small stains on c3v, i1, n4-5, o2v, p5-6, q1, 2k1-3, 2m2v, 2t4r, 2y3, 2z6r, 3c3-6 and 3d1, slightly affecting text; occasional minor light stains; x5 slashed, not affecting text;
-
 0
 
 0
-
-MS. ink note on 2C3r, and MS. ink marks on g6r and 2i6v;
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

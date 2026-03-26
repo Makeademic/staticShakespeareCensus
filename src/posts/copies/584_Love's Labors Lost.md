@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell S.31[5]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["594"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7 1/8 x 5¼". The Capell (presented, June,\r\n1779) copy. Bound in brown calf, with other plays."]
-Bartlett1916: ["401"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7 1/8 x 5¼". The Capell (presented,\r\nJune, 1779) copy. Bound in brown calf, with other plays. Pressmark, S. 31. 5."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1262
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-594
-
-TRINITY COLLEGE, CAMBRIDGE. 7 1/8 x 5¼". The Capell (presented, June,\r\n1779) copy. Bound in brown calf, with other plays.
-
-401
-
-TRINITY COLLEGE, CAMBRIDGE. 7 1/8 x 5¼". The Capell (presented,\r\nJune, 1779) copy. Bound in brown calf, with other plays. Pressmark, S. 31. 5.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

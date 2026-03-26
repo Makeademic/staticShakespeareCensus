@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell R.21[4]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["-T.p."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1100"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title lacking and supplied in\r\nmanuscript; M2 somewhat torn. Note by Capell on manuscript title in red ink: "from a copy in the possession of Messrs Gonsons & Drake. Jan. 1753." The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays."]
-Bartlett1916: ["784"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title lacking and supplied in\r\nmanuscript; M2 somewhat torn. Scribbles on Bi, recto. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays. Pressmark, R. 21. 4."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 409
@@ -99,40 +76,8 @@ t
 
 \N
 
--T.p.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1100
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title lacking and supplied in\r\nmanuscript; M2 somewhat torn. Note by Capell on manuscript title in red ink: "from a copy in the possession of Messrs Gonsons & Drake. Jan. 1753." The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays.
-
-784
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title lacking and supplied in\r\nmanuscript; M2 somewhat torn. Scribbles on Bi, recto. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays. Pressmark, R. 21. 4.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["IUQ00006"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["Lacks first to fifth preliminary leaves (including title page), p. 19-38, 121-184 (first group), p. 107-168, 269-302, 369-419 (last group). The sixth preliminary leaf is bound between the ninth and tenth. Bears extensive marginalia in pencil and ink from various periods; many leaves torn or stained; other evidence of heavy use."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["20th-century library binding"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Zeitlin, 7 September 1920"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7360
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-Lacks first to fifth preliminary leaves (including title page), p. 19-38, 121-184 (first group), p. 107-168, 269-302, 369-419 (last group). The sixth preliminary leaf is bound between the ninth and tenth. Bears extensive marginalia in pencil and ink from various periods; many leaves torn or stained; other evidence of heavy use.
-
 0
 
 0
-
-\N
-
-20th-century library binding
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased from Zeitlin, 7 September 1920
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

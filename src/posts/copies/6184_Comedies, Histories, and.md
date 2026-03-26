@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC+ 1632 (Copy 10)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Richard Hawkins as the publisher."]
-local_notes: ["Newspaper clipping included in volume notes rarity of the Richard Hawkins imprint"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Macbeth (162) marginal note "?adge"[?] cut off from rebinding"]
-condition: ["\N"]
-binding: ["Bound in brown morocco"]
-binder: ["\N"]
-bookplate: ["Lenox Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7235
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Richard Hawkins as the publisher.
-
-Newspaper clipping included in volume notes rarity of the Richard Hawkins imprint
-
 0
 
 0
-
-Macbeth (162) marginal note "?adge"[?] cut off from rebinding
-
-\N
-
-Bound in brown morocco
-
-\N
-
-Lenox Library
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

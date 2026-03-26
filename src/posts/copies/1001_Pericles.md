@@ -24,30 +24,60 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22335 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163946-157568"]
-notes: null
-local_notes: ["cs0361. Wanting the blank leaf. The title leaf is inlaid."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. notes on I3v."]
-condition: ["\N"]
-binding: ["Red goatskin binding"]
-binder: ["French Binders"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The Duke of Devonshire's copy belonged to the actor, John Philip Kemble, who purchased it at Dr. Richard Wright's sale in 1787 for nine shillings. It bears upon its title-page in Kemble's autograph the words, 'Collated and perfect. J. P. K. 1798.' It has been inlaid, and bound up with the 1594 edition of Lucrece, and early editions of the four pseudo-Shakespearean plays — Thomas Lord Cromwell, 1613; The London Prodigal, 1605; Locrine, 1595; and The first part of Sir John Oldcastle, 1600. The volume is lettered outside, 'Plays vol. cxxi."]
-prov_info: ["inscribed on t.p.: "Collated & Perfect. J.P.K. [Jojn Philip Kemble] 1798"; Devonshire library - Huntington Library duplicate copy (Folger file)."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["11"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
+1378
+
+24
+
+Pericles
+
+titleicon/pericles.png
+
+101
+
+1
+
+f
+
+75
+
+65
+
+1609
+
+1609
+
+1609
+
+t
+
+22335
+
+S111194
+
+2
+
+4°
+
+547
+
+1001
+
+7
+
+Folger Shakespeare Library
+
+STC 22335 Copy 2
+
+t
+
+https://digitalcollections.folger.edu/bib163946-157568
+
+0
+
+0
+
+f

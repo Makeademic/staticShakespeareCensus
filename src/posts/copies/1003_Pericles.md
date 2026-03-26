@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["59522"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Binding signed by F. Bedford. -Blank."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The copy formerly in the Rowfant library of Frederick Locker Lampson now belongs to Mr. E. Dwight Church of New York. It measures 6¾ x 5" and is bound in red morocco by Bedford. It formerly belonged to Sir William Tite, at whose sale in 1874 it fetched £53 10s. 0d."]
-prov_info: ["Sotheby sale, 1863; signature of Will. Tite; bookplates of Frederick Locker and E.D. Church"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["9"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 132
@@ -99,40 +76,8 @@ t
 
 \N
 
-Binding signed by F. Bedford. -Blank.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The copy formerly in the Rowfant library of Frederick Locker Lampson now belongs to Mr. E. Dwight Church of New York. It measures 6¾ x 5" and is bound in red morocco by Bedford. It formerly belonged to Sir William Tite, at whose sale in 1874 it fetched £53 10s. 0d.
-
-Sotheby sale, 1863; signature of Will. Tite; bookplates of Frederick Locker and E.D. Church
-
-1
-
-f
-
-f
-
-9
-
-0
-
-f
 
 f

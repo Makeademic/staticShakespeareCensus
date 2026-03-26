@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69313"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["T.p. and last leaf mounted on a stub."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["238"]
-Bartlett1939_notes: ["HUNTINGTON. 7 x 4 15/16 ". A1 and K4 remargined; some leaves soiled. The Devonshire (sold, January, 1914) copy. Bound in half olive morocco."]
-Bartlett1916: ["151"]
-Bartlett1916_notes: ["HUNTINGTON. 7 x 4 15/16 ". Ai and K4 remargined; some leaves soiled. The\r\nDevonshire (sold, January, 1914) copy. Bound in half olive morocco."]
-Lee_notes: null
-prov_info: ["Devonshire copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 470
@@ -99,42 +76,8 @@ t
 
 \N
 
-T.p. and last leaf mounted on a stub.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-238
-
-HUNTINGTON. 7 x 4 15/16 ". A1 and K4 remargined; some leaves soiled. The Devonshire (sold, January, 1914) copy. Bound in half olive morocco.
-
-151
-
-HUNTINGTON. 7 x 4 15/16 ". Ai and K4 remargined; some leaves soiled. The\r\nDevonshire (sold, January, 1914) copy. Bound in half olive morocco.
-
-Devonshire copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

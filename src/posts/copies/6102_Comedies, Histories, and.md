@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC+ 1632 (Copy 6)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["Astor Copy"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Calf with gold embossed Order of the Garter emblem (HONI SOIT QVI MAL E PENSE); SHAKESPEARES PLAYS SECOND EDITION on the spine"]
-binder: ["\N"]
-bookplate: ["John Newham of Chadshunt"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7230
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-Astor Copy
-
 0
 
 0
-
-\N
-
-Calf with gold embossed Order of the Garter emblem (HONI SOIT QVI MAL E PENSE); SHAKESPEARES PLAYS SECOND EDITION on the spine
-
-\N
-
-John Newham of Chadshunt
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

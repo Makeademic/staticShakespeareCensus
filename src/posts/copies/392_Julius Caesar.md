@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR2808.A1 1684 *"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["In blue wrappers, in brown cloth folding case, in half brown morocco slip case."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["398"]
-Bartlett1939_notes: ["University of CALIFORNIA. 8¼ x 6 1/16". Book-plate of Sir William Horton,\r\nChaderton. The Perry (sold, July, 1919 to), Rosenbach (sold, September 16, 1921 to), W. A. Clark (bequeathed June 14, 1934) copy. Bound in old half calf, with other plays."]
-Bartlett1916: ["271"]
-Bartlett1916_notes: ["PERRY. 8¼ x 6 1/16". Book-plate of Sir William Horton, Chaderton.\r\nin old half calf, with other plays."]
-Lee_notes: null
-prov_info: ["Book-plate of Marsden J. Perry."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 941
@@ -97,42 +74,8 @@ t
 
 \N
 
-In blue wrappers, in brown cloth folding case, in half brown morocco slip case.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-398
-
-University of CALIFORNIA. 8¼ x 6 1/16". Book-plate of Sir William Horton,\r\nChaderton. The Perry (sold, July, 1919 to), Rosenbach (sold, September 16, 1921 to), W. A. Clark (bequeathed June 14, 1934) copy. Bound in old half calf, with other plays.
-
-271
-
-PERRY. 8¼ x 6 1/16". Book-plate of Sir William Horton, Chaderton.\r\nin old half calf, with other plays.
-
-Book-plate of Marsden J. Perry.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

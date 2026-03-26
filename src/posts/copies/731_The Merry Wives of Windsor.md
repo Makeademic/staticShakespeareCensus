@@ -24,31 +24,8 @@ location_name: ["Martin Bodmer Foundation, Geneva"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056515?page=002"]
-notes: null
-local_notes: ["Described in Erne & Singh, #144."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco, gilt edges"]
-binder: ["Lewis"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["723"]
-Bartlett1939_notes: ["ROSENBACH. 6 7/8 x 5¼". The Vernon (sold, c. 1840 to), Holford (sold, 1925)\r\ncopy. Bound in red morocco, by Lewis."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["George Vernon (1803-1892), sold c. 1840 to Robert Stayne Holford (1808-1892) and son. Holford sold to A.S.W. Rosenbach in 1925. Purchased from Rosenbach in 1951-52."]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 46-47, 188n24."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1479
@@ -99,42 +76,8 @@ t
 
 https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056515?page=002
 
-Described in Erne & Singh, #144.
-
 0
 
 0
-
-\N
-
-Red morocco, gilt edges
-
-Lewis
-
-\N
-
-\N
-
-723
-
-ROSENBACH. 6 7/8 x 5¼". The Vernon (sold, c. 1840 to), Holford (sold, 1925)\r\ncopy. Bound in red morocco, by Lewis.
-
-0
-
-George Vernon (1803-1892), sold c. 1840 to Robert Stayne Holford (1808-1892) and son. Holford sold to A.S.W. Rosenbach in 1925. Purchased from Rosenbach in 1951-52.
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 46-47, 188n24.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: ["Dyce 26 Box 43/2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Page numbers added. Occasional corrections and added SDs. Note on F4v: "for ye Continuation, turn two leaves fu[rther]"; note on G2v: "Turn four Leaves back"; note on G4v: "Turn two Leaves further"  [ZL]"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscription on H3v: "Thomas Richardson scriptum [...]"  [ZL]"]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 46."]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1484
@@ -99,42 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-Page numbers added. Occasional corrections and added SDs. Note on F4v: "for ye Continuation, turn two leaves fu[rther]"; note on G2v: "Turn four Leaves back"; note on G4v: "Turn two Leaves further"  [ZL]
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Inscription on H3v: "Thomas Richardson scriptum [...]"  [ZL]
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 46.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

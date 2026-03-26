@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["841.c.22.(1.)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["892"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 8¾ x 6¼". Title backed and mended; F3 torn; L1 and L2\r\nmended; some leaves uncut at foot. Bound with other plays in half calf."]
-Bartlett1916: ["641"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 8¾ x 6¼". Title backed and mended; F3 torn; Li and\r\nL2 mended; some leaves uncut at foot. Probably the Marsh (May, 1882, No. 2421) copy. Bound with other plays in half calf. Pressmark, 841. c. 22."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1009
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-892
-
-BRITISH MUSEUM. 8¾ x 6¼". Title backed and mended; F3 torn; L1 and L2\r\nmended; some leaves uncut at foot. Bound with other plays in half calf.
-
-641
-
-BRITISH MUSEUM. 8¾ x 6¼". Title backed and mended; F3 torn; Li and\r\nL2 mended; some leaves uncut at foot. Probably the Marsh (May, 1882, No. 2421) copy. Bound with other plays in half calf. Pressmark, 841. c. 22.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

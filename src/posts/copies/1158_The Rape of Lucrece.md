@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell *.9"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Closely cropped at the bottom, affecting legibility of some catchwords and lines of text"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The Capell copy in Trinity College, Cambridge, measures 5 x 3¼"."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["14"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 674
@@ -99,38 +76,8 @@ t
 
 \N
 
-Closely cropped at the bottom, affecting legibility of some catchwords and lines of text
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The Capell copy in Trinity College, Cambridge, measures 5 x 3¼".
-
-1
-
-f
-
-f
-
-14
-
-0
-
-f
 
 f

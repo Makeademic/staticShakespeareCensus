@@ -24,31 +24,8 @@ location_name: ["Newberry Library"]
 shelfmark: ["VAULT Case 3A 894"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["755"]
-Bartlett1939_notes: ["CLARK, C. W. 7 1/16 x 5¼". Holgate, Ives and Church book-plates. The Holgate\r\n(June 8, 1846, n. 821), Windus (March 23, 1868, n. 905), Ives (March 5, 1891,\r\nn. 887, $725), Church (sold, April, 1911 to), Huntington (April 26, 1918, n. 430,\r\n$2350 to), G. D. Smith copy. Bound in red morocco, by Hayday."]
-Bartlett1916: ["548"]
-Bartlett1916_notes: ["HUNTINGTON. 7 1/16 x 5¼". Holgate, Ives and Church book-plates. The\r\nHolgate (June, 1846, No. 821), Windus (March, 1868, No. 905), Ives (March,\r\n1891, No. 887), Church (sold, April, 1911) copy. Bound in red morocco, by\r\nHayday."]
-Lee_notes: null
-prov_info: ["Bookplates: B I [i.e. Brayton Ives]; William Holgate (armorial); E.D. Church; Louis H. Silver."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1660
@@ -97,42 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-755
-
-CLARK, C. W. 7 1/16 x 5¼". Holgate, Ives and Church book-plates. The Holgate\r\n(June 8, 1846, n. 821), Windus (March 23, 1868, n. 905), Ives (March 5, 1891,\r\nn. 887, $725), Church (sold, April, 1911 to), Huntington (April 26, 1918, n. 430,\r\n$2350 to), G. D. Smith copy. Bound in red morocco, by Hayday.
-
-548
-
-HUNTINGTON. 7 1/16 x 5¼". Holgate, Ives and Church book-plates. The\r\nHolgate (June, 1846, No. 821), Windus (March, 1868, No. 905), Ives (March,\r\n1891, No. 887), Church (sold, April, 1911) copy. Bound in red morocco, by\r\nHayday.
-
-Bookplates: B I [i.e. Brayton Ives]; William Holgate (armorial); E.D. Church; Louis H. Silver.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

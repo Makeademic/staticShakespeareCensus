@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR 35.18"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Closely trimmed at lower edge, affecting date of publication and some lines of text; MS. ink marks on K1v and K2v; 83026495"]
 height: ["0"]
 width: ["0"]
-marginalia: ["\N"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: ["Ernest E. Baker's copy, with bookplate; donated by Mrs SB Davies, Hewish, near Bristol, 28th November 1945; Binding: bound in black morocco"]
-bibliography: ["\N"]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 197
@@ -97,48 +74,8 @@ t
 
 \N
 
-Closely trimmed at lower edge, affecting date of publication and some lines of text; MS. ink marks on K1v and K2v; 83026495
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-Ernest E. Baker's copy, with bookplate; donated by Mrs SB Davies, Hewish, near Bristol, 28th November 1945; Binding: bound in black morocco
-
-\N
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Private collection (Florida)"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: 1664 title leaf, additional plays. From auction catalogue: "lacking [PI]A1 (portrait with verses 'To the Reader'), some of the preliminary leaves (?A2--b2) possibly from another copy or copies, [PI]A2 and b1 restored at inner and outer margin (affecting a few letters), repairs to lower margins of C1, L1, L2, R6, 2Y2, 3F1 (affecting a few letters), neat repair to upper margin of 3O5, repair to small holes on S3 (affecting a few words), minor repairs to Z3-4, repairs to outer margin of leaves in final gathering (¶G6), a few other minor repairs or tears and some occasional very slight staining or spotting."]
 height: ["32.9"]
 width: ["21.3"]
-marginalia: ["Small commonplace mark in outer margin of JC p. 699 and 701; several pencil (mis)corrections on JC p. 700, including "death" for "Lethe" and "exempt" for "in strength", suggesting an 18th-century reader."]
-condition: ["\N"]
-binding: ["Later crushed red morocco, gilt, upper and lower covers with fillet panels with fleurons in the corners and ornaments in the centre, spine in seven compartments richly gilt, gilt edges"]
-binder: ["Rivière & Son"]
-bookplate: ["William O'Brien, bequest booklabel dated 1899"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Sotheby's, 2017, £68,750, buyer unknown. With previous shelf mark from Milltown Park on front pastedown."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7988
@@ -99,42 +76,8 @@ t
 
 \N
 
-In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here.
-
-Includes: 1664 title leaf, additional plays. From auction catalogue: "lacking [PI]A1 (portrait with verses 'To the Reader'), some of the preliminary leaves (?A2--b2) possibly from another copy or copies, [PI]A2 and b1 restored at inner and outer margin (affecting a few letters), repairs to lower margins of C1, L1, L2, R6, 2Y2, 3F1 (affecting a few letters), neat repair to upper margin of 3O5, repair to small holes on S3 (affecting a few words), minor repairs to Z3-4, repairs to outer margin of leaves in final gathering (¶G6), a few other minor repairs or tears and some occasional very slight staining or spotting."
-
 32.9
 
 21.3
-
-Small commonplace mark in outer margin of JC p. 699 and 701; several pencil (mis)corrections on JC p. 700, including "death" for "Lethe" and "exempt" for "in strength", suggesting an 18th-century reader.
-
-\N
-
-Later crushed red morocco, gilt, upper and lower covers with fillet panels with fleurons in the corners and ornaments in the centre, spine in seven compartments richly gilt, gilt edges
-
-Rivière & Son
-
-William O'Brien, bequest booklabel dated 1899
-
-\N
-
-0
-
-0
-
-Sold at Sotheby's, 2017, £68,750, buyer unknown. With previous shelf mark from Milltown Park on front pastedown.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: ["Dyce 26 Box 42/4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Title-page, "The Stationer to the Reader" and the two last leaves in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["802"]
-Bartlett1939_notes: ["DYCE COLLECTION. 7 7/16 x 5 3/8". Title, A2, N1, N2 in facsimile; M4 mended;\r\nmost leaves tender and stained. The Dyce (bequeathed, 1869) copy. Bound in green\r\nmorocco."]
-Bartlett1916: ["577"]
-Bartlett1916_notes: ["DYCE COLLECTION. 7 7/16 x 5 3/8". Title, A2, Ni, N2 in facsimile; M4 mended;\r\nmost leaves tender and stained. The Dyce (bequeathed, 1869) copy. Bound in green\r\nmorocco."]
-Lee_notes: null
-prov_info: ["Donated by Rev. Alexander Dyce."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 186
@@ -99,42 +76,8 @@ t
 
 \N
 
-Title-page, "The Stationer to the Reader" and the two last leaves in facsimile.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-802
-
-DYCE COLLECTION. 7 7/16 x 5 3/8". Title, A2, N1, N2 in facsimile; M4 mended;\r\nmost leaves tender and stained. The Dyce (bequeathed, 1869) copy. Bound in green\r\nmorocco.
-
-577
-
-DYCE COLLECTION. 7 7/16 x 5 3/8". Title, A2, Ni, N2 in facsimile; M4 mended;\r\nmost leaves tender and stained. The Dyce (bequeathed, 1869) copy. Bound in green\r\nmorocco.
-
-Donated by Rev. Alexander Dyce.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

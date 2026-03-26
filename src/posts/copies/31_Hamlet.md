@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69305"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://hdl.huntington.org/digital/collection/p15150coll3/id/1561"]
-notes: ["There are two issues of this edition: this issue is dated 1604. [DEEP]"]
-local_notes: ["Inlaid; trimmed at head."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Macdonald"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["5"]
-Bartlett1939_notes: ["HUNTINGTON. 6 3/4 x 4 3/16". Cropped at foot, injuring some catchwords and signatures. Note by Kemble: "Collated & Perfect. J. P. K. 1798." The Reed (March 1, 1790, n. 376, to), Kemble (sold, 1821), Devonshire (sold, January, 1914) copy. Bound separately in blue morocco, by Macdonald, April, 1920, for Mr. Hunting-\r\nton."]
-Bartlett1916: ["5"]
-Bartlett1916_notes: ["HUNTINGTON. 6 3/4 x 4 3/16". Cropped at foot, injuring some catchwords and signatures. Note by Kemble: "Collated & Perfect. J. P. K. 1798." The Kemble (sold, 1821), Devonshire (sold, January, 1914) copy. Inlaid and bound with Merry Wives, 1619, and other plays in Vol. 119."]
-Lee_notes: null
-prov_info: ["collated by John P. Kemble, 1798"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 541
@@ -97,44 +74,8 @@ t
 
 https://hdl.huntington.org/digital/collection/p15150coll3/id/1561
 
-There are two issues of this edition: this issue is dated 1604. [DEEP]
-
-Inlaid; trimmed at head.
-
 0
 
 0
-
-\N
-
-\N
-
-Macdonald
-
-\N
-
-\N
-
-5
-
-HUNTINGTON. 6 3/4 x 4 3/16". Cropped at foot, injuring some catchwords and signatures. Note by Kemble: "Collated & Perfect. J. P. K. 1798." The Reed (March 1, 1790, n. 376, to), Kemble (sold, 1821), Devonshire (sold, January, 1914) copy. Bound separately in blue morocco, by Macdonald, April, 1920, for Mr. Hunting-\r\nton.
-
-5
-
-HUNTINGTON. 6 3/4 x 4 3/16". Cropped at foot, injuring some catchwords and signatures. Note by Kemble: "Collated & Perfect. J. P. K. 1798." The Kemble (sold, 1821), Devonshire (sold, January, 1914) copy. Inlaid and bound with Merry Wives, 1619, and other plays in Vol. 119.
-
-collated by John P. Kemble, 1798
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

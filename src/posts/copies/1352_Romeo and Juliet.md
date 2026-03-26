@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22323 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163935-157535"]
-notes: null
-local_notes: ["Leaf E1 damaged and repaired, with some words supplied in facsimile; lower margin of M2, blank except for ornament, torn away and repaired. Trimmed, affecting some headlines. Stained."]
 height: ["0"]
 width: ["0"]
-marginalia: ["A few MS. notes"]
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["Signed by Hayday"]
-bookplate: ["William Gott"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1111"]
-Bartlett1939_notes: ["FOLGER. 6 11/16 x 4½". B2, B3 extended on corner, injuring catchword; E1 extended on lower corner, some words in facsimile; G1 torn; M2 extended on lower blank margin. The Gott (sold through Sotheran, 1907) copy. Bound in red morocco, by Hayday."]
-Bartlett1916: ["796"]
-Bartlett1916_notes: ["FOLGER. The Gott (sold through Sotheran, 1907) copy. Bound in red morocco,\r\nby Lewis."]
-Lee_notes: null
-prov_info: ["inscribed at end: "Willm [William] Penn his booke"; armorial bookplate of William Gott (motto "nec temere nec timide")"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 254
@@ -99,44 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163935-157535
 
-Leaf E1 damaged and repaired, with some words supplied in facsimile; lower margin of M2, blank except for ornament, torn away and repaired. Trimmed, affecting some headlines. Stained.
-
 0
 
 0
-
-A few MS. notes
-
-\N
-
-Red goatskin
-
-Signed by Hayday
-
-William Gott
-
-\N
-
-1111
-
-FOLGER. 6 11/16 x 4½". B2, B3 extended on corner, injuring catchword; E1 extended on lower corner, some words in facsimile; G1 torn; M2 extended on lower blank margin. The Gott (sold through Sotheran, 1907) copy. Bound in red morocco, by Hayday.
-
-796
-
-FOLGER. The Gott (sold through Sotheran, 1907) copy. Bound in red morocco,\r\nby Lewis.
-
-inscribed at end: "Willm [William] Penn his booke"; armorial bookplate of William Gott (motto "nec temere nec timide")
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

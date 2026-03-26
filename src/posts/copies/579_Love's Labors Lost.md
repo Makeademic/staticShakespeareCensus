@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G d.41 (4)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["556"]
-Bartlett1939_notes: ["BODLEIAN. 7 3/16 x 5 1/16". Title mended, small hole in the margin of C1; K1\r\nand K2 stained. The Malone (presented, 1821) copy. Inlaid and bound in tree\r\ncalf, yellow edges, with "E. M." on covers, with other plays in Vol. III of the\r\ncollection."]
-Bartlett1916: ["373"]
-Bartlett1916_notes: ["BODLEIAN. 7 3/16 x 5 1/16". Title mended, small hole in the margin of Ci; Ki\r\nand K2 stained. The Malone (presented, 1821) copy. Inlaid and bound in tree\r\ncalf, yellow edges, with "E. M." on covers, with other plays in Vol. III of the\r\ncollection. Pressmark, Malone, 34."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 217
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-556
-
-BODLEIAN. 7 3/16 x 5 1/16". Title mended, small hole in the margin of C1; K1\r\nand K2 stained. The Malone (presented, 1821) copy. Inlaid and bound in tree\r\ncalf, yellow edges, with "E. M." on covers, with other plays in Vol. III of the\r\ncollection.
-
-373
-
-BODLEIAN. 7 3/16 x 5 1/16". Title mended, small hole in the margin of Ci; Ki\r\nand K2 stained. The Malone (presented, 1821) copy. Inlaid and bound in tree\r\ncalf, yellow edges, with "E. M." on covers, with other plays in Vol. III of the\r\ncollection. Pressmark, Malone, 34.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

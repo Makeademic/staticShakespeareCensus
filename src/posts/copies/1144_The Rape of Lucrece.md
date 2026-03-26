@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["G.11178"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The second copy in the British Museum is in the Grenville Collection (G. 11178). It was purchased by Thomas Grenville, the collector, at the Combe sale in 1837. It is well bound in morocco. Grenville described it in a note in the volume as one of only three known copies. It measures 6 13/16 x 5". The last leaf is missing, and its place is filled by a reprint from Malone's copy in the Bodleian Library."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["4"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1408
@@ -102,33 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The second copy in the British Museum is in the Grenville Collection (G. 11178). It was purchased by Thomas Grenville, the collector, at the Combe sale in 1837. It is well bound in morocco. Grenville described it in a note in the volume as one of only three known copies. It measures 6 13/16 x 5". The last leaf is missing, and its place is filled by a reprint from Malone's copy in the Bodleian Library.
-
-1
-
-f
-
-f
-
-4
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2942 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["K2 cropped at foot, affecting text."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["926"]
-Bartlett1939_notes: ["FOLGER. 8½ x 6 7/16". The Warwick (sold, 1897) copy. Bound in half green leather."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1368
@@ -99,38 +76,8 @@ t
 
 \N
 
-K2 cropped at foot, affecting text.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Warwick Castle
-
-\N
-
-926
-
-FOLGER. 8½ x 6 7/16". The Warwick (sold, 1897) copy. Bound in half green leather.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

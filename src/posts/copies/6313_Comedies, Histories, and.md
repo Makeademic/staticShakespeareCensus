@@ -24,31 +24,8 @@ location_name: ["Oxford University, Somerville College"]
 shelfmark: ["V:A2a:2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["Red staining on inner top corners of many pages"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Manicules in margins on TGV p. 23 ("Why, how know you that I am in love" underlined); MWW p. 59 beside "Fairies, black, gray, greene, and white" and "The Song" ; MM p. 74 (beside "He who the sword of Heaven will beare")"]
-condition: ["\N"]
-binding: ["Marbled endpapers"]
-binder: ["\N"]
-bookplate: ["David Garrick"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Signed "CES Wood / Portland Oregon" on rear flyleaf and "CES Wood 1885" at end of Cymbeline."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7344
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-Red staining on inner top corners of many pages
-
 0
 
 0
-
-Manicules in margins on TGV p. 23 ("Why, how know you that I am in love" underlined); MWW p. 59 beside "Fairies, black, gray, greene, and white" and "The Song" ; MM p. 74 (beside "He who the sword of Heaven will beare")
-
-\N
-
-Marbled endpapers
-
-\N
-
-David Garrick
-
-front pastedown
-
-0
-
-0
-
-Signed "CES Wood / Portland Oregon" on rear flyleaf and "CES Wood 1885" at end of Cymbeline.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

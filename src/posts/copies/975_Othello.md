@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["X 822.33 T7D1695"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Title page backed."]
 height: ["21.8"]
 width: ["16"]
-marginalia: null
-condition: ["\N"]
-binding: ["Unbound"]
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Seven Gables 25 November 1947."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 978
@@ -99,32 +76,8 @@ t
 
 \N
 
-Title page backed.
-
 21.8
 
 16
-
-\N
-
-Unbound
-
-0
-
-0
-
-Purchased from Seven Gables 25 November 1947.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

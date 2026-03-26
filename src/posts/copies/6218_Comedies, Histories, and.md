@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["IUQ00003"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists John Smethwick as the publisher."]
-local_notes: ["First leaf supplied in facsimile"]
 height: ["32"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Modern blind-tooled calf; gilt edges; signed "D. F. Bogardus, Binding" on inside of back cover."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Zeitlin, 7 June 1954; sponsored by Ernest Ingold"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7251
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists John Smethwick as the publisher.
-
-First leaf supplied in facsimile
-
 32
 
 0
-
-\N
-
-Modern blind-tooled calf; gilt edges; signed "D. F. Bogardus, Binding" on inside of back cover.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased from Zeitlin, 7 June 1954; sponsored by Ernest Ingold
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

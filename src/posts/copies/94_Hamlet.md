@@ -24,31 +24,8 @@ location_name: ["Morgan Library & Museum"]
 shelfmark: ["PML 5113"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bound in maroon morocco."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["69"]
-Bartlett1939_notes: ["MORGAN. 7 5/16 x 5 1/8". Title backed and mended; A2, A3, and F1, mended in\r\nmargins. J. P. Morgan book-plate. The Quaritch (sold, May, 1890), Irwin (sold,\r\nMarch, 1900) copy. Bound in maroon levant morocco, by Zaehnsdorf."]
-Bartlett1916: ["56"]
-Bartlett1916_notes: ["MORGAN. 7 5/16 x 5 1/8". Title backed and mended; A2, A3, and Fi, mended in\r\nmargins. J. P. Morgan book-plate. The Quaritch (sold, May, 1890), Irwin\r\n( sold, March, 1900) copy. Bound in maroon levant morocco, by Zaehnsdorf."]
-Lee_notes: null
-prov_info: ["The Asay-Irwin copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1621
@@ -97,42 +74,8 @@ t
 
 \N
 
-Bound in maroon morocco.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-69
-
-MORGAN. 7 5/16 x 5 1/8". Title backed and mended; A2, A3, and F1, mended in\r\nmargins. J. P. Morgan book-plate. The Quaritch (sold, May, 1890), Irwin (sold,\r\nMarch, 1900) copy. Bound in maroon levant morocco, by Zaehnsdorf.
-
-56
-
-MORGAN. 7 5/16 x 5 1/8". Title backed and mended; A2, A3, and Fi, mended in\r\nmargins. J. P. Morgan book-plate. The Quaritch (sold, May, 1890), Irwin\r\n( sold, March, 1900) copy. Bound in maroon levant morocco, by Zaehnsdorf.
-
-The Asay-Irwin copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

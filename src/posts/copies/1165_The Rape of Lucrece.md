@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.39.a.37.(2.)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The second copy now known to be in Great Britain is also in the British Museum press-mark C. 39. a. 37 (2). It measures 5½ x 3½", and is bound with four other poetical tracts of like date."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["21"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 682
@@ -102,33 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The second copy now known to be in Great Britain is also in the British Museum press-mark C. 39. a. 37 (2). It measures 5½ x 3½", and is bound with four other poetical tracts of like date.
-
-1
-
-f
-
-f
-
-21
-
-0
-
-f
 
 f

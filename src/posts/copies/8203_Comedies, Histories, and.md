@@ -24,31 +24,8 @@ location_name: ["University of North Carolina"]
 shelfmark: ["PR2751 .A4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["38"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Marbled endpapers, all edges gilt"]
-binder: ["Rivière & Son"]
-bookplate: ["Barnaby Blackwell; Charles Tyringham Praed, 1846"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["On front free endpaper, "Exlibris William A. Whitaker"; Exlibris of John Gribbel, St. Austell Hall."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7151
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 38
 
 0
-
-\N
-
-Marbled endpapers, all edges gilt
-
-Rivière & Son
-
-Barnaby Blackwell; Charles Tyringham Praed, 1846
-
-\N
-
-0
-
-0
-
-On front free endpaper, "Exlibris William A. Whitaker"; Exlibris of John Gribbel, St. Austell Hall.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

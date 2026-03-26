@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["MINI01250"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Frontispiece and title page in facsimile."]
 height: ["13.1"]
 width: ["8.1"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full brown morocco with title on spine and front cover."]
-binder: ["Riviere & Son"]
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Stonehill on 28 June 1943."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 637
@@ -99,34 +76,8 @@ t
 
 \N
 
-Frontispiece and title page in facsimile.
-
 13.1
 
 8.1
-
-\N
-
-Bound in full brown morocco with title on spine and front cover.
-
-Riviere & Son
-
-0
-
-0
-
-Purchased from Stonehill on 28 June 1943.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

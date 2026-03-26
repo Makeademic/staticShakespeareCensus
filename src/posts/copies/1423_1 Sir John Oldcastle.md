@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 18796 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161370-153818"]
-notes: ["\N"]
-local_notes: ["cs77."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Maroon goatskin"]
-binder: ["Bedford"]
-bookplate: ["Anonymous engraved armorial bookplate of Frederic William Cosens (1819-1889) (motto: "sub robore virtus"); leather booklabel of M.C. Lefferts"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["inscription of J.O. Halliwell-Phillipps."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1421
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161370-153818
 
-\N
-
-cs77.
-
 0
 
 0
-
-\N
-
-Maroon goatskin
-
-Bedford
-
-Anonymous engraved armorial bookplate of Frederic William Cosens (1819-1889) (motto: "sub robore virtus"); leather booklabel of M.C. Lefferts
-
-\N
-
-0
-
-0
-
-inscription of J.O. Halliwell-Phillipps.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

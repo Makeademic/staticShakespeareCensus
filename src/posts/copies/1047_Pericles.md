@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.176.29"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/latemuchadmiredp00shak_2"]
-notes: ["There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]"]
-local_notes: null
 height: ["18"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Green morocco-grained leather double paneled in gilt with floral tools at the corners and center."]
-binder: ["Robert Riviere"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The copy in the Barton collection of the Boston Public Library, acquired from Halliwell[-Phillipps] in May, 1857, for £5, is bound in red morocco by Bedford. The lower edge of the title-page has been clipped."]
-prov_info: ["Armorial bookplate of the Barton Library. Auctioneer's description from the Halliwell sale of May, 1857 laid on to front flyleaf. Cost of binding written in black ink on front flyleaf."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["52"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1383
@@ -99,40 +76,8 @@ t
 
 https://archive.org/details/latemuchadmiredp00shak_2
 
-There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]
-
 18
 
 0
-
-\N
-
-Green morocco-grained leather double paneled in gilt with floral tools at the corners and center.
-
-Robert Riviere
-
-\N
-
-\N
-
-0
-
-0
-
-The copy in the Barton collection of the Boston Public Library, acquired from Halliwell[-Phillipps] in May, 1857, for £5, is bound in red morocco by Bedford. The lower edge of the title-page has been clipped.
-
-Armorial bookplate of the Barton Library. Auctioneer's description from the Halliwell sale of May, 1857 laid on to front flyleaf. Cost of binding written in black ink on front flyleaf.
-
-1
-
-f
-
-f
-
-52
-
-0
-
-f
 
 f

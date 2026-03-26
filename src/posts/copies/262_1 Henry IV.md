@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22287 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163913-157476"]
-notes: null
-local_notes: ["cs1681. Imperfect: the top part of the title leaf and A2 are in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Green goatskin"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["277"]
-Bartlett1939_notes: ["FOLGER. 7¼ x 5 3/16 ". With signature and motto of Walter Hastings, 1661, on H4 verso. The Maggs (Catalogue, May 10, 1927) copy. Bound in green levant morocco by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscribed on H4v: "Walter Hastings 1661" (preceded by another inscription (his motto?): "Si fortuna me tormenta / Esperanta me contenta"); bought from Maggs, 1927."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1179
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163913-157476
 
-cs1681. Imperfect: the top part of the title leaf and A2 are in facsimile.
-
 0
 
 0
-
-\N
-
-Green goatskin
-
-Riviere & Son
-
-\N
-
-\N
-
-277
-
-FOLGER. 7¼ x 5 3/16 ". With signature and motto of Walter Hastings, 1661, on H4 verso. The Maggs (Catalogue, May 10, 1927) copy. Bound in green levant morocco by Riviere.
-
-0
-
-Inscribed on H4v: "Walter Hastings 1661" (preceded by another inscription (his motto?): "Si fortuna me tormenta / Esperanta me contenta"); bought from Maggs, 1927.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

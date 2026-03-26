@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 18796 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161370-153819"]
-notes: ["\N"]
-local_notes: ["cs0063."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Dark brown goatskin binding with gilt decoration"]
-binder: ["David"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1420
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161370-153819
 
-\N
-
-cs0063.
-
 0
 
 0
-
-\N
-
-Dark brown goatskin binding with gilt decoration
-
-David
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

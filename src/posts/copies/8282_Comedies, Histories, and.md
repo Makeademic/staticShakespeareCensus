@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["f PR2751 .A4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Original calf, rebacked with reinforced corners"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7181
@@ -99,36 +76,8 @@ t
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
 0
 
 0
-
-\N
-
-Original calf, rebacked with reinforced corners
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

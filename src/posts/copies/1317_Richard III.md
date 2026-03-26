@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G e.10"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1065"]
-Bartlett1939_notes: ["BODLEIAN. 6 11/16 x 4 11/16". Cropped top and bottom, injuring "THE" on title and some head-lines, signatures and catchwords; stabbed on inner margins. "purchased 1827" on title. Bound in boards, leather back."]
-Bartlett1916: ["756"]
-Bartlett1916_notes: ["BODLEIAN. 6 11/16 x 4 11/16". Cropped top and bottom, injuring "THE" on title and some head-lines, signatures and catchwords; stabbed on inner margins. "purchased 1827" on title. Bound in boards, leather back. Pressmark, Malone, 767."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 426
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1065
-
-BODLEIAN. 6 11/16 x 4 11/16". Cropped top and bottom, injuring "THE" on title and some head-lines, signatures and catchwords; stabbed on inner margins. "purchased 1827" on title. Bound in boards, leather back.
-
-756
-
-BODLEIAN. 6 11/16 x 4 11/16". Cropped top and bottom, injuring "THE" on title and some head-lines, signatures and catchwords; stabbed on inner margins. "purchased 1827" on title. Bound in boards, leather back. Pressmark, Malone, 767.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

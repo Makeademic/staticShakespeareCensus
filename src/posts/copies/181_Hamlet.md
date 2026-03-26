@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2955 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed."]
-local_notes: ["cs822. Untrimmed edges."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin with gilt tooled central lozenge on front and back covers; gilt rolled turn-ins"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["145"]
-Bartlett1939_notes: ["FOLGER. 9 1/16 x 6 7/8". The Pickering (sold to "C. L. Ho .... ens / West Ealing,"\r\nresold) copy. Bound in red levant morocco, uncut, by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscription on title leaf verso: "John F. M. Dovaston / Westfelton Salop"."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1147
@@ -97,42 +74,8 @@ t
 
 \N
 
-In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed.
-
-cs822. Untrimmed edges.
-
 0
 
 0
-
-\N
-
-Red goatskin with gilt tooled central lozenge on front and back covers; gilt rolled turn-ins
-
-Riviere & Son
-
-\N
-
-\N
-
-145
-
-FOLGER. 9 1/16 x 6 7/8". The Pickering (sold to "C. L. Ho .... ens / West Ealing,"\r\nresold) copy. Bound in red levant morocco, uncut, by Riviere.
-
-0
-
-Inscription on title leaf verso: "John F. M. Dovaston / Westfelton Salop".
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

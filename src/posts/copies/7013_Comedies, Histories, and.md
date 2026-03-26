@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["108203"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: 1663 "verses" leaf, 1663 title leaf with the portrait, no additional plays. Title page partly in pen facsimile; portrait from another copy? Leaf 2A1 is from the 1632 edition."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Rivière"]
-bookplate: ["Marsden J. Perry"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookseller's label and stamp of B.M. Pickering"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7041
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here.
-
-Includes: 1663 "verses" leaf, 1663 title leaf with the portrait, no additional plays. Title page partly in pen facsimile; portrait from another copy? Leaf 2A1 is from the 1632 edition.
-
 0
 
 0
-
-\N
-
-\N
-
-Rivière
-
-Marsden J. Perry
-
-\N
-
-0
-
-0
-
-Bookseller's label and stamp of B.M. Pickering
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

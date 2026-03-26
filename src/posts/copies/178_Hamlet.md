@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["644.i.46"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["143"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 8 3/4 x 6 9/16". Title 1/4" short on lower margin. The Garrick (bequeathed January, 1779) copy. Bound in half red morocco, Garrick's arms on back."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 900
@@ -97,38 +74,8 @@ t
 
 \N
 
-In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-143
-
-BRITISH MUSEUM. 8 3/4 x 6 9/16". Title 1/4" short on lower margin. The Garrick (bequeathed January, 1779) copy. Bound in half red morocco, Garrick's arms on back.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

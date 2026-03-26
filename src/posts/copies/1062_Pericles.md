@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JA 3703"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://images.is.ed.ac.uk/luna/servlet/view/search?q=shelfmark=%22JA%203703%22"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Nineteenth-century manuscript inscription in ink on recto of first blank leaf: "Perfect. In another copy the signature mark F2 is wrongly printed 2F."; nineteenth-century manuscript inscription in ink on recto of rear fly-leaf: "C. and P. and peculiarities collated. J.O.H."; G3r, l.3: "Chirurgion"]
-condition: ["\N"]
-binding: ["Nineteenth-century red morocco over boards; gilt tooled borders and corner decoration to front and rear boards; compartmented spine with five raised bands, gilt decoration and title lettering; gilt tooling to board edges and turn-ins, "Bound by W. Pratt" in gilt to lower front turn-in; marbled endpapers. Boxed"]
-binder: ["W. Pratt"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Halliwell-Phillipps Collection"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 102
@@ -102,35 +79,5 @@ https://images.is.ed.ac.uk/luna/servlet/view/search?q=shelfmark=%22JA%203703%22
 0
 
 0
-
-Nineteenth-century manuscript inscription in ink on recto of first blank leaf: "Perfect. In another copy the signature mark F2 is wrongly printed 2F."; nineteenth-century manuscript inscription in ink on recto of rear fly-leaf: "C. and P. and peculiarities collated. J.O.H."; G3r, l.3: "Chirurgion"
-
-\N
-
-Nineteenth-century red morocco over boards; gilt tooled borders and corner decoration to front and rear boards; compartmented spine with five raised bands, gilt decoration and title lettering; gilt tooling to board edges and turn-ins, "Bound by W. Pratt" in gilt to lower front turn-in; marbled endpapers. Boxed
-
-W. Pratt
-
-\N
-
-\N
-
-0
-
-0
-
-Halliwell-Phillipps Collection
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

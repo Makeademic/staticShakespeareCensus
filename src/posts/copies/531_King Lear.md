@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.489"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Title page bottom left in black ink: "Perfekt"; bottom right: "Third edition"]
-condition: ["\N"]
-binding: null
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["544"]
-Bartlett1939_notes: ["CRICHTON STUART. 7¼ x 5¼". A2 has small hole. Note on front fly-leaf "This\r\nis the fourth Edition not the third. J.G.," book-plate of 3rd Marquis Bute. The\r\nForster (November 24, 1806, n. 2145, 8s. 6d. to Stace for), 1st Marquis Bute copy. Bound in half green morocco, some leaves uncut at bottom."]
-Bartlett1916: ["363"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1246
@@ -102,29 +79,5 @@ t
 0
 
 0
-
-Title page bottom left in black ink: "Perfekt"; bottom right: "Third edition"
-
-\N
-
-544
-
-CRICHTON STUART. 7¼ x 5¼". A2 has small hole. Note on front fly-leaf "This\r\nis the fourth Edition not the third. J.G.," book-plate of 3rd Marquis Bute. The\r\nForster (November 24, 1806, n. 2145, 8s. 6d. to Stace for), 1st Marquis Bute copy. Bound in half green morocco, some leaves uncut at bottom.
-
-363
-
-CRICHTON STUART.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

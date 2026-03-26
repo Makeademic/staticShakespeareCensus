@@ -24,31 +24,8 @@ location_name: ["Newberry Library"]
 shelfmark: ["Case YS 887 .6"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["French Binders, Garden City, N.Y."]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1659
@@ -99,36 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-French Binders, Garden City, N.Y.
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

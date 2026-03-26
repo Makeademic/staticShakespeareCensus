@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From dealer catalogue: "Our copy has the following facsimiles: 1. Engraved portrait; 2. A2 (“To the Great Variety of Readers”); 3. A4 (“Names of principal actors”); 4. D2 (pp. 39-40); 5. Z4 (“The names of the Actors....”); and 6. CCCC2 (the final leaf)."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Early nineteenth century full calf, ruled in gilt and blind and cross-hatched, rebacked, spine with gilt decorations; some staining but overall a good copy."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Offered for sale by Rootenberg Rare Books & Manuscripts, $75,000."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8057
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From dealer catalogue: "Our copy has the following facsimiles: 1. Engraved portrait; 2. A2 (“To the Great Variety of Readers”); 3. A4 (“Names of principal actors”); 4. D2 (pp. 39-40); 5. Z4 (“The names of the Actors....”); and 6. CCCC2 (the final leaf)."
-
 0
 
 0
-
-\N
-
-Early nineteenth century full calf, ruled in gilt and blind and cross-hatched, rebacked, spine with gilt decorations; some staining but overall a good copy.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Offered for sale by Rootenberg Rare Books & Manuscripts, $75,000.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

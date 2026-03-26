@@ -24,31 +24,8 @@ location_name: ["National Trust, Petworth"]
 shelfmark: ["PET"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Gilt centrepiece on both covers: crescent moon, surrounded by garter motto with earl's coronet on top. Sprinkled calf, red sprinkled edges, double gilt fillet frame, gilt centrepieces (boxed)."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["554"]
-Bartlett1939_notes: ["PETWORTH. 7 1/8 x 4 7/8". Acquired before 1750. Bound in sprinkled calf, with\r\nNorthumberland arms on sides, with other Shakespeare plays."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Printed slip: Earl of Egremont, Petworth."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6565
@@ -102,35 +79,5 @@ f
 0
 
 0
-
-\N
-
-Gilt centrepiece on both covers: crescent moon, surrounded by garter motto with earl's coronet on top. Sprinkled calf, red sprinkled edges, double gilt fillet frame, gilt centrepieces (boxed).
-
-\N
-
-\N
-
-\N
-
-554
-
-PETWORTH. 7 1/8 x 4 7/8". Acquired before 1750. Bound in sprinkled calf, with\r\nNorthumberland arms on sides, with other Shakespeare plays.
-
-0
-
-Printed slip: Earl of Egremont, Petworth.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Miami University"]
 shelfmark: ["PR2751 .A2 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.lib.miamioh.edu/digital/collection/wshakespeare/id/12576"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["In this copy the crossbar of the "f" in "fold" in the imprint is intact. Leaf bb3 supplied from another copy."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Brown calf over in-board binding, boards stamped in blind, spine stamped in blind and gold"]
-binder: ["\N"]
-bookplate: ["Lord Leigh; Frederick S. Peck"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookseller stamp on front pastedown: "Iohn Merridew Literary Repository Near the courthouse Warwick." Continuous pagination at the header in a seventeenth century hand. Donated to Miami University by Dr. Otto O. Fisher."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6953
@@ -99,40 +76,8 @@ t
 
 https://digital.lib.miamioh.edu/digital/collection/wshakespeare/id/12576
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-In this copy the crossbar of the "f" in "fold" in the imprint is intact. Leaf bb3 supplied from another copy.
-
 0
 
 0
-
-\N
-
-Brown calf over in-board binding, boards stamped in blind, spine stamped in blind and gold
-
-\N
-
-Lord Leigh; Frederick S. Peck
-
-\N
-
-0
-
-0
-
-Bookseller stamp on front pastedown: "Iohn Merridew Literary Repository Near the courthouse Warwick." Continuous pagination at the header in a seventeenth century hand. Donated to Miami University by Dr. Otto O. Fisher.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

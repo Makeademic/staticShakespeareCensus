@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR2832 .A1 1631 *"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1171"]
-Bartlett1939_notes: ["University of CALIFORNIA. 7 1/8 x 5 7/16". Cropped at bottom, injuring imprint and several catchwords; uncut on fore edges. The Tregaskis (sold, May, 1920, to), Rosenbach (sold, September 14, 1921, to), W. A. Clark (bequeathed, June, 1934) copy. Bound in red levant morocco for Tregaskis."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["From the collection of Lord Foley."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1583
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-Red morocco
-
-\N
-
-\N
-
-\N
-
-1171
-
-University of CALIFORNIA. 7 1/8 x 5 7/16". Cropped at bottom, injuring imprint and several catchwords; uncut on fore edges. The Tregaskis (sold, May, 1920, to), Rosenbach (sold, September 14, 1921, to), W. A. Clark (bequeathed, June, 1934) copy. Bound in red levant morocco for Tregaskis.
-
-0
-
-From the collection of Lord Foley.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

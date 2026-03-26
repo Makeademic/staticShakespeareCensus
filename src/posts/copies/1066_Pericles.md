@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22339 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163949-157576"]
-notes: null
-local_notes: ["cs135.  The title leaf and I1.2 are repaired; the running titles in gathering I are facsimiles."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. notes throughout."]
-condition: ["\N"]
-binding: ["Red goatskin, gilt-tooled, with blue moire silk doublures and endleaves"]
-binder: ["Chambolle-Duru"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1391
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163949-157576
 
-cs135.  The title leaf and I1.2 are repaired; the running titles in gathering I are facsimiles.
-
 0
 
 0
-
-MS. notes throughout.
-
-\N
-
-Red goatskin, gilt-tooled, with blue moire silk doublures and endleaves
-
-Chambolle-Duru
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Cambridge University"]
 shelfmark: ["SSS.32.8"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bibliographic notes on rear endpapers referring to the edition."]
 height: ["18"]
 width: ["12"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco with gilt tooling. Spine erroneously gives date 1662."]
-binder: ["F. Bedford"]
-bookplate: ["Bookplate of Samuel Sandars, and University Library bookplate recording his bequest of 1894."]
-bookplate_location: ["Sandars's own plate on front pastedown. UL bookplate tipped to facing free endpaper."]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["MS annotation on verso of front endpaper: Saml Sandars, London 1885. Prices written on recto of second front endpaper: Pickering £6.16.6, and £8.10.0.\r\nMS annotation on rear endpaper: Halliwell thro' Skeffington Augt 1854 coll & perf CBG"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 619
@@ -97,38 +74,8 @@ t
 
 \N
 
-Bibliographic notes on rear endpapers referring to the edition.
-
 18
 
 12
-
-\N
-
-Red morocco with gilt tooling. Spine erroneously gives date 1662.
-
-F. Bedford
-
-Bookplate of Samuel Sandars, and University Library bookplate recording his bequest of 1894.
-
-Sandars's own plate on front pastedown. UL bookplate tipped to facing free endpaper.
-
-0
-
-0
-
-MS annotation on verso of front endpaper: Saml Sandars, London 1885. Prices written on recto of second front endpaper: Pickering £6.16.6, and £8.10.0.\r\nMS annotation on rear endpaper: Halliwell thro' Skeffington Augt 1854 coll & perf CBG
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

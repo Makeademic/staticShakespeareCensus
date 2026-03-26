@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["R2096 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs452. Title leaf and A2 are backed."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. markings and notes."]
-condition: ["\N"]
-binding: ["Half red goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["MS. notes in the hand of and dated ("Jan. 1828") autograph of John Mitford; J. O. Halliwell Phillipps copy (his MS. initials and MS. note on back free endpaper)."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1099
@@ -97,40 +74,8 @@ t
 
 \N
 
-cs452. Title leaf and A2 are backed.
-
 0
 
 0
-
-MS. markings and notes.
-
-\N
-
-Half red goatskin
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-MS. notes in the hand of and dated ("Jan. 1828") autograph of John Mitford; J. O. Halliwell Phillipps copy (his MS. initials and MS. note on back free endpaper).
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

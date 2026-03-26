@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2929"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Untrimmed edges."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Formerly bound with other items; (re-bound)."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["599"]
-Bartlett1939_notes: ["FOLGER. 9 x 7". The Sotheby (July 18, 1900, n. 1071, £113) copy. Bound with other plays in old calf, uncut."]
-Bartlett1916: ["408"]
-Bartlett1916_notes: ["FOLGER. The Sotheby (July 18, 1900, No. 1071) copy. Bound with other plays\r\nin old calf, uncut."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1271
@@ -97,40 +74,8 @@ t
 
 \N
 
-Untrimmed edges.
-
 0
 
 0
-
-\N
-
-Formerly bound with other items; (re-bound).
-
-\N
-
-\N
-
-\N
-
-599
-
-FOLGER. 9 x 7". The Sotheby (July 18, 1900, n. 1071, £113) copy. Bound with other plays in old calf, uncut.
-
-408
-
-FOLGER. The Sotheby (July 18, 1900, No. 1071) copy. Bound with other plays\r\nin old calf, uncut.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

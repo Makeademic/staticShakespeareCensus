@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 28"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Verso of t.p. carries 17th century ms. notes of characters and actors."]
-condition: ["\N"]
-binding: ["Full red levant"]
-binder: ["Riviere"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1099"]
-Bartlett1939_notes: ["QUARITCH. 7 1/8 x 4 7/8". E1 mended, a few letters in facsimile. Purchased, January 13, 1926. Bound in red levant morocco, by Riviere for Quaritch."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1547
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-Verso of t.p. carries 17th century ms. notes of characters and actors.
-
-\N
-
-Full red levant
-
-Riviere
-
-\N
-
-\N
-
-1099
-
-QUARITCH. 7 1/8 x 4 7/8". E1 mended, a few letters in facsimile. Purchased, January 13, 1926. Bound in red levant morocco, by Riviere for Quaritch.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

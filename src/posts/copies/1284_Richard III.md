@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.12.h.10"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=72&LHPage=0&RHCopy=72&RHPage=1"]
-notes: null
-local_notes: ["tp. only, now bound with copy of 1605 edition"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1041"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 6 7/8 x 4 11/16 ". Text of 1605 edition, title-page of 1612 edition. Title covered by inlay so that date is lacking; some catchwords lacking. Indistinct names on title. The King George III (presented, 1823) copy. Inlaid throughout and bound in half morocco."]
-Bartlett1916: ["742"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 6 7/8 x 4 11/16". Title and some catchwords covered by\r\ninlay so that the date is gone from title. Indistinct names on title, some leaves\r\nstained. The King George III (presented, 1823) copy. Inlaid throughout and\r\nbound in half morocco. Pressmark, C. 12. h. 10."]
-Lee_notes: null
-prov_info: ["King George III copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 481
@@ -99,42 +76,8 @@ t
 
 https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=72&LHPage=0&RHCopy=72&RHPage=1
 
-tp. only, now bound with copy of 1605 edition
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1041
-
-BRITISH MUSEUM. 6 7/8 x 4 11/16 ". Text of 1605 edition, title-page of 1612 edition. Title covered by inlay so that date is lacking; some catchwords lacking. Indistinct names on title. The King George III (presented, 1823) copy. Inlaid throughout and bound in half morocco.
-
-742
-
-BRITISH MUSEUM. 6 7/8 x 4 11/16". Title and some catchwords covered by\r\ninlay so that the date is gone from title. Indistinct names on title, some leaves\r\nstained. The King George III (presented, 1823) copy. Inlaid throughout and\r\nbound in half morocco. Pressmark, C. 12. h. 10.
-
-King George III copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

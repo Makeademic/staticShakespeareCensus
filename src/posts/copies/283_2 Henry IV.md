@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22288"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163904-157455"]
-notes: ["Gathering E exists in two states: This issue contains the original E3 and E4."]
-local_notes: ["cs0822."]
 height: ["0"]
 width: ["0"]
-marginalia: ["The words 'Iesu' and 'Iesus' are crossed-out in ink on G4r and F2r."]
-condition: ["\N"]
-binding: ["Red goatskin binding"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["327"]
-Bartlett1939_notes: ["FOLGER. 7 x 5". The Quaritch (purchased from English owner, 1919; exchanged\r\nwith Folger for another copy, February, 1920) copy. Bound in red levant morocco, by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["collated by F.S. Ferguson, Bernard Quaritch."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1182
@@ -97,44 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib163904-157455
 
-Gathering E exists in two states: This issue contains the original E3 and E4.
-
-cs0822.
-
 0
 
 0
-
-The words 'Iesu' and 'Iesus' are crossed-out in ink on G4r and F2r.
-
-\N
-
-Red goatskin binding
-
-Riviere & Son
-
-\N
-
-\N
-
-327
-
-FOLGER. 7 x 5". The Quaritch (purchased from English owner, 1919; exchanged\r\nwith Folger for another copy, February, 1920) copy. Bound in red levant morocco, by Riviere.
-
-0
-
-collated by F.S. Ferguson, Bernard Quaritch.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

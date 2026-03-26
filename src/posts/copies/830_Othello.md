@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["STC 22305"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["White copy. H.C. Bartlett &amp; A.W. Pollard, Census, p. 72 (no. 585.)"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["807"]
-Bartlett1939_notes: ["HARVARD. 7 1/8 x 5¼". Small hole in upper margin of some leaves. The Rhodes\r\n(April 18, 1825, n. 2104, £42 to Hering for), Perkins (July 1O, 1889, n. 1707,\r\n£130 to Quaritch for), White (presented, June, 1928) copy. Bound in red morocco,\r\nPerkins's arms in gilt on covers."]
-Bartlett1916: ["585"]
-Bartlett1916_notes: ["WHITE. 7 1/8 x 5¼". Small hole in upper margin of some leaves. The Perkins\r\n(July, 1889, No. 1707) copy. Bound in red morocco, Perkins's arms in gilt\r\non covers."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 185
@@ -99,40 +76,8 @@ t
 
 \N
 
-White copy. H.C. Bartlett &amp; A.W. Pollard, Census, p. 72 (no. 585.)
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-807
-
-HARVARD. 7 1/8 x 5¼". Small hole in upper margin of some leaves. The Rhodes\r\n(April 18, 1825, n. 2104, £42 to Hering for), Perkins (July 1O, 1889, n. 1707,\r\n£130 to Quaritch for), White (presented, June, 1928) copy. Bound in red morocco,\r\nPerkins's arms in gilt on covers.
-
-585
-
-WHITE. 7 1/8 x 5¼". Small hole in upper margin of some leaves. The Perkins\r\n(July, 1889, No. 1707) copy. Bound in red morocco, Perkins's arms in gilt\r\non covers.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1619 (Shakespeare, W. Whole Contention betweene the two Famous Houses, Lancaster and Yorke) copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Many bibliographies and library catalogues consider this edition to include Pericles as well, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions."]
-local_notes: ["Whole Contention only. "1600" written in imitation of early typeface below the imprint."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["#2724 in the Tite sale (1874 catalogue), where it is said to have been E.V. Utterson's copy; with Utterson's bookplate on front pastedown; lot 1690 in Utterson catalogue (1852).  [ZL]"]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 115-17, 122."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 311
@@ -97,42 +74,8 @@ t
 
 \N
 
-Many bibliographies and library catalogues consider this edition to include Pericles as well, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions.
-
-Whole Contention only. "1600" written in imitation of early typeface below the imprint.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-#2724 in the Tite sale (1874 catalogue), where it is said to have been E.V. Utterson's copy; with Utterson's bookplate on front pastedown; lot 1690 in Utterson catalogue (1852).  [ZL]
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 115-17, 122.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

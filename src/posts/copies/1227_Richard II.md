@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["STC 22312"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Imperfect: lacks K2 and K3, suppd   in MS. a"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["993"]
-Bartlett1939_notes: ["HARVARD. 6 7/8 x 5 3/16 ". K2 and K3 lacking and replaced in manuscript; title torn in margin. The Sotheby (July 13, 1908, n. 89, £106 to Quaritch for), White (presented, June, 1928) copy. Unbound."]
-Bartlett1916: ["704"]
-Bartlett1916_notes: ["WHITE. 6 7/8 x 5 3/16 ". K2 and K3 lacking and replaced in manuscript; title torn\r\nin margin. The Sotheby (July 13, 1908, No. 89) copy. Unbound."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 372
@@ -97,40 +74,8 @@ t
 
 \N
 
-Imperfect: lacks K2 and K3, suppd   in MS. a
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-993
-
-HARVARD. 6 7/8 x 5 3/16 ". K2 and K3 lacking and replaced in manuscript; title torn in margin. The Sotheby (July 13, 1908, n. 89, £106 to Quaritch for), White (presented, June, 1928) copy. Unbound.
-
-704
-
-WHITE. 6 7/8 x 5 3/16 ". K2 and K3 lacking and replaced in manuscript; title torn\r\nin margin. The Sotheby (July 13, 1908, No. 89) copy. Unbound.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

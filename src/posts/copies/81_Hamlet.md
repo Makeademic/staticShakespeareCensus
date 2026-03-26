@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JA 3735"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://images.is.ed.ac.uk/luna/servlet/view/search?search=SUBMIT&q=shelfmark%3D%22JA+3735%22&dateRangeStart=&dateRangeEnd=&QuickSearchA=QuickSearchA"]
-notes: null
-local_notes: ["The title-page is in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Nineteenth-century manuscript inscription in ink on recto of first blank page: "Title-page in FS. - the rest original."]
-condition: ["\N"]
-binding: ["Nineteenth-century full red morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, gilt decoration and title lettering; gilt tooling to board edges and turn-ins; gilt edges; marbled endpapers. Boxed."]
-binder: ["F. Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["58"]
-Bartlett1939_notes: ["EDINBURGH UNIVERSITY. 6 13/16 x 5". Title in facsimile; A2 slightly mended;\r\ncropped at top throughout. The Halliwell (presented, 1872) copy. Bound in red\r\nlevant morocco by Bedford."]
-Bartlett1916: ["46"]
-Bartlett1916_notes: ["EDINBURGH UNIVERSITY. 6 13/16 x 5". Title in facsimile; A2 slightly mended;\r\ncropped at top throughout. The Halliwell (presented, 1872) copy. Bound in red\r\nlevant morocco by Bedford."]
-Lee_notes: null
-prov_info: ["Halliwell-Phillipps Collection"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 570
@@ -97,44 +74,8 @@ t
 
 https://images.is.ed.ac.uk/luna/servlet/view/search?search=SUBMIT&q=shelfmark%3D%22JA+3735%22&dateRangeStart=&dateRangeEnd=&QuickSearchA=QuickSearchA
 
-The title-page is in facsimile.
-
 0
 
 0
-
-Nineteenth-century manuscript inscription in ink on recto of first blank page: "Title-page in FS. - the rest original."
-
-\N
-
-Nineteenth-century full red morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, gilt decoration and title lettering; gilt tooling to board edges and turn-ins; gilt edges; marbled endpapers. Boxed.
-
-F. Bedford
-
-\N
-
-\N
-
-58
-
-EDINBURGH UNIVERSITY. 6 13/16 x 5". Title in facsimile; A2 slightly mended;\r\ncropped at top throughout. The Halliwell (presented, 1872) copy. Bound in red\r\nlevant morocco by Bedford.
-
-46
-
-EDINBURGH UNIVERSITY. 6 13/16 x 5". Title in facsimile; A2 slightly mended;\r\ncropped at top throughout. The Halliwell (presented, 1872) copy. Bound in red\r\nlevant morocco by Bedford.
-
-Halliwell-Phillipps Collection
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

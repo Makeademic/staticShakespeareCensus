@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC+ 1632 (Copy 1)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["Wrongly bound as A1-2, A6, A2"]
 height: ["0"]
 width: ["0"]
-marginalia: ["C. No 3 on front free endpaper"]
-condition: ["\N"]
-binding: ["Purple morocco, gilt, in the style of Mearne"]
-binder: ["Rivière & Son"]
-bookplate: ["Mary Stillman Harkness"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Signature, "Baskerville 1769" on verso of "On Worthy Master Shakespeare and His Poems"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6943
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-Wrongly bound as A1-2, A6, A2
-
 0
 
 0
-
-C. No 3 on front free endpaper
-
-\N
-
-Purple morocco, gilt, in the style of Mearne
-
-Rivière & Son
-
-Mary Stillman Harkness
-
-\N
-
-0
-
-0
-
-Signature, "Baskerville 1769" on verso of "On Worthy Master Shakespeare and His Poems"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

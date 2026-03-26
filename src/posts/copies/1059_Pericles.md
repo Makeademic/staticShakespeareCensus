@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.41"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=59&LHPage=-2&RHCopy=59&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The copy in the British Museum (C. 34. k. 41) measures 6 11/16 x 5 1/16". The binding is in red russia, and some of the leaves are closely shaved."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["56"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 107
@@ -102,33 +79,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=59&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The copy in the British Museum (C. 34. k. 41) measures 6 11/16 x 5 1/16". The binding is in red russia, and some of the leaves are closely shaved.
-
-1
-
-f
-
-f
-
-56
-
-0
-
-f
 
 f

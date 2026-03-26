@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G g.4 (1)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["Only one perfect copy is known. This is in the Malone collection (Malone 327) in the Bodleian Library, Oxford. It is bound up with a copy of Venus and Adonis which has a title-page supplied in manuscript (see Venus and Adonis, Census, No. VIII). The volume was presented to Malone by Dr. Richard Farmer in 1779. The Lucrece is in good condition. The measurements are 4 9/16 x 3"."]
-prov_info: ["Edmond Malone"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["12"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 610
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Only one perfect copy is known. This is in the Malone collection (Malone 327) in the Bodleian Library, Oxford. It is bound up with a copy of Venus and Adonis which has a title-page supplied in manuscript (see Venus and Adonis, Census, No. VIII). The volume was presented to Malone by Dr. Richard Farmer in 1779. The Lucrece is in good condition. The measurements are 4 9/16 x 3".
-
-Edmond Malone
-
-1
-
-f
-
-f
-
-12
-
-0
-
-f
 
 f

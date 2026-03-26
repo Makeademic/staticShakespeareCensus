@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: ["Verses leaf in facsimile. From dealer catalogue: "Old paper repair to verso of title-page, several other very minor paper repairs. Some browning and minimal staining, a very good example, facsimile frontispiece. As in some other copies, as Greg notes, number of errors in signatures have been corrected in manuscript, presumably at the time of publication."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full brown morocco, elaborately gilt-decorated spine"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Offered for sale by Raptis Rare Books, $100,000."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8056
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
-Verses leaf in facsimile. From dealer catalogue: "Old paper repair to verso of title-page, several other very minor paper repairs. Some browning and minimal staining, a very good example, facsimile frontispiece. As in some other copies, as Greg notes, number of errors in signatures have been corrected in manuscript, presumably at the time of publication."
-
 0
 
 0
-
-\N
-
-Full brown morocco, elaborately gilt-decorated spine
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Offered for sale by Raptis Rare Books, $100,000.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

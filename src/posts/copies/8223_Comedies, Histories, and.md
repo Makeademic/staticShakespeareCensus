@@ -24,31 +24,8 @@ location_name: ["West Chester University"]
 shelfmark: ["Chester County Collection 822.33 A5"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Eighteenth century sprinkled calf"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gift of William Pyle Philips, in memory of Francis Harvey Green, 1952; Signature of Frans. Davis, 1780"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7192
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 0
 
 0
-
-\N
-
-Eighteenth century sprinkled calf
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Gift of William Pyle Philips, in memory of Francis Harvey Green, 1952; Signature of Frans. Davis, 1780
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of Leeds, Brotherton Library"]
 shelfmark: ["BC Safe/YOR"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://explore.library.leeds.ac.uk/special-collections-explore/311207"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco, gilt dentelle borders, round sides, tooled spine, gilt edges"]
-binder: ["J. Mackenzie"]
-bookplate: ["William Gott: "Nec temere nec timide"; Louis H. Silver"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Long note on front flyleaf summarizing content of the play, its relationship to actual events, and its setting near Leeds, signed "Wm Gott"; on verso of title page: "Kathrines" [ZL]; deaccessioned from the Newberry Library"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 5050
@@ -102,33 +79,5 @@ https://explore.library.leeds.ac.uk/special-collections-explore/311207
 0
 
 0
-
-\N
-
-Red morocco, gilt dentelle borders, round sides, tooled spine, gilt edges
-
-J. Mackenzie
-
-William Gott: "Nec temere nec timide"; Louis H. Silver
-
-Front pastedown
-
-0
-
-0
-
-Long note on front flyleaf summarizing content of the play, its relationship to actual events, and its setting near Leeds, signed "Wm Gott"; on verso of title page: "Kathrines" [ZL]; deaccessioned from the Newberry Library
-
-\N
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

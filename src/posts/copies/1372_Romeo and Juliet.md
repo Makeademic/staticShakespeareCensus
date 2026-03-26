@@ -24,31 +24,8 @@ location_name: ["Bibliothèque nationale de France (National Library of France)"
 shelfmark: ["RES-YK-60"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The title-page exists in two states: in this issue, it names Shakespeare as author. [DEEP] On the dating, see R. Carter Hailey, "The Dating Game: New Evidence for the Dates of Q4 Romeo and Juliet and Q4 Hamlet," Shakespeare Quarterly 58 (2007): 367-87."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1129"]
-Bartlett1939_notes: ["BIBLIOTHEQUE NATIONALE, PARIS. 7¼ x 5 7/16". The Murr (1811, n. 4036b)\r\ncopy. Bound in boards."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 140
@@ -99,38 +76,8 @@ t
 
 \N
 
-The title-page exists in two states: in this issue, it names Shakespeare as author. [DEEP] On the dating, see R. Carter Hailey, "The Dating Game: New Evidence for the Dates of Q4 Romeo and Juliet and Q4 Hamlet," Shakespeare Quarterly 58 (2007): 367-87.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1129
-
-BIBLIOTHEQUE NATIONALE, PARIS. 7¼ x 5 7/16". The Murr (1811, n. 4036b)\r\ncopy. Bound in boards.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

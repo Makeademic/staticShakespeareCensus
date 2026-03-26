@@ -24,31 +24,8 @@ location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: ["STARK +6438 STK"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: null
 height: ["33"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Modern calf"]
-binder: ["\N"]
-bookplate: ["Edwin B. Holden"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Donated by Miriam L. Stark in 1938."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7272
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
 33
 
 0
-
-\N
-
-Modern calf
-
-\N
-
-Edwin B. Holden
-
-\N
-
-0
-
-0
-
-Donated by Miriam L. Stark in 1938.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

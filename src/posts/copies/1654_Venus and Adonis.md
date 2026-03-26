@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz 199"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://brbl-dl.library.yale.edu/vufind/Record/3446768"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The third copy of the 1594 edition, which is generally regarded as the finest, belonged, until 1864, to George Daniel, of Canonbury, and was purchased at the Daniel sale in 1864 by Mr. Henry Huth for £240. It measures as much as 7¼ x 4 13/16"."]
-prov_info: ["Purchased by Lilly at the Daniel sale, for Huth."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["4"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 663
@@ -102,35 +79,5 @@ https://brbl-dl.library.yale.edu/vufind/Record/3446768
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The third copy of the 1594 edition, which is generally regarded as the finest, belonged, until 1864, to George Daniel, of Canonbury, and was purchased at the Daniel sale in 1864 by Mr. Henry Huth for £240. It measures as much as 7¼ x 4 13/16".
-
-Purchased by Lilly at the Daniel sale, for Huth.
-
-1
-
-f
-
-f
-
-4
-
-0
-
-f
 
 f

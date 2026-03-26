@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 Fo.1 misc. frag. 03"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Twelfth Night (sigs. Y2-Z6) only. Top and bottom fore-edge corners neatly cut on a diagonal. No visible MS markings."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Green cloth, marbled endpapers, with spine label: "Twelfe Night - Shakespeare - 1623"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Includes sales form from Gabriel Wells to HC Folger, "Bound copies of Separate Plays from F1"; pencil note on front flyleaf: "100.00" and dealer's price code."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7776
@@ -99,38 +76,8 @@ t
 
 \N
 
-Twelfth Night (sigs. Y2-Z6) only. Top and bottom fore-edge corners neatly cut on a diagonal. No visible MS markings.
-
 0
 
 0
-
-\N
-
-Green cloth, marbled endpapers, with spine label: "Twelfe Night - Shakespeare - 1623"
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Includes sales form from Gabriel Wells to HC Folger, "Bound copies of Separate Plays from F1"; pencil note on front flyleaf: "100.00" and dealer's price code.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

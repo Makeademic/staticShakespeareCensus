@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 07"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["34"]
 width: ["21.1"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound, in the (?)late eighteenth century, in heavy parallel-grained (boarded), red goatskin. Though 'bound by Roger Payne' is pencilled at the front, this is very unlikely. Gilt edges. Red, pink, green, yellow and dark blue, spot pattern marbled paper binder's leaves (the flyleaf lined to the first of three laid binder’s leaves). The covers have a single, gold line tooled around the outer edges."]
-binder: ["Payne, Roger[?]"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["65"]
-rasmussen_west_notes: ["The first recorded owners of the Folio, Sir John Thorold, ninth baronet, of Syston Park, Grantham and his son Sir John Hayford Thorold, formed a magnificent library including rare incunabula, among them a Gutenberg Bible...Another notable owner was Robert Hoe, Esq., who sold Folger the copy that is now Folger 14...He helped to form and was the first President of the Grolier Club."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6673
@@ -99,38 +76,8 @@ t
 
 \N
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 34
 
 21.1
-
-\N
-
-Bound, in the (?)late eighteenth century, in heavy parallel-grained (boarded), red goatskin. Though 'bound by Roger Payne' is pencilled at the front, this is very unlikely. Gilt edges. Red, pink, green, yellow and dark blue, spot pattern marbled paper binder's leaves (the flyleaf lined to the first of three laid binder’s leaves). The covers have a single, gold line tooled around the outer edges.
-
-Payne, Roger[?]
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-65
-
-The first recorded owners of the Folio, Sir John Thorold, ninth baronet, of Syston Park, Grantham and his son Sir John Hayford Thorold, formed a magnificent library including rare incunabula, among them a Gutenberg Bible...Another notable owner was Robert Hoe, Esq., who sold Folger the copy that is now Folger 14...He helped to form and was the first President of the Grolier Club.
-
-f
 
 f

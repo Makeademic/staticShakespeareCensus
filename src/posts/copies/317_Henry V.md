@@ -24,31 +24,8 @@ location_name: ["John Carter Brown Library"]
 shelfmark: ["D619 .S527c"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["Lacking blank G4."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["M. De Coverly"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["379"]
-Bartlett1939_notes: ["JOHN CARTER BROWN LIBRARY. 7 1/16 x 5". Acquired prior to 1871. Bound in red levant morocco, by De Coverly."]
-Bartlett1916: ["258"]
-Bartlett1916_notes: ["JOHN CARTER BROWN LIBRARY. 7 1/16 x 5". Acquired prior to 1871. Bound in red levant morocco, by De Coverly."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1202
@@ -99,42 +76,8 @@ t
 
 \N
 
-\N
-
-Lacking blank G4.
-
 0
 
 0
-
-\N
-
-\N
-
-M. De Coverly
-
-\N
-
-\N
-
-379
-
-JOHN CARTER BROWN LIBRARY. 7 1/16 x 5". Acquired prior to 1871. Bound in red levant morocco, by De Coverly.
-
-258
-
-JOHN CARTER BROWN LIBRARY. 7 1/16 x 5". Acquired prior to 1871. Bound in red levant morocco, by De Coverly.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

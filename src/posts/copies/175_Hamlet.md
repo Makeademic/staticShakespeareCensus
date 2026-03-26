@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR 50.07"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included."]
-local_notes: ["[A]2 B-L4 M1; several leaves incl. t.p. repaired at edges, not affecting text; 81009437"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["142"]
-Bartlett1939_notes: ["SHAKESPEARE MEMORIAL LIBRARY. 8 3/4 x 6 3/4". One leaf supplied from smaller copy; margins of several leaves mended. With Halliwell's note on fly-leaf, "Two impressions of this date with varied imprints, a fact not hitherto mentioned." The Halliwell copy. Bound in half olive morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookplate with 'sub robore virtus' + rampant lion and medal below; J.O. Halliwell-Phillipps copy, note in his hand-writing on front flyleaf, not signed; note by W. Jaggard on front end page; deposited by the RSC"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 906
@@ -97,42 +74,8 @@ t
 
 \N
 
-In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included.
-
-[A]2 B-L4 M1; several leaves incl. t.p. repaired at edges, not affecting text; 81009437
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-142
-
-SHAKESPEARE MEMORIAL LIBRARY. 8 3/4 x 6 3/4". One leaf supplied from smaller copy; margins of several leaves mended. With Halliwell's note on fly-leaf, "Two impressions of this date with varied imprints, a fact not hitherto mentioned." The Halliwell copy. Bound in half olive morocco.
-
-0
-
-Bookplate with 'sub robore virtus' + rampant lion and medal below; J.O. Halliwell-Phillipps copy, note in his hand-writing on front flyleaf, not signed; note by W. Jaggard on front end page; deposited by the RSC
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

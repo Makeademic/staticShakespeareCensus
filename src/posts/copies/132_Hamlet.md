@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["105472"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Most bibliographies date this edition to 1676 and list it as a variant issue of Wing S2950 but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in five lines." [ESTC]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["George L. Harrison"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["106"]
-Bartlett1939_notes: ["HUNTINGTON. 8 9/16 x 6¼". The Harrison, Rosenbach (exchanged for Perry copy, n. 100) copy. Bound in modern brown morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 892
@@ -97,38 +74,8 @@ t
 
 \N
 
-Most bibliographies date this edition to 1676 and list it as a variant issue of Wing S2950 but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in five lines." [ESTC]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-George L. Harrison
-
-Front pastedown
-
-106
-
-HUNTINGTON. 8 9/16 x 6¼". The Harrison, Rosenbach (exchanged for Perry copy, n. 100) copy. Bound in modern brown morocco.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 52"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["32.9"]
 width: ["21"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in the late nineteenth century by W. Pratt in red goatskin. Sewn on 5 sawn-in bands laced through the boards (six false bands on the spine). Double tiered front bead headband sewn over rolled paper cores with pink, green and white silk. There is gilt on all three edges. Endpapers are marbled paper in French curl pattern in red, blue and yellow colors."]
-binder: ["Pratt, W."]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["110"]
-rasmussen_west_notes: ["The Vaughan family of Trebarried is descended from Sir Roger Vaughan of Bredwardine who was knighted by Henry V as he lay dying on the field of Agincourt. The family is doubly connected to Agincourt since Sir Roger was married to Gwladys, the daughter of David Gam who is mentioned in Shakespeare’s Henry V, ‘Davy Gam, esquire,’ as one of those who died at Agincourt."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6716
@@ -99,38 +76,8 @@ t
 
 \N
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 32.9
 
 21
-
-\N
-
-Bound in the late nineteenth century by W. Pratt in red goatskin. Sewn on 5 sawn-in bands laced through the boards (six false bands on the spine). Double tiered front bead headband sewn over rolled paper cores with pink, green and white silk. There is gilt on all three edges. Endpapers are marbled paper in French curl pattern in red, blue and yellow colors.
-
-Pratt, W.
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-110
-
-The Vaughan family of Trebarried is descended from Sir Roger Vaughan of Bredwardine who was knighted by Henry V as he lay dying on the field of Agincourt. The family is doubly connected to Agincourt since Sir Roger was married to Gwladys, the daughter of David Gam who is mentioned in Shakespeare’s Henry V, ‘Davy Gam, esquire,’ as one of those who died at Agincourt.
-
-f
 
 f

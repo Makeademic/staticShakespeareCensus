@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From auction catalogue: "Lacking three leaves (Rr2, *Ddd1 and 6), some light browning and spotting throughout, a few small holes or marginal tears (including F1, Z1, Nn1, Ss3 and Fff2 ... An unusually tall copy."]
 height: ["36.8"]
 width: ["22.9"]
-marginalia: null
-condition: ["\N"]
-binding: ["Contemporary calf, rebacked, corners renewed, spine titled in gilt"]
-binder: ["\N"]
-bookplate: ["Lord Sandys (armorial bookplate)"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Bonhams, 2019, $43,825, buyer unknown. Sold at Sotheby's, 2018, £25,000, buyer unknown."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8008
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From auction catalogue: "Lacking three leaves (Rr2, *Ddd1 and 6), some light browning and spotting throughout, a few small holes or marginal tears (including F1, Z1, Nn1, Ss3 and Fff2 ... An unusually tall copy."
-
 36.8
 
 22.9
-
-\N
-
-Contemporary calf, rebacked, corners renewed, spine titled in gilt
-
-\N
-
-Lord Sandys (armorial bookplate)
-
-\N
-
-0
-
-0
-
-Sold at Bonhams, 2019, $43,825, buyer unknown. Sold at Sotheby's, 2018, £25,000, buyer unknown.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

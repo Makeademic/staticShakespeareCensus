@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22308 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163919-157492"]
-notes: null
-local_notes: ["Damaged and repaired, affecting text. Cropped, affecting side-notes. Stained."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. markings: underscoring. A few MS. notes."]
-condition: ["\N"]
-binding: ["Half dark blue goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["970"]
-Bartlett1939_notes: ["FOLGER. 6 7/8 x 4¾". Title, A2, A3, and I4 slightly mended; cropped on fore edge, injuring some side notes. The Jennens (collected, c. 1740, bequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco."]
-Bartlett1916: ["679"]
-Bartlett1916_notes: ["FOLGER. 6 7/8 x 4¾". Title, A2, A3, and I4 slightly mended; cropped on fore edge, injuring some side notes. The Jennens (collected, c. 1740, bequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco."]
-Lee_notes: null
-prov_info: ["Charles Jennens copy; William P.A. Curzon copy; Howe family library copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 389
@@ -97,44 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib163919-157492
 
-Damaged and repaired, affecting text. Cropped, affecting side-notes. Stained.
-
 0
 
 0
-
-MS. markings: underscoring. A few MS. notes.
-
-\N
-
-Half dark blue goatskin
-
-\N
-
-\N
-
-\N
-
-970
-
-FOLGER. 6 7/8 x 4¾". Title, A2, A3, and I4 slightly mended; cropped on fore edge, injuring some side notes. The Jennens (collected, c. 1740, bequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco.
-
-679
-
-FOLGER. 6 7/8 x 4¾". Title, A2, A3, and I4 slightly mended; cropped on fore edge, injuring some side notes. The Jennens (collected, c. 1740, bequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco.
-
-Charles Jennens copy; William P.A. Curzon copy; Howe family library copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

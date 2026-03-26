@@ -24,31 +24,8 @@ location_name: ["US Library of Congress"]
 shelfmark: ["PR2751 .A2 1632 copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["19th-century morocco, gilt edges"]
-binder: ["Bedford, Francis"]
-bookplate: ["John Delaware Lewis"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Acquired in 1868 from Lewis sale at Sotheby's (lot 246)"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7607
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
 0
 
 0
-
-\N
-
-19th-century morocco, gilt edges
-
-Bedford, Francis
-
-John Delaware Lewis
-
-\N
-
-0
-
-0
-
-Acquired in 1868 from Lewis sale at Sotheby's (lot 246)
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

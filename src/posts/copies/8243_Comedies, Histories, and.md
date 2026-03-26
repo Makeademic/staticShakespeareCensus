@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, R. Chiswell, and R. Bentley as publishers in the imprint."]
-local_notes: ["From auction catalogue: "Portrait possibly from another copy, washed and sized with some residual soiling; title and last leaf rehinged and remargined; approximately 35 leaves apparently supplied .... some minor foxing and stains, and scattered marginal repairs not affecting text."]
 height: ["35.5"]
 width: ["22.8"]
-marginalia: null
-condition: ["\N"]
-binding: ["Olive calf antique with blind-stamped arabesque centerpiece on covers, raised bands rubbed; 1/4 morocco slipcase"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Swann Galleries, 1996, $17,250, buyer unknown. From auction catalogue: "Property of Grosse Pointe Public Library"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8044
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, R. Chiswell, and R. Bentley as publishers in the imprint.
-
-From auction catalogue: "Portrait possibly from another copy, washed and sized with some residual soiling; title and last leaf rehinged and remargined; approximately 35 leaves apparently supplied .... some minor foxing and stains, and scattered marginal repairs not affecting text.
-
 35.5
 
 22.8
-
-\N
-
-Olive calf antique with blind-stamped arabesque centerpiece on covers, raised bands rubbed; 1/4 morocco slipcase
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Sold at Swann Galleries, 1996, $17,250, buyer unknown. From auction catalogue: "Property of Grosse Pointe Public Library"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

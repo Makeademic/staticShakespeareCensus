@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz +32 copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["A2, A3 are bound after Zz4 (also noted on flyleaf); Huth copy, with bookplate, acquired in 1911 before the public sale (Huth 1191); Clean copy, apart from some light foxing on dedication and title pages, and last leaf"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Rm or "Km" on title page near imprint"]
-condition: ["\N"]
-binding: ["Bound in brown leather, with blind tooling, gilt edges"]
-binder: ["\N"]
-bookplate: ["Henry Huth"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Huth copy, with bookplate, acquired in 1911 before the public sale"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7456
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-A2, A3 are bound after Zz4 (also noted on flyleaf); Huth copy, with bookplate, acquired in 1911 before the public sale (Huth 1191); Clean copy, apart from some light foxing on dedication and title pages, and last leaf
-
 0
 
 0
-
-Rm or "Km" on title page near imprint
-
-\N
-
-Bound in brown leather, with blind tooling, gilt edges
-
-\N
-
-Henry Huth
-
-\N
-
-0
-
-0
-
-Huth copy, with bookplate, acquired in 1911 before the public sale
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

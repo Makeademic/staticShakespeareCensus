@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JY 442"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Play house copy of Hamlet only, heavily marked for performance at the Smock Alley Theatre, Dublin. Includes the last page of Macbeth (with first page of Hamlet on verso); the rest of the Smock Alley copy of Macbeth is at the Folger Shakespeare Library."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Nineteenth-century manuscript inscription (by Halliwell-Phillipps?) in ink on recto of first blank leaf: "Gen. pref. This is retained, although after the Restoration, as a specimen of the unauthorised attentions of a later period." Many annotations throughout in 18th-19th c hands."]
-condition: ["\N"]
-binding: ["Disbound; re-bound inside nineteenth-century half green stained leather over red, blue and cream marbled paper covered boards; gilt tooling to front and rear boards; gilt title lettering to spine; marbled endpapers."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7541
@@ -99,38 +76,8 @@ f
 
 \N
 
-Play house copy of Hamlet only, heavily marked for performance at the Smock Alley Theatre, Dublin. Includes the last page of Macbeth (with first page of Hamlet on verso); the rest of the Smock Alley copy of Macbeth is at the Folger Shakespeare Library.
-
 0
 
 0
-
-Nineteenth-century manuscript inscription (by Halliwell-Phillipps?) in ink on recto of first blank leaf: "Gen. pref. This is retained, although after the Restoration, as a specimen of the unauthorised attentions of a later period." Many annotations throughout in 18th-19th c hands.
-
-\N
-
-Disbound; re-bound inside nineteenth-century half green stained leather over red, blue and cream marbled paper covered boards; gilt tooling to front and rear boards; gilt title lettering to spine; marbled endpapers.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

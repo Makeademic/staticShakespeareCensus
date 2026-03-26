@@ -24,31 +24,8 @@ location_name: ["New York Society Library"]
 shelfmark: ["Z-M S527 P3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["On front flyleaf: "The binding by Bedford cost me £1. 16. 0."; "£162 Pittar Sale Nov 1918"; "£138 Mostyn Sale Mar 1919"; "83. D. 22"; "467/27"; on front endpaper: "This volume cost me £13. See my folio ledger, p. 320."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["F. Bedford"]
-bookplate: ["Willis Vickery; William Horatio Crawford; Gift of Christian A. Zabriskie"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["A copy bound in morocco by Bedford, which is now in the Britwell library, was sold for £15 at the sale of W. H. Crawford's Lakeland library, March 12, 1891. It seems at one time to have belonged to Halliwell[-Phillipps]."]
-prov_info: ["Gift of Christian A. Zabriskie."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["61"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1395
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-On front flyleaf: "The binding by Bedford cost me £1. 16. 0."; "£162 Pittar Sale Nov 1918"; "£138 Mostyn Sale Mar 1919"; "83. D. 22"; "467/27"; on front endpaper: "This volume cost me £13. See my folio ledger, p. 320."
-
-\N
-
-\N
-
-F. Bedford
-
-Willis Vickery; William Horatio Crawford; Gift of Christian A. Zabriskie
-
-Front pastedown
-
-0
-
-0
-
-A copy bound in morocco by Bedford, which is now in the Britwell library, was sold for £15 at the sale of W. H. Crawford's Lakeland library, March 12, 1891. It seems at one time to have belonged to Halliwell[-Phillipps].
-
-Gift of Christian A. Zabriskie.
-
-1
-
-f
-
-f
-
-61
-
-0
-
-f
 
 f

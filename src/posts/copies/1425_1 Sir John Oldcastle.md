@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 18796 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161370-153820"]
-notes: ["\N"]
-local_notes: ["cs0361. Several preliminary leaves rebacked."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Re-bound by the Folger Library; formerly in circa 1850 calfskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 74, 175n33."]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1419
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161370-153820
 
-\N
-
-cs0361. Several preliminary leaves rebacked.
-
 0
 
 0
-
-\N
-
-Re-bound by the Folger Library; formerly in circa 1850 calfskin
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 74, 175n33.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

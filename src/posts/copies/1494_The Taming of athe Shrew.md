@@ -24,31 +24,8 @@ location_name: ["Morgan Library & Museum"]
 shelfmark: ["PML 5108"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Purple morocco"]
-binder: ["J. Clarke"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1183"]
-Bartlett1939_notes: ["MORGAN. 7 3/8 x 5¼". I4 mended in outer margin. "W. Tite, 1859, Sotheby" inside cover. The [Halliwell] Sotheby (June 13, 1859, n. 334, to Boone for), Tite (May 18, 1874, n. 2782, £4. 10s. to), Nattili & Bond, Asay (sold, December, 1881 to), Irwin (sold, March, 1900) copy. Bound in purple straight-grained morocco, by Clarke."]
-Bartlett1916: ["885"]
-Bartlett1916_notes: ["MORGAN. 7 3/8 x 5¼". I4 mended in outer margin. "W. Tite, 1859, Sotheby" inside cover. The Sotheby (1851), Tite (June, 1874, n. 2782), Asay (sold, December, 1881), Irwin (sold, March, 1900) copy. Bound in purple straight-grained morocco, by Clarke."]
-Lee_notes: null
-prov_info: ["Halliwell (Sotheby, June 13, 1859 n. 334 to Boone for) Sir William Tite (sale May 18 1874, n. 2782 £4.10 to) Nattili & Bond, Asay (sold, Dec. 1881 to), Theodore Irwin, Pierpont Morgan."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 232
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-\N
-
-Purple morocco
-
-J. Clarke
-
-\N
-
-\N
-
-1183
-
-MORGAN. 7 3/8 x 5¼". I4 mended in outer margin. "W. Tite, 1859, Sotheby" inside cover. The [Halliwell] Sotheby (June 13, 1859, n. 334, to Boone for), Tite (May 18, 1874, n. 2782, £4. 10s. to), Nattili & Bond, Asay (sold, December, 1881 to), Irwin (sold, March, 1900) copy. Bound in purple straight-grained morocco, by Clarke.
-
-885
-
-MORGAN. 7 3/8 x 5¼". I4 mended in outer margin. "W. Tite, 1859, Sotheby" inside cover. The Sotheby (1851), Tite (June, 1874, n. 2782), Asay (sold, December, 1881), Irwin (sold, March, 1900) copy. Bound in purple straight-grained morocco, by Clarke.
-
-Halliwell (Sotheby, June 13, 1859 n. 334 to Boone for) Sir William Tite (sale May 18 1874, n. 2782 £4.10 to) Nattili & Bond, Asay (sold, Dec. 1881 to), Theodore Irwin, Pierpont Morgan.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

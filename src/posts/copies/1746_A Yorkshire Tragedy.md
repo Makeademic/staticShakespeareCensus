@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["IUA13306"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Lacking final blank leaf (D3)."]
 height: ["17.5"]
 width: ["12.9"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full brown morocco with title on spine and front board; gilt-tooled inner dentelles; marbled endpapers."]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Stonehill on 15 May 1947."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 721
@@ -99,38 +76,8 @@ t
 
 \N
 
-Lacking final blank leaf (D3).
-
 17.5
 
 12.9
-
-\N
-
-Bound in full brown morocco with title on spine and front board; gilt-tooled inner dentelles; marbled endpapers.
-
-Riviere & Son
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased from Stonehill on 15 May 1947.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

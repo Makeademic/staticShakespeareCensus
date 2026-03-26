@@ -24,31 +24,8 @@ location_name: ["California State Library, Sutro"]
 shelfmark: ["PR2751 .A3 1664"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: no "verses" leaf, 1664 title leaf, all additional plays. Lacking "verses" leaf and last leaf of Locrine. Preliminary leaves mounted and interleaved. Each play interleaved."]
 height: ["34"]
 width: ["0"]
-marginalia: ["1/17/27 MD' penciled in gutter of front flyleaf. Possible binder's signature. On p. 721 of Macbeth, in pencil at top: "Macbeth."]
-condition: ["\N"]
-binding: ["Bound in brown morocco, front cover has gold tooled motifs featuring 'SL' monogram, pointilles, flower and sheild motif frame, further borders of toothed rolls and fillets. Back cover has gold tooled floral and pointille border with crosses, further border with toothed roll, fillet, additional roll and semi-curcular corner tool. Five double raised bands, gold tooled floral and pointille motif panels, 'Shakespeare' in second panel, 'London, 1664' in fourth panel. Toothed rolls and fillets around kettle stiches. Marbled pastedowns and made endpapers in blue, gold, grey and red, floral gold tooled roll on inside covers, false endbands in red and gold."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["At top of names of the actors: "Fran.s Barrow 1784" (Francis or Frances). From the Adolph Sutro collection; Donated to the California State Library by Emma Sutro Merrit, 1913."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7516
@@ -99,42 +76,8 @@ t
 
 \N
 
-In this issue, a new bifolium A1.2 was added, including a resetting of the verses "To the Reader" in smaller type on A1v, to make room for the engraved portrait which was moved to that page, and a title page dated 1664 on A2r. The original A1 and A2, including the title page dated 1663, were apparently intended to be removed. In some copies the original was not removed and both title pages and "To the Reader" leaves, or some combination thereof, appear at some point in the volume, as noted under particular copies. This issue also added seven additional plays, which are listed on the 1664 title page. Copies with any of the distinctive features of the 1664 issue are listed here.
-
-Includes: no "verses" leaf, 1664 title leaf, all additional plays. Lacking "verses" leaf and last leaf of Locrine. Preliminary leaves mounted and interleaved. Each play interleaved.
-
 34
 
 0
-
-1/17/27 MD' penciled in gutter of front flyleaf. Possible binder's signature. On p. 721 of Macbeth, in pencil at top: "Macbeth."
-
-\N
-
-Bound in brown morocco, front cover has gold tooled motifs featuring 'SL' monogram, pointilles, flower and sheild motif frame, further borders of toothed rolls and fillets. Back cover has gold tooled floral and pointille border with crosses, further border with toothed roll, fillet, additional roll and semi-curcular corner tool. Five double raised bands, gold tooled floral and pointille motif panels, 'Shakespeare' in second panel, 'London, 1664' in fourth panel. Toothed rolls and fillets around kettle stiches. Marbled pastedowns and made endpapers in blue, gold, grey and red, floral gold tooled roll on inside covers, false endbands in red and gold.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-At top of names of the actors: "Fran.s Barrow 1784" (Francis or Frances). From the Adolph Sutro collection; Donated to the California State Library by Emma Sutro Merrit, 1913.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

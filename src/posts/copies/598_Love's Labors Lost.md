@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1631 (Shakespeare) (Love's Labors Lost)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["589"]
-Bartlett1939_notes: ["NEW YORK PUBLIC. 7 3/16 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin red morocco, by Bedford."]
-Bartlett1916: ["398"]
-Bartlett1916_notes: ["NEW YORK PUBLIC. 7 3/16 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin red morocco, by Bedford."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 196
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-589
-
-NEW YORK PUBLIC. 7 3/16 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin red morocco, by Bedford.
-
-398
-
-NEW YORK PUBLIC. 7 3/16 x 5¼". The H. Stevens (sold, December, 1855), Lenox\r\n(incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound\r\nin red morocco, by Bedford.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

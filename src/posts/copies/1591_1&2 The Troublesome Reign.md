@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 14647 Copy 6"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs349. Imperfect: wanting all after leaf G3 [i.e. Part 1 only]; hole in t.p. affects several words of title; copy stained and frayed."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sotheby sale, 19-21 July 1905:509."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1437
@@ -97,38 +74,8 @@ t
 
 \N
 
-cs349. Imperfect: wanting all after leaf G3 [i.e. Part 1 only]; hole in t.p. affects several words of title; copy stained and frayed.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Sotheby sale, 19-21 July 1905:509.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

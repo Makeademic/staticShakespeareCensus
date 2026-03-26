@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.28"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=42&LHPage=-2&RHCopy=42&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["732"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7 x 4¾". Soiled and a few small tears and mends. The\r\nGarrick (bequeathed, January, 1779) copy. Bound in red straight-grained morocco,\r\nGarrick's arms on back."]
-Bartlett1916: ["518"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7 x 4¾". Soiled and a few small tears and mends. The\r\nGarrick (bequeathed, January, 1779) copy. Bound in red straight-grained morocco,\r\nGarrick's arms on back. Pressmark, C. 34. k. 28."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 64
@@ -102,35 +79,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=42&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-732
-
-BRITISH MUSEUM. 7 x 4¾". Soiled and a few small tears and mends. The\r\nGarrick (bequeathed, January, 1779) copy. Bound in red straight-grained morocco,\r\nGarrick's arms on back.
-
-518
-
-BRITISH MUSEUM. 7 x 4¾". Soiled and a few small tears and mends. The\r\nGarrick (bequeathed, January, 1779) copy. Bound in red straight-grained morocco,\r\nGarrick's arms on back. Pressmark, C. 34. k. 28.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

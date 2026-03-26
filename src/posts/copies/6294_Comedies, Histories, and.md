@@ -24,31 +24,8 @@ location_name: ["John Wolfson collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Verses leaf in facsimile; letterpress portion of title page in facsimile, with genuine portrait. Corners of last four leaves in facsimile affecting an inch of text."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full calf, gilt"]
-binder: ["Middleton, Bernard"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7927
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Verses leaf in facsimile; letterpress portion of title page in facsimile, with genuine portrait. Corners of last four leaves in facsimile affecting an inch of text.
-
 0
 
 0
-
-\N
-
-Full calf, gilt
-
-Middleton, Bernard
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

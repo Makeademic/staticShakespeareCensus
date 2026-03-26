@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR2870 .A1 1634 *"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Armorial book-plate of Bridgewater Library. Bound in calf."]
 height: ["0"]
 width: ["0"]
-marginalia: ["\N"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1569
@@ -99,44 +76,8 @@ t
 
 \N
 
-Armorial book-plate of Bridgewater Library. Bound in calf.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

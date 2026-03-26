@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69315"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["A bit of one letter on t.p. restored."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["253"]
-Bartlett1939_notes: ["HUNTINGTON. 7 x 5 1/6". Church book-plate. The Burton (October 8, 1860, $28\r\nto), Griswold (sold, August, 1889), Church (sold, April, 1911) copy. Bound in red\r\nlevant morocco for Griswold."]
-Bartlett1916: ["164"]
-Bartlett1916_notes: ["HUNTINGTON . 7 x 5 1/16". Church book-plate. The Griswold (sold, August,\r\n1889), Church (sold, April, 1911) copy. Bound in red levant morocco."]
-Lee_notes: null
-prov_info: ["Burton - Griswold copy; bookplate of E.D. Church"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 463
@@ -99,42 +76,8 @@ t
 
 \N
 
-A bit of one letter on t.p. restored.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-253
-
-HUNTINGTON. 7 x 5 1/6". Church book-plate. The Burton (October 8, 1860, $28\r\nto), Griswold (sold, August, 1889), Church (sold, April, 1911) copy. Bound in red\r\nlevant morocco for Griswold.
-
-164
-
-HUNTINGTON . 7 x 5 1/16". Church book-plate. The Griswold (sold, August,\r\n1889), Church (sold, April, 1911) copy. Bound in red levant morocco.
-
-Burton - Griswold copy; bookplate of E.D. Church
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

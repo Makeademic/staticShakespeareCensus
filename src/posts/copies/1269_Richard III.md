@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69352"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Cropped at foot; A3, sig.C, D4, L4, and M1-3 in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Signed by F. Bedford"]
-bookplate: ["Frederick Locker; E.D. Church"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1033"]
-Bartlett1939_notes: ["HUNTINGTON. 7 7/16 x 5 1/16 ". Title, A3, C1-C4, D4, L4, M1 and M2 in Harris's\r\nfacsimile (see Census, n. 1027); lower margins extended throughout, some signatures, catchwords, and last lines of text in facsimile. Locker and Church book-plates. The Jolley (June 10, 1844, n. 582, £17. 17s. to), Thorpe, [Halliwell] Sotheby (May 23, 1856, n. 339, £18. 5s. to Hoskins for), Tite (May 18, 1874, n. 2776, £13. 5s. to Ellis for), Locker (sold, January, 1905 to), Church (sold April, 1911) copy. Bound in red morocco, by Bedford."]
-Bartlett1916: ["732"]
-Bartlett1916_notes: ["HUNTINGTON. 7 7/16 x 5 1/16 ". Title, A3, Ci-C4, D4, L4, Mi and M2 in Harris's\r\nfacsimile; lower margins extended throughout, some signatures, catchwords, and last lines of text in facsimile. Locker and Church book-plates. The Jolley (June, 1844, No. 582), Halliwell (May, 1856, No. 339), Tite (June, 1874, No. 2776), Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound in red morocco, by Bedford."]
-Lee_notes: null
-prov_info: ["Jolley - Halliwell-Phillipps - Tite copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 531
@@ -99,42 +76,8 @@ t
 
 \N
 
-Cropped at foot; A3, sig.C, D4, L4, and M1-3 in facsimile.
-
 0
 
 0
-
-\N
-
-\N
-
-Signed by F. Bedford
-
-Frederick Locker; E.D. Church
-
-\N
-
-1033
-
-HUNTINGTON. 7 7/16 x 5 1/16 ". Title, A3, C1-C4, D4, L4, M1 and M2 in Harris's\r\nfacsimile (see Census, n. 1027); lower margins extended throughout, some signatures, catchwords, and last lines of text in facsimile. Locker and Church book-plates. The Jolley (June 10, 1844, n. 582, £17. 17s. to), Thorpe, [Halliwell] Sotheby (May 23, 1856, n. 339, £18. 5s. to Hoskins for), Tite (May 18, 1874, n. 2776, £13. 5s. to Ellis for), Locker (sold, January, 1905 to), Church (sold April, 1911) copy. Bound in red morocco, by Bedford.
-
-732
-
-HUNTINGTON. 7 7/16 x 5 1/16 ". Title, A3, Ci-C4, D4, L4, Mi and M2 in Harris's\r\nfacsimile; lower margins extended throughout, some signatures, catchwords, and last lines of text in facsimile. Locker and Church book-plates. The Jolley (June, 1844, No. 582), Halliwell (May, 1856, No. 339), Tite (June, 1874, No. 2776), Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound in red morocco, by Bedford.
-
-Jolley - Halliwell-Phillipps - Tite copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

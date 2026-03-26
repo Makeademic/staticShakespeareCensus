@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22321 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163918-157490"]
-notes: null
-local_notes: ["Trunk 7H4. K2 signed C2."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1093"]
-Bartlett1939_notes: ["FOLGER. 7 1/16 x 5 3/8". Some head-lines cropped. Bound in red morocco, by Bedford."]
-Bartlett1916: ["780"]
-Bartlett1916_notes: ["FOLGER. Fine copy. Bound in red morocco, by Bedford."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 410
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163918-157490
 
-Trunk 7H4. K2 signed C2.
-
 0
 
 0
-
-\N
-
-Red goatskin
-
-Bedford
-
-\N
-
-\N
-
-1093
-
-FOLGER. 7 1/16 x 5 3/8". Some head-lines cropped. Bound in red morocco, by Bedford.
-
-780
-
-FOLGER. Fine copy. Bound in red morocco, by Bedford.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

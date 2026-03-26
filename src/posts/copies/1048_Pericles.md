@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.39"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=58&LHPage=-2&RHCopy=58&RHPage=-1"]
-notes: ["There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["A copy, with the longer imprint, in the British Museum (C. 34. k. 39) measures 5¾ x 7 3/8". It belonged to Garrick."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["47"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 114
@@ -99,38 +76,8 @@ t
 
 https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=58&LHPage=-2&RHCopy=58&RHPage=-1
 
-There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-A copy, with the longer imprint, in the British Museum (C. 34. k. 39) measures 5¾ x 7 3/8". It belonged to Garrick.
-
-1
-
-f
-
-f
-
-47
-
-0
-
-f
 
 f

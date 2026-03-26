@@ -24,31 +24,8 @@ location_name: ["York Minster"]
 shelfmark: ["Y/MA 102.73 YOR"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Many leaves damaged, especially at top edge"]
 height: ["0"]
 width: ["0"]
-marginalia: ["On front flyleaf, in pencil: "Lowndes iii.2304";on A1r, below head title, "written by William Shakespeare"."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Edward Hailstone, Horton Hall"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Signature on A1r: "Sam Moor[e]" (for uncropped signatures, see Boston Public Library G.3935.2; G.3975.48; G.3970.33). Bequeathed in 1890 by Edward Hailstone as part of a Yorkshire history collection."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 730
@@ -99,40 +76,8 @@ t
 
 \N
 
-Many leaves damaged, especially at top edge
-
 0
 
 0
-
-On front flyleaf, in pencil: "Lowndes iii.2304";on A1r, below head title, "written by William Shakespeare".
-
-\N
-
-\N
-
-\N
-
-Edward Hailstone, Horton Hall
-
-Front pastedown
-
-0
-
-0
-
-Signature on A1r: "Sam Moor[e]" (for uncropped signatures, see Boston Public Library G.3935.2; G.3975.48; G.3970.33). Bequeathed in 1890 by Edward Hailstone as part of a Yorkshire history collection.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

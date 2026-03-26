@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2955 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed."]
-local_notes: ["cs1985."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. marginal notes."]
-condition: ["\N"]
-binding: ["Half brown goatskin with marbled papered boards; front endpapers have the following watermark: naked figure holding a veil above its head and poised on one foot on a circle (Fortune) (cf. Briquet, 7559-7561, and first Folger copy of Wing S2874)."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["147"]
-Bartlett1939_notes: ["FOLGER. 8½ x 5 7/8". Some notes in old hand. The Halliwell, Amer. Art Assn.\r\n(April 20, 1921, n. 550, $20) copy. Bound in half brown morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["MS. initials of J. O. Halliwell-Phillipps on back paste-down."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1145
@@ -97,44 +74,8 @@ t
 
 \N
 
-In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed.
-
-cs1985.
-
 0
 
 0
-
-MS. marginal notes.
-
-\N
-
-Half brown goatskin with marbled papered boards; front endpapers have the following watermark: naked figure holding a veil above its head and poised on one foot on a circle (Fortune) (cf. Briquet, 7559-7561, and first Folger copy of Wing S2874).
-
-\N
-
-\N
-
-\N
-
-147
-
-FOLGER. 8½ x 5 7/8". Some notes in old hand. The Halliwell, Amer. Art Assn.\r\n(April 20, 1921, n. 550, $20) copy. Bound in half brown morocco.
-
-0
-
-MS. initials of J. O. Halliwell-Phillipps on back paste-down.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

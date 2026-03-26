@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22326 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163962-157604"]
-notes: null
-local_notes: ["cs452. Some corners repaired."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin with gilt tooling"]
-binder: ["W. Pratt"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1148"]
-Bartlett1939_notes: ["FOLGER. 7 1/16 x 5¼". The Halliwell Rarities (sold, January, 1897, n. 45 to), Perry\r\n(sold, March, 1907) copy. Bound in red levant morocco, by Pratt."]
-Bartlett1916: ["827"]
-Bartlett1916_notes: ["FOLGER. The Halliwell Rarities (sold, January, 1897, No. 45), Perry (sold,\r\nMarch, 1907) copy. Bound in red levant morocco, by Pratt."]
-Lee_notes: null
-prov_info: ["MS initials of James Orchard Halliwell-Phillipps on the back free endpaper"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 44
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163962-157604
 
-cs452. Some corners repaired.
-
 0
 
 0
-
-\N
-
-Red goatskin with gilt tooling
-
-W. Pratt
-
-\N
-
-\N
-
-1148
-
-FOLGER. 7 1/16 x 5¼". The Halliwell Rarities (sold, January, 1897, n. 45 to), Perry\r\n(sold, March, 1907) copy. Bound in red levant morocco, by Pratt.
-
-827
-
-FOLGER. The Halliwell Rarities (sold, January, 1897, No. 45), Perry (sold,\r\nMarch, 1907) copy. Bound in red levant morocco, by Pratt.
-
-MS initials of James Orchard Halliwell-Phillipps on the back free endpaper
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

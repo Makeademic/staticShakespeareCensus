@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["f *59-253"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco over boards; double line fillet with fern-tip fillet on the outer border in gilt; small circle rosette stamp in gilt on each corner; turn-ins in double line gilt fillet with small circle rosette stamp on the outer corners. Five raised bands on spine, each framed with double line gilt borders with floral design, with the exception of second panel which has “SHAKESPEARE, 4TH EDITION. 1685” stamped in gilt. French curl marbled endpapers in green, eggplant, and beige; all edges gilt."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7507
@@ -99,36 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 0
 
 0
-
-\N
-
-Red morocco over boards; double line fillet with fern-tip fillet on the outer border in gilt; small circle rosette stamp in gilt on each corner; turn-ins in double line gilt fillet with small circle rosette stamp on the outer corners. Five raised bands on spine, each framed with double line gilt borders with floral design, with the exception of second panel which has “SHAKESPEARE, 4TH EDITION. 1685” stamped in gilt. French curl marbled endpapers in green, eggplant, and beige; all edges gilt.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

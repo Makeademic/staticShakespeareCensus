@@ -24,31 +24,8 @@ location_name: ["State Library of Victoria"]
 shelfmark: ["822.33 A2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be sold at his shop at the signe of the blacke Beare in Pauls Church yard," with the word "Pauls" in italics; the original sheet πA2.5 was replaced by a cancel, which is printed on thicker paper and probably dates from 1641, after Thomas Cotes died. [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["A few later pencil page number corrections; underlining in "To be or not to be" speech in Hamlet. Annotation in margin of Coriolanus, p. 35, trimmed: "nothing / worse t[...] / a promis[e] / break[er] ... / + / Cursed / they w[ill?] / be."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Richard Henry Wood, SAS"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7613
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be sold at his shop at the signe of the blacke Beare in Pauls Church yard," with the word "Pauls" in italics; the original sheet πA2.5 was replaced by a cancel, which is printed on thicker paper and probably dates from 1641, after Thomas Cotes died. [DEEP]
-
 0
 
 0
-
-A few later pencil page number corrections; underlining in "To be or not to be" speech in Hamlet. Annotation in margin of Coriolanus, p. 35, trimmed: "nothing / worse t[...] / a promis[e] / break[er] ... / + / Cursed / they w[ill?] / be."
-
-\N
-
-\N
-
-\N
-
-Richard Henry Wood, SAS
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

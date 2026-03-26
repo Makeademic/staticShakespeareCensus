@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From 11 Dec 2008 auction catalogue: "frontispiece extended at gutter and along with title slightly discolored, some tiny spots on first and last two leaves, last leaf mended in fore-margin, expertly mended tears in foremargin of leaves 4A3-4, small stain in fore-margin of last few quires."\r\n\r\nFrom 10 January 1944 auction catalogue: "A large copy measuring 14.25 by 9 inches. Restoration in margin of the frontispiece and a few other restorations, those on the final leaf affecting a few letters"]
 height: ["36.5"]
 width: ["22.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Antique red morocco, gold-tooled frame with floral ornaments, dentelles, spine gilt, edges gilt., in a cloth slipcase; edges and joints rubbed."]
-binder: ["Bedford, Francis"]
-bookplate: ["CCK; Castlecraig Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Parke-Bernet New York, 10 January 1944 from the collection of Charles C. Kalbfleisch. Described as "with Castlecraig Library bookplate"\r\n\r\nSold at Sotheby's, 11 Dec 2008, Collection of Gene Tunney, $104,500, buyer unknown. From auction catalogue: "Castlecraig Library (bookplate) -- unidentified leather bookplate with monogram "CCK" -- James Joseph "Gene" Tunney Fine Books and Manuscripts Including Americana--12/11/2008"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8028
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From 11 Dec 2008 auction catalogue: "frontispiece extended at gutter and along with title slightly discolored, some tiny spots on first and last two leaves, last leaf mended in fore-margin, expertly mended tears in foremargin of leaves 4A3-4, small stain in fore-margin of last few quires."\r\n\r\nFrom 10 January 1944 auction catalogue: "A large copy measuring 14.25 by 9 inches. Restoration in margin of the frontispiece and a few other restorations, those on the final leaf affecting a few letters"
-
 36.5
 
 22.5
-
-\N
-
-Antique red morocco, gold-tooled frame with floral ornaments, dentelles, spine gilt, edges gilt., in a cloth slipcase; edges and joints rubbed.
-
-Bedford, Francis
-
-CCK; Castlecraig Library
-
-\N
-
-0
-
-0
-
-Sold at Parke-Bernet New York, 10 January 1944 from the collection of Charles C. Kalbfleisch. Described as "with Castlecraig Library bookplate"\r\n\r\nSold at Sotheby's, 11 Dec 2008, Collection of Gene Tunney, $104,500, buyer unknown. From auction catalogue: "Castlecraig Library (bookplate) -- unidentified leather bookplate with monogram "CCK" -- James Joseph "Gene" Tunney Fine Books and Manuscripts Including Americana--12/11/2008"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

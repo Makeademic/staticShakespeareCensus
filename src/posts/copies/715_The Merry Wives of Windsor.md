@@ -24,31 +24,8 @@ location_name: ["Bibliothèque nationale de France (National Library of France)"
 shelfmark: ["RES-YK-61"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["697"]
-Bartlett1939_notes: ["BIBLIOTHEQUE NATIONALE, PARIS. 7 1/8 x 5 3/8". With "de Murr" on title.\r\nThe de Murr (1811, n. 4036) copy. Bound in boards, c. 1880."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1653
@@ -102,33 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-697
-
-BIBLIOTHEQUE NATIONALE, PARIS. 7 1/8 x 5 3/8". With "de Murr" on title.\r\nThe de Murr (1811, n. 4036) copy. Bound in boards, c. 1880.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

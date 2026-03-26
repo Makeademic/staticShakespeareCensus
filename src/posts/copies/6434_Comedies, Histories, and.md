@@ -24,31 +24,8 @@ location_name: ["University of Nevada, Reno"]
 shelfmark: ["PR2751 .A2525 1632"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: Merchant of Venice, pages 163-184; On inserted title page: "From the second folio, 1632"]
 height: ["31"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red leather"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7246
@@ -99,36 +76,8 @@ f
 
 \N
 
-Fragment: Merchant of Venice, pages 163-184; On inserted title page: "From the second folio, 1632"
-
 31
 
 0
-
-\N
-
-Red leather
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

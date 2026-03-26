@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz 206"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://brbl-dl.library.yale.edu/vufind/Record/3446773"]
-notes: null
-local_notes: ["Bound in calf, blind and gold tooling on cover and spine."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Dogmersfield library bookplate of Sir Henry St. John Mildmay, and sold as lot 475 in the Mildmay sale by Sotheby's, 20 April 1907. Collation note of Bernard Quaritch on rear endpaper. Gift of Alexander S. Cochran, December 1911."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 621
@@ -97,38 +74,8 @@ t
 
 https://brbl-dl.library.yale.edu/vufind/Record/3446773
 
-Bound in calf, blind and gold tooling on cover and spine.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Dogmersfield library bookplate of Sir Henry St. John Mildmay, and sold as lot 475 in the Mildmay sale by Sotheby's, 20 April 1907. Collation note of Bernard Quaritch on rear endpaper. Gift of Alexander S. Cochran, December 1911.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

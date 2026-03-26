@@ -24,31 +24,8 @@ location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: ["Pforz 889"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://hrc.contentdm.oclc.org/digital/collection/p15878coll17/id/4514/rec/2"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["722"]
-Bartlett1939_notes: ["PFORZHEIMER. 6 5/8 x 4 7/8". The Quaritch (General Catalogue 325, May, 1913,\r\nn. 3333), G. D. Smith (sold before April 1919) copy. Bound in red levant morocco, by Riviere."]
-Bartlett1916: ["508"]
-Bartlett1916_notes: ["QUARITCH. 6 5/8 x 4 7/8". Bound in red levant morocco, by Riviere."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 69
@@ -102,35 +79,5 @@ https://hrc.contentdm.oclc.org/digital/collection/p15878coll17/id/4514/rec/2
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-722
-
-PFORZHEIMER. 6 5/8 x 4 7/8". The Quaritch (General Catalogue 325, May, 1913,\r\nn. 3333), G. D. Smith (sold before April 1919) copy. Bound in red levant morocco, by Riviere.
-
-508
-
-QUARITCH. 6 5/8 x 4 7/8". Bound in red levant morocco, by Riviere.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

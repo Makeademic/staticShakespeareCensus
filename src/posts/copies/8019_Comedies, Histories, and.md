@@ -24,31 +24,8 @@ location_name: ["Claremont Colleges"]
 shelfmark: ["PR2751 .A4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://ccdl.claremont.edu/digital/collection/p15831coll20/id/908/rec/1"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Light foxing throughout; inkstains"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Inked marginal notations in two old hands including verbal corrections, small and large revisions (some suggesting preparation for reprinting), glosses of words, deletions of scenes or parts of scenes, stage directions and speech tag additions, new dialogue for scenes (All's Well); note about authorship of Sir John Oldcastle."]
-condition: ["\N"]
-binding: ["Contemporary panelled calf, repaired at back and corners"]
-binder: ["\N"]
-bookplate: ["Shuttleworth Streatfield"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: ["Marissa Nicosia, "Thinking with annotated books: the Honnold-Mudd Fourth Folio," https://marissanicosia.wordpress.com/2015/06/08/thinking-with-annotated-books-the-honnold-mudd-fourth-folio/"]
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7470
@@ -99,42 +76,8 @@ t
 
 https://ccdl.claremont.edu/digital/collection/p15831coll20/id/908/rec/1
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Light foxing throughout; inkstains
-
 0
 
 0
-
-Inked marginal notations in two old hands including verbal corrections, small and large revisions (some suggesting preparation for reprinting), glosses of words, deletions of scenes or parts of scenes, stage directions and speech tag additions, new dialogue for scenes (All's Well); note about authorship of Sir John Oldcastle.
-
-\N
-
-Contemporary panelled calf, repaired at back and corners
-
-\N
-
-Shuttleworth Streatfield
-
-\N
-
-0
-
-0
-
-Marissa Nicosia, "Thinking with annotated books: the Honnold-Mudd Fourth Folio," https://marissanicosia.wordpress.com/2015/06/08/thinking-with-annotated-books-the-honnold-mudd-fourth-folio/
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

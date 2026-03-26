@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell R.19[2]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["-sig. K4\r\nLast leaf blank."]
 height: ["0"]
 width: ["0"]
-marginalia: ["The title has been altered in MS. by Edward Capell to match the 1608 edition, with additions". "The "additions" first appeared in 1608, in the third edition, with which the present copy has been throughout collated in Capell's hand" - Greg"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["997"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title and first page of text collated\r\nin red by Capell with the 1608 edition; other corrections throughout but probably not exhaustive. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays."]
-Bartlett1916: ["703"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title and first page of text collated\r\nin red by Capell with the 1608 edition; other corrections throughout but probably not exhaustive. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays. Pressmark, R. 19. 2."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 373
@@ -97,42 +74,8 @@ t
 
 \N
 
--sig. K4\r\nLast leaf blank.
-
 0
 
 0
-
-The title has been altered in MS. by Edward Capell to match the 1608 edition, with additions". "The "additions" first appeared in 1608, in the third edition, with which the present copy has been throughout collated in Capell's hand" - Greg
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-997
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title and first page of text collated\r\nin red by Capell with the 1608 edition; other corrections throughout but probably not exhaustive. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays.
-
-703
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Title and first page of text collated\r\nin red by Capell with the 1608 edition; other corrections throughout but probably not exhaustive. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old plays. Pressmark, R. 19. 2.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

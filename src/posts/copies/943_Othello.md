@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Vet. A3 e.696"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["L1 and L2 lacking and supplied in facsimile from Cardiff City Library copy"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Modern binding, post-1939"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["895"]
-Bartlett1939_notes: ["DOBELL. 8½ x 6½". L1, L2 lacking. The Hodgson (November 29, 1906, n. 97, to),\r\nTregaskis copy. Unbound."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["On front flyleaf: "Bt. from Dobell."; on title page: "Dorothy Key[...?]" with several trials of "Dorothy" above; on title page: "Lois D[...?]";"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 998
@@ -99,40 +76,8 @@ t
 
 \N
 
-L1 and L2 lacking and supplied in facsimile from Cardiff City Library copy
-
 0
 
 0
-
-\N
-
-Modern binding, post-1939
-
-\N
-
-\N
-
-\N
-
-895
-
-DOBELL. 8½ x 6½". L1, L2 lacking. The Hodgson (November 29, 1906, n. 97, to),\r\nTregaskis copy. Unbound.
-
-0
-
-On front flyleaf: "Bt. from Dobell."; on title page: "Dorothy Key[...?]" with several trials of "Dorothy" above; on title page: "Lois D[...?]";
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

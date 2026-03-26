@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 S71637"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["18.3"]
 width: ["12.9"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full red morocco with title on spine."]
-binder: ["F. Bedford"]
-bookplate: ["Bookplate of Frank J. Hogan."]
-bookplate_location: ["Front pastedown."]
-Bartlett1939: ["66"]
-Bartlett1939_notes: ["HOGAN. 7 3/16 x 5 3/16". E2, E3 cropped at top injuring head-lines; margins repaired injuring some words. The Adams (December 7, 1931, n. 239, £30 to Rosenbach) copy. Bound in red morocco, by Bedford."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Stonehill on 15 May 1947; sold at auction by Parke Bernet, 1946, $375."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 567
@@ -100,35 +77,5 @@ t
 18.3
 
 12.9
-
-\N
-
-Bound in full red morocco with title on spine.
-
-F. Bedford
-
-Bookplate of Frank J. Hogan.
-
-Front pastedown.
-
-66
-
-HOGAN. 7 3/16 x 5 3/16". E2, E3 cropped at top injuring head-lines; margins repaired injuring some words. The Adams (December 7, 1931, n. 239, £30 to Rosenbach) copy. Bound in red morocco, by Bedford.
-
-0
-
-Purchased from Stonehill on 15 May 1947; sold at auction by Parke Bernet, 1946, $375.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

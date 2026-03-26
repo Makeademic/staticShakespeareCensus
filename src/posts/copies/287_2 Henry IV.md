@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.480"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120589498"]
-notes: ["Gathering E exists in two states: This issue contains the original E3 and E4."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["326"]
-Bartlett1939_notes: ["CRICHTON STUART. 6¾ x 4 11/16 ". L2 blank and lacking. Book-plate of 3rd Marquis of Bute. The Steevens (May 13, 1800, n. 1269, £3. 13s. to Nicol for), Marquis of Bute copy. Bound in half green straight-grained morocco."]
-Bartlett1916: ["227"]
-Bartlett1916_notes: ["CRICHTON STUART. Probably Steevens (May, 1800, No. 1269), Bute\r\n(bequeathed) copy."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1184
@@ -97,40 +74,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120589498
 
-Gathering E exists in two states: This issue contains the original E3 and E4.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-326
-
-CRICHTON STUART. 6¾ x 4 11/16 ". L2 blank and lacking. Book-plate of 3rd Marquis of Bute. The Steevens (May 13, 1800, n. 1269, £3. 13s. to Nicol for), Marquis of Bute copy. Bound in half green straight-grained morocco.
-
-227
-
-CRICHTON STUART. Probably Steevens (May, 1800, No. 1269), Bute\r\n(bequeathed) copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

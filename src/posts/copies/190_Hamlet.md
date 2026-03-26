@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig 6c 695"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed."]
-local_notes: ["Imperfect: leaf M2 (blank?) wanting."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 896
@@ -97,38 +74,8 @@ t
 
 \N
 
-In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed.
-
-Imperfect: leaf M2 (blank?) wanting.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

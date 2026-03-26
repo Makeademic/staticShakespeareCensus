@@ -24,31 +24,8 @@ location_name: ["Eton College"]
 shelfmark: ["Sa1.4.29(03)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bound as part of a set of five volumes of early editions of Shakespeare's plays."]
 height: ["18"]
 width: ["13.2"]
-marginalia: ["Two inscriptions on title-page: 'N 4' and '5649'."]
-condition: ["\N"]
-binding: ["18th-century gold-tooled, mottled calf."]
-binder: null
-bookplate: ["Armorial bookplate of Anthony Morris Storer (1746-1799)"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["59"]
-Bartlett1939_notes: ["ETON COLLEGE. 7 1/8 x 5 1/8". D2 torn in headline. "5649" on title. The\r\nStorer (bequeathed, 1799) copy. Bound with other plays in Vol. IV."]
-Bartlett1916: ["47"]
-Bartlett1916_notes: ["ETON COLLEGE. 7 1/8 x 5 1/8". D2 torn in headline. "5649" on title. The\r\nStorer (bequeathed, 1799) copy. Bound with other plays in Vol. IV."]
-Lee_notes: null
-prov_info: ["Book label of Eton College Library. Bequeathed to Eton by Anthony Morris Storer in 1799."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 576
@@ -97,42 +74,8 @@ t
 
 \N
 
-Bound as part of a set of five volumes of early editions of Shakespeare's plays.
-
 18
 
 13.2
-
-Two inscriptions on title-page: 'N 4' and '5649'.
-
-\N
-
-18th-century gold-tooled, mottled calf.
-
-Armorial bookplate of Anthony Morris Storer (1746-1799)
-
-Front pastedown
-
-59
-
-ETON COLLEGE. 7 1/8 x 5 1/8". D2 torn in headline. "5649" on title. The\r\nStorer (bequeathed, 1799) copy. Bound with other plays in Vol. IV.
-
-47
-
-ETON COLLEGE. 7 1/8 x 5 1/8". D2 torn in headline. "5649" on title. The\r\nStorer (bequeathed, 1799) copy. Bound with other plays in Vol. IV.
-
-Book label of Eton College Library. Bequeathed to Eton by Anthony Morris Storer in 1799.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

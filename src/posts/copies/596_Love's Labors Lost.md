@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.491"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755432"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["574"]
-Bartlett1939_notes: ["CRICHTON STUART. 7¼ x 5¼". Title, A2, A4 have small hole. With book-plate of\r\n3rd Marquis Bute. Perhaps the Farmer (May 7, 1798, n. 7876, to), Forster (November 24, 1806, n. 2131, 9s. to), 1st Marquis Bute copy. Bound in half green morocco."]
-Bartlett1916: ["387"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1269
@@ -100,35 +77,5 @@ https://digital.nls.uk/shakespeare-quartos/archive/120755432
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-574
-
-CRICHTON STUART. 7¼ x 5¼". Title, A2, A4 have small hole. With book-plate of\r\n3rd Marquis Bute. Perhaps the Farmer (May 7, 1798, n. 7876, to), Forster (November 24, 1806, n. 2131, 9s. to), 1st Marquis Bute copy. Bound in half green morocco.
-
-387
-
-CRICHTON STUART.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

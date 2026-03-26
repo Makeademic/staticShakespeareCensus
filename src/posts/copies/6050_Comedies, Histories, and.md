@@ -24,31 +24,8 @@ location_name: ["University of Melbourne"]
 shelfmark: ["MTC/18"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["The leaf facing the title-page is a facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Rebound and heavily restored, this copy was part of Dr John Orde Poynton's collection. He himself had received it as a gift in 1934 and regarded it as essentially a working copy.  Presented by Poynton from his collection. Poynton's notes specify that this copy of the "Second folio" has been " cleaned and remade". That the "To the Reader'" section has been "made good in facsimile"."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7630
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-The leaf facing the title-page is a facsimile.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Rebound and heavily restored, this copy was part of Dr John Orde Poynton's collection. He himself had received it as a gift in 1934 and regarded it as essentially a working copy.  Presented by Poynton from his collection. Poynton's notes specify that this copy of the "Second folio" has been " cleaned and remade". That the "To the Reader'" section has been "made good in facsimile".
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

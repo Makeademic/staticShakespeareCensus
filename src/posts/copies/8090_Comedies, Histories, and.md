@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["MR 0927"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Verses leaf in facsimile; lacks 8 leaves of text; a few leaves supplied from other copies."]
 height: ["36.5"]
 width: ["24"]
-marginalia: ["Pen inscription next to dedicatory epistle: "Charles Dyer 1st June 1820 from Thomas Wilkes" (RS)"]
-condition: ["\N"]
-binding: ["Half-calf, rebound"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8153
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Verses leaf in facsimile; lacks 8 leaves of text; a few leaves supplied from other copies.
-
 36.5
 
 24
-
-Pen inscription next to dedicatory epistle: "Charles Dyer 1st June 1820 from Thomas Wilkes" (RS)
-
-\N
-
-Half-calf, rebound
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

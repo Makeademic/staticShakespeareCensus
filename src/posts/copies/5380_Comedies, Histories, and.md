@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["GEN MSS 336 Box 7, folder 339"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Single leaf of Measure for Measure, pp. 73-74. Inner margin torn"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Part of the Henrietta Bartlett papers, used in her courses on the history of printing."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 8324
@@ -99,38 +76,8 @@ t
 
 \N
 
-Single leaf of Measure for Measure, pp. 73-74. Inner margin torn
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Part of the Henrietta Bartlett papers, used in her courses on the history of printing.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

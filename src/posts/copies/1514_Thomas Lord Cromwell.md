@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.527"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["16.9"]
 width: ["12"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in brown calf with gold-tooled border on front and back boards"]
-binder: ["\N"]
-bookplate: ["3rd Marquis of Bute"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Crichton Stuart"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 741
@@ -100,33 +77,5 @@ t
 16.9
 
 12
-
-\N
-
-Bound in brown calf with gold-tooled border on front and back boards
-
-\N
-
-3rd Marquis of Bute
-
-front pastedown
-
-0
-
-0
-
-Crichton Stuart
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

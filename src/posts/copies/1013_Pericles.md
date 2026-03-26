@@ -24,31 +24,8 @@ location_name: ["Eton College"]
 shelfmark: ["Sa1.4.30(2)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Many bibliographies and library catalogues consider this edition part of Whole Contention, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions."]
-local_notes: ["Pericles only. Imperfect: lacking Z2-Z3. Bound as part of a set of five volumes of early editions of Shakespeare's plays."]
 height: ["18.3"]
 width: ["12.9"]
-marginalia: ["Inscription on title-page: "Pericles"."]
-condition: ["\N"]
-binding: ["18th-century gold-tooled, mottled calf."]
-binder: ["\N"]
-bookplate: ["Armorial bookplate of Anthony Morris Storer (1746-1799)"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Book label of Eton College Library. Bequeathed to Eton by Anthony Morris Storer in 1799. Possible ownership inscription on title-page, now smudged."]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 47-48, 75, 165n29.."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1459
@@ -99,44 +76,8 @@ t
 
 \N
 
-Many bibliographies and library catalogues consider this edition part of Whole Contention, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions.
-
-Pericles only. Imperfect: lacking Z2-Z3. Bound as part of a set of five volumes of early editions of Shakespeare's plays.
-
 18.3
 
 12.9
-
-Inscription on title-page: "Pericles".
-
-\N
-
-18th-century gold-tooled, mottled calf.
-
-\N
-
-Armorial bookplate of Anthony Morris Storer (1746-1799)
-
-\N
-
-0
-
-0
-
-Book label of Eton College Library. Bequeathed to Eton by Anthony Morris Storer in 1799. Possible ownership inscription on title-page, now smudged.
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 47-48, 75, 165n29..
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

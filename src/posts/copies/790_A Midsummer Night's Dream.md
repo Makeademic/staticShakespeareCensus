@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.500"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120585170"]
-notes: ["\N"]
-local_notes: ["Note in pencil below imprint: "1st Edition" [ZL]"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["756"]
-Bartlett1939_notes: ["CRICHTON STUART. 7 1/16 x 5 5/16 ". With "E.C[apell]." on title. The Capell\r\n(duplicate, before 1779), Fillingham (April 24, 1805, n. 530, £2. 2s. to Scott for),\r\n1st Marquis Bute copy. Bound in green morocco, red morocco doublures."]
-Bartlett1916: ["538"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: ["Inscription on t.p.: "E[dward] C[apell]"; note on flyleaf: "From the Autograph this appears to have belonged to Mr Capell" [ZL]"]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 18."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1329
@@ -97,46 +74,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120585170
 
-\N
-
-Note in pencil below imprint: "1st Edition" [ZL]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-756
-
-CRICHTON STUART. 7 1/16 x 5 5/16 ". With "E.C[apell]." on title. The Capell\r\n(duplicate, before 1779), Fillingham (April 24, 1805, n. 530, £2. 2s. to Scott for),\r\n1st Marquis Bute copy. Bound in green morocco, red morocco doublures.
-
-538
-
-CRICHTON STUART.
-
-Inscription on t.p.: "E[dward] C[apell]"; note on flyleaf: "From the Autograph this appears to have belonged to Mr Capell" [ZL]
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 18.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR 51.09/1607"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Imperfect"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: null
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 704
@@ -99,34 +76,8 @@ t
 
 \N
 
-Imperfect
-
 0
 
 0
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

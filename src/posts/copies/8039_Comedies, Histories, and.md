@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2915 Fo.4 no.25"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["In Folger copy 25, the port. (on [pi]1 verso) is in state 4. Imperfections affect text very slightly on E2, F3, N2, 2B4,5,6, 2L6, 2M5, 2N6, and 3Q5."]
 height: ["37"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in a crimson morocco "extra" binding"]
-binder: ["Rivingtons of Oxford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Front free endpaper inscribed "Dr. Bulley bought this Fol. bound in Calf, of Dr. Michell, Principal of Madg. Hall, for the sum of  £.10, June 1869." Richard Michell--Frederick Bulley copy."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7146
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-In Folger copy 25, the port. (on [pi]1 verso) is in state 4. Imperfections affect text very slightly on E2, F3, N2, 2B4,5,6, 2L6, 2M5, 2N6, and 3Q5.
-
 37
 
 0
-
-\N
-
-Bound in a crimson morocco "extra" binding
-
-Rivingtons of Oxford
-
-\N
-
-\N
-
-0
-
-0
-
-Front free endpaper inscribed "Dr. Bulley bought this Fol. bound in Calf, of Dr. Michell, Principal of Madg. Hall, for the sum of  £.10, June 1869." Richard Michell--Frederick Bulley copy.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

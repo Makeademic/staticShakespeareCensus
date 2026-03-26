@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.21.c.44"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/collection-items/first-edition-of-shakespeares-sonnets-1609"]
-notes: ["This edition has two issues: in this issue, the imprint includes the name of John Wright (STC)."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The second Museum copy (C. 21. c. 44), which measures 7 1/16 x 5 3/16", has the title-page and last leaf in a dirty condition, but otherwise it is a good copy. Some pages are \r\nmended. It is bound in yellow morocco. It was apparently sold with the library of B. H. Bright in 1845 for £34 10s. 0d. It has the Wright imprint. It was reproduced in Shakspere-\r\nQuarto Facsimiles, No. 30, by Charles Praetorius in 1886."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["2"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7
@@ -97,38 +74,8 @@ t
 
 https://www.bl.uk/collection-items/first-edition-of-shakespeares-sonnets-1609
 
-This edition has two issues: in this issue, the imprint includes the name of John Wright (STC).
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The second Museum copy (C. 21. c. 44), which measures 7 1/16 x 5 3/16", has the title-page and last leaf in a dirty condition, but otherwise it is a good copy. Some pages are \r\nmended. It is bound in yellow morocco. It was apparently sold with the library of B. H. Bright in 1845 for £34 10s. 0d. It has the Wright imprint. It was reproduced in Shakspere-\r\nQuarto Facsimiles, No. 30, by Charles Praetorius in 1886.
-
-1
-
-f
-
-f
-
-2
-
-0
-
-f
 
 f

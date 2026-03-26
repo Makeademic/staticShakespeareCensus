@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["105470"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition displays the typographical peculiarities that Bartlett ascribes to the third of the undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that there is a colon after "Caesar" in line 1 of title. In this edition, p. 15 is usually--but, as noted on specific copies, not always--misnumbered 51. As in the second undated quarto, larger type was used to set C1v-C2r (pp. 18-19) and D2v-D2r (pp. 28-29). For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work."]
-local_notes: ["Cropped at head, affecting some page numbers."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Old library notations and price codes on front pastedown; rectangular blocks of ink surrounding the "A" line of title; "B" written beside "LONDON" in imprint."]
-condition: ["\N"]
-binding: ["Red morocco, gilt edges"]
-binder: ["L. Broca"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["482"]
-Bartlett1939_notes: ["HUNTINGTON. 8 3/8 x 6 5/8". The McDevitt, Wilson (sold, January 21, 1920) copy. Bound in red morocco, by L. Broca."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from McDevitt, Wilson Co., 21 Jan. 1920"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 937
@@ -97,44 +74,8 @@ t
 
 \N
 
-This edition displays the typographical peculiarities that Bartlett ascribes to the third of the undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that there is a colon after "Caesar" in line 1 of title. In this edition, p. 15 is usually--but, as noted on specific copies, not always--misnumbered 51. As in the second undated quarto, larger type was used to set C1v-C2r (pp. 18-19) and D2v-D2r (pp. 28-29). For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work.
-
-Cropped at head, affecting some page numbers.
-
 0
 
 0
-
-Old library notations and price codes on front pastedown; rectangular blocks of ink surrounding the "A" line of title; "B" written beside "LONDON" in imprint.
-
-\N
-
-Red morocco, gilt edges
-
-L. Broca
-
-\N
-
-\N
-
-482
-
-HUNTINGTON. 8 3/8 x 6 5/8". The McDevitt, Wilson (sold, January 21, 1920) copy. Bound in red morocco, by L. Broca.
-
-0
-
-Purchased from McDevitt, Wilson Co., 21 Jan. 1920
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

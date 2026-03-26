@@ -24,31 +24,8 @@ location_name: ["Princeton University"]
 shelfmark: ["RHT 17th-515"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Title-page and A gathering remargined."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Erased pencil writing on t.p. illegible ("Soth[...]??") [ZL]  Erased ink note on A1v, illegible [ZL]"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["716"]
-Bartlett1939_notes: ["HILL. 7¼ x 5 5/16". Upper outer blank corners of first 4 leaves supplied. The Jolley (Part IV, June 10, 1844, n. 600, £5. 15s. 6d. to), Thorpe, S. S. Terry (December 4, 1935, n. 355, $950) copy. Bound in brown morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookplate of Thomas Jolley, Esq. F.S.A.  Bookplate of James Terry, with motto "Ex Cruce Leo". Ex-Libris Hannah D. Rabinowitz. Bookplate of Robert H. Taylor."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1596
@@ -99,42 +76,8 @@ t
 
 \N
 
-Title-page and A gathering remargined.
-
 0
 
 0
-
-Erased pencil writing on t.p. illegible ("Soth[...]??") [ZL]  Erased ink note on A1v, illegible [ZL]
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-716
-
-HILL. 7¼ x 5 5/16". Upper outer blank corners of first 4 leaves supplied. The Jolley (Part IV, June 10, 1844, n. 600, £5. 15s. 6d. to), Thorpe, S. S. Terry (December 4, 1935, n. 355, $950) copy. Bound in brown morocco.
-
-0
-
-Bookplate of Thomas Jolley, Esq. F.S.A.  Bookplate of James Terry, with motto "Ex Cruce Leo". Ex-Libris Hannah D. Rabinowitz. Bookplate of Robert H. Taylor.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

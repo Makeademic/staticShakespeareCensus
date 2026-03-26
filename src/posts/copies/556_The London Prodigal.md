@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22333 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161351-153793"]
-notes: null
-local_notes: ["cs0900. Folger file: There are variants from copies 1 and 2 in the inner forme of gathering A; the inner forme of gathering B matches that in copy 1. Trimmed throughout, affecting headlines. A3 torn and damamged at head, affecting text."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. markings, partially cropped, on t.p"]
-condition: ["\N"]
-binding: ["Half red goatskin"]
-binder: ["\N"]
-bookplate: ["William Gott"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["inscribed on t.p.: "George Steevens"; inscribed on front fly-leaf: "Thos. [Thomas] Jolley 1825"; armorial bookplate of William Gott (motto "nec temere nec timide") (the bookplate is pasted over and obscures another bookplate); John Gott, bishop of Truro, copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1254
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161351-153793
 
-cs0900. Folger file: There are variants from copies 1 and 2 in the inner forme of gathering A; the inner forme of gathering B matches that in copy 1. Trimmed throughout, affecting headlines. A3 torn and damamged at head, affecting text.
-
 0
 
 0
-
-MS. markings, partially cropped, on t.p
-
-\N
-
-Half red goatskin
-
-\N
-
-William Gott
-
-\N
-
-0
-
-0
-
-inscribed on t.p.: "George Steevens"; inscribed on front fly-leaf: "Thos. [Thomas] Jolley 1825"; armorial bookplate of William Gott (motto "nec temere nec timide") (the bookplate is pasted over and obscures another bookplate); John Gott, bishop of Truro, copy.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

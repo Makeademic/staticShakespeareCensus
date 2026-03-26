@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 P51619"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["17.9"]
 width: ["13.1"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full maroon morocco with title on spine; gilt-tooled inner dentelles."]
-binder: ["Riviere & Son"]
-bookplate: ["Bookplate of Roderick Terry."]
-bookplate_location: ["Front pastedown."]
-Bartlett1939: ["728"]
-Bartlett1939_notes: ["WELLS, GABRIEL. 7 1/8 x 5 1/8". Perhaps the Mostyn (May 31, 1907, n. 480, £100\r\nto), Quaritch copy. The Quaritch (sold to), R. Terry (November, 1934, n. 287,\r\n$1450) copy. Unbound in Mostyn sale, now bound in brown levant morocco, by\r\nRiviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Rosenbach on 7 August 1952."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 66
@@ -102,35 +79,5 @@ t
 17.9
 
 13.1
-
-\N
-
-Bound in full maroon morocco with title on spine; gilt-tooled inner dentelles.
-
-Riviere & Son
-
-Bookplate of Roderick Terry.
-
-Front pastedown.
-
-728
-
-WELLS, GABRIEL. 7 1/8 x 5 1/8". Perhaps the Mostyn (May 31, 1907, n. 480, £100\r\nto), Quaritch copy. The Quaritch (sold to), R. Terry (November, 1934, n. 287,\r\n$1450) copy. Unbound in Mostyn sale, now bound in brown levant morocco, by\r\nRiviere.
-
-0
-
-Purchased from Rosenbach on 7 August 1952.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

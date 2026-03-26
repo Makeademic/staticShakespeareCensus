@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22300 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163952-157583"]
-notes: null
-local_notes: ["cs0900."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. marking (of provenance?) on A2r: "Joh"]
-condition: ["\N"]
-binding: ["Half dark blue goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["707"]
-Bartlett1939_notes: ["FOLGER. 7 1/8 x 5¼". A few leaves stained. The Jennens (collected, c. 1740,\r\nbequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold,\r\nDecember, 1907) copy. Bound in half blue morocco."]
-Bartlett1916: ["497"]
-Bartlett1916_notes: ["FOLGER. 7 1/8 x 5¼". A few leaves stained. The Jennens (collected, c. 1740,\r\nbequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold,\r\nDecember, 1907) copy. Bound in half blue morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1310
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163952-157583
 
-cs0900.
-
 0
 
 0
-
-MS. marking (of provenance?) on A2r: "Joh"
-
-\N
-
-Half dark blue goatskin
-
-\N
-
-\N
-
-\N
-
-707
-
-FOLGER. 7 1/8 x 5¼". A few leaves stained. The Jennens (collected, c. 1740,\r\nbequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold,\r\nDecember, 1907) copy. Bound in half blue morocco.
-
-497
-
-FOLGER. 7 1/8 x 5¼". A few leaves stained. The Jennens (collected, c. 1740,\r\nbequeathed, 1773, to W. P. A. Curzon, ancestor of Lord Howe), Howe (sold,\r\nDecember, 1907) copy. Bound in half blue morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell S.35[2]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["With MS. marginalia"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["353"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Collated throughout by Capell with\r\neditions of 1600 and 1608. The Capell (presented, June, 1779) copy. Bound in\r\nbrown calf, with other Shakespeare plays."]
-Bartlett1916: ["235"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Collated throughout by Capell\r\nwith editions of 1600 and 1608. The Capell (presented, June, 1779) copy.\r\nBound in brown calf, with other Shakespeare plays. Pressmark, S. 35. 2."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1190
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-With MS. marginalia
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-353
-
-TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Collated throughout by Capell with\r\neditions of 1600 and 1608. The Capell (presented, June, 1779) copy. Bound in\r\nbrown calf, with other Shakespeare plays.
-
-235
-
-TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Collated throughout by Capell\r\nwith editions of 1600 and 1608. The Capell (presented, June, 1779) copy.\r\nBound in brown calf, with other Shakespeare plays. Pressmark, S. 35. 2.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

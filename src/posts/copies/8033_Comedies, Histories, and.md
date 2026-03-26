@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2915 Fo.4 no.14"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["In Folger copy 14, [superscript pi]A4 is misbound between [superscript pi]A1,2. Port. (on [pi]1 verso) in state 4. Wants *3E4.5. Imperfections affect text slightly on L1, M3, and 3B2 and very slightly on O4, Z2, 3A1, 3Q4, 3T3, 3Z3, and 3Z4."]
 height: ["38"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Rebound in 1905"]
-binder: ["Douglas Cockerell"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7154
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-In Folger copy 14, [superscript pi]A4 is misbound between [superscript pi]A1,2. Port. (on [pi]1 verso) in state 4. Wants *3E4.5. Imperfections affect text slightly on L1, M3, and 3B2 and very slightly on O4, Z2, 3A1, 3Q4, 3T3, 3Z3, and 3Z4.
-
 38
 
 0
-
-\N
-
-Rebound in 1905
-
-Douglas Cockerell
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

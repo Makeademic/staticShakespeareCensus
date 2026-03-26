@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69344"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The copy at Bridgewater House, the property of the Earl of Ellesmere, forms part of the library originally brought together by John Egerton, second Earl of Bridgewater (1622-1686). The leaves have been much cut down, and the copy measures 6 9/16 x 4¾"."]
-prov_info: ["bookplate and stamp of the Bridgewater library"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["60"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 106
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The copy at Bridgewater House, the property of the Earl of Ellesmere, forms part of the library originally brought together by John Egerton, second Earl of Bridgewater (1622-1686). The leaves have been much cut down, and the copy measures 6 9/16 x 4¾".
-
-bookplate and stamp of the Bridgewater library
-
-1
-
-f
-
-f
-
-60
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Smith College"]
 shelfmark: ["PR2750.A08 A1 1695"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition displays the typographical peculiarities that Bartlett ascribes to the first of the four undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that p. 19 is misnumbered 91. This edition has multiple states that differ in their pagination. Bartlett 1939 lists the pagination as follows, but other copies differ as noted in the specific copy: [2], 1, 4-18, 91, 20-27, 18, 29, 20, 31-40, 33-48, 57, 50, 51, 60, 61, 54, 55, 64. For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Repaired and rebound in a light brown calf Cambridge-style binding in July 2013. Previous binding and endpapers in MRBR conservation files (late-19th-century (?) dark maroon morocco (front cover was detached)"]
-binder: ["Daniel Gehnrich"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gift: Estate of Margaret Vanston Braatz Warner, Class of 1937, 2012. Unidentified ownership (?) stamp in green on verso of front free endpaper; pencil note refers to the "Ellis sale."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1220
@@ -97,38 +74,8 @@ t
 
 \N
 
-This edition displays the typographical peculiarities that Bartlett ascribes to the first of the four undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that p. 19 is misnumbered 91. This edition has multiple states that differ in their pagination. Bartlett 1939 lists the pagination as follows, but other copies differ as noted in the specific copy: [2], 1, 4-18, 91, 20-27, 18, 29, 20, 31-40, 33-48, 57, 50, 51, 60, 61, 54, 55, 64. For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work.
-
 0
 
 0
-
-\N
-
-Repaired and rebound in a light brown calf Cambridge-style binding in July 2013. Previous binding and endpapers in MRBR conservation files (late-19th-century (?) dark maroon morocco (front cover was detached)
-
-Daniel Gehnrich
-
-\N
-
-\N
-
-0
-
-0
-
-Gift: Estate of Margaret Vanston Braatz Warner, Class of 1937, 2012. Unidentified ownership (?) stamp in green on verso of front free endpaper; pencil note refers to the "Ellis sale."
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Guildhall Library"]
 shelfmark: ["149799-2001"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Ms notation of the page number of the first page of each play."]
-condition: ["\N"]
-binding: ["20th century full brown goatskin binding; 3 fillets on upper and lower covers and turnins; marbled endpapers"]
-binder: ["Zaehnsdorf"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Very faint ms inscription on first leaf "Elizabeth Bea[uvois?] her book". London Institution shelfmark C 60 / [41?] at head of title page."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7617
@@ -99,40 +76,8 @@ f
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 0
 
 0
-
-Ms notation of the page number of the first page of each play.
-
-\N
-
-20th century full brown goatskin binding; 3 fillets on upper and lower covers and turnins; marbled endpapers
-
-Zaehnsdorf
-
-\N
-
-\N
-
-0
-
-0
-
-Very faint ms inscription on first leaf "Elizabeth Bea[uvois?] her book". London Institution shelfmark C 60 / [41?] at head of title page.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

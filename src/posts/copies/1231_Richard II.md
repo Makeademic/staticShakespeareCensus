@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1615 (Shakespeare, W. Plays. Richard II. 1615.Tragedie of King Richard the Second)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["995"]
-Bartlett1939_notes: ["NEW YORK PUBLIC. 7 x 4 7/8". Title mended. "Jo. Ffowle, 1675. Nulla dies linea\r\nJ. ffow." on B2, in old handwriting. The Kinnear (sold to), Thorpe (Catalogue,\r\n1834, Part IV, n. 1967), H. Stevens (sold, December, 1855), Lenox (incorporated\r\nas Lenox Library, 1870; New York Public, 1895) copy. Bound in brown levant morocco, with Kinnear arms in gilt on sides."]
-Bartlett1916: ["702"]
-Bartlett1916_notes: ["NEW YORK PUBLIC. 7 x 4 7/8". Title mended. "Jo. Ffowle, 1675. Nulla dies linea\r\nJ. ffow." on B2, in old handwriting. The H. Stevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870; New York Public, 1895) copy. Bound in brown levant morocco, with Kinnear arms in gilt on sides."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 369
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-995
-
-NEW YORK PUBLIC. 7 x 4 7/8". Title mended. "Jo. Ffowle, 1675. Nulla dies linea\r\nJ. ffow." on B2, in old handwriting. The Kinnear (sold to), Thorpe (Catalogue,\r\n1834, Part IV, n. 1967), H. Stevens (sold, December, 1855), Lenox (incorporated\r\nas Lenox Library, 1870; New York Public, 1895) copy. Bound in brown levant morocco, with Kinnear arms in gilt on sides.
-
-702
-
-NEW YORK PUBLIC. 7 x 4 7/8". Title mended. "Jo. Ffowle, 1675. Nulla dies linea\r\nJ. ffow." on B2, in old handwriting. The H. Stevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870; New York Public, 1895) copy. Bound in brown levant morocco, with Kinnear arms in gilt on sides.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

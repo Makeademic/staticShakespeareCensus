@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR 50.15"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["A-H4; -A1 (blank); accession number 83004882"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["444"]
-Bartlett1939_notes: ["SHAKESPEARE BIRTHPLACE. 8½ x 6¼". A1 blank and lacking. The Halliwell\r\n(presented) copy. Bound in half roan."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Donated by J.O. Halliwell, 1864"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 862
@@ -97,40 +74,8 @@ t
 
 \N
 
-A-H4; -A1 (blank); accession number 83004882
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-444
-
-SHAKESPEARE BIRTHPLACE. 8½ x 6¼". A1 blank and lacking. The Halliwell\r\n(presented) copy. Bound in half roan.
-
-0
-
-Donated by J.O. Halliwell, 1864
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

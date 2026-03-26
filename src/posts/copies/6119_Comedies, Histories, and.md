@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["From auction catalogue: "First and last leaf remargined and probably supplied, Effigies leaf with inner margin renewed and apparently supplied, A1 or 6 and 2 supplied, B1, E1, P3.4, c1,2, l1, dd2.3 extended at upper margin, fore-margin of hh3 renewed, washed and pressed, some gentle browning and overall toning, a few minor repairs or tiny holes, sometimes touching a few letters, a few neat marginal tears, some text on D6v lightly printed."]
 height: ["32"]
 width: ["21.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["Burgundy crushed morocco, triple fillet border on sides, gilt spine, turn-ins and edges (minor wear at hinges); red cloth slipcase."]
-binder: ["Rivière & Son"]
-bookplate: ["John Whipple Frothingham"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Christie's, 10 Dec 2019, £150,000, buyer unknown. From auction catalogue: "J.W. Frothingham, the 20th-century owner of this copy, also owned a Fourth Folio (sold Sotheby’s 15 Dec. 2015, lot 32)."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7943
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-From auction catalogue: "First and last leaf remargined and probably supplied, Effigies leaf with inner margin renewed and apparently supplied, A1 or 6 and 2 supplied, B1, E1, P3.4, c1,2, l1, dd2.3 extended at upper margin, fore-margin of hh3 renewed, washed and pressed, some gentle browning and overall toning, a few minor repairs or tiny holes, sometimes touching a few letters, a few neat marginal tears, some text on D6v lightly printed."
-
 32
 
 21.7
-
-\N
-
-Burgundy crushed morocco, triple fillet border on sides, gilt spine, turn-ins and edges (minor wear at hinges); red cloth slipcase.
-
-Rivière & Son
-
-John Whipple Frothingham
-
-\N
-
-0
-
-0
-
-Sold at Christie's, 10 Dec 2019, £150,000, buyer unknown. From auction catalogue: "J.W. Frothingham, the 20th-century owner of this copy, also owned a Fourth Folio (sold Sotheby’s 15 Dec. 2015, lot 32)."
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

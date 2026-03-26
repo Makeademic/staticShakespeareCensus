@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz 29 copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["Huth 1188 handwritten on endpaper; foxing on dedication page and frontispiece; other leaves generally clean"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin, gilt tooling, gilt edges"]
-binder: ["Bedford, Francis"]
-bookplate: ["Henry Huth"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7347
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-Huth 1188 handwritten on endpaper; foxing on dedication page and frontispiece; other leaves generally clean
-
 0
 
 0
-
-\N
-
-Red goatskin, gilt tooling, gilt edges
-
-Bedford, Francis
-
-Henry Huth
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

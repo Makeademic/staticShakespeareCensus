@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 34"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["30.8"]
 width: ["19.9"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in the late nineteenth century by F. Bedford, in red goatskin. Sewn on 6 single raised cords laced through the boards. Double tiered front bead headband, sewn with green, red and white silk over dark paper rolled over cord cores. There is gilt on all three edges. Endpapers are red, blue, green and yellow marble paper in a French curl on nonpareil pattern."]
-binder: ["Bedford, Francis"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["92"]
-rasmussen_west_notes: ["Myles Birket Foster (1825-1899) was the first confirmed owner of this volume. Foster was an engraver, watercolor artist, and illustrator who is best remembered for his landscape scenes and illustrations for the works of contemporary poets such as Henry Wadsworth Longfellow...). Some bound leaves and some separate leaves are from the Second Folio."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6683
@@ -99,38 +76,8 @@ t
 
 \N
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 30.8
 
 19.9
-
-\N
-
-Bound in the late nineteenth century by F. Bedford, in red goatskin. Sewn on 6 single raised cords laced through the boards. Double tiered front bead headband, sewn with green, red and white silk over dark paper rolled over cord cores. There is gilt on all three edges. Endpapers are red, blue, green and yellow marble paper in a French curl on nonpareil pattern.
-
-Bedford, Francis
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-92
-
-Myles Birket Foster (1825-1899) was the first confirmed owner of this volume. Foster was an engraver, watercolor artist, and illustrator who is best remembered for his landscape scenes and illustrations for the works of contemporary poets such as Henry Wadsworth Longfellow...). Some bound leaves and some separate leaves are from the Second Folio.
-
-f
 
 f

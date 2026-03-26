@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2 no.27"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["Folger copy 27 is disbound and cased, with πA2 and 3d2-4 loose and encapsulated.  Leaf πA1 is wanting; the edges of πA2 (title leaf) and of πA3 are mutilated, affecting the imprint on πA2 (title leaf).  Mutilation affects marginalia on 3d2 recto, text on 3d3, and a rule on 3d4 recto. Port. (on title page) in state 3. Leaf P2 is wanting; supplied is an extract from the 12mo ed. of Merch. London: Printed for J. and P. Knapton ... [and 11 others], 1755, B3-6, which bear the corresponding text. Gathering e is wanting; supplied is an extract from the 12mo ed. of 1 Hen. IV.  London: Printed for J. Tonson and sold by W. Feales, 1732, A8-B5, which bear the corresponding text."]
 height: ["36"]
 width: ["0"]
-marginalia: ["Annotated throughout (to various extents) in several 18th-cent. hands. Imperfections affect text on P1, slightly on A5, D2, L2, X1, 2d5, and 2e4, and very slightly on P3, Z1,2, and 2h3.  Imperfections affect annotations on N2 verso and annotations and rules on 2C2.  Annotations on Y5 recto are obliterated.  Wear in outer margins slightly affects annotations elsewhere passim. Accompanied by notes and annotations in 18th-cent. hands on 5 separate leaves."]
-condition: ["\N"]
-binding: ["Disbound and cased."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6941
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-Folger copy 27 is disbound and cased, with πA2 and 3d2-4 loose and encapsulated.  Leaf πA1 is wanting; the edges of πA2 (title leaf) and of πA3 are mutilated, affecting the imprint on πA2 (title leaf).  Mutilation affects marginalia on 3d2 recto, text on 3d3, and a rule on 3d4 recto. Port. (on title page) in state 3. Leaf P2 is wanting; supplied is an extract from the 12mo ed. of Merch. London: Printed for J. and P. Knapton ... [and 11 others], 1755, B3-6, which bear the corresponding text. Gathering e is wanting; supplied is an extract from the 12mo ed. of 1 Hen. IV.  London: Printed for J. Tonson and sold by W. Feales, 1732, A8-B5, which bear the corresponding text.
-
 36
 
 0
-
-Annotated throughout (to various extents) in several 18th-cent. hands. Imperfections affect text on P1, slightly on A5, D2, L2, X1, 2d5, and 2e4, and very slightly on P3, Z1,2, and 2h3.  Imperfections affect annotations on N2 verso and annotations and rules on 2C2.  Annotations on Y5 recto are obliterated.  Wear in outer margins slightly affects annotations elsewhere passim. Accompanied by notes and annotations in 18th-cent. hands on 5 separate leaves.
-
-\N
-
-Disbound and cased.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

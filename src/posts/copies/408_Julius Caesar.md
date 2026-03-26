@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2927 copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Lacking blank leaf."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["430"]
-Bartlett1939_notes: ["FOLGER. 8½ x 6 3/8". The Warwick (sold, 1897) copy. Bound in half green morocco."]
-Bartlett1916: ["312"]
-Bartlett1916_notes: ["FOLGER. The Halliwell Rarities (sold, January, 1897, No. 105), Perry (sold,\r\nMarch, 1907) copy. Bound in half brown morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1672
@@ -97,40 +74,8 @@ t
 
 \N
 
-Lacking blank leaf.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Warwick Castle
-
-\N
-
-430
-
-FOLGER. 8½ x 6 3/8". The Warwick (sold, 1897) copy. Bound in half green morocco.
-
-312
-
-FOLGER. The Halliwell Rarities (sold, January, 1897, No. 105), Perry (sold,\r\nMarch, 1907) copy. Bound in half brown morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

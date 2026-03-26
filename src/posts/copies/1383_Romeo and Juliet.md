@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.58"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=83&LHPage=-2&RHCopy=83&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1140"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7 x 4 13/16". Title mended on inner margin; B2 top corner\r\nmended; L4 has small piece out of top margin, inner margin mended. The Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on sides, by Tuckett for the Museum."]
-Bartlett1916: ["820"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7 x 4 13/16". Title mended on inner margin; B2 top corner\r\nmended; L4 has small piece out of top margin, inner margin mended. The Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on sides, by Tuckett for the Museum. Pressmark, C. 34. k. 58."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 37
@@ -102,35 +79,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=83&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1140
-
-BRITISH MUSEUM. 7 x 4 13/16". Title mended on inner margin; B2 top corner\r\nmended; L4 has small piece out of top margin, inner margin mended. The Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on sides, by Tuckett for the Museum.
-
-820
-
-BRITISH MUSEUM. 7 x 4 13/16". Title mended on inner margin; B2 top corner\r\nmended; L4 has small piece out of top margin, inner margin mended. The Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on sides, by Tuckett for the Museum. Pressmark, C. 34. k. 58.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

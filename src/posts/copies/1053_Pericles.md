@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["H.28.e.19"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755437"]
-notes: ["There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]"]
-local_notes: ["Black ink stamp "Adv Lib" at bottom of title page; round Advocates Library black ink stamp on recto of first fly leaf.\r\nNumerous corners damaged or missing without loss of text."]
 height: ["17.5"]
 width: ["13"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in brown calf"]
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Acquired by the Advocates Library in the 19th c."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1386
@@ -99,34 +76,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120755437
 
-There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]
-
-Black ink stamp "Adv Lib" at bottom of title page; round Advocates Library black ink stamp on recto of first fly leaf.\r\nNumerous corners damaged or missing without loss of text.
-
 17.5
 
 13
-
-\N
-
-Bound in brown calf
-
-0
-
-0
-
-Acquired by the Advocates Library in the 19th c.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

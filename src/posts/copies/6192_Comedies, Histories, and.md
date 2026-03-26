@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69390"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Richard Meighan as the publisher."]
-local_notes: ["a1, t.p. from another copy (matching STC 22274d); t.p., a5, 3d2 inlaid; 3d1 mutilated; 3d3,4 in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Rivière & Son"]
-bookplate: ["F.A. Marshall; E.D. Church"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7310
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Richard Meighan as the publisher.
-
-a1, t.p. from another copy (matching STC 22274d); t.p., a5, 3d2 inlaid; 3d1 mutilated; 3d3,4 in facsimile.
-
 0
 
 0
-
-\N
-
-\N
-
-Rivière & Son
-
-F.A. Marshall; E.D. Church
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

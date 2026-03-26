@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.a.45"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["Three copies of the edition are in the British Museum, but only one of them has the frontispiece (C. 34. a. 45). The perfect copy, which measures 5 7/16 x 3 3/16", was acquired by the Museum, April 3, 1865. It is stained and very closely trimmed, but the impression of the frontispiece is singularly brilliant, though the verses beneath it have been cut into by the binder. This copy was at one time in the possession of Halliwell[-Phillipps], who sold it by auction at Sotheby's in May, 1856, for £25 10s. 0d. Halliwell[-Phillipps] inserted a manuscript note, calling attention to the extreme rarity of the edition with the frontispiece, and to its comparatively frequent occurrence without that embellishment."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["31"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1410
@@ -99,38 +76,8 @@ t
 
 \N
 
-Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Three copies of the edition are in the British Museum, but only one of them has the frontispiece (C. 34. a. 45). The perfect copy, which measures 5 7/16 x 3 3/16", was acquired by the Museum, April 3, 1865. It is stained and very closely trimmed, but the impression of the frontispiece is singularly brilliant, though the verses beneath it have been cut into by the binder. This copy was at one time in the possession of Halliwell[-Phillipps], who sold it by auction at Sotheby's in May, 1856, for £25 10s. 0d. Halliwell[-Phillipps] inserted a manuscript note, calling attention to the extreme rarity of the edition with the frontispiece, and to its comparatively frequent occurrence without that embellishment.
-
-1
-
-f
-
-f
-
-31
-
-0
-
-f
 
 f

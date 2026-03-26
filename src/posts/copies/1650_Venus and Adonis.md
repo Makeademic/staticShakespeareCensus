@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 8"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["A fragment of the second edition, consisting of a portion of B (woodcut device, printed running title, three lines of the first stanza), B2-C3 inclusive, and F1-F3 inclusive. It is believed that a leaf now at Shakespeare's birthplace (SC 1653) came from this copy. The balance of the volume is in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full crimson levant"]
-binder: ["Sangorski and Sutcliffe"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 660
@@ -99,36 +76,8 @@ t
 
 \N
 
-A fragment of the second edition, consisting of a portion of B (woodcut device, printed running title, three lines of the first stanza), B2-C3 inclusive, and F1-F3 inclusive. It is believed that a leaf now at Shakespeare's birthplace (SC 1653) came from this copy. The balance of the volume is in facsimile.
-
 0
 
 0
-
-\N
-
-Full crimson levant
-
-Sangorski and Sutcliffe
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

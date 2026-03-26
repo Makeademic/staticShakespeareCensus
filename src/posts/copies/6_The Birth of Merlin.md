@@ -24,31 +24,8 @@ location_name: ["Eton College"]
 shelfmark: ["Saa2.8.22(05)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Cropped, with some loss to running titles, signatures, and catchwords on most leaves, plus loss of text at foot of F1 and G1."]
 height: ["16.8"]
 width: ["11.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["18th-century gold-tooled, mottled calf."]
-binder: null
-bookplate: ["Armorial bookplate of Anthony Morris Storer (1746-1799); Armorial bookplate of Eton College Library"]
-bookplate_location: ["Storer bookplate on front pastedown; Eton bookplate on front flyleaf"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookplate of Eton College. Storer bookplate; Storer bequest label dated 1800; bequeathed to Eton by Anthony Morris Storer in 1799."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1528
@@ -97,36 +74,8 @@ t
 
 \N
 
-Cropped, with some loss to running titles, signatures, and catchwords on most leaves, plus loss of text at foot of F1 and G1.
-
 16.8
 
 11.5
-
-\N
-
-18th-century gold-tooled, mottled calf.
-
-Armorial bookplate of Anthony Morris Storer (1746-1799); Armorial bookplate of Eton College Library
-
-Storer bookplate on front pastedown; Eton bookplate on front flyleaf
-
-0
-
-0
-
-Bookplate of Eton College. Storer bookplate; Storer bequest label dated 1800; bequeathed to Eton by Anthony Morris Storer in 1799.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

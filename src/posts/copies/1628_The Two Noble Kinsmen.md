@@ -24,31 +24,8 @@ location_name: ["Ohio State University"]
 shelfmark: ["PR 2870 A2 P7 1634B"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["On recto of second rear flyleaf: penciled dealer notes (including price code and inventory number): "Perfect (imprint cut into and some leaves a little browned) B. Quaritch 752. 27 XII 1907"\r\n\r\nTitle page mounted onto stub, w/ trimming at the bottom of the page eradicating a portion of the imprint. Some worming throughout the vol."]
 height: ["17.9"]
 width: ["12.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half-bound in blue morocco w/ gold tooling over plain grey paper"]
-binder: ["\N"]
-bookplate: ["Armorial plate of James W. Ellsworth"]
-bookplate_location: ["Center of front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4003
@@ -99,36 +76,8 @@ t
 
 \N
 
-On recto of second rear flyleaf: penciled dealer notes (including price code and inventory number): "Perfect (imprint cut into and some leaves a little browned) B. Quaritch 752. 27 XII 1907"\r\n\r\nTitle page mounted onto stub, w/ trimming at the bottom of the page eradicating a portion of the imprint. Some worming throughout the vol.
-
 17.9
 
 12.7
-
-\N
-
-Half-bound in blue morocco w/ gold tooling over plain grey paper
-
-\N
-
-Armorial plate of James W. Ellsworth
-
-Center of front pastedown
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

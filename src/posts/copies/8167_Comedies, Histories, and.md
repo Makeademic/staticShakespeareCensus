@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From Buddenbrooks catalogue: "seven leaves supplied from a slightly shorter copy (D1, 2G3 & 4, 3E4 & 5, 4B5 & 6), closed 2 inch tear to M1 neatly repaired, top corner of XX6 and outside edge of S4 with minor restoration."]
 height: ["34.7"]
 width: ["22.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Mid-19th century full brown paneled morocco, the thick boards paneled in double-ruled blind and with blind stamped corner pieces, the spine with tall raised bands ruled in blind, the compartments each with a central gilt leaf device, one compartment gilt lettered, turn-ins beautifully gilt tooled, endpapers marbled, a.e.g."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Offered for sale by Buddenbrooks, $225,000. Offered for sale by Yushodo, $167,520.40."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8055
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From Buddenbrooks catalogue: "seven leaves supplied from a slightly shorter copy (D1, 2G3 & 4, 3E4 & 5, 4B5 & 6), closed 2 inch tear to M1 neatly repaired, top corner of XX6 and outside edge of S4 with minor restoration."
-
 34.7
 
 22.5
-
-\N
-
-Mid-19th century full brown paneled morocco, the thick boards paneled in double-ruled blind and with blind stamped corner pieces, the spine with tall raised bands ruled in blind, the compartments each with a central gilt leaf device, one compartment gilt lettered, turn-ins beautifully gilt tooled, endpapers marbled, a.e.g.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Offered for sale by Buddenbrooks, $225,000. Offered for sale by Yushodo, $167,520.40.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

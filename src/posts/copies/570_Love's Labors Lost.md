@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["De.3.74"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://images.is.ed.ac.uk/luna/servlet/view/search?search=Submit&cat=0&q=%22De.3.74%22&dateRangeStart=&dateRangeEnd="]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["559"]
-Bartlett1939_notes: ["EDINBURGH UNIVERSITY. 6 13/16 x 4 7/8". Cropped at top. "No. 4" in old\r\nhand on title. The Drummond {presented, 1627) copy. Bound in green morocco,\r\narms of Edinburgh University on covers."]
-Bartlett1916: ["376"]
-Bartlett1916_notes: ["EDINBURGH UNIVERSITY. 6 13/16 x 4 7/8". Cropped at top. "No. 4" in old\r\nhand on title. The Drummond {presented, 1627) copy. Bound in green morocco,\r\narms of Edinburgh University on covers."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 218
@@ -100,35 +77,5 @@ https://images.is.ed.ac.uk/luna/servlet/view/search?search=Submit&cat=0&q=%22De.
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-559
-
-EDINBURGH UNIVERSITY. 6 13/16 x 4 7/8". Cropped at top. "No. 4" in old\r\nhand on title. The Drummond {presented, 1627) copy. Bound in green morocco,\r\narms of Edinburgh University on covers.
-
-376
-
-EDINBURGH UNIVERSITY. 6 13/16 x 4 7/8". Cropped at top. "No. 4" in old\r\nhand on title. The Drummond {presented, 1627) copy. Bound in green morocco,\r\narms of Edinburgh University on covers.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

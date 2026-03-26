@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From auction catalog: "a little worming in foremargins of the second half of the volume (mostly a single hole), a few rust-spots, small holes and other minor imperfections, marginal defects in D6, 2S4, 2U2 and 4C2, A1 recto (The Tempest)"]
 height: ["36"]
 width: ["23"]
-marginalia: null
-condition: ["\N"]
-binding: ["Contemporary mottled calf, rebacked, old gilt spine laid down, preserved in a brown quarter morocco case"]
-binder: ["\N"]
-bookplate: ["Viscount Belasyse"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Sotheby's by the Robinson Trust, in sale of Bibliotheca Phillippica 17th part, 30 June 1976, lot 4315, £2400, buyer: Francis Edwards (Firm). Sotheby's adds that this volume was formerly in the library of Newburgh Priory, Yorkshire and features the bookplate of Viscount Bellasyse (Earl of Fauconberg)."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8182
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From auction catalog: "a little worming in foremargins of the second half of the volume (mostly a single hole), a few rust-spots, small holes and other minor imperfections, marginal defects in D6, 2S4, 2U2 and 4C2, A1 recto (The Tempest)"
-
 36
 
 23
-
-\N
-
-Contemporary mottled calf, rebacked, old gilt spine laid down, preserved in a brown quarter morocco case
-
-\N
-
-Viscount Belasyse
-
-\N
-
-0
-
-0
-
-Sold at Sotheby's by the Robinson Trust, in sale of Bibliotheca Phillippica 17th part, 30 June 1976, lot 4315, £2400, buyer: Francis Edwards (Firm). Sotheby's adds that this volume was formerly in the library of Newburgh Priory, Yorkshire and features the bookplate of Viscount Bellasyse (Earl of Fauconberg).
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

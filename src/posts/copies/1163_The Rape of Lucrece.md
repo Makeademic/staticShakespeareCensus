@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1616 (Shakespeare, W. Rape of Lvcrece)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["There is a copy in the Lenox Library in the New York Public Library which has been cut close at top and bottom. This was probably the one priced by the bookseller Rodd in his catalogue of 1837 at four guineas, and may be that sold with the Venus and Adonis of 1636 and other poetical tracts at the sale of Thomas Pearson's library in 1788."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["18"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 676
@@ -102,33 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-There is a copy in the Lenox Library in the New York Public Library which has been cut close at top and bottom. This was probably the one priced by the bookseller Rodd in his catalogue of 1837 at four guineas, and may be that sold with the Venus and Adonis of 1636 and other poetical tracts at the sale of Thomas Pearson's library in 1788.
-
-1
-
-f
-
-f
-
-18
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Sir John Soane's Museum"]
 shelfmark: ["1527"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: ["The frontispiece with the Droeshout portrait of Shakespeare and Ben Jonson's verses 'To the Reader' is closely cropped and inlaid in a larger sheet."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["C19th diced russia calf, thin-thick-thin gilt-ruled borders, thick-thin gilt-ruled spine with gilt-tooled ornament at head and tail and lettering, gilt edges."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["There is no record in the archives of Soane's acquisition of his copy of the fourth folio, which is in a nineteenth-century binding on the evidence of the endpapers watermarked '1818'."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6927
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
-The frontispiece with the Droeshout portrait of Shakespeare and Ben Jonson's verses 'To the Reader' is closely cropped and inlaid in a larger sheet.
-
 0
 
 0
-
-\N
-
-C19th diced russia calf, thin-thick-thin gilt-ruled borders, thick-thin gilt-ruled spine with gilt-tooled ornament at head and tail and lettering, gilt edges.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-There is no record in the archives of Soane's acquisition of his copy of the fourth folio, which is in a nineteenth-century binding on the evidence of the endpapers watermarked '1818'.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Lambeth Palace Library"]
 shelfmark: ["[ZZ]1600.22.06"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Gathering E exists in two states: This issue contains the original E3 and E4."]
-local_notes: ["17th c. parchment binding with titles in ink on the spine."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1183
@@ -97,38 +74,8 @@ t
 
 \N
 
-Gathering E exists in two states: This issue contains the original E3 and E4.
-
-17th c. parchment binding with titles in ink on the spine.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR2411 .T851 1611*"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bound in red morocco, gold tooled, gilt edges, by Rivière & Son."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Book-plate of Marsden J. Perry. Autograph of George Steevens, the Shakespeare editor, on title page."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 628
@@ -97,38 +74,8 @@ t
 
 \N
 
-Bound in red morocco, gold tooled, gilt edges, by Rivière & Son.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Book-plate of Marsden J. Perry. Autograph of George Steevens, the Shakespeare editor, on title page.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2942 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs609. Mutilated at foot throughout, affecting t.p. imprint, text, signatures and catchwords. C1 partially torn away."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. markings."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["927"]
-Bartlett1939_notes: ["FOLGER. 8½ x 6½". Lower half of C1 lacking; edges torn, some letters injured.\r\nWith "Mary Smyth of Dublin" on title; "Edw. Dowden" stamped on binding.\r\nBound in half vellum."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscription on t.p.: "Mary Smyth [spelled "Smith" on title leaf verso] of Dublin"; stamp of Edward Dowden Library on front cover."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1369
@@ -99,42 +76,8 @@ t
 
 \N
 
-cs609. Mutilated at foot throughout, affecting t.p. imprint, text, signatures and catchwords. C1 partially torn away.
-
 0
 
 0
-
-MS. markings.
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-927
-
-FOLGER. 8½ x 6½". Lower half of C1 lacking; edges torn, some letters injured.\r\nWith "Mary Smyth of Dublin" on title; "Edw. Dowden" stamped on binding.\r\nBound in half vellum.
-
-0
-
-Inscription on t.p.: "Mary Smyth [spelled "Smith" on title leaf verso] of Dublin"; stamp of Edward Dowden Library on front cover.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

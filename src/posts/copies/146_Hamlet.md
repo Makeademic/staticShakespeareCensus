@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.65.9"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/tragedyofhamletp00shak_7"]
-notes: ["In this state the publisher's name is spelled correctly. [ESTC]"]
-local_notes: ["Quarterbound in red 19th-century goatskin and papier tourniquet. Pages trimmed closely, with losses to headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["115"]
-Bartlett1939_notes: ["BOSTON PUBLIC. 8 x 5 7/8". Cropped at top, injuring some head-lines. Purchased,\r\nAugust 16, 1882. Bound in boards, morocco back."]
-Bartlett1916: ["83"]
-Bartlett1916_notes: ["BOSTON PUBLIC. 8 x 5 7/8". Cropped at top, injuring some head-lines. Purchased,\r\nAugust 16, 1882. Bound in boards, morocco back."]
-Lee_notes: null
-prov_info: ["The bookplate of the BPL, dated August 16, 1882 is present on the front pastedown and the embossed stamp of the Library is present on the title page."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1138
@@ -97,44 +74,8 @@ t
 
 https://archive.org/details/tragedyofhamletp00shak_7
 
-In this state the publisher's name is spelled correctly. [ESTC]
-
-Quarterbound in red 19th-century goatskin and papier tourniquet. Pages trimmed closely, with losses to headlines.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-115
-
-BOSTON PUBLIC. 8 x 5 7/8". Cropped at top, injuring some head-lines. Purchased,\r\nAugust 16, 1882. Bound in boards, morocco back.
-
-83
-
-BOSTON PUBLIC. 8 x 5 7/8". Cropped at top, injuring some head-lines. Purchased,\r\nAugust 16, 1882. Bound in boards, morocco back.
-
-The bookplate of the BPL, dated August 16, 1882 is present on the front pastedown and the embossed stamp of the Library is present on the title page.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

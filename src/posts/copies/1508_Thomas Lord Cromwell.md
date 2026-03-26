@@ -24,31 +24,8 @@ location_name: ["Columbia University"]
 shelfmark: ["PR2869 .A1 1613g"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["G4 blank wanting. Title leaf and G3 remargined."]
 height: ["17.8"]
 width: ["11.5"]
-marginalia: ["On front pastedown: "The John Philip Kemble copy"; on title below author attribution: "First Edition"]
-condition: ["\N"]
-binding: ["Full red morocco"]
-binder: ["French Binders"]
-bookplate: ["Jack Harris Samuels Library; ghost of a small circular bookplate that has been removed (almost certainly John L. Clawson)"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Jack Harris Samuels copy, bequeathed by Mollie Harris Samuels; John Philip Kemble; John L. Clawson. Sold in Clawson's sale for $1150 to Gabriel Wells."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 749
@@ -97,40 +74,8 @@ t
 
 \N
 
-G4 blank wanting. Title leaf and G3 remargined.
-
 17.8
 
 11.5
-
-On front pastedown: "The John Philip Kemble copy"; on title below author attribution: "First Edition"
-
-\N
-
-Full red morocco
-
-French Binders
-
-Jack Harris Samuels Library; ghost of a small circular bookplate that has been removed (almost certainly John L. Clawson)
-
-\N
-
-0
-
-0
-
-Jack Harris Samuels copy, bequeathed by Mollie Harris Samuels; John Philip Kemble; John L. Clawson. Sold in Clawson's sale for $1150 to Gabriel Wells.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

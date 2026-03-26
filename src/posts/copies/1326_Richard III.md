@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.63"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=78&LHPage=-2&RHCopy=78&RHPage=-1"]
-notes: null
-local_notes: ["Imperfect; wanting sig. E2"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1088"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7 1/16 x 5 1/16". E2 lacking; cropped at top, injuring\r\nseveral headlines. "David (?) Mather, 1652" on C3 recto. The Garrick (bequeathed, 1779) copy. Bound in red morocco, Garrick's arms on back."]
-Bartlett1916: ["774"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7 1/16 x 5 1/16". E2 lacking; cropped at top, injuring\r\nseveral headlines. "David (?) Mather, 1652" on C3 recto. The Garrick (bequeathed, 1779) copy. Bound in red morocco, Garrick's arms on back. Pressmark, C. 34. k. 54."]
-Lee_notes: null
-prov_info: ["Garrick copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 404
@@ -99,42 +76,8 @@ t
 
 https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=78&LHPage=-2&RHCopy=78&RHPage=-1
 
-Imperfect; wanting sig. E2
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1088
-
-BRITISH MUSEUM. 7 1/16 x 5 1/16". E2 lacking; cropped at top, injuring\r\nseveral headlines. "David (?) Mather, 1652" on C3 recto. The Garrick (bequeathed, 1779) copy. Bound in red morocco, Garrick's arms on back.
-
-774
-
-BRITISH MUSEUM. 7 1/16 x 5 1/16". E2 lacking; cropped at top, injuring\r\nseveral headlines. "David (?) Mather, 1652" on C3 recto. The Garrick (bequeathed, 1779) copy. Bound in red morocco, Garrick's arms on back. Pressmark, C. 34. k. 54.
-
-Garrick copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.4013.24"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/othellomoorofven00shak_0"]
-notes: null
-local_notes: null
 height: ["22"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Halfbound in tan calfskin and shell marbled papers; spine rebacked."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["891"]
-Bartlett1939_notes: ["BOSTON PUBLIC. 8 5/16 x 6 7/16 ". Cropped at foot, injuring some catchwords.\r\nThe Barton (sold, May, 1873) copy. Bound in half calf."]
-Bartlett1916: ["640"]
-Bartlett1916_notes: ["BOSTON PUBLIC. 8 5/16 x 6 7/16 ". Cropped at foot, injuring some catchwords.\r\nThe Barton (sold, May, 1873) copy. Bound in half calf."]
-Lee_notes: null
-prov_info: ["The armorial bookplate of the Barton Library is present on the front pastedown."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1358
@@ -102,37 +79,5 @@ https://archive.org/details/othellomoorofven00shak_0
 22
 
 0
-
-\N
-
-Halfbound in tan calfskin and shell marbled papers; spine rebacked.
-
-\N
-
-\N
-
-\N
-
-891
-
-BOSTON PUBLIC. 8 5/16 x 6 7/16 ". Cropped at foot, injuring some catchwords.\r\nThe Barton (sold, May, 1873) copy. Bound in half calf.
-
-640
-
-BOSTON PUBLIC. 8 5/16 x 6 7/16 ". Cropped at foot, injuring some catchwords.\r\nThe Barton (sold, May, 1873) copy. Bound in half calf.
-
-The armorial bookplate of the Barton Library is present on the front pastedown.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

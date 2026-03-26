@@ -24,31 +24,8 @@ location_name: ["Hill Museum & Manuscript Library"]
 shelfmark: ["PR2751.A2 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://w3id.org/vhmml/readingRoom/view/510552"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Lacks the "verses" and title leaves, and four leaves at end. Title page supplied in facsimile. Bottom margin of many leaves repaired."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["19th century full leather"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Given by anonymous donor in 2018"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8183
@@ -99,40 +76,8 @@ t
 
 https://w3id.org/vhmml/readingRoom/view/510552
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Lacks the "verses" and title leaves, and four leaves at end. Title page supplied in facsimile. Bottom margin of many leaves repaired.
-
 0
 
 0
-
-\N
-
-19th century full leather
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Given by anonymous donor in 2018
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

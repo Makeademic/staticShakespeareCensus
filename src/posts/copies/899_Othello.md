@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S341.1681"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Slightly foxed; 2747"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["875"]
-Bartlett1939_notes: ["BIRMINGHAM. 8 5/16 x 6 7/16". Title extended on inner margin. Book-plate of William\r\nStaunton of Longbridge in Warwickshire. Purchased, 1879. Bound in half calf."]
-Bartlett1916: ["629"]
-Bartlett1916_notes: ["BIRMINGHAM. 8 5/16 x 6 7/16". Title extended on inner margin. Book-plate of William\r\nStaunton of Longbridge in Warwickshire. Purchased, 1879. Bound in half calf."]
-Lee_notes: null
-prov_info: ["Bookplate of William Staunton, Longbridge, Worcestershire"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1023
@@ -99,42 +76,8 @@ t
 
 \N
 
-Slightly foxed; 2747
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-875
-
-BIRMINGHAM. 8 5/16 x 6 7/16". Title extended on inner margin. Book-plate of William\r\nStaunton of Longbridge in Warwickshire. Purchased, 1879. Bound in half calf.
-
-629
-
-BIRMINGHAM. 8 5/16 x 6 7/16". Title extended on inner margin. Book-plate of William\r\nStaunton of Longbridge in Warwickshire. Purchased, 1879. Bound in half calf.
-
-Bookplate of William Staunton, Longbridge, Worcestershire
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

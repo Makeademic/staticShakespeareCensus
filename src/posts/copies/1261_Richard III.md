@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22314"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163890-157427"]
-notes: null
-local_notes: ["cs0063. MS. note on t.p. The title leaf is damaged and repaired. A4 partially torn away and repaired, affecting text."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half bound in dark blue goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1025"]
-Bartlett1939_notes: ["FOLGER. 7¼ x 5". Title mended in margins; A4 mended in lower outside corner,\r\nfour lines defective. The Jennens (collected, c. 1740, bequeathed, 1773, to W.P.A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco."]
-Bartlett1916: ["725"]
-Bartlett1916_notes: ["FOLGER. 7¼ x 5". Title mended in margins; A4 mended in lower outside corner,\r\nfour lines defective. The Jennens (collected, c. 1740, bequeathed, 1773, to W.P.A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco."]
-Lee_notes: null
-prov_info: ["Charles Jennens copy; William P.A. Curzon copy; Howe family library copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 599
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163890-157427
 
-cs0063. MS. note on t.p. The title leaf is damaged and repaired. A4 partially torn away and repaired, affecting text.
-
 0
 
 0
-
-\N
-
-Half bound in dark blue goatskin
-
-\N
-
-\N
-
-\N
-
-1025
-
-FOLGER. 7¼ x 5". Title mended in margins; A4 mended in lower outside corner,\r\nfour lines defective. The Jennens (collected, c. 1740, bequeathed, 1773, to W.P.A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco.
-
-725
-
-FOLGER. 7¼ x 5". Title mended in margins; A4 mended in lower outside corner,\r\nfour lines defective. The Jennens (collected, c. 1740, bequeathed, 1773, to W.P.A. Curzon, ancestor of Lord Howe), Howe (sold, December, 1907) copy. Bound in half blue morocco.
-
-Charles Jennens copy; William P.A. Curzon copy; Howe family library copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

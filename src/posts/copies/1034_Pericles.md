@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 U1 1619"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Many bibliographies and library catalogues consider this edition part of Whole Contention, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions."]
-local_notes: ["Pericles only."]
 height: ["17.1"]
 width: ["12.2"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full maroon morocco with title on spine and front board; gilt-tooled inner dentelles."]
-binder: ["Riviere & Son"]
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased 30 January 1946."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4090
@@ -99,36 +76,8 @@ t
 
 \N
 
-Many bibliographies and library catalogues consider this edition part of Whole Contention, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions.
-
-Pericles only.
-
 17.1
 
 12.2
-
-\N
-
-Bound in full maroon morocco with title on spine and front board; gilt-tooled inner dentelles.
-
-Riviere & Son
-
-0
-
-0
-
-Purchased 30 January 1946.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

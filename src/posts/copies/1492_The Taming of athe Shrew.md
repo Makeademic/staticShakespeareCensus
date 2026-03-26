@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G e.27"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1166"]
-Bartlett1939_notes: ["BODLEIAN. 7 x 5 1/8". Cropped at bottom, date cut from title, signatures and catchwords\r\ninjured throughout; E3 torn at foot. "1631" on title; old number "945" on\r\nfly. The Farmer (May 7, 1798, n. 7872) copy, purchased, 1842. Bound in half calf."]
-Bartlett1916: ["839"]
-Bartlett1916_notes: ["BODLEIAN. 7 x 5 1/8". Cropped at bottom, date cut from title, signatures and catchwords injured throughout; E3 torn at foot. "1631" on title; old number "945" on fly. The Farmer (May 7, 1798, n. 7872) copy, purchased, 1842. Bound in half calf. Pressmark, Malone, 885."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 226
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1166
-
-BODLEIAN. 7 x 5 1/8". Cropped at bottom, date cut from title, signatures and catchwords\r\ninjured throughout; E3 torn at foot. "1631" on title; old number "945" on\r\nfly. The Farmer (May 7, 1798, n. 7872) copy, purchased, 1842. Bound in half calf.
-
-839
-
-BODLEIAN. 7 x 5 1/8". Cropped at bottom, date cut from title, signatures and catchwords injured throughout; E3 torn at foot. "1631" on title; old number "945" on fly. The Farmer (May 7, 1798, n. 7872) copy, purchased, 1842. Bound in half calf. Pressmark, Malone, 885.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

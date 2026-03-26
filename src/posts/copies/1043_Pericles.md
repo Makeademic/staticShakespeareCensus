@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22337"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib165199-159211"]
-notes: ["There are two issues of this edition: this issue does not list a bookshop location in the imprint. [DEEP]"]
-local_notes: ["cs0900."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. notes on t.p. and final page."]
-condition: ["\N"]
-binding: ["Dark blue goatskin, gilt-tooled, c.1880-1890; stored in a dark-brown (?) goatskin pull-off box."]
-binder: ["Bernard David and Jules Domont"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased by Henry C. Folger in 1903 through J. O. Wright."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1382
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib165199-159211
 
-There are two issues of this edition: this issue does not list a bookshop location in the imprint. [DEEP]
-
-cs0900.
-
 0
 
 0
-
-MS. notes on t.p. and final page.
-
-\N
-
-Dark blue goatskin, gilt-tooled, c.1880-1890; stored in a dark-brown (?) goatskin pull-off box.
-
-Bernard David and Jules Domont
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased by Henry C. Folger in 1903 through J. O. Wright.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2941 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs10. Foxed."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half green goatskin with marbled papered boards and endpapers"]
-binder: ["Tuckett"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["896"]
-Bartlett1939_notes: ["FOLGER. 8 11/16 x 6¼". With "1864, Daniell No. 1447" in pencil on fly-leaf, but this is not that number, nor is there any Otliello, 1687, in the Daniell sale. The Halliwell copy. Bound in half straight-grained brown morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1360
@@ -99,38 +76,8 @@ t
 
 \N
 
-cs10. Foxed.
-
 0
 
 0
-
-\N
-
-Half green goatskin with marbled papered boards and endpapers
-
-Tuckett
-
-\N
-
-\N
-
-896
-
-FOLGER. 8 11/16 x 6¼". With "1864, Daniell No. 1447" in pencil on fly-leaf, but this is not that number, nor is there any Otliello, 1687, in the Daniell sale. The Halliwell copy. Bound in half straight-grained brown morocco.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

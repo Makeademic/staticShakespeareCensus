@@ -24,31 +24,8 @@ location_name: ["State Library of South Australia"]
 shelfmark: ["[none]"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["F. A. Symon"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["This is an ESTC duplicate entry for the privately held copy listed in ESTC; this privately held copy was registered at State Library of South Austria through their South Australian Early Imprints project."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6488
@@ -100,33 +77,5 @@ f
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-F. A. Symon
-
-\N
-
-0
-
-0
-
-This is an ESTC duplicate entry for the privately held copy listed in ESTC; this privately held copy was registered at State Library of South Austria through their South Australian Early Imprints project.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 Fo. 1 Noble Frag. 58"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Leaf from "Winter’s Tale." Sig. Aa3 (pages 281-82), end of Act I - partial Act II, sc. 1. Good condition; trimmed, a little light staining, sheet folded up at the bottom. Sold as part of Seymour de Ricci's A Noble Fragment (1926)."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Some light pencil markings."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7712
@@ -99,38 +76,8 @@ f
 
 \N
 
-Leaf from "Winter’s Tale." Sig. Aa3 (pages 281-82), end of Act I - partial Act II, sc. 1. Good condition; trimmed, a little light staining, sheet folded up at the bottom. Sold as part of Seymour de Ricci's A Noble Fragment (1926).
-
 0
 
 0
-
-Some light pencil markings.
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

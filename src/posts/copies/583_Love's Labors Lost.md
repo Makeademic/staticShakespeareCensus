@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.21"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=31&LHPage=-2&RHCopy=31&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["572"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 6 13/16 x 4 7/8". Cropped at top, injuring many head-lines. The Garrick (bequeathed, January, 1779) copy. Bound in green straight-grained morocco, with Garrick's arms on sides, by Tuckett for the Museum."]
-Bartlett1916: ["386"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 6 13/16 x 4 7/8". Cropped at top, injuring many headlines.\r\nThe Garrick (bequeathed, January, 1779) copy. Bound in green straight-grained\r\nmorocco, with Garrick's arms on sides, by Tuckett for the Museum. Pressmark,\r\nC. 34. k. 21."]
-Lee_notes: null
-prov_info: ["Garrick copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 200
@@ -100,37 +77,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=31&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-572
-
-BRITISH MUSEUM. 6 13/16 x 4 7/8". Cropped at top, injuring many head-lines. The Garrick (bequeathed, January, 1779) copy. Bound in green straight-grained morocco, with Garrick's arms on sides, by Tuckett for the Museum.
-
-386
-
-BRITISH MUSEUM. 6 13/16 x 4 7/8". Cropped at top, injuring many headlines.\r\nThe Garrick (bequeathed, January, 1779) copy. Bound in green straight-grained\r\nmorocco, with Garrick's arms on sides, by Tuckett for the Museum. Pressmark,\r\nC. 34. k. 21.
-
-Garrick copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

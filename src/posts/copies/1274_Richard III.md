@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 27"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Title and last leaf in facsimile. Full morocco binding by Sangorski and Sutcliffe. Spine incorrectly reads date of 1605."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Identified by SL as the Wolfreston copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1538
@@ -99,38 +76,8 @@ t
 
 \N
 
-Title and last leaf in facsimile. Full morocco binding by Sangorski and Sutcliffe. Spine incorrectly reads date of 1605.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Identified by SL as the Wolfreston copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

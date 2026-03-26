@@ -24,31 +24,8 @@ location_name: ["Auckland Public Library"]
 shelfmark: ["1640 SHAK"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bottom of title page remargined. Final gathering slightly cropped, affecting running titles."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Blue morocco with gilt rules; five raised bands; gilt foreedges; brown endpapers; back board detached."]
-binder: ["F. Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 640
@@ -99,36 +76,8 @@ t
 
 \N
 
-Bottom of title page remargined. Final gathering slightly cropped, affecting running titles.
-
 0
 
 0
-
-\N
-
-Blue morocco with gilt rules; five raised bands; gilt foreedges; brown endpapers; back board detached.
-
-F. Bedford
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

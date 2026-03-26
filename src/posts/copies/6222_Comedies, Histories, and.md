@@ -24,31 +24,8 @@ location_name: ["West Virginia University"]
 shelfmark: ["822.33 1.5C426"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists John Smethwick as the publisher."]
-local_notes: ["The book was purchased from bookseller Bernard Quaritch and there are a number of notes on its condition on the verso of the 1st free endpaper and the following endpaper including a note stating "all pages are authentic" and a note explaining repairs to the final pages, 413 - 419, in the Tragedy of Cymbeline, which were most likely damaged, trimmed, and mounted on a heavier paper."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in a sumptuous red leather with heavy gilt decorations on the spine, elegant framing on the front board, beautifully decorated turn ins, all edges gilt."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased and donated by West Virginia University alumnus, Arthur S. Dayton. Purchased from bookseller Bernard Quaritch"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7005
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists John Smethwick as the publisher.
-
-The book was purchased from bookseller Bernard Quaritch and there are a number of notes on its condition on the verso of the 1st free endpaper and the following endpaper including a note stating "all pages are authentic" and a note explaining repairs to the final pages, 413 - 419, in the Tragedy of Cymbeline, which were most likely damaged, trimmed, and mounted on a heavier paper.
-
 0
 
 0
-
-\N
-
-Bound in a sumptuous red leather with heavy gilt decorations on the spine, elegant framing on the front board, beautifully decorated turn ins, all edges gilt.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased and donated by West Virginia University alumnus, Arthur S. Dayton. Purchased from bookseller Bernard Quaritch
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

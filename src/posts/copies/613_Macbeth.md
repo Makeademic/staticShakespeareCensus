@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 48"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bound with: Ravenscroft, E. The citizen turn'd gentleman. London, 1673. Crowne, J. The history of Charles the Eighth of France. London, 1672. Dryden, J. Marriage a-la-mode. London, 1673. Shadwell, T. Epsom-Wells. London, 1673. Payne, H. The fatal jealousie. London, 1673. Payne, H. The morning ramble. London, 1673. Dryden, J. The assignation. London, 1673."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Worn calf, in box case by Sangorski and Sutcliffe"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["ACH arms on covers. From the library of Lord Harlech"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1557
@@ -97,38 +74,8 @@ t
 
 \N
 
-Bound with: Ravenscroft, E. The citizen turn'd gentleman. London, 1673. Crowne, J. The history of Charles the Eighth of France. London, 1672. Dryden, J. Marriage a-la-mode. London, 1673. Shadwell, T. Epsom-Wells. London, 1673. Payne, H. The fatal jealousie. London, 1673. Payne, H. The morning ramble. London, 1673. Dryden, J. The assignation. London, 1673.
-
 0
 
 0
-
-\N
-
-Worn calf, in box case by Sangorski and Sutcliffe
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-ACH arms on covers. From the library of Lord Harlech
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

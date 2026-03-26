@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 40"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Deep maroon morocco with green morocco doublures"]
-binder: ["David"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["The Abby E. Pope-Robert Hoe-C. L. F. Robinson-Roderick Terry copy. Sold at auction of Terry collection, 1935, $260."]
-bibliography: ["Mary L. Avery, "The Library of a Brooklyn Bibliophile," Pratt Institute Monthly vol. 2, no. 7 (March 1894): p. 203-209 (on Abby E. Pope)"]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1548
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-Deep maroon morocco with green morocco doublures
-
-David
-
-\N
-
-\N
-
-0
-
-0
-
-The Abby E. Pope-Robert Hoe-C. L. F. Robinson-Roderick Terry copy. Sold at auction of Terry collection, 1935, $260.
-
-Mary L. Avery, "The Library of a Brooklyn Bibliophile," Pratt Institute Monthly vol. 2, no. 7 (March 1894): p. 203-209 (on Abby E. Pope)
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

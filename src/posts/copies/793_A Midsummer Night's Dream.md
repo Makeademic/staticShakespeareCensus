@@ -24,31 +24,8 @@ location_name: ["Ohio State University"]
 shelfmark: ["PR2827 .A1 1600"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["Title and date ("1600") stamped in gilt on the spine.\r\n\r\nAt the top recto of the second front flyleaf is an unsigned ink inscription: "A copy of this edition fetched [erased] at a sale at Sotheby's, as noticed in the Notes & Queries, 4 Mr. 1854. Loscombe's copy sold in June, 1854, for [erased]."]
 height: ["17.1"]
 width: ["11.6"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half-bound in green morocco over yellow, red, green, and black marbled paper."]
-binder: ["\N"]
-bookplate: ["Henry Huth"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Stanley J. Kahrl; Henry Huth, with dark blue/black, gilt-stamped, leather armorial bookplate (EX MVSEO HVTHII) at the center of the front pastedown. A pencil note on the recto of the second front flyleaf indicates this was item 1211 in Huth's library."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4001
@@ -97,40 +74,8 @@ t
 
 \N
 
-\N
-
-Title and date ("1600") stamped in gilt on the spine.\r\n\r\nAt the top recto of the second front flyleaf is an unsigned ink inscription: "A copy of this edition fetched [erased] at a sale at Sotheby's, as noticed in the Notes & Queries, 4 Mr. 1854. Loscombe's copy sold in June, 1854, for [erased]."
-
 17.1
 
 11.6
-
-\N
-
-Half-bound in green morocco over yellow, red, green, and black marbled paper.
-
-\N
-
-Henry Huth
-
-Front pastedown
-
-0
-
-0
-
-Stanley J. Kahrl; Henry Huth, with dark blue/black, gilt-stamped, leather armorial bookplate (EX MVSEO HVTHII) at the center of the front pastedown. A pencil note on the recto of the second front flyleaf indicates this was item 1211 in Huth's library.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

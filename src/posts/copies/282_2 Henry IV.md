@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell S.35[3]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Gathering E exists in two states: This issue contains the original E3 and E4."]
-local_notes: ["-L2"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["333"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Title a little torn at foot. The\r\nCapell (presented, June, 1779) copy. Bound in brown calf, with other plays."]
-Bartlett1916: ["217"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Title a little torn at foot.\r\nThe Capell (presented, June, 1779) copy. Bound in brown calf, with other plays.\r\nPressmark, S. 35. 3."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1181
@@ -97,42 +74,8 @@ t
 
 \N
 
-Gathering E exists in two states: This issue contains the original E3 and E4.
-
--L2
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-333
-
-TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Title a little torn at foot. The\r\nCapell (presented, June, 1779) copy. Bound in brown calf, with other plays.
-
-217
-
-TRINITY COLLEGE, CAMBRIDGE. 7 x 4¾". Title a little torn at foot.\r\nThe Capell (presented, June, 1779) copy. Bound in brown calf, with other plays.\r\nPressmark, S. 35. 3.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

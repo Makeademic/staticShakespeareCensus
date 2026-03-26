@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles"]
 shelfmark: ["* PR2751 .A4"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Title-page mounted, part of imprint destroyed, with missing numbers added in pencil; several preliminary and final leaves remargined; some margins closely trimmed."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["18th-century [?] mottled calf; center panel outlined with gilt rolled border of dots; outer gilt border of leaves and ribbons intertwined; gilt corner-pieces; spine rebacked; new endpapers; inner gilt dentelles; all edges gilt.  In modern brown cloth and brown pebble grain leather slipcase; gold-stamped spine title "Shakespear's Works 1685."]
-binder: ["\N"]
-bookplate: ["Bernard Shaw Esq.; Myron Prinzmetal"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8430
@@ -99,38 +76,8 @@ f
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Title-page mounted, part of imprint destroyed, with missing numbers added in pencil; several preliminary and final leaves remargined; some margins closely trimmed.
-
 0
 
 0
-
-\N
-
-18th-century [?] mottled calf; center panel outlined with gilt rolled border of dots; outer gilt border of leaves and ribbons intertwined; gilt corner-pieces; spine rebacked; new endpapers; inner gilt dentelles; all edges gilt.  In modern brown cloth and brown pebble grain leather slipcase; gold-stamped spine title "Shakespear's Works 1685."
-
-\N
-
-Bernard Shaw Esq.; Myron Prinzmetal
-
-front pastedown
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

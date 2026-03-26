@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 18796 Copy 5"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161370-153822"]
-notes: ["\N"]
-local_notes: ["A2 from another copy."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Brown goatskin with gilt rolls"]
-binder: ["Mackenzie"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 188n24."]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1417
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161370-153822
 
-\N
-
-A2 from another copy.
-
 0
 
 0
-
-\N
-
-Brown goatskin with gilt rolls
-
-Mackenzie
-
-Warwick Castle
-
-\N
-
-0
-
-0
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 188n24.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

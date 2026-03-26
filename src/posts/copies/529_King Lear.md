@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["13408.110.15*"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["550"]
-Bartlett1939_notes: ["HARVARD. 7 5/16 x 5½". The Quaritch (Catalogue 124, September, 1892, n. 723 to), White (presented, June, 1928) copy. Bound in brown levant morocco, gilt border, by Hayday."]
-Bartlett1916: ["372"]
-Bartlett1916_notes: ["WHITE. 7 5/16 x 5½". The Quaritch (sold, September, 1892) copy.\r\nbrown levant morocco, gilt border, by Hayday."]
-Lee_notes: null
-prov_info: ["White copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 951
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-550
-
-HARVARD. 7 5/16 x 5½". The Quaritch (Catalogue 124, September, 1892, n. 723 to), White (presented, June, 1928) copy. Bound in brown levant morocco, gilt border, by Hayday.
-
-372
-
-WHITE. 7 5/16 x 5½". The Quaritch (sold, September, 1892) copy.\r\nbrown levant morocco, gilt border, by Hayday.
-
-White copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

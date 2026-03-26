@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.4012.17"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/tragedyofhamletp00shak_4"]
-notes: ["In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half tan calfskin and marbled papers."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["134"]
-Bartlett1939_notes: ["BOSTON PUBLIC. 8 9/16 x 6 5/16 ". The Barton (sold, May, 1873) copy. Bound in\r\nhalf calf."]
-Bartlett1916: ["94"]
-Bartlett1916_notes: ["BOSTON PUBLIC. 8 9/16 x 6 5/16 ". The Barton (sold, May, 1873) copy. Bound in\r\nhalf calf."]
-Lee_notes: null
-prov_info: ["The armorial bookplate of the Barton Library is present on the title page."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1141
@@ -97,42 +74,8 @@ t
 
 https://archive.org/details/tragedyofhamletp00shak_4
 
-In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included.
-
 0
 
 0
-
-\N
-
-Half tan calfskin and marbled papers.
-
-\N
-
-\N
-
-\N
-
-134
-
-BOSTON PUBLIC. 8 9/16 x 6 5/16 ". The Barton (sold, May, 1873) copy. Bound in\r\nhalf calf.
-
-94
-
-BOSTON PUBLIC. 8 9/16 x 6 5/16 ". The Barton (sold, May, 1873) copy. Bound in\r\nhalf calf.
-
-The armorial bookplate of the Barton Library is present on the title page.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

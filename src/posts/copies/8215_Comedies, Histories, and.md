@@ -24,31 +24,8 @@ location_name: ["University of Toronto, Thomas Fisher Library"]
 shelfmark: ["fisher .S52 A1 1685 f copy 2"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Pages 287-288 and 307-308 (4th group) slightly mutilated. Page 89 (2nd group) signed H; p. 164 and 169 (2nd group) correctly numbered. Wrongly signed leaves 2B1, 2C1-3, 2E3 and 2O1 corrected in MS."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["John Fothergill; H. Harvey Frost"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7626
@@ -99,38 +76,8 @@ f
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Pages 287-288 and 307-308 (4th group) slightly mutilated. Page 89 (2nd group) signed H; p. 164 and 169 (2nd group) correctly numbered. Wrongly signed leaves 2B1, 2C1-3, 2E3 and 2O1 corrected in MS.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-John Fothergill; H. Harvey Frost
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

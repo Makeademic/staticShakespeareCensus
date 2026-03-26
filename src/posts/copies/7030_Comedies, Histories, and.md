@@ -24,31 +24,8 @@ location_name: ["Williams College, Chapin Library"]
 shelfmark: ["Wing S2913 folio"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["C.C. Harrison-George L. Harrison-Mary McMillan Norton copy, bought 1877 in London by Charles Custis Harrison (1844-1929) from James Toovey, as a gift to the former's father, George Leib Harrison. In this gift the First folio was accompanied by the Second, Third and Fourth, all now in the Chapin."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7027
@@ -99,38 +76,8 @@ f
 
 \N
 
-This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-C.C. Harrison-George L. Harrison-Mary McMillan Norton copy, bought 1877 in London by Charles Custis Harrison (1844-1929) from James Toovey, as a gift to the former's father, George Leib Harrison. In this gift the First folio was accompanied by the Second, Third and Fourth, all now in the Chapin.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

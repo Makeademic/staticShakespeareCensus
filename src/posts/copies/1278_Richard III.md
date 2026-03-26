@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.49"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=70&LHPage=-2&RHCopy=70&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1040"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7 x 5". A few slight stains. Manuscript notes by Halliwell:\r\n"Cost me £84" and "A perfect copy of this most rare edition, which is not even\r\nnoted in any bibliographical list, was unknown to all the older commentators, & first mentioned in Collier's recent edition. The only other known copy is in the Bodleian." The Halliwell (sold, November 9, 1858) copy. Bound in red morocco."]
-Bartlett1916: ["738"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7 x 5". A few slight stains. Manuscript notes by Halliwell:\r\n"Cost me £84" and "A perfect copy of this most rare edition, which is not even\r\nnoted in any bibliographical list, was unknown to all the older commentators, & first mentioned in Collier's recent edition. The only other known copy is in the Bodleian." The Halliwell (sold, November 9, 1858) copy. Bound in red morocco. Pressmark, C. 34. k. 49."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 505
@@ -102,35 +79,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=70&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1040
-
-BRITISH MUSEUM. 7 x 5". A few slight stains. Manuscript notes by Halliwell:\r\n"Cost me £84" and "A perfect copy of this most rare edition, which is not even\r\nnoted in any bibliographical list, was unknown to all the older commentators, & first mentioned in Collier's recent edition. The only other known copy is in the Bodleian." The Halliwell (sold, November 9, 1858) copy. Bound in red morocco.
-
-738
-
-BRITISH MUSEUM. 7 x 5". A few slight stains. Manuscript notes by Halliwell:\r\n"Cost me £84" and "A perfect copy of this most rare edition, which is not even\r\nnoted in any bibliographical list, was unknown to all the older commentators, & first mentioned in Collier's recent edition. The only other known copy is in the Bodleian." The Halliwell (sold, November 9, 1858) copy. Bound in red morocco. Pressmark, C. 34. k. 49.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

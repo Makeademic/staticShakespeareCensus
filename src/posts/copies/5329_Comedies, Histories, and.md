@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 Fo.1 frag. folder 08"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Part of Othello only (loose leaves ss4-5 and tt2-4); tt3-4 still barely conjugate; badly damaged; multiple sets of sewing holes visible; stored in a folger with "268" in ink on inside front."]
 height: ["0"]
 width: ["0"]
-marginalia: ["On page 312, monetary calculations in pounds, shillings, and pence; unknown doodle repeated twice on page 324"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7733
@@ -99,38 +76,8 @@ t
 
 \N
 
-Part of Othello only (loose leaves ss4-5 and tt2-4); tt3-4 still barely conjugate; badly damaged; multiple sets of sewing holes visible; stored in a folger with "268" in ink on inside front.
-
 0
 
 0
-
-On page 312, monetary calculations in pounds, shillings, and pence; unknown doodle repeated twice on page 324
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

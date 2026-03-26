@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["Hb.3.21"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://images.is.ed.ac.uk/luna/servlet/detail/UoEgal~5~5~163315~369279:Shakespeare-First-Folio-Fragment,-e?qvq=q:first%20folio&mi=0&trs=13"]
-notes: null
-local_notes: ["Fragment of Winter's Tale 5.3, pasted onto vol. 3, p. 435 of The Works of William Shakespeare, eds. William George Clark and John Glover (1863–66)"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7645
@@ -99,36 +76,8 @@ t
 
 https://images.is.ed.ac.uk/luna/servlet/detail/UoEgal~5~5~163315~369279:Shakespeare-First-Folio-Fragment,-e?qvq=q:first%20folio&mi=0&trs=13
 
-Fragment of Winter's Tale 5.3, pasted onto vol. 3, p. 435 of The Works of William Shakespeare, eds. William George Clark and John Glover (1863–66)
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

@@ -24,31 +24,8 @@ location_name: ["University at Buffalo"]
 shelfmark: ["Vault PR2751 .A4 1685"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.lib.buffalo.edu/items/show/78829"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in deep red crushed morocco; gilt stamped on front, spine, and rear covers; giltstamped double rule on cover edges; panelled spine; giltstamped inside dentelles; all edges gilt; marbled endpapers.Bound by Riviere & Son. Housed in pull-off box bound in black leather; panelled spine; giltstamped on spine; spine is stamped with erroneous date of 1628."]
-binder: ["\N"]
-bookplate: ["Thomas B. Lockwood; Robert Hoe; Beverly Chew; C.L.F. Robinson, Newport, RI."]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Library records indicate folio was purchased by Thomas B. Lockwood from the George D. Smith Book Co."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7483
@@ -99,38 +76,8 @@ t
 
 https://digital.lib.buffalo.edu/items/show/78829
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 0
 
 0
-
-\N
-
-Bound in deep red crushed morocco; gilt stamped on front, spine, and rear covers; giltstamped double rule on cover edges; panelled spine; giltstamped inside dentelles; all edges gilt; marbled endpapers.Bound by Riviere & Son. Housed in pull-off box bound in black leather; panelled spine; giltstamped on spine; spine is stamped with erroneous date of 1628.
-
-\N
-
-Thomas B. Lockwood; Robert Hoe; Beverly Chew; C.L.F. Robinson, Newport, RI.
-
-\N
-
-0
-
-0
-
-Library records indicate folio was purchased by Thomas B. Lockwood from the George D. Smith Book Co.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

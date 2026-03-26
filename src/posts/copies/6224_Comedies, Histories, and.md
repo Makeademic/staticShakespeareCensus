@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell *[large].2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be sold at his shop at the signe of the blacke Beare in Pauls Church-yard"; the original sheet πA2.5 was replaced by a cancel, which is printed on thicker paper and probably dates from 1641, after Thomas Cotes died. [DEEP]"]
-local_notes: ["This copy has 'coppies' in the title, instead of 'copies', as described in the ESTC record."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscribed on front end-leaf: "John Buxton, July ye 2d 1710", "Channonz Feb: 1720"; Presented to Trinity College Cambridge by Edward Capell, 1779."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7012
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be sold at his shop at the signe of the blacke Beare in Pauls Church-yard"; the original sheet πA2.5 was replaced by a cancel, which is printed on thicker paper and probably dates from 1641, after Thomas Cotes died. [DEEP]
-
-This copy has 'coppies' in the title, instead of 'copies', as described in the ESTC record.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Inscribed on front end-leaf: "John Buxton, July ye 2d 1710", "Channonz Feb: 1720"; Presented to Trinity College Cambridge by Edward Capell, 1779.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

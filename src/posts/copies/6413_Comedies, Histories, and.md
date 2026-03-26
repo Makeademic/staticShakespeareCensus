@@ -24,31 +24,8 @@ location_name: ["Phoenix Public Library"]
 shelfmark: ["822.33 U3Sh15t 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: Romeo and Juliet only"]
 height: ["31.9"]
 width: ["20.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full calf"]
-binder: ["Bennet (N.Y.)"]
-bookplate: ["Alfred Knight"]
-bookplate_location: ["Inside front board"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inserted letter from C.A. Macpherson certifying that he collated the fragment with the Lennox copy of F2 in the New York Public Library (2nd March 1929) and “they agree in every particular”."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7331
@@ -99,38 +76,8 @@ t
 
 \N
 
-Fragment: Romeo and Juliet only
-
 31.9
 
 20.5
-
-\N
-
-Full calf
-
-Bennet (N.Y.)
-
-Alfred Knight
-
-Inside front board
-
-0
-
-0
-
-Inserted letter from C.A. Macpherson certifying that he collated the fragment with the Lennox copy of F2 in the New York Public Library (2nd March 1929) and “they agree in every particular”.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

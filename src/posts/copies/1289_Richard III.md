@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["[Shelfmark not available]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["impr. cropt"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1051"]
-Bartlett1939_notes: ["HARVARD. 6¾ x 4 7/8". Cropped top and bottom, injuring some head-lines and signatures; last line of title including date cut off. The N. Q. Pope (sold, June, 1895 to), Hoe (sold through Dodd, April, 1896 to), White (presented, June, 1928) copy. Bound in red levant morocco."]
-Bartlett1916: ["749"]
-Bartlett1916_notes: ["WHITE. 6¾ x 4 7/8". Cropped top and foot, injuring some headlines and signatures; last line of title including date cut off. The Pope (sold, June, 1895), Hoe (sold through Dodd, Mead & Co., April, 1896) copy. Bound in red levant morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 482
@@ -99,40 +76,8 @@ t
 
 \N
 
-impr. cropt
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1051
-
-HARVARD. 6¾ x 4 7/8". Cropped top and bottom, injuring some head-lines and signatures; last line of title including date cut off. The N. Q. Pope (sold, June, 1895 to), Hoe (sold through Dodd, April, 1896 to), White (presented, June, 1928) copy. Bound in red levant morocco.
-
-749
-
-WHITE. 6¾ x 4 7/8". Cropped top and foot, injuring some headlines and signatures; last line of title including date cut off. The Pope (sold, June, 1895), Hoe (sold through Dodd, Mead & Co., April, 1896) copy. Bound in red levant morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

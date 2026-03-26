@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["105467"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Lacking the blank."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Sangorski & Sutcliffe"]
-bookplate: ["Herschel V. Jones"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["434"]
-Bartlett1939_notes: ["HUNTINGTON. 8½ x 5 15/16 ". The Jones (March 4, 1919, n. 1418, $210 to G. D.\r\nSmith) copy. Bound in brown levant morocco, by Sangorski & Sutcliffe"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 868
@@ -97,38 +74,8 @@ t
 
 \N
 
-Lacking the blank.
-
 0
 
 0
-
-\N
-
-\N
-
-Sangorski & Sutcliffe
-
-Herschel V. Jones
-
-Front pastedown
-
-434
-
-HUNTINGTON. 8½ x 5 15/16 ". The Jones (March 4, 1919, n. 1418, $210 to G. D.\r\nSmith) copy. Bound in brown levant morocco, by Sangorski & Sutcliffe
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

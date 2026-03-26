@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From auction catalogue: "front free endpaper detached, frontispiece with upper, lower and inner margins extended and small repairs to fore-margin, title restored at gutter and upper blank margin and with short repaired tear at foot, dedication leaf (1A1) misbound after List of Actors and Catalogue leaf (1A4), approximately 120 leaves with one or more outer margins skilfully extended, very occasionally affecting border rules or a few letters, numerous small mostly marginal repaired tears, 16, L12 and approximately 10 other leaves with longer repaired tears affecting text, all affected letters and rules carefully supplied in manuscript facsimile."]
 height: ["35"]
 width: ["21.8"]
-marginalia: null
-condition: ["\N"]
-binding: ["Nineteenth-century maroon morocco, gilt center-piece ornament on sides, spine gilt lettered, turn-ins ruled in gilt, g.e., rebacked, original backstrip laid down"]
-binder: ["Pratt, W."]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Christie's, 17 May 1996, Property from the Collection of Edgar and Helen Hope Montgomery Scott, $16,100, buyer unknown."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8045
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From auction catalogue: "front free endpaper detached, frontispiece with upper, lower and inner margins extended and small repairs to fore-margin, title restored at gutter and upper blank margin and with short repaired tear at foot, dedication leaf (1A1) misbound after List of Actors and Catalogue leaf (1A4), approximately 120 leaves with one or more outer margins skilfully extended, very occasionally affecting border rules or a few letters, numerous small mostly marginal repaired tears, 16, L12 and approximately 10 other leaves with longer repaired tears affecting text, all affected letters and rules carefully supplied in manuscript facsimile."
-
 35
 
 21.8
-
-\N
-
-Nineteenth-century maroon morocco, gilt center-piece ornament on sides, spine gilt lettered, turn-ins ruled in gilt, g.e., rebacked, original backstrip laid down
-
-Pratt, W.
-
-\N
-
-\N
-
-0
-
-0
-
-Sold at Christie's, 17 May 1996, Property from the Collection of Edgar and Helen Hope Montgomery Scott, $16,100, buyer unknown.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

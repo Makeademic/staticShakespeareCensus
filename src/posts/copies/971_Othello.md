@@ -24,31 +24,8 @@ location_name: ["Princeton University"]
 shelfmark: ["3925.368.12 copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bound in maroon goatskin, tooled in gold."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["Unidentified copies, p. 136: "Vickery, Mar. 1, 1933. 8 5/16 x 6 3/16". Old maroon morocco. To Thoms & Eron. $12.50. (Fitzgerald copy.)"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Booklabel of Willis Vickery and bookplate of Percy Fitzgerald. Gift of Daniel Maggin."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1617
@@ -99,40 +76,8 @@ t
 
 \N
 
-Bound in maroon goatskin, tooled in gold.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-Unidentified copies, p. 136: "Vickery, Mar. 1, 1933. 8 5/16 x 6 3/16". Old maroon morocco. To Thoms & Eron. $12.50. (Fitzgerald copy.)"
-
-0
-
-Booklabel of Willis Vickery and bookplate of Percy Fitzgerald. Gift of Daniel Maggin.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

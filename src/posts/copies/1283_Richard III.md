@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G e.22"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1039"]
-Bartlett1939_notes: ["BODLEIAN. 7¼ x 5¼". A4, D4 extended in lower outer corner; B3 mended and\r\nstrengthened in upper margin; B1-C3 extended in upper outer corner; E1, E2, F1,\r\nI4-M2 extended and strengthened in upper inner corner; wormhole mended in B4-D1. Purchased, 1840. Bound in half calf, marbled paper sides."]
-Bartlett1916: ["737"]
-Bartlett1916_notes: ["BODLEIAN. 7¼ x 5¼". A4, D4 extended in lower outer corner; B3 mended and\r\nstrengthened in upper margin; Bi-C3 extended in upper outer corner; Ei, E2, Fi,\r\nI4-M2 extended and strengthened in upper inner corner; wormhole mended in B4-Di. Purchased, 1840. Bound in half calf, marbled paper sides. Pressmark, Malone, 880."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 503
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1039
-
-BODLEIAN. 7¼ x 5¼". A4, D4 extended in lower outer corner; B3 mended and\r\nstrengthened in upper margin; B1-C3 extended in upper outer corner; E1, E2, F1,\r\nI4-M2 extended and strengthened in upper inner corner; wormhole mended in B4-D1. Purchased, 1840. Bound in half calf, marbled paper sides.
-
-737
-
-BODLEIAN. 7¼ x 5¼". A4, D4 extended in lower outer corner; B3 mended and\r\nstrengthened in upper margin; Bi-C3 extended in upper outer corner; Ei, E2, Fi,\r\nI4-M2 extended and strengthened in upper inner corner; wormhole mended in B4-Di. Purchased, 1840. Bound in half calf, marbled paper sides. Pressmark, Malone, 880.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

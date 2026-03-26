@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S317.1695"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included."]
-local_notes: ["2722"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["133"]
-Bartlett1939_notes: ["BIRMINGHAM. 8½ x 6 3/8". G4 cropped at top, injuring head-line. Probably the\r\nDaniel (July 20, 1864, n. 1441) copy. The Sotheby (March 14, 1870, n. 568) copy.\r\nBound in half calf, by Lewis"]
-Bartlett1916: ["93"]
-Bartlett1916_notes: ["BIRMINGHAM. 8½ x 6 3/8". G4 cropped at top, injuring headline. Probably\r\nthe Daniel (July, 1864, No. 1441) copy. The Sotheby (March 14, 1870, No. 568)\r\ncopy. Bound in half calf, by Lewis."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 908
@@ -97,42 +74,8 @@ t
 
 \N
 
-In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included.
-
-2722
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-133
-
-BIRMINGHAM. 8½ x 6 3/8". G4 cropped at top, injuring head-line. Probably the\r\nDaniel (July 20, 1864, n. 1441) copy. The Sotheby (March 14, 1870, n. 568) copy.\r\nBound in half calf, by Lewis
-
-93
-
-BIRMINGHAM. 8½ x 6 3/8". G4 cropped at top, injuring headline. Probably\r\nthe Daniel (July, 1864, No. 1441) copy. The Sotheby (March 14, 1870, No. 568)\r\ncopy. Bound in half calf, by Lewis.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

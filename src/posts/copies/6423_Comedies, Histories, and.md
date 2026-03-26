@@ -24,31 +24,8 @@ location_name: ["Syracuse University"]
 shelfmark: ["822.33 S7c f"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: Macbeth and Hamlet only (pp. 151-302)."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Sylvan Lawrence Froelich"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7395
@@ -99,36 +76,8 @@ t
 
 \N
 
-Fragment: Macbeth and Hamlet only (pp. 151-302).
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Sylvan Lawrence Froelich
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

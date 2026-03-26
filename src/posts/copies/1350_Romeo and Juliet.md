@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["De.3.73"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1108"]
-Bartlett1939_notes: ["EDINBURGH UNIVERSITY. 7 1/16 x 4 13/16". M2 mended in margin. With "Wil.\r\nSha." on title, probably in Drummond's hand; some numbers and initials in old\r\nhand on title. The Drummond (presented, 1627) copy. Bound in green morocco."]
-Bartlett1916: ["793"]
-Bartlett1916_notes: ["EDINBURGH UNIVERSITY. 7 1/16 x 4 13/16". M2 mended in margin. With\r\n"Wil. Sha." on title probably in Drummond's hand; some numbers and initials in\r\nold hand on title. The Drummond (presented, 1627) copy. Bound in green\r\nmorocco."]
-Lee_notes: null
-prov_info: ["From the William Drummond of Hawthornden Collection"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 247
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1108
-
-EDINBURGH UNIVERSITY. 7 1/16 x 4 13/16". M2 mended in margin. With "Wil.\r\nSha." on title, probably in Drummond's hand; some numbers and initials in old\r\nhand on title. The Drummond (presented, 1627) copy. Bound in green morocco.
-
-793
-
-EDINBURGH UNIVERSITY. 7 1/16 x 4 13/16". M2 mended in margin. With\r\n"Wil. Sha." on title probably in Drummond's hand; some numbers and initials in\r\nold hand on title. The Drummond (presented, 1627) copy. Bound in green\r\nmorocco.
-
-From the William Drummond of Hawthornden Collection
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

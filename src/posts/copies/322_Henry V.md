@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["Hb.3.22"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["Fragment of leaf (C3), pasted into: The works of William Shakespeare / edited by William George Clark and John Glover. Cambridge, 1863-66. v.4, between p.630 and 631."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Halliwell-Phillipps Collection"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 489
@@ -99,40 +76,8 @@ t
 
 \N
 
-\N
-
-Fragment of leaf (C3), pasted into: The works of William Shakespeare / edited by William George Clark and John Glover. Cambridge, 1863-66. v.4, between p.630 and 631.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Halliwell-Phillipps Collection
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

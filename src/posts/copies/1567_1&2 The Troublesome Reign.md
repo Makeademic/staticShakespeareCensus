@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 14646 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161420-153899"]
-notes: null
-local_notes: ["cs1967."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin, gold-tooled"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["bookplate of Robert Hoe; collated by F. S. Ferguson at Quaritch, 5 May 1911."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1431
@@ -97,38 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib161420-153899
 
-cs1967.
-
 0
 
 0
-
-\N
-
-Red goatskin, gold-tooled
-
-Riviere & Son
-
-\N
-
-\N
-
-0
-
-0
-
-bookplate of Robert Hoe; collated by F. S. Ferguson at Quaritch, 5 May 1911.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

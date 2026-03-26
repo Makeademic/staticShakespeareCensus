@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22350"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161390-153858"]
-notes: null
-local_notes: ["4/29/46. Trimmed, affecting side-notes and headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Sprinkled sheep binding; stored in a red goatskin pull-off box"]
-binder: ["Riviere & Son"]
-bookplate: ["Thomas Fenwick Earsdon; Frank J. Hogan"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["illegible MS. note of provenance on t.p."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 679
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161390-153858
 
-4/29/46. Trimmed, affecting side-notes and headlines.
-
 0
 
 0
-
-\N
-
-Sprinkled sheep binding; stored in a red goatskin pull-off box
-
-Riviere & Son
-
-Thomas Fenwick Earsdon; Frank J. Hogan
-
-\N
-
-0
-
-0
-
-illegible MS. note of provenance on t.p.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

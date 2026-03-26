@@ -24,31 +24,8 @@ location_name: ["Washington University in St. Louis"]
 shelfmark: ["PS1668 S45 1685 4o"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["36"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Mottled calf"]
-binder: ["\N"]
-bookplate: ["Eugene Field"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7130
@@ -99,36 +76,8 @@ f
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 36
 
 0
-
-\N
-
-Mottled calf
-
-\N
-
-Eugene Field
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S344.1634"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Lightly stained; MS. ink marginalia; 65977"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1082"]
-Bartlett1939_notes: ["BIRMINGHAM. 6¾ x 5 1/16". D1-D4 extended on outer blank margins; some\r\nheadlines cropped. Notes on margins throughout. The R. Smith (sold, March,\r\n1884) copy. Bound in green levant morocco, by Hammond."]
-Bartlett1916: ["769"]
-Bartlett1916_notes: ["BIRMINGHAM. 6¾ x 5 1/16". Di-D4 extended on outer blank margins; some\r\nheadlines cropped. Notes on margins throughout. The R. Smith (sold, March,\r\n1884) copy. Bound in green levant morocco, by Hammond."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 406
@@ -99,40 +76,8 @@ t
 
 \N
 
-Lightly stained; MS. ink marginalia; 65977
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1082
-
-BIRMINGHAM. 6¾ x 5 1/16". D1-D4 extended on outer blank margins; some\r\nheadlines cropped. Notes on margins throughout. The R. Smith (sold, March,\r\n1884) copy. Bound in green levant morocco, by Hammond.
-
-769
-
-BIRMINGHAM. 6¾ x 5 1/16". Di-D4 extended on outer blank margins; some\r\nheadlines cropped. Notes on margins throughout. The R. Smith (sold, March,\r\n1884) copy. Bound in green levant morocco, by Hammond.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

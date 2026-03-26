@@ -24,31 +24,8 @@ location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: ["PR2750 .A32 1631 copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://colenda.library.upenn.edu/catalog/81431-p3qv3c958"]
-notes: null
-local_notes: ["Closely cropped at bottom margin with loss of imprint date; some leaves reinforced at outside margin. The date cut out of this copy has been inserted in SC 1482."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1185"]
-Bartlett1939_notes: ["University of PENNSYLVANIA. 7 x 4 15/16''. Title washed and has the date cut out and skillfully mended to look like an undated edition (see Census, n. 1174); H1-H4 remargined. The Bright (March 3, 1845, n. 5108, 17s.), Halliwell (presented, April, 1871 to), Furness (bequeathed, 1931) copy. Bound in red levant morocco, by Bedford."]
-Bartlett1916: ["853"]
-Bartlett1916_notes: ["FURNESS. 7 x 4 15/16''.Title washed and has the date cut out and skillfully\r\nmended to look like an undated edition; Hi-H4 remargined. The Bright ( March,\r\n1845, No. 5108), Halliwell (presented, April, 1871) copy. Bound in red levant\r\nmorocco, by Bedford."]
-Lee_notes: null
-prov_info: ["Gift of J.O. Halliwell to H.H.Furness, 1871"]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 184n57."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 231
@@ -99,44 +76,8 @@ t
 
 https://colenda.library.upenn.edu/catalog/81431-p3qv3c958
 
-Closely cropped at bottom margin with loss of imprint date; some leaves reinforced at outside margin. The date cut out of this copy has been inserted in SC 1482.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1185
-
-University of PENNSYLVANIA. 7 x 4 15/16''. Title washed and has the date cut out and skillfully mended to look like an undated edition (see Census, n. 1174); H1-H4 remargined. The Bright (March 3, 1845, n. 5108, 17s.), Halliwell (presented, April, 1871 to), Furness (bequeathed, 1931) copy. Bound in red levant morocco, by Bedford.
-
-853
-
-FURNESS. 7 x 4 15/16''.Title washed and has the date cut out and skillfully\r\nmended to look like an undated edition; Hi-H4 remargined. The Bright ( March,\r\n1845, No. 5108), Halliwell (presented, April, 1871) copy. Bound in red levant\r\nmorocco, by Bedford.
-
-Gift of J.O. Halliwell to H.H.Furness, 1871
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 184n57.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Miami University"]
 shelfmark: ["PR2751 .A4 1685"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.lib.miamioh.edu/digital/collection/wshakespeare/id/13626"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Lacks [pi]1, which consisted of the portrait of Shakespeare."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Numerous annotations in a late 17th century hand appear throughout. In same hand in manuscript on title page: "The first folio edit. by Heminges [and] Condell was printed in 1623."]
-condition: ["\N"]
-binding: ["Brown calf over in-board binding, boards stamped in blind, spine stamped in blind and gold."]
-binder: ["\N"]
-bookplate: ["Lord Leigh; Frederick S. Peck"]
-bookplate_location: ["Front pastedown; front flyleaf"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookseller stamp on front pastedown: "Iohn Merridew Literary Repository Near the courthouse Warwick." Donated by Dr. Otto O. Fisher"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7528
@@ -99,42 +76,8 @@ t
 
 https://digital.lib.miamioh.edu/digital/collection/wshakespeare/id/13626
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Lacks [pi]1, which consisted of the portrait of Shakespeare.
-
 0
 
 0
-
-Numerous annotations in a late 17th century hand appear throughout. In same hand in manuscript on title page: "The first folio edit. by Heminges [and] Condell was printed in 1623."
-
-\N
-
-Brown calf over in-board binding, boards stamped in blind, spine stamped in blind and gold.
-
-\N
-
-Lord Leigh; Frederick S. Peck
-
-Front pastedown; front flyleaf
-
-0
-
-0
-
-Bookseller stamp on front pastedown: "Iohn Merridew Literary Repository Near the courthouse Warwick." Donated by Dr. Otto O. Fisher
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

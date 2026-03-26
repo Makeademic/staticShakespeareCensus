@@ -24,31 +24,8 @@ location_name: ["University of Leeds, Brotherton Library"]
 shelfmark: ["BC Safe/SHA"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://explore.library.leeds.ac.uk/special-collections-explore/311580"]
-notes: ["This issue lists Richard Hawkins as the publisher."]
-local_notes: ["p. 418 repaired"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco binding in morocco case"]
-binder: ["Zaehnsdorf"]
-bookplate: ["Henry Grey, Duke of Kent, 1713; Sir Thomas Brooke"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7342
@@ -99,38 +76,8 @@ t
 
 https://explore.library.leeds.ac.uk/special-collections-explore/311580
 
-This issue lists Richard Hawkins as the publisher.
-
-p. 418 repaired
-
 0
 
 0
-
-\N
-
-Red morocco binding in morocco case
-
-Zaehnsdorf
-
-Henry Grey, Duke of Kent, 1713; Sir Thomas Brooke
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

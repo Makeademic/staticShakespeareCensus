@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JA 3736"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["The title-page exists in two states: in this issue, it does not list an author. [DEEP]  On the dating, see R. Carter Hailey, "The Dating Game: New Evidence for the Dates of Q4 Romeo and Juliet and Q4 Hamlet," Shakespeare Quarterly 58 (2007): 367-87."]
-local_notes: ["Imperfect. The title-page and leaves G4, L2-L4 are in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Nineteenth-century full green morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, gilt decoration and title lettering; gilt tooling to board edges and turn-ins; gilt edges; marbled endpapers. Boxed"]
-binder: ["F. Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1127"]
-Bartlett1939_notes: ["EDINBURGH UNIVERSITY. 7 x 4¾". Title, C4, L2-L4 in facsimile. Halliwell's\r\nnote on fly-leaf: "The Title & a few leaves are in Facsimile. A copy sold at Sotheby's,\r\n31 March, 1856, for £23." The Halliwell (presented, 1872) copy. Bound in green\r\nlevant morocco, by Bedford."]
-Bartlett1916: ["808"]
-Bartlett1916_notes: ["EDINBURGH UNIVERSITY. 7 x 4¾". Title, C4, L2-L4 in facsimile. Halliwell's\r\nnote on fly-leaf: "The Title & a few leaves are in Facsimile. A copy sold at\r\nSotheby's, 31 March, 1856, for £23." The Halliwell (presented, 1872) copy.\r\nBound in green levant morocco, by Bedford."]
-Lee_notes: null
-prov_info: ["Halliwell-Phillipps Collection."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 5859
@@ -99,44 +76,8 @@ f
 
 \N
 
-The title-page exists in two states: in this issue, it does not list an author. [DEEP]  On the dating, see R. Carter Hailey, "The Dating Game: New Evidence for the Dates of Q4 Romeo and Juliet and Q4 Hamlet," Shakespeare Quarterly 58 (2007): 367-87.
-
-Imperfect. The title-page and leaves G4, L2-L4 are in facsimile.
-
 0
 
 0
-
-\N
-
-Nineteenth-century full green morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, gilt decoration and title lettering; gilt tooling to board edges and turn-ins; gilt edges; marbled endpapers. Boxed
-
-F. Bedford
-
-\N
-
-\N
-
-1127
-
-EDINBURGH UNIVERSITY. 7 x 4¾". Title, C4, L2-L4 in facsimile. Halliwell's\r\nnote on fly-leaf: "The Title & a few leaves are in Facsimile. A copy sold at Sotheby's,\r\n31 March, 1856, for £23." The Halliwell (presented, 1872) copy. Bound in green\r\nlevant morocco, by Bedford.
-
-808
-
-EDINBURGH UNIVERSITY. 7 x 4¾". Title, C4, L2-L4 in facsimile. Halliwell's\r\nnote on fly-leaf: "The Title & a few leaves are in Facsimile. A copy sold at\r\nSotheby's, 31 March, 1856, for £23." The Halliwell (presented, 1872) copy.\r\nBound in green levant morocco, by Bedford.
-
-Halliwell-Phillipps Collection.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

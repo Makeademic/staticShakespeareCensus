@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22306 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs368. Imperfect: wanting bifolium C2.3 and gathering M, which are supplied in facsimile."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half russia"]
-binder: ["\N"]
-bookplate: ["Edward Hailstone"]
-bookplate_location: ["\N"]
-Bartlett1939: ["831"]
-Bartlett1939_notes: ["FOLGER. 7 1/8 x 5". C2, C3, M1-M4 in facsimile. The Hailstone (April 23, 1891,\r\nn. 2465), Sotheby (May 25, 1905, n. 645, £90), Pickering (sold, 1906) copy. Bound\r\nin half russia."]
-Bartlett1916: ["596"]
-Bartlett1916_notes: ["FOLGER. C2, C3, Mi-M4, in facsimile. The Sotheby (May 25, 1905, No. 645)\r\ncopy. Bound in half russia."]
-Lee_notes: null
-prov_info: ["MS. (bookseller's?) label ('3954') on t.p."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1342
@@ -99,42 +76,8 @@ t
 
 \N
 
-cs368. Imperfect: wanting bifolium C2.3 and gathering M, which are supplied in facsimile.
-
 0
 
 0
-
-\N
-
-Half russia
-
-\N
-
-Edward Hailstone
-
-\N
-
-831
-
-FOLGER. 7 1/8 x 5". C2, C3, M1-M4 in facsimile. The Hailstone (April 23, 1891,\r\nn. 2465), Sotheby (May 25, 1905, n. 645, £90), Pickering (sold, 1906) copy. Bound\r\nin half russia.
-
-596
-
-FOLGER. C2, C3, Mi-M4, in facsimile. The Sotheby (May 25, 1905, No. 645)\r\ncopy. Bound in half russia.
-
-MS. (bookseller's?) label ('3954') on t.p.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

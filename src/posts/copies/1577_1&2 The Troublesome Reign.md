@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 X1 1611"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Last leaf (M1) a facsimile."]
 height: ["17.1"]
 width: ["11.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full red morocco with title on spine."]
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: ["Purchased from Stonehill 14 January 1949."]
-bibliography: ["\N"]
-created_by_id: ["\N"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4089
@@ -97,40 +74,8 @@ t
 
 \N
 
-Last leaf (M1) a facsimile.
-
 17.1
 
 11.7
-
-\N
-
-Bound in full red morocco with title on spine.
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-Purchased from Stonehill 14 January 1949.
-
-\N
-
-\N
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

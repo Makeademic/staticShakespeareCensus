@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["[Shelfmark not available]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1028"]
-Bartlett1939_notes: ["BODLEIAN. 7 3/8 x 5 3/8". Title extended on lower margin and mended; A4 remargined front and foot: margins mended throughout, injuring some words on A3; wormhole mended in lower inner corner, B1-D1; Heber stamp and note on fly-leaf: "July 1816, Bt. of Whites stock G. Saunders £5. 7. 6." The Heber (Part II, June 5, 1834, n. 5464, £17) copy. Bound in red straight-grained morocco."]
-Bartlett1916: ["727"]
-Bartlett1916_notes: ["BODLEIAN. 7 3/8 x 5 3/8". Title extended on lower margin and mended; A4 remargined front and foot: margins mended throughout, injuring some words on A3; wormhole mended in lower inner corner, Bi-Di; Heber stamp and note on fly-leaf: "July 1816, Bt. of Whites stock G. Saunders £ 5.7.6." The Heber (June, 1834, No. 5464) copy. Bound in red straight-grained morocco. Pressmark, Malone, 879."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 530
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1028
-
-BODLEIAN. 7 3/8 x 5 3/8". Title extended on lower margin and mended; A4 remargined front and foot: margins mended throughout, injuring some words on A3; wormhole mended in lower inner corner, B1-D1; Heber stamp and note on fly-leaf: "July 1816, Bt. of Whites stock G. Saunders £5. 7. 6." The Heber (Part II, June 5, 1834, n. 5464, £17) copy. Bound in red straight-grained morocco.
-
-727
-
-BODLEIAN. 7 3/8 x 5 3/8". Title extended on lower margin and mended; A4 remargined front and foot: margins mended throughout, injuring some words on A3; wormhole mended in lower inner corner, Bi-Di; Heber stamp and note on fly-leaf: "July 1816, Bt. of Whites stock G. Saunders £ 5.7.6." The Heber (June, 1834, No. 5464) copy. Bound in red straight-grained morocco. Pressmark, Malone, 879.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

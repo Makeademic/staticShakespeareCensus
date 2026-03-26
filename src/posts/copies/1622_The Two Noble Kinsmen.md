@@ -24,31 +24,8 @@ location_name: ["Haverford College"]
 shelfmark: ["Philips 53"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Title and N1 in fascimile"]
 height: ["17.5"]
 width: ["12.5"]
-marginalia: ["Illegible note on M2r in outer margin, probably washed"]
-condition: ["\N"]
-binding: ["Brown calf, bind ruled lines"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["The E.L. Ferris copy;\r\nWilliam Pyle Philips copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 793
@@ -99,40 +76,8 @@ t
 
 \N
 
-Title and N1 in fascimile
-
 17.5
 
 12.5
-
-Illegible note on M2r in outer margin, probably washed
-
-\N
-
-Brown calf, bind ruled lines
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The E.L. Ferris copy;\r\nWilliam Pyle Philips copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

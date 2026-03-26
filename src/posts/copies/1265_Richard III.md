@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.46"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=67&LHPage=-2&RHCopy=67&RHPage=-1"]
-notes: null
-local_notes: ["-t.p., supplied in facsimile"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1030"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7¾ x 5½". Lacking title, replaced in facsimile. G2 has\r\nslight mend and small hole; I2 mended; scribble on B3. The Halliwell (sold,\r\nNovember 9, 1858) copy. Bound in red morocco."]
-Bartlett1916: ["730"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7¾ x 5½". Lacking title, replaced in facsimile. G2 has\r\nslight mend and small hole; I2 mended; scribble on B3. The Halliwell (sold,\r\nNovember 9, 1858) copy. Bound in red morocco. Pressmark, C. 34. k. 46."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 535
@@ -99,40 +76,8 @@ t
 
 https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=67&LHPage=-2&RHCopy=67&RHPage=-1
 
--t.p., supplied in facsimile
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1030
-
-BRITISH MUSEUM. 7¾ x 5½". Lacking title, replaced in facsimile. G2 has\r\nslight mend and small hole; I2 mended; scribble on B3. The Halliwell (sold,\r\nNovember 9, 1858) copy. Bound in red morocco.
-
-730
-
-BRITISH MUSEUM. 7¾ x 5½". Lacking title, replaced in facsimile. G2 has\r\nslight mend and small hole; I2 mended; scribble on B3. The Halliwell (sold,\r\nNovember 9, 1858) copy. Bound in red morocco. Pressmark, C. 34. k. 46.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

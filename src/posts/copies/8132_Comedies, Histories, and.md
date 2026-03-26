@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["From auction catalogue: "occasional spotting to contents; repaired tears here and there; generally good; scuffs and wear to slipcase"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full brown calfskin, circa 1820, decorated in a very spare geometric style reminiscent of cathedral bindings, spine tooled and lettered in gilt, inner gilt dentelles, inner leather joints, double silk endbands, gilt and gauffered edges, expertly rebacked, with the spine replaced; housed in full red morocco slip case by Scroll Club, New York"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Skinner Auctioneers, 2015, $46,125, buyer unknown. From auction catalogue: "old bookplate removed from inside board."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8003
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-From auction catalogue: "occasional spotting to contents; repaired tears here and there; generally good; scuffs and wear to slipcase"
-
 0
 
 0
-
-\N
-
-Full brown calfskin, circa 1820, decorated in a very spare geometric style reminiscent of cathedral bindings, spine tooled and lettered in gilt, inner gilt dentelles, inner leather joints, double silk endbands, gilt and gauffered edges, expertly rebacked, with the spine replaced; housed in full red morocco slip case by Scroll Club, New York
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Sold at Skinner Auctioneers, 2015, $46,125, buyer unknown. From auction catalogue: "old bookplate removed from inside board."
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

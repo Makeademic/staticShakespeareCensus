@@ -24,31 +24,8 @@ location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: ["EC Sh155.673m"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://colenda.library.upenn.edu/catalog/81431-p3zp3wm30"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Lines numbered in pencil by Furness"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["602"]
-Bartlett1939_notes: ["University of PENNSYLVANIA. 8 3/16 x 6 7/16 ". Cropped at foot, injuring some signatures. The Furness (purchased before 1880, bequeathed 1931) copy. Bound in boards, leather back."]
-Bartlett1916: ["409"]
-Bartlett1916_notes: ["FURNESS. 8 3/16 x 6 7/16 ". Cropped at foot, injuring some signatures. Purchased prior to 1880. Bound in boards, leather back."]
-Lee_notes: null
-prov_info: ["H.H. Furness"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 922
@@ -100,39 +77,5 @@ https://colenda.library.upenn.edu/catalog/81431-p3zp3wm30
 0
 
 0
-
-Lines numbered in pencil by Furness
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-602
-
-University of PENNSYLVANIA. 8 3/16 x 6 7/16 ". Cropped at foot, injuring some signatures. The Furness (purchased before 1880, bequeathed 1931) copy. Bound in boards, leather back.
-
-409
-
-FURNESS. 8 3/16 x 6 7/16 ". Cropped at foot, injuring some signatures. Purchased prior to 1880. Bound in boards, leather back.
-
-H.H. Furness
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

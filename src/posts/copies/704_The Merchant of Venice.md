@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1652 (Shakespeare, W. Most excellent historie of the merchant of Venice)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["A reissue of the 1637 edition printed by Marmaduke Parsons, with cancel title page. [ESTC]; This issue contains a cancel title leaf dated 1652, and adds an advertisement for books "Printed and solde by William Leake" [A1v]. [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["684"]
-Bartlett1939_notes: ["NEW YORK PUBLIC. 7 3/8 x 5¼". The H. Stevens (sold, December, 1855),\r\nLenox (incorporated as Lenox Library, 1870; New York Public, 1895) copy.\r\nBound in purple straight-grained morocco, by Clarke."]
-Bartlett1916: ["477"]
-Bartlett1916_notes: ["NEW YORK PUBLIC. 7 3/8 x 5¼". The H. Stevens (sold, December, 1855),\r\nLenox (incorporated as Lenox Library, 1870; New York Public, 1895) copy.\r\nBound in purple straight-grained morocco, by Clarke."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1064
@@ -97,40 +74,8 @@ t
 
 \N
 
-A reissue of the 1637 edition printed by Marmaduke Parsons, with cancel title page. [ESTC]; This issue contains a cancel title leaf dated 1652, and adds an advertisement for books "Printed and solde by William Leake" [A1v]. [DEEP]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-684
-
-NEW YORK PUBLIC. 7 3/8 x 5¼". The H. Stevens (sold, December, 1855),\r\nLenox (incorporated as Lenox Library, 1870; New York Public, 1895) copy.\r\nBound in purple straight-grained morocco, by Clarke.
-
-477
-
-NEW YORK PUBLIC. 7 3/8 x 5¼". The H. Stevens (sold, December, 1855),\r\nLenox (incorporated as Lenox Library, 1870; New York Public, 1895) copy.\r\nBound in purple straight-grained morocco, by Clarke.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

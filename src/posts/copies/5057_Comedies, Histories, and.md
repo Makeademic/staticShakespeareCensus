@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 26"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["31.8"]
 width: ["20.6"]
-marginalia: ["The first binder’s leaf has extensive pen MS epitaphs on Shakespeare."]
-condition: ["\N"]
-binding: ["Bound in the eighteenth century in sienna colored calfskin. Sewn on five raised single cords laced through the boards. Front bead, single tiered headband, sewn with rose and white linen tread over rolled paper cores. Edge treatment is sprinkled red. Binder's leaves are plain antique laid handmade paper single flyleaf and paste down."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["84"]
-rasmussen_west_notes: ["The first post-original binder’s leaf has three epitaphs on Shakespeare written in a contemporary hand on a rear flyleaf, as on the gravestone and on the monument in Holy Trinity Church, Stratford, and one unreported elsewhere."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6695
@@ -99,40 +76,8 @@ t
 
 \N
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 31.8
 
 20.6
-
-The first binder’s leaf has extensive pen MS epitaphs on Shakespeare.
-
-\N
-
-Bound in the eighteenth century in sienna colored calfskin. Sewn on five raised single cords laced through the boards. Front bead, single tiered headband, sewn with rose and white linen tread over rolled paper cores. Edge treatment is sprinkled red. Binder's leaves are plain antique laid handmade paper single flyleaf and paste down.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-84
-
-The first post-original binder’s leaf has three epitaphs on Shakespeare written in a contemporary hand on a rear flyleaf, as on the gravestone and on the monument in Holy Trinity Church, Stratford, and one unreported elsewhere.
-
-f
 
 f

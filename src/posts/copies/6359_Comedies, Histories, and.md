@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig 12 +632 copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Imperfect: leaf of verse, t.p., and p. 405-408 and 415-419 (sig. A1-A2, 3c3-3c4, 3d2-3d4) wanting. Issue cannot be determined."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7338
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Imperfect: leaf of verse, t.p., and p. 405-408 and 415-419 (sig. A1-A2, 3c3-3c4, 3d2-3d4) wanting. Issue cannot be determined.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

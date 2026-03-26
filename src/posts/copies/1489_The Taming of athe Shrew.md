@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69368"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["A. Motte"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1182"]
-Bartlett1939_notes: ["HUNTINGTON. 8 x 5 7/16". Title extended and mended in margins. Church bookplate. The N. Q. Pope (sold, December, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, blue levant doublures, gilt borders, some edges uncut, by Motte, for Mrs. Pope."]
-Bartlett1916: ["854"]
-Bartlett1916_notes: ["HUNTINGTON. 8 x 5 7/16". Title extended and mended in margins. Church bookplate. The Pope (sold, December, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, blue levant doublures, gilt borders, some edges uncut, by Motte."]
-Lee_notes: null
-prov_info: ["Pope copy; bookplate of E.D. Church"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 235
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-A. Motte
-
-\N
-
-\N
-
-1182
-
-HUNTINGTON. 8 x 5 7/16". Title extended and mended in margins. Church bookplate. The N. Q. Pope (sold, December, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, blue levant doublures, gilt borders, some edges uncut, by Motte, for Mrs. Pope.
-
-854
-
-HUNTINGTON. 8 x 5 7/16". Title extended and mended in margins. Church bookplate. The Pope (sold, December, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, blue levant doublures, gilt borders, some edges uncut, by Motte.
-
-Pope copy; bookplate of E.D. Church
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

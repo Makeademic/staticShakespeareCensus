@@ -24,31 +24,8 @@ location_name: ["Newberry Library"]
 shelfmark: ["VAULT Case 3A 891"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Riviere"]
-bookplate: ["Herschel V. Jones; Louis H. Silver"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1142"]
-Bartlett1939_notes: ["CLARK, C. W. 7 1/16 x 5 3/16". Title mended in margins, imprint shaved. The Jones\r\n(March 4, 1919, n. 1414, $900) copy. Bound in brown levant morocco, by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1711
@@ -102,33 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-Riviere
-
-Herschel V. Jones; Louis H. Silver
-
-\N
-
-1142
-
-CLARK, C. W. 7 1/16 x 5 3/16". Title mended in margins, imprint shaved. The Jones\r\n(March 4, 1919, n. 1414, $900) copy. Bound in brown levant morocco, by Riviere.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

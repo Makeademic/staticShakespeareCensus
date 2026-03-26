@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.176.19"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/mostexcellenthis00shak_1"]
-notes: ["There are two issues of this edition; this issue contains the original title leaf dated 1637. [DEEP]"]
-local_notes: ["Trimmed closely, with partial losses to running titles"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Early signature on I4 verso: "Jn.[?] Swain[e?]."]
-condition: ["\N"]
-binding: ["Half early calfskin and brown paper over boards"]
-binder: ["\N"]
-bookplate: ["Armorial bookplate of the Barton Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["656"]
-Bartlett1939_notes: ["BOSTON PUBLIC. 6 7/8 x 4 5/8". Title worn with margins cut close; cropped at top, injuring some head-lines; stained and foxed. With "4351" on label. The Barton (sold, May, 1873) copy. Bound in half calf."]
-Bartlett1916: ["453"]
-Bartlett1916_notes: ["BOSTON PUBLIC. 6 7/8 x 4 5/8". Title worn with margins cut close; cropped\r\nat top, injuring some headlines; stained and foxed. The Harton (sold, May, 1873) copy. Hound in half calf."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1285
@@ -97,44 +74,8 @@ t
 
 https://archive.org/details/mostexcellenthis00shak_1
 
-There are two issues of this edition; this issue contains the original title leaf dated 1637. [DEEP]
-
-Trimmed closely, with partial losses to running titles
-
 0
 
 0
-
-Early signature on I4 verso: "Jn.[?] Swain[e?]."
-
-\N
-
-Half early calfskin and brown paper over boards
-
-\N
-
-Armorial bookplate of the Barton Library
-
-\N
-
-656
-
-BOSTON PUBLIC. 6 7/8 x 4 5/8". Title worn with margins cut close; cropped at top, injuring some head-lines; stained and foxed. With "4351" on label. The Barton (sold, May, 1873) copy. Bound in half calf.
-
-453
-
-BOSTON PUBLIC. 6 7/8 x 4 5/8". Title worn with margins cut close; cropped\r\nat top, injuring some headlines; stained and foxed. The Harton (sold, May, 1873) copy. Hound in half calf.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

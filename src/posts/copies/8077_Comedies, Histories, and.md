@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S168.5F Case"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["MS. ink marginal correction note and signature on p. 1 first occurrance; 2E3-2E5 mutilated, affecting text; corner torn on 2N8, not affecting text; small minor stains on several leaves, not affecting text; additional caption of the portrait from the second impression of the third edition bound in at the beginning with a leaf of explanation in MS. of the differences between the verses in the various editions; MS. letter to Mr. Staunton bearing the transcription of a Shakespearean sonnet bound in at the beginning."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["William Staunton, Longbridge, Worcestershire"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6912
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-MS. ink marginal correction note and signature on p. 1 first occurrance; 2E3-2E5 mutilated, affecting text; corner torn on 2N8, not affecting text; small minor stains on several leaves, not affecting text; additional caption of the portrait from the second impression of the third edition bound in at the beginning with a leaf of explanation in MS. of the differences between the verses in the various editions; MS. letter to Mr. Staunton bearing the transcription of a Shakespearean sonnet bound in at the beginning.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-William Staunton, Longbridge, Worcestershire
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

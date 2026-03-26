@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JY 441"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Play house copy of Midsummer Night's Dream only, heavily marked for performance at the Smock Alley Theatre, Dublin"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Nineteenth-century manuscript inscription in ink on recto of rear fly-leaf: "C. and P."  Many annotations throughout in 18th-19th c hands."]
-condition: ["\N"]
-binding: ["Disbound; re-bound inside nineteenth-century half black stained leather over blue/black marbled paper covered boards; blind tooling to front and rear boards; gilt title lettering to spine."]
-binder: ["Bedford, Francis"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7032
@@ -99,38 +76,8 @@ f
 
 \N
 
-Play house copy of Midsummer Night's Dream only, heavily marked for performance at the Smock Alley Theatre, Dublin
-
 0
 
 0
-
-Nineteenth-century manuscript inscription in ink on recto of rear fly-leaf: "C. and P."  Many annotations throughout in 18th-19th c hands.
-
-\N
-
-Disbound; re-bound inside nineteenth-century half black stained leather over blue/black marbled paper covered boards; blind tooling to front and rear boards; gilt title lettering to spine.
-
-Bedford, Francis
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

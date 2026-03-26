@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["STC 22320"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Imperfect"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1075"]
-Bartlett1939_notes: ["HARVARD. 6 15/16 x 5". Cropped top and bottom, injuring some head-lines, signatures, catchwords and last lines of text. The Sotheby (July 28, 1903, n. 491, £111 to Quaritch for), White (presented, June, 1928) copy. Bound in maroon levant morocco, by Club Bindery for Mr. White."]
-Bartlett1916: ["768"]
-Bartlett1916_notes: ["WHITE. 6 15/16 x 5". Cropped top and foot, injuring some headlines, signatures,\r\ncatchwords and last lines of text. The Sotheby (July 28, 1903, No. 491) copy.\r\nBound in maroon levant morocco, by Club Bindery for Mr. White."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 431
@@ -99,40 +76,8 @@ t
 
 \N
 
-Imperfect
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1075
-
-HARVARD. 6 15/16 x 5". Cropped top and bottom, injuring some head-lines, signatures, catchwords and last lines of text. The Sotheby (July 28, 1903, n. 491, £111 to Quaritch for), White (presented, June, 1928) copy. Bound in maroon levant morocco, by Club Bindery for Mr. White.
-
-768
-
-WHITE. 6 15/16 x 5". Cropped top and foot, injuring some headlines, signatures,\r\ncatchwords and last lines of text. The Sotheby (July 28, 1903, No. 491) copy.\r\nBound in maroon levant morocco, by Club Bindery for Mr. White.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

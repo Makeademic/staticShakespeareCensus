@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["13408.108.15"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition displays the typographical peculiarities that Bartlett ascribes to the third of the undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that there is a colon after "Caesar" in line 1 of title. In this edition, p. 15 is usually--but, as noted on specific copies, not always--misnumbered 51. As in the second undated quarto, larger type was used to set C1v-C2r (pp. 18-19) and D2v-D2r (pp. 28-29). For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work."]
-local_notes: ["Contemporary manuscript corrections throughout. A few leaves too closely trimmed."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["481"]
-Bartlett1939_notes: ["HARVARD. 8¾ x 6 3/16 ". "John Genest, Dec. 12, 1815" on title and his notes in book. The Genest (1815), Pickering (sold in volume with other Shakespeare plays, March 26, 1898 to), White (presented, June, 1928) copy. Rebound in half morocco, by Walters, February, 1913, for Mr. White."]
-Bartlett1916: ["294"]
-Bartlett1916_notes: ["WHITE. 8¾ x 6 3/16". "John Genest, Dec. 12, 1815" on title and his notes in\r\nbook. The Genest (1815), Pickering (sold in volume with other Shakespeare plays, March 26, 1898) copy. Rebound for Mr. White, February, 1913, in half morocco, by Walters."]
-Lee_notes: null
-prov_info: ["Autograph of John Genest, Dec. 19, 1815, on title page. William Augustus White copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 940
@@ -97,44 +74,8 @@ t
 
 \N
 
-This edition displays the typographical peculiarities that Bartlett ascribes to the third of the undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that there is a colon after "Caesar" in line 1 of title. In this edition, p. 15 is usually--but, as noted on specific copies, not always--misnumbered 51. As in the second undated quarto, larger type was used to set C1v-C2r (pp. 18-19) and D2v-D2r (pp. 28-29). For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work.
-
-Contemporary manuscript corrections throughout. A few leaves too closely trimmed.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-481
-
-HARVARD. 8¾ x 6 3/16 ". "John Genest, Dec. 12, 1815" on title and his notes in book. The Genest (1815), Pickering (sold in volume with other Shakespeare plays, March 26, 1898 to), White (presented, June, 1928) copy. Rebound in half morocco, by Walters, February, 1913, for Mr. White.
-
-294
-
-WHITE. 8¾ x 6 3/16". "John Genest, Dec. 12, 1815" on title and his notes in\r\nbook. The Genest (1815), Pickering (sold in volume with other Shakespeare plays, March 26, 1898) copy. Rebound for Mr. White, February, 1913, in half morocco, by Walters.
-
-Autograph of John Genest, Dec. 19, 1815, on title page. William Augustus White copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

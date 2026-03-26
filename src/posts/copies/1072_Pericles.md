@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.505"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755438"]
-notes: null
-local_notes: ["Leaf I2 repaired at top."]
 height: ["18.5"]
 width: ["13.2"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in half green morocco with marbled paper covers"]
-binder: null
-bookplate: ["3rd Marquis of Bute"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["CRICHTON STUART"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1394
@@ -99,36 +76,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120755438
 
-Leaf I2 repaired at top.
-
 18.5
 
 13.2
-
-\N
-
-Bound in half green morocco with marbled paper covers
-
-3rd Marquis of Bute
-
-front pastedown
-
-0
-
-0
-
-CRICHTON STUART
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

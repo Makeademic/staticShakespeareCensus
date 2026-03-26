@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2915 Fo.4 no.37"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Folger copy 37 wants the "verses" leaf with port. ([pi]1); an excised copy of the port. in state 4, proper to this edition, has been mounted to face the title page ([pi]2 recto) replacing the wanting "verses" leaf with port. Apparently made up from two or more copies.  Onward from the beginning of Romeo (*3D3 ff.), leaves are untypically waterstained passim.  In addition, *3E4.5 and 3L3.4 are short and narrow with edges feathered, and 3L1,2 are uniquely wormed. Imperfections affect text very slightly on H4,6, L1,4 recto, 2K5, and 3K4."]
 height: ["38"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["William John Phelps; William Phelps; Arthur William Clifford"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7160
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Folger copy 37 wants the "verses" leaf with port. ([pi]1); an excised copy of the port. in state 4, proper to this edition, has been mounted to face the title page ([pi]2 recto) replacing the wanting "verses" leaf with port. Apparently made up from two or more copies.  Onward from the beginning of Romeo (*3D3 ff.), leaves are untypically waterstained passim.  In addition, *3E4.5 and 3L3.4 are short and narrow with edges feathered, and 3L1,2 are uniquely wormed. Imperfections affect text very slightly on H4,6, L1,4 recto, 2K5, and 3K4.
-
 38
 
 0
-
-\N
-
-\N
-
-\N
-
-William John Phelps; William Phelps; Arthur William Clifford
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

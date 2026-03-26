@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G d.40 (3)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["50"]
-Bartlett1939_notes: ["BODLEIAN. 7 x 5 1/8". Two wormholes in imprint, one ending at B1, the other at C4; D1-D2 outer top corner cut off. Early manuscript corrections on C3 verso, C4 recto and verso, D2 recto, D3 verso, etc. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. II."]
-Bartlett1916: ["38"]
-Bartlett1916_notes: ["BODLEIAN. 7 x 5 1/8". Two wormholes in imprint, one ending at Bi, the other\r\nat C4; Di-D2 outer top corner cut off. Early manuscript corrections on C3 verso,\r\nC4 recto and verso, D2 recto, D3 verso, etc. The Malone (presented, 1821) copy.\r\nInlaid and bound with other plays in Vol. II. Pressmark, Malone, 33"]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 569
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-50
-
-BODLEIAN. 7 x 5 1/8". Two wormholes in imprint, one ending at B1, the other at C4; D1-D2 outer top corner cut off. Early manuscript corrections on C3 verso, C4 recto and verso, D2 recto, D3 verso, etc. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. II.
-
-38
-
-BODLEIAN. 7 x 5 1/8". Two wormholes in imprint, one ending at Bi, the other\r\nat C4; Di-D2 outer top corner cut off. Early manuscript corrections on C3 verso,\r\nC4 recto and verso, D2 recto, D3 verso, etc. The Malone (presented, 1821) copy.\r\nInlaid and bound with other plays in Vol. II. Pressmark, Malone, 33
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

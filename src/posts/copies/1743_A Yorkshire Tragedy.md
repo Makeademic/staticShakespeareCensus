@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["From Sotheby's auction catalogue: "6 5/8 x 5 in. ... Title-page in facsimile, lacking blank D3, light foxing and soiling. Nineteenth-century half brown morocco; rubbed."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Sotheby's as part of Robert Pirie sale, 2-4 Dec 2015, lot 732, $15,000, purchaser unknown. From auction catalogue: "ACQUISITION: Dawsons of Pall Mall."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1629
@@ -99,38 +76,8 @@ t
 
 \N
 
-From Sotheby's auction catalogue: "6 5/8 x 5 in. ... Title-page in facsimile, lacking blank D3, light foxing and soiling. Nineteenth-century half brown morocco; rubbed."
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Sold at Sotheby's as part of Robert Pirie sale, 2-4 Dec 2015, lot 732, $15,000, purchaser unknown. From auction catalogue: "ACQUISITION: Dawsons of Pall Mall."
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

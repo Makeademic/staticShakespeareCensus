@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22295 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163939-157550"]
-notes: null
-local_notes: ["Trimmed, affecting headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Dark red goatskin"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["580"]
-Bartlett1939_notes: ["FOLGER. 7 5/16 x 5 5/16''. Title extended on margins; extended and mended on upper margins, some letters of head-lines in facsimile. The Sotheby (July, 1903, n. 492), Pickering ( sold, 1916 to), Drake copy. Bound in red levant morocco, by Riviere."]
-Bartlett1916: ["399"]
-Bartlett1916_notes: ["PICKERING & CHATTO. 7 5/16 x 5 5/16'". Title mended in margins; extended\r\nand mended on upper margins, some letters of headlines in facsimile. The Sotheby (July, 1903, No. 492) copy. Bound in red levant morocco, by Riviere."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1268
@@ -97,40 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib163939-157550
 
-Trimmed, affecting headlines.
-
 0
 
 0
-
-\N
-
-Dark red goatskin
-
-Riviere & Son
-
-\N
-
-\N
-
-580
-
-FOLGER. 7 5/16 x 5 5/16''. Title extended on margins; extended and mended on upper margins, some letters of head-lines in facsimile. The Sotheby (July, 1903, n. 492), Pickering ( sold, 1916 to), Drake copy. Bound in red levant morocco, by Riviere.
-
-399
-
-PICKERING & CHATTO. 7 5/16 x 5 5/16'". Title mended in margins; extended\r\nand mended on upper margins, some letters of headlines in facsimile. The Sotheby (July, 1903, No. 492) copy. Bound in red levant morocco, by Riviere.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

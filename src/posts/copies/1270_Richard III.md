@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69353"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Signed by Murton"]
-bookplate: ["Bridgewater library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1031"]
-Bartlett1939_notes: ["HUNTINGTON. 7 3/8 x 5 1/8". Acquired by the Egerton Family prior to 1649 when it was catalogued by John Egerton, Second Earl of Bridgewater. The Bridgewater (sold, March, 1917) copy. Bound in green morocco, with arms of the Marquis of Stafford, by Murton."]
-Bartlett1916: ["728"]
-Bartlett1916_notes: ["BRIDGEWATER HOUSE. 7 3/8 x 5 1/8".  Acquired prior to 1649 when it was\r\ncatalogued by John, Second Earl of Bridgewater. Bound in green morocco, with\r\narms of the Marquis of Stafford, by Murton."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 533
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-Signed by Murton
-
-Bridgewater library
-
-\N
-
-1031
-
-HUNTINGTON. 7 3/8 x 5 1/8". Acquired by the Egerton Family prior to 1649 when it was catalogued by John Egerton, Second Earl of Bridgewater. The Bridgewater (sold, March, 1917) copy. Bound in green morocco, with arms of the Marquis of Stafford, by Murton.
-
-728
-
-BRIDGEWATER HOUSE. 7 3/8 x 5 1/8".  Acquired prior to 1649 when it was\r\ncatalogued by John, Second Earl of Bridgewater. Bound in green morocco, with\r\narms of the Marquis of Stafford, by Murton.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

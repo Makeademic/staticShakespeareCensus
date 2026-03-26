@@ -24,31 +24,8 @@ location_name: ["Charlecote House"]
 shelfmark: ["CHA"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["On front flyleaves: "Collated and Perfect. 6/28/91."; "L 5"; "C. H."; "L2-30" (deleted); on rear flyleaf: "L. 3. 3"]
-condition: ["\N"]
-binding: ["19th-century black morocco, gold fillet border"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from William Pickering, November 29th 1838, for £6 6s (Warwickshire Record Office, L6/1145/3). On front flyleaf: "A. C. R. Fairfax Lucy / Charlecote Park / Aug.t 1938"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 74
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-On front flyleaves: "Collated and Perfect. 6/28/91."; "L 5"; "C. H."; "L2-30" (deleted); on rear flyleaf: "L. 3. 3"
-
-\N
-
-19th-century black morocco, gold fillet border
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased from William Pickering, November 29th 1838, for £6 6s (Warwickshire Record Office, L6/1145/3). On front flyleaf: "A. C. R. Fairfax Lucy / Charlecote Park / Aug.t 1938"
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

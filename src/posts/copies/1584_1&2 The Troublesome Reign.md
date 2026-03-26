@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["JA 3731"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://images.is.ed.ac.uk/luna/servlet/view/search?q=shelfmark=%22JA%203731%22"]
-notes: null
-local_notes: ["Title page in facsimile"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Inscription on front flyleaf, in hand of Halliwell-Phillipps: "The first title is in FS. The rest is perfect."]
-condition: ["\N"]
-binding: ["Nineteenth-century full red morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, intricate gilt decoration and title lettering; gilt tooling to board edges and turn-ins; gilt edges; marbled endpapers."]
-binder: ["F. Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 616
@@ -97,38 +74,8 @@ t
 
 https://images.is.ed.ac.uk/luna/servlet/view/search?q=shelfmark=%22JA%203731%22
 
-Title page in facsimile
-
 0
 
 0
-
-Inscription on front flyleaf, in hand of Halliwell-Phillipps: "The first title is in FS. The rest is perfect."
-
-\N
-
-Nineteenth-century full red morocco over boards; gilt tooling to front and rear boards; compartmented spine with five raised bands, intricate gilt decoration and title lettering; gilt tooling to board edges and turn-ins; gilt edges; marbled endpapers.
-
-F. Bedford
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

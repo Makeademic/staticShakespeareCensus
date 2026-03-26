@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22339 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163949-157575"]
-notes: null
-local_notes: ["cs0900. Some margins are repaired."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Green goatskin"]
-binder: ["Riviere & Son"]
-bookplate: ["Armorial bookplate of Charles Lilburn (motto "vis viri fragilis")."]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["[NB: Identification cannot be established with certainty]  Other American owners are ... Mr. H. C. Folger, of New York."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["67"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1393
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163949-157575
 
-cs0900. Some margins are repaired.
-
 0
 
 0
-
-\N
-
-Green goatskin
-
-Riviere & Son
-
-Armorial bookplate of Charles Lilburn (motto "vis viri fragilis").
-
-\N
-
-0
-
-0
-
-[NB: Identification cannot be established with certainty]  Other American owners are ... Mr. H. C. Folger, of New York.
-
-1
-
-f
-
-f
-
-67
-
-0
-
-f
 
 f

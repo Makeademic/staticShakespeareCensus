@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: ["Deposit"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["There are two issues of this edition: this issue is dated 1605. [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["8"]
-Bartlett1939_notes: ["VERULAM. 7 3/16 x 5 1/4". E1 torn injuring some letters. Deposited on loan at the\r\nBodleian Library. Bound with other plays in old brown mottled calf."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Deposited on loan to the Bodleian by the Earls of Verulam."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 23
@@ -97,40 +74,8 @@ t
 
 \N
 
-There are two issues of this edition: this issue is dated 1605. [DEEP]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-8
-
-VERULAM. 7 3/16 x 5 1/4". E1 torn injuring some letters. Deposited on loan at the\r\nBodleian Library. Bound with other plays in old brown mottled calf.
-
-0
-
-Deposited on loan to the Bodleian by the Earls of Verulam.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

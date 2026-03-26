@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR/OS/37 (1685) Accession #: 83000062"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: ["π1 reattached; π1-2 badly foxed; some tears"]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. ink marks and notes throughout; page numbers and signatures corrected in MS. Ink; Shakespeare Birthplace Trust holds a CD-ROM with images of marginalia from all Shakespeare Folios that is viewable only in its reading room"]
-condition: ["\N"]
-binding: ["Full original leather, blind-tooled rules and corner ornaments on boards; spine replaced in C19th"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Presentation inscription on inside front board "William Oakes Hunt to the Shakespeare Museum... 1863"; ink ownership stamps inside front board: WHO surmounted by an antlered deer's head; MS. ink signature on tp. (partly obscured): "R. Green"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7223
@@ -99,42 +76,8 @@ f
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
-π1 reattached; π1-2 badly foxed; some tears
-
 0
 
 0
-
-MS. ink marks and notes throughout; page numbers and signatures corrected in MS. Ink; Shakespeare Birthplace Trust holds a CD-ROM with images of marginalia from all Shakespeare Folios that is viewable only in its reading room
-
-\N
-
-Full original leather, blind-tooled rules and corner ornaments on boards; spine replaced in C19th
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Presentation inscription on inside front board "William Oakes Hunt to the Shakespeare Museum... 1863"; ink ownership stamps inside front board: WHO surmounted by an antlered deer's head; MS. ink signature on tp. (partly obscured): "R. Green"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

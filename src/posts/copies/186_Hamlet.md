@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["32208"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["On front flyleaf: "Two impressions of this date with varied imprints, a fact not hitherto mentioned"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Frederick William Cosens"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["150"]
-Bartlett1939_notes: ["HUNTINGTON. 8 5/16 x 6 5/16". L4 in duplicate. The Cosens (November 11, 1890, n. 4073), Gunther, Chicago Historical Society (sold March, 1922) copy. Bound in maroon morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gunther copy; armorial bookplate (motto "sub robere virtus") of Cosens; bought by CSmH from Chicago Historical Society, March 1922"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 899
@@ -97,42 +74,8 @@ t
 
 \N
 
-In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed.
-
 0
 
 0
-
-On front flyleaf: "Two impressions of this date with varied imprints, a fact not hitherto mentioned"
-
-\N
-
-\N
-
-\N
-
-Frederick William Cosens
-
-Front pastedown
-
-150
-
-HUNTINGTON. 8 5/16 x 6 5/16". L4 in duplicate. The Cosens (November 11, 1890, n. 4073), Gunther, Chicago Historical Society (sold March, 1922) copy. Bound in maroon morocco.
-
-0
-
-Gunther copy; armorial bookplate (motto "sub robere virtus") of Cosens; bought by CSmH from Chicago Historical Society, March 1922
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

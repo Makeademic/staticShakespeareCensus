@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 14646 Copy 3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161420-153901"]
-notes: null
-local_notes: ["cs42. Imperfect: wanting leaves A1,2 (supplied in facsimile) and last blank; leaves K4-L3 from another copy (possibly Folger copy 2), with part of each leaf repaired and affected text in facsimile; cropped at head, affecting runnng titles."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin, gold-tooled"]
-binder: ["Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["J.O. Halliwell-Phillipps copy; bookplate of Francis R.C. Grant copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1429
@@ -97,38 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib161420-153901
 
-cs42. Imperfect: wanting leaves A1,2 (supplied in facsimile) and last blank; leaves K4-L3 from another copy (possibly Folger copy 2), with part of each leaf repaired and affected text in facsimile; cropped at head, affecting runnng titles.
-
 0
 
 0
-
-\N
-
-Red goatskin, gold-tooled
-
-Bedford
-
-\N
-
-\N
-
-0
-
-0
-
-J.O. Halliwell-Phillipps copy; bookplate of Francis R.C. Grant copy.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

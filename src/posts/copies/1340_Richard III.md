@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G e.24"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["with portrait of Richard III inserted from Baziliologia"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1084"]
-Bartlett1939_notes: ["BODLEIAN. 6 15/16 x 4 15/16". Title mended in lower margin, date cropped. With manuscript notes throughout; portrait of Richard III from Bazilioologia inserted. Bound in half roan."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1706
@@ -99,38 +76,8 @@ t
 
 \N
 
-with portrait of Richard III inserted from Baziliologia
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1084
-
-BODLEIAN. 6 15/16 x 4 15/16". Title mended in lower margin, date cropped. With manuscript notes throughout; portrait of Richard III from Bazilioologia inserted. Bound in half roan.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

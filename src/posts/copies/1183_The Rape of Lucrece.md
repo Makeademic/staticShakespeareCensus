@@ -24,31 +24,8 @@ location_name: ["Edinburgh University"]
 shelfmark: ["[Shelfmark not available]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["There is a copy in the University Library at Edinburgh, without the frontispiece ..."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["39"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1072
@@ -99,38 +76,8 @@ t
 
 \N
 
-Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-There is a copy in the University Library at Edinburgh, without the frontispiece ...
-
-1
-
-f
-
-f
-
-39
-
-0
-
-f
 
 f

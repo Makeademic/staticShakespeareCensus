@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22341 Copy 6"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161373-153835"]
-notes: null
-local_notes: ["Wawick. Imperfect: wanting leaf D1, which is supplied in facsimile; also wanting the blank leaf. Leaves C4-D2 are remargined. C2 and C3 are damaged and repaired, affecting text; missing letters are supplied in facsimile. Trimmed, affecting headline on C4."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Brown goatskin"]
-binder: ["\N"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 736
@@ -99,36 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161373-153835
 
-Wawick. Imperfect: wanting leaf D1, which is supplied in facsimile; also wanting the blank leaf. Leaves C4-D2 are remargined. C2 and C3 are damaged and repaired, affecting text; missing letters are supplied in facsimile. Trimmed, affecting headline on C4.
-
 0
 
 0
-
-\N
-
-Brown goatskin
-
-\N
-
-Warwick Castle
-
-\N
-
-0
-
-0
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

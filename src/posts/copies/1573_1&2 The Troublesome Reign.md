@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Mal. 152 (5)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: null
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: ["Edmond Malone"]
-bibliography: ["\N"]
-created_by_id: ["\N"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 2546
@@ -100,33 +77,5 @@ t
 0
 
 0
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-Edmond Malone
-
-\N
-
-\N
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["[Shelfmark not available]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1106"]
-Bartlett1939_notes: ["BODLEIAN. 6 11/16 x 4 3/16". E2, line 14 from foot has hole; E3 and E4 mended; L3 verso cropped, cutting off first letter of most of last 21 lines. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. VI."]
-Bartlett1916: ["790"]
-Bartlett1916_notes: ["BODLEIAN. 6 11/16 x 4 3/16". E2, line 14 from foot has hole; E3 and E4 mended; L3 verso cropped, cutting off first letter of most of last 21 lines. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. VI. Pressmark, Malone, 37."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 246
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1106
-
-BODLEIAN. 6 11/16 x 4 3/16". E2, line 14 from foot has hole; E3 and E4 mended; L3 verso cropped, cutting off first letter of most of last 21 lines. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. VI.
-
-790
-
-BODLEIAN. 6 11/16 x 4 3/16". E2, line 14 from foot has hole; E3 and E4 mended; L3 verso cropped, cutting off first letter of most of last 21 lines. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. VI. Pressmark, Malone, 37.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

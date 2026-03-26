@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["IUB00197"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["16.4"]
 width: ["9.8"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full red morocco with title on spine and front cover; gilt-tooled inner dentelles."]
-binder: ["The French Binders Garden City NY"]
-bookplate: ["Bookplate of Frank J. Hogan; Bookplate of Willis Vickery"]
-bookplate_location: ["Front pastedown."]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Rosenbach 23 January 1952."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 783
@@ -100,33 +77,5 @@ t
 16.4
 
 9.8
-
-\N
-
-Bound in full red morocco with title on spine and front cover; gilt-tooled inner dentelles.
-
-The French Binders Garden City NY
-
-Bookplate of Frank J. Hogan; Bookplate of Willis Vickery
-
-Front pastedown.
-
-0
-
-0
-
-Purchased from Rosenbach 23 January 1952.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

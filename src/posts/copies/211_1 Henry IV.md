@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22283 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163903-157454"]
-notes: null
-local_notes: ["Warwick. Imperfect: wanting leaf K4, which is supplied in an etched facsimile; the first line of facsimile K4r reads: 'For my part, if a lye may do thee grace,': cf. K4r of Folger smk STC 22283 Copy 1, which begins: 'For my part, if a lie may doe thee grace,'.  Slightly stained."]
 height: ["0"]
 width: ["0"]
-marginalia: ["A few MS. notes."]
-condition: ["\N"]
-binding: ["Dark blue goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["229"]
-Bartlett1939_notes: ["FOLGER. 7 1/8 x 5 1/16 ". K4 in facsimile. "John Cooper, 1688," "Mr. Thomas Middleton\r\nEsq. of Silkswoorth" both in old handwriting. The Garrett of Newcastle (sold,\r\n£25 to), Halliwell (sold to), Warwick (sold, 1897) copy. Bound in dark blue\r\nstraight-grained morocco."]
-Bartlett1916: ["141"]
-Bartlett1916_notes: ["FOLGER. K4 in facsimile. "John Cooper, 1688", "Mr. Thomas Middleton Esq.\r\nof Silkswoorth" both in old handwriting. The Warwick copy."]
-Lee_notes: null
-prov_info: ["inscribed on verso of t.p.: "John Cooper 1688"; "Mr Thomas Middleton Esqr of Silksworth"; Garrett of Newcastle copy: inscribed on front fly-leaf: "I bought this ... volume of Garrett of Newcastle ... J. O. Halliwell"; James Orchard Halliwell-Phillipps copy; bookplate of Warwick Castle, Shakespeare Library."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1157
@@ -99,44 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163903-157454
 
-Warwick. Imperfect: wanting leaf K4, which is supplied in an etched facsimile; the first line of facsimile K4r reads: 'For my part, if a lye may do thee grace,': cf. K4r of Folger smk STC 22283 Copy 1, which begins: 'For my part, if a lie may doe thee grace,'.  Slightly stained.
-
 0
 
 0
-
-A few MS. notes.
-
-\N
-
-Dark blue goatskin
-
-\N
-
-\N
-
-\N
-
-229
-
-FOLGER. 7 1/8 x 5 1/16 ". K4 in facsimile. "John Cooper, 1688," "Mr. Thomas Middleton\r\nEsq. of Silkswoorth" both in old handwriting. The Garrett of Newcastle (sold,\r\n£25 to), Halliwell (sold to), Warwick (sold, 1897) copy. Bound in dark blue\r\nstraight-grained morocco.
-
-141
-
-FOLGER. K4 in facsimile. "John Cooper, 1688", "Mr. Thomas Middleton Esq.\r\nof Silkswoorth" both in old handwriting. The Warwick copy.
-
-inscribed on verso of t.p.: "John Cooper 1688"; "Mr Thomas Middleton Esqr of Silksworth"; Garrett of Newcastle copy: inscribed on front fly-leaf: "I bought this ... volume of Garrett of Newcastle ... J. O. Halliwell"; James Orchard Halliwell-Phillipps copy; bookplate of Warwick Castle, Shakespeare Library.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

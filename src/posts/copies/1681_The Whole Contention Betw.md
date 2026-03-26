@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.38.(1)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=22&LHPage=-2&RHCopy=22&RHPage=-1"]
-notes: ["Many bibliographies and library catalogues consider this edition to include Pericles as well, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions."]
-local_notes: ["Bound with Pericles; imperfect: wanting t.p. to Pericles."]
 height: ["19.2"]
 width: ["14.8"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 40-42."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 318
@@ -97,40 +74,8 @@ t
 
 https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=22&LHPage=-2&RHCopy=22&RHPage=-1
 
-Many bibliographies and library catalogues consider this edition to include Pericles as well, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions.
-
-Bound with Pericles; imperfect: wanting t.p. to Pericles.
-
 19.2
 
 14.8
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 40-42.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

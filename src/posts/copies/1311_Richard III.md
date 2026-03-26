@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22320 Copy 5"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163914-157485"]
-notes: null
-local_notes: ["cs1467. Imperfect: wanting gatherings C, K, L, and M."]
 height: ["0"]
 width: ["0"]
-marginalia: ["A few MS. markings."]
-condition: ["\N"]
-binding: ["Green goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1074"]
-Bartlett1939_notes: ["FOLGER. 7 x 5". C1-C4, K1-M2 lacking. The Gunther (November 12, 1925, n. 427, $400) copy. Bound in green levant morocco"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 439
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163914-157485
 
-cs1467. Imperfect: wanting gatherings C, K, L, and M.
-
 0
 
 0
-
-A few MS. markings.
-
-\N
-
-Green goatskin
-
-\N
-
-\N
-
-\N
-
-1074
-
-FOLGER. 7 x 5". C1-C4, K1-M2 lacking. The Gunther (November 12, 1925, n. 427, $400) copy. Bound in green levant morocco
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

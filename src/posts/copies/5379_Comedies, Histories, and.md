@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["BEIN 2015 +591"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Single leaf of 3 Henry VI, pp. 147-8. Sold as part of Seymour de Ricci's A Noble Fragment (1926)."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Walter L. Pforzheimer"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Presentation inscription from Seymour de Ricci to Walter L. Pfrozheimer"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7907
@@ -99,38 +76,8 @@ t
 
 \N
 
-Single leaf of 3 Henry VI, pp. 147-8. Sold as part of Seymour de Ricci's A Noble Fragment (1926).
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Walter L. Pforzheimer
-
-\N
-
-0
-
-0
-
-Presentation inscription from Seymour de Ricci to Walter L. Pfrozheimer
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

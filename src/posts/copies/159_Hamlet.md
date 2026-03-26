@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR 50.07"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this state the publisher's name is spelled correctly. [ESTC]"]
-local_notes: ["T.p. trimmed, slightly affecting text; stained throughout; 83016465"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["131"]
-Bartlett1939_notes: ["SHAKESPEARE BIRTHPLACE. 8½ x 5½". The Halliwell (presented, March,\r\n1864) copy. Bound in half green morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Donated by J.O. Halliwell, 1864"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 959
@@ -97,42 +74,8 @@ t
 
 \N
 
-In this state the publisher's name is spelled correctly. [ESTC]
-
-T.p. trimmed, slightly affecting text; stained throughout; 83016465
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-131
-
-SHAKESPEARE BIRTHPLACE. 8½ x 5½". The Halliwell (presented, March,\r\n1864) copy. Bound in half green morocco.
-
-0
-
-Donated by J.O. Halliwell, 1864
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22341 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161373-153831"]
-notes: null
-local_notes: ["cs534. Wanting the blank leaf."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Dark blue goatskin binding with an over-all gilt design and red goatskin doublures; stored in a case."]
-binder: ["Cuzin"]
-bookplate: ["Robert Hoe"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: ["Mary L. Avery, "The Library of a Brooklyn Bibliophile," Pratt Institute Monthly vol. 2, no. 7 (March 1894): p. 203-209 (on Abby E. Pope)"]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 740
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161373-153831
 
-cs534. Wanting the blank leaf.
-
 0
 
 0
-
-\N
-
-Dark blue goatskin binding with an over-all gilt design and red goatskin doublures; stored in a case.
-
-Cuzin
-
-Robert Hoe
-
-\N
-
-0
-
-0
-
-Mary L. Avery, "The Library of a Brooklyn Bibliophile," Pratt Institute Monthly vol. 2, no. 7 (March 1894): p. 203-209 (on Abby E. Pope)
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

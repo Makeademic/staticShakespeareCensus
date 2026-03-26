@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig 6Db 639"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://brbl-dl.library.yale.edu/vufind/Record/3446319"]
-notes: null
-local_notes: ["Imperfect: closely trimmed, with slight damage to some head and foot-lines. Book-plate of W. Vernon."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["292"]
-Bartlett1939_notes: ["ROSENBACH. 6 9/16 x 4 9/16". Some head-lines cropped, some leaves stained. The Vernon (June 10, 1918, n. 470, £I65 to Quaritch) copy. Bound in brown calf."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 447
@@ -99,38 +76,8 @@ t
 
 https://brbl-dl.library.yale.edu/vufind/Record/3446319
 
-Imperfect: closely trimmed, with slight damage to some head and foot-lines. Book-plate of W. Vernon.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-292
-
-ROSENBACH. 6 9/16 x 4 9/16". Some head-lines cropped, some leaves stained. The Vernon (June 10, 1918, n. 470, £I65 to Quaritch) copy. Bound in brown calf.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

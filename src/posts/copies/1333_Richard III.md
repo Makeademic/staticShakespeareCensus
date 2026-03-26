@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["STC 22321"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1095"]
-Bartlett1939_notes: ["HARVARD. 7 5/16 x 5 1/2". Cropped at top injuring some head-lines. The Simes\r\n(July 9, 1886, n. 1533), Quaritch (Catalogue 124, June, 1892, n. 729, to), White\r\n(presented, June, 1928) copy. Bound in brown levant morocco, by Hayday."]
-Bartlett1916: ["785"]
-Bartlett1916_notes: ["WHITE. 7 5/16 x 5 1/2". The Quaritch (sold, June, 1892) copy. Bound in brown\r\nlevant morocco, by Hayday."]
-Lee_notes: null
-prov_info: ["White copy."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 407
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1095
-
-HARVARD. 7 5/16 x 5 1/2". Cropped at top injuring some head-lines. The Simes\r\n(July 9, 1886, n. 1533), Quaritch (Catalogue 124, June, 1892, n. 729, to), White\r\n(presented, June, 1928) copy. Bound in brown levant morocco, by Hayday.
-
-785
-
-WHITE. 7 5/16 x 5 1/2". The Quaritch (sold, June, 1892) copy. Bound in brown\r\nlevant morocco, by Hayday.
-
-White copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

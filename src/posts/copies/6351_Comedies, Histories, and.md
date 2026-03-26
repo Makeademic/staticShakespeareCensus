@@ -24,31 +24,8 @@ location_name: ["University of North Carolina"]
 shelfmark: ["PR2751 .A2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Page facing title page, title page, and 'Effigies' page all probable facsimiles, and therefore make it difficult to accurately identify the issue."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full red, crushed morocco-gilt"]
-binder: ["Rivière & Son"]
-bookplate: ["John Gribbel"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7368
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Page facing title page, title page, and 'Effigies' page all probable facsimiles, and therefore make it difficult to accurately identify the issue.
-
 0
 
 0
-
-\N
-
-Full red, crushed morocco-gilt
-
-Rivière & Son
-
-John Gribbel
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

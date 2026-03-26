@@ -24,31 +24,8 @@ location_name: ["Martin Bodmer Foundation, Geneva"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056485?page=002"]
-notes: ["There are two issues of this edition; this issue contains the original title leaf dated 1637. [DEEP]"]
-local_notes: ["Bound in red straight-grain morocco, gilt, gild edges. Described in Erne & Singh, #143."]
 height: ["18.3"]
 width: ["14"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["669"]
-Bartlett1939_notes: ["ROSENBACH. 7 x 5 1/8". The C. Fitz-Herbert Monley, Oliver K. Barrett of Chicago, Henkels (June 26, 1919, n. 131) copy. Bound in red straight-grained morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["C. Fitz-Herbert Monley, Esq. (Leeds). Oliver R. Barrett (Chicago). Stan V. Henkels (Philadelphia auctioneer, fl. 1913-1919), sold 26 June 1919. Purchased from A.S.W. Rosenbach in 1951-52."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1496
@@ -97,42 +74,8 @@ t
 
 https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056485?page=002
 
-There are two issues of this edition; this issue contains the original title leaf dated 1637. [DEEP]
-
-Bound in red straight-grain morocco, gilt, gild edges. Described in Erne & Singh, #143.
-
 18.3
 
 14
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-669
-
-ROSENBACH. 7 x 5 1/8". The C. Fitz-Herbert Monley, Oliver K. Barrett of Chicago, Henkels (June 26, 1919, n. 131) copy. Bound in red straight-grained morocco.
-
-0
-
-C. Fitz-Herbert Monley, Esq. (Leeds). Oliver R. Barrett (Chicago). Stan V. Henkels (Philadelphia auctioneer, fl. 1913-1919), sold 26 June 1919. Purchased from A.S.W. Rosenbach in 1951-52.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Mal. 911"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The title-page states this is "The fourth Edition" [DEEP]; "In this issue there is a comma after 'Othello' in line 2 of title" [ESTC]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["850"]
-Bartlett1939_notes: ["BODLEIAN. 7 5/16 x 5 3/8". G4 cropped at top. Purchased, 1834.\r\nhalf calf; some leaves uncut at foot."]
-Bartlett1916: ["612"]
-Bartlett1916_notes: ["BODLEIAN. 7 5/16 x 5 3/8". G4 cropped at top. Purchased, 1834.\r\nhalf calf; some leaves uncut at foot. Pressmark, Malone, 911."]
-Lee_notes: null
-prov_info: ["Edmond Malone"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1031
@@ -99,42 +76,8 @@ t
 
 \N
 
-The title-page states this is "The fourth Edition" [DEEP]; "In this issue there is a comma after 'Othello' in line 2 of title" [ESTC]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-850
-
-BODLEIAN. 7 5/16 x 5 3/8". G4 cropped at top. Purchased, 1834.\r\nhalf calf; some leaves uncut at foot.
-
-612
-
-BODLEIAN. 7 5/16 x 5 3/8". G4 cropped at top. Purchased, 1834.\r\nhalf calf; some leaves uncut at foot. Pressmark, Malone, 911.
-
-Edmond Malone
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

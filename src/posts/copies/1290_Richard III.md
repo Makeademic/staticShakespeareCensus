@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69357"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Repaired at inner margins; sig.A and M2 from another copy."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Signed by de Coverly"]
-bookplate: ["Frederick Locker; E.D. Church"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1052"]
-Bartlett1939_notes: ["HUNTINGTON. 7 1/8 x 4 13/16 ". A1-A4, and M2 are supplied from a shorter copy. Locker and Church book-plates. The Locker (sold, January, 1905 to), Church (sold, April, 1911) copy. Bound in green levant morocco, by de Coverly."]
-Bartlett1916: ["746"]
-Bartlett1916_notes: ["HUNTINGTON. 7 1/8 x 4 13/16 ". Ai-A4, and M2 are supplied from a shorter copy. Locker and Church book-plates. The Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound in green levant morocco, by De Coverly."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 480
@@ -99,40 +76,8 @@ t
 
 \N
 
-Repaired at inner margins; sig.A and M2 from another copy.
-
 0
 
 0
-
-\N
-
-\N
-
-Signed by de Coverly
-
-Frederick Locker; E.D. Church
-
-\N
-
-1052
-
-HUNTINGTON. 7 1/8 x 4 13/16 ". A1-A4, and M2 are supplied from a shorter copy. Locker and Church book-plates. The Locker (sold, January, 1905 to), Church (sold, April, 1911) copy. Bound in green levant morocco, by de Coverly.
-
-746
-
-HUNTINGTON. 7 1/8 x 4 13/16 ". Ai-A4, and M2 are supplied from a shorter copy. Locker and Church book-plates. The Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound in green levant morocco, by De Coverly.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

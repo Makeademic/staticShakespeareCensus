@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["F2-23 MR 3606"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["First two lines of Jonson's verses to the reader in MS"]
 height: ["33.1"]
 width: ["22"]
-marginalia: ["On title page:  ‘nj / L.11 [??]';  Troilus: signature bb corrected to 2c"]
-condition: ["\N"]
-binding: ["Red morocco, gilt edges, marbled endpapers, in a solander case"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["On sig. ddd4r: "Hen Byng"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8090
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-First two lines of Jonson's verses to the reader in MS
-
 33.1
 
 22
-
-On title page:  ‘nj / L.11 [??]';  Troilus: signature bb corrected to 2c
-
-\N
-
-Red morocco, gilt edges, marbled endpapers, in a solander case
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-On sig. ddd4r: "Hen Byng"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

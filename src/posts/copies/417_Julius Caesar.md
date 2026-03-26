@@ -24,31 +24,8 @@ location_name: ["Princeton University"]
 shelfmark: ["3925.35.13.1692"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["On the Dramatis Personae, the names "Mr Mills Mr Wilks Mr Booth Mr Powell" are written next to the characters. The names match an early 18th Century Drury Lane production (see C. B. Young, Introduction to The New Shakespeare Julius Caesar, Cambridge University Press, 1955)."]
-condition: ["\N"]
-binding: null
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1614
@@ -100,31 +77,5 @@ t
 0
 
 0
-
-On the Dramatis Personae, the names "Mr Mills Mr Wilks Mr Booth Mr Powell" are written next to the characters. The names match an early 18th Century Drury Lane production (see C. B. Young, Introduction to The New Shakespeare Julius Caesar, Cambridge University Press, 1955).
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

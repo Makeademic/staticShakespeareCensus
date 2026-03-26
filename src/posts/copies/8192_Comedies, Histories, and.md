@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["Chrzanowski 1685s"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Some signature and pagination emendations in an early hand"]
-condition: ["\N"]
-binding: ["Red morocco, triple ruled in gilt with gilt turn-ins and spine; all edges gilt."]
-binder: ["Rivière & Son"]
-bookplate: ["Earl of Carysfort; Arthur A. Houghton, Jr."]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gift of Paul Chrzanowski"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7173
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 0
 
 0
-
-Some signature and pagination emendations in an early hand
-
-\N
-
-Red morocco, triple ruled in gilt with gilt turn-ins and spine; all edges gilt.
-
-Rivière & Son
-
-Earl of Carysfort; Arthur A. Houghton, Jr.
-
-\N
-
-0
-
-0
-
-Gift of Paul Chrzanowski
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

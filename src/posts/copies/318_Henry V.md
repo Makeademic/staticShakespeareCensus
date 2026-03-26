@@ -24,31 +24,8 @@ location_name: ["Cambridge University, King's College"]
 shelfmark: ["Keynes.C.7.76"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["Blank G4 present"]
 height: ["0"]
 width: ["0"]
-marginalia: ["On front pastedown: "£105",  "1136" , "Collated Pollard Quartos / Gannon", "with blank leaf G4" and "See Jaggard".  On front flyleaf: "$775.00" and bookseller's code."]
-condition: ["\N"]
-binding: ["Red levant morocco, gilt edges"]
-binder: ["Riviere"]
-bookplate: ["King's College, Keynes Bequest, 1946"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["From the bequest of John Maynard Keynes (1883-1946)."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 501
@@ -99,42 +76,8 @@ t
 
 \N
 
-\N
-
-Blank G4 present
-
 0
 
 0
-
-On front pastedown: "£105",  "1136" , "Collated Pollard Quartos / Gannon", "with blank leaf G4" and "See Jaggard".  On front flyleaf: "$775.00" and bookseller's code.
-
-\N
-
-Red levant morocco, gilt edges
-
-Riviere
-
-King's College, Keynes Bequest, 1946
-
-Front pastedown
-
-0
-
-0
-
-From the bequest of John Maynard Keynes (1883-1946).
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

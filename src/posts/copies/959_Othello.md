@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2942 Bd.w. L856 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs174.3. In a volume containing (order as yet undetermined): John Dryden, Aureng-Zebe (1694); Nathaniel Lee, Mithridates (1693); Thomas Otway, Venice Preserved (1696); Julius Caesar (1691); Dryden, Conquest of Granada (1695)"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["925"]
-Bartlett1939_notes: ["FOLGER. 8½ x 6 7/16". With "Eliz: Younge / Her Book / given by my grandmother / Batthurst /" on fly-leaf. The G. D. Smith (sold, c. 1899) copy. Bound in 18th century calf, rebacked with other plays."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscription on front fly-leaf: "Eliz: [Elizabeth] Younge Her Book given by my Grandmother Batthwist (?)"; inscription on back fly-leaf: "Francis Young Her Book 1728"; MS. leather spine-label ("827")"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["t"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1366
@@ -99,40 +76,8 @@ t
 
 \N
 
-cs174.3. In a volume containing (order as yet undetermined): John Dryden, Aureng-Zebe (1694); Nathaniel Lee, Mithridates (1693); Thomas Otway, Venice Preserved (1696); Julius Caesar (1691); Dryden, Conquest of Granada (1695)
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-925
-
-FOLGER. 8½ x 6 7/16". With "Eliz: Younge / Her Book / given by my grandmother / Batthurst /" on fly-leaf. The G. D. Smith (sold, c. 1899) copy. Bound in 18th century calf, rebacked with other plays.
-
-0
-
-Inscription on front fly-leaf: "Eliz: [Elizabeth] Younge Her Book given by my Grandmother Batthwist (?)"; inscription on back fly-leaf: "Francis Young Her Book 1728"; MS. leather spine-label ("827")
-
-1
-
-f
-
-f
-
-0
-
-0
-
-t
 
 f

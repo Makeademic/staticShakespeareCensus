@@ -24,31 +24,8 @@ location_name: ["Columbia University"]
 shelfmark: ["PR2829 .A1 1687g"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["21.7"]
 width: ["15.7"]
-marginalia: ["On title: "5th edn" and "Greg 379i"]
-condition: ["\N"]
-binding: ["Full red morocco"]
-binder: ["Sangorski & Sutcliffe"]
-bookplate: ["Jack Harris Samuels Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Jack Harris Samuels copy, bequeathed by Mollie Harris Samuels"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1632
@@ -102,35 +79,5 @@ t
 21.7
 
 15.7
-
-On title: "5th edn" and "Greg 379i"
-
-\N
-
-Full red morocco
-
-Sangorski & Sutcliffe
-
-Jack Harris Samuels Library
-
-\N
-
-0
-
-0
-
-Jack Harris Samuels copy, bequeathed by Mollie Harris Samuels
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

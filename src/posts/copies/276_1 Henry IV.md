@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR2810 .A1 1639 *"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["18"]
 width: ["13.2"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco"]
-binder: ["Rivière & Son."]
-bookplate: ["William Andrews Clark Jr."]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["273"]
-Bartlett1939_notes: ["University of CALIFORNIA. 7 3/16 x 5 3/16". Small tear in lower margin of title;\r\ncropped on upper corner of D3, outer margin of H2, head-line of 14. The Rosenbach (sold, September 16, 1921 to), W. A. Clark (bequeathed, June, 1934) copy. Bound in red levant morocco, partially uncut, by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Rosenbach on September 16th, 1921."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1573
@@ -102,35 +79,5 @@ t
 18
 
 13.2
-
-\N
-
-Red morocco
-
-Rivière & Son.
-
-William Andrews Clark Jr.
-
-Front pastedown
-
-273
-
-University of CALIFORNIA. 7 3/16 x 5 3/16". Small tear in lower margin of title;\r\ncropped on upper corner of D3, outer margin of H2, head-line of 14. The Rosenbach (sold, September 16, 1921 to), W. A. Clark (bequeathed, June, 1934) copy. Bound in red levant morocco, partially uncut, by Riviere.
-
-0
-
-Purchased from Rosenbach on September 16th, 1921.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

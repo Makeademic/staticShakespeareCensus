@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22318 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163909-157468"]
-notes: null
-local_notes: ["cs1288. Cropped, affecting the bottom line of the imprint, headlines, direction-lines and some text."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["Rivière & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1049"]
-Bartlett1939_notes: ["FOLGER. 6¾ x 4 7/8". Title cropped on lower margin injuring part of imprint;\r\ncropped at top throughout, injuring some lines of text and many head-lines. The\r\nWright (April 23, 1787, n. 1934, 18s. 6d. to), [Charlemont] Sotheby (August 11,\r\n1865, n. 746, then inlaid), Toovey, Quaritch (August, 1924, n. 7) copy. Removed\r\nfrom inlay and bound in red levant morocco, by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["collated at Quaritch by E. Talbot"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 484
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163909-157468
 
-cs1288. Cropped, affecting the bottom line of the imprint, headlines, direction-lines and some text.
-
 0
 
 0
-
-\N
-
-Red goatskin
-
-Rivière & Son
-
-\N
-
-\N
-
-1049
-
-FOLGER. 6¾ x 4 7/8". Title cropped on lower margin injuring part of imprint;\r\ncropped at top throughout, injuring some lines of text and many head-lines. The\r\nWright (April 23, 1787, n. 1934, 18s. 6d. to), [Charlemont] Sotheby (August 11,\r\n1865, n. 746, then inlaid), Toovey, Quaritch (August, 1924, n. 7) copy. Removed\r\nfrom inlay and bound in red levant morocco, by Riviere.
-
-0
-
-collated at Quaritch by E. Talbot
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

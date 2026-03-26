@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2 no.26"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Wants both πA2 (title leaf) and πA5 ("Effigies" leaf). Wants also all other prelims., πA1,3,4,6 and *⁴. Wants port. (on title page). Also wants A1,2, S3.4, s2.5, s3.4, 2s2.5, 3b6-end (including the colophon). Supplied from another copy are: L3.4 (perhaps), d3.4 (perhaps), and 2s3.4. Imperfections affect text on Y5 verso, Y6 recto, and d2, slightly on e6 and 2s6, and very slightly on N1 and x4."]
 height: ["32"]
 width: ["0"]
-marginalia: ["Manuscript additions."]
-condition: ["\N"]
-binding: ["Disbound and boxed."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscriptions: "James McLarin" (H2 recto) and Mr. Harvey" (2C2 verso and h3 recto)."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7255
@@ -99,42 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Wants both πA2 (title leaf) and πA5 ("Effigies" leaf). Wants also all other prelims., πA1,3,4,6 and *⁴. Wants port. (on title page). Also wants A1,2, S3.4, s2.5, s3.4, 2s2.5, 3b6-end (including the colophon). Supplied from another copy are: L3.4 (perhaps), d3.4 (perhaps), and 2s3.4. Imperfections affect text on Y5 verso, Y6 recto, and d2, slightly on e6 and 2s6, and very slightly on N1 and x4.
-
 32
 
 0
-
-Manuscript additions.
-
-\N
-
-Disbound and boxed.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Inscriptions: "James McLarin" (H2 recto) and Mr. Harvey" (2C2 verso and h3 recto).
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

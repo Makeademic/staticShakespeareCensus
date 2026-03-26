@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22341 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161373-153830"]
-notes: null
-local_notes: ["cs455."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Brown goatskin, gilt borders."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscribed on front free endpaper: "Halliwells sale May 1856. Lot 325. William Tite"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 737
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161373-153830
 
-cs455.
-
 0
 
 0
-
-\N
-
-Brown goatskin, gilt borders.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Inscribed on front free endpaper: "Halliwells sale May 1856. Lot 325. William Tite"
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

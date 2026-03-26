@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.30"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=44&LHPage=-2&RHCopy=44&RHPage=-1"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["752"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7 9/16 x 5 15/16". F3 mended in lower margin. The Garrick (bequeathed,\r\n1779) copy. Bound in straight-grained yellow morocco, Garrick's arms on\r\nsides."]
-Bartlett1916: ["535"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7 9/16 x 5 15/16". F3 mended in lower margin. The Garrick (bequeathed,\r\n1779) copy. Bound in straight-grained yellow morocco, Garrick's arms on\r\nsides. Pressmark, C. 34. k. 30."]
-Lee_notes: null
-prov_info: ["David Garrick copy"]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 40."]
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 284
@@ -97,44 +74,8 @@ t
 
 https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=44&LHPage=-2&RHCopy=44&RHPage=-1
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-752
-
-BRITISH MUSEUM. 7 9/16 x 5 15/16". F3 mended in lower margin. The Garrick (bequeathed,\r\n1779) copy. Bound in straight-grained yellow morocco, Garrick's arms on\r\nsides.
-
-535
-
-BRITISH MUSEUM. 7 9/16 x 5 15/16". F3 mended in lower margin. The Garrick (bequeathed,\r\n1779) copy. Bound in straight-grained yellow morocco, Garrick's arms on\r\nsides. Pressmark, C. 34. k. 30.
-
-David Garrick copy
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 40.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

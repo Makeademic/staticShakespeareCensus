@@ -24,31 +24,8 @@ location_name: ["Newberry Library"]
 shelfmark: ["VAULT Case 3A 895"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["“49” in pencil next to “EXCELLENT” in title; K4r: below tailpiece – “K.W.” in pencil [ZL]"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["F. Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["630"]
-Bartlett1939_notes: ["Clark, C. W. 7 1/8 x 5 3/16". The Griswold (probably sold, August, 1889 to), Folger (sold privately, 1918) copy. Bound in red morocco, by Bedford."]
-Bartlett1916: ["437"]
-Bartlett1916_notes: ["Folger. The Griswold (probably sold, August, 1889) copy."]
-Lee_notes: null
-prov_info: ["Bookplate of Louis H. Silver."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1662
@@ -97,44 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-“49” in pencil next to “EXCELLENT” in title; K4r: below tailpiece – “K.W.” in pencil [ZL]
-
-\N
-
-\N
-
-F. Bedford
-
-\N
-
-\N
-
-630
-
-Clark, C. W. 7 1/8 x 5 3/16". The Griswold (probably sold, August, 1889 to), Folger (sold privately, 1918) copy. Bound in red morocco, by Bedford.
-
-437
-
-Folger. The Griswold (probably sold, August, 1889) copy.
-
-Bookplate of Louis H. Silver.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

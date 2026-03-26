@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["IUA11328"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["bookseller's description pasted on recto of second front fly-leaf; several incriptions dating from seventeenth, eighteenth, and nineteenth centuries in pen on verso of first front fly-leaf, recto of plate containing frontispiece, and M4v."]
 height: ["13.1"]
 width: ["8.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full brown calf with title on spine; brown morocco slip-case"]
-binder: ["Sangorski & Sutcliffe"]
-bookplate: ["John A. Spoor; University of Illinois bookplate: "Ingold Shakespeare Collection presented by Ernest Ingold, Class of 1909"]
-bookplate_location: ["front pastedown; verso of second front fly-leaf"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Ownership inscription on front flyleaf: "George Budd His Book 1682"; inked type on front flyleaf: "George Budd"; ownership inscription: "George Budd" and pen trials on back flyleaf; purchased 1950."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4614
@@ -99,38 +76,8 @@ t
 
 \N
 
-bookseller's description pasted on recto of second front fly-leaf; several incriptions dating from seventeenth, eighteenth, and nineteenth centuries in pen on verso of first front fly-leaf, recto of plate containing frontispiece, and M4v.
-
 13.1
 
 8.5
-
-\N
-
-Bound in full brown calf with title on spine; brown morocco slip-case
-
-Sangorski & Sutcliffe
-
-John A. Spoor; University of Illinois bookplate: "Ingold Shakespeare Collection presented by Ernest Ingold, Class of 1909"
-
-front pastedown; verso of second front fly-leaf
-
-0
-
-0
-
-Ownership inscription on front flyleaf: "George Budd His Book 1682"; inked type on front flyleaf: "George Budd"; ownership inscription: "George Budd" and pen trials on back flyleaf; purchased 1950.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

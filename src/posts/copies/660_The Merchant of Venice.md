@@ -24,31 +24,8 @@ location_name: ["Morgan Library & Museum"]
 shelfmark: ["PML 16503"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["642"]
-Bartlett1939_notes: ["MORGAN. 7 x 5 3/16". Birket Foster book-plate. The Foster (June 11, 1894, n. 24,\r\n£146), Sotheby (December 14, 1906, n. 389, £380), Thomas (sold, January, 1910)\r\ncopy. Bound in red morocco, gilt gauffered edges."]
-Bartlett1916: ["442"]
-Bartlett1916_notes: ["MORGAN. 7 x 5 3/16". Birket Foster book-plate. The Foster (June, 1894, No.\r\n24), Sotheby (December 14, 1906, No. 389), Thomas (sold, January, 1910) copy.\r\nBound in red morocco, gilt gauffered edges"]
-Lee_notes: null
-prov_info: ["Bookplates of Birket Foster and Pierpont Morgan; also an unidentified 19th century bookplate. Binding: Red morocco"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 121
@@ -97,42 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-642
-
-MORGAN. 7 x 5 3/16". Birket Foster book-plate. The Foster (June 11, 1894, n. 24,\r\n£146), Sotheby (December 14, 1906, n. 389, £380), Thomas (sold, January, 1910)\r\ncopy. Bound in red morocco, gilt gauffered edges.
-
-442
-
-MORGAN. 7 x 5 3/16". Birket Foster book-plate. The Foster (June, 1894, No.\r\n24), Sotheby (December 14, 1906, No. 389), Thomas (sold, January, 1910) copy.\r\nBound in red morocco, gilt gauffered edges
-
-Bookplates of Birket Foster and Pierpont Morgan; also an unidentified 19th century bookplate. Binding: Red morocco
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

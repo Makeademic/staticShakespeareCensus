@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2915 Fo.4 no.21"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: ["In Folger copy 21, the verses leaf with port. (π1) is inlaid (margins excised) and the title leaf (+π2) is remargined at the fore-edge. Portrait creased when printed, affecting the image (now flattened). Leaves 4A3.4 are remargined at the fore-edge and tail, affecting rules. Leaf 4C2 is mounted (margins excised). Imperfections affect text very slightly on B2, H3 verso, 2O5, *3C4 verso, 3K1, 3N6, 3T3, and 4A2. Leaves 2T4, 2Z6, and 3Q4 are short but apparently integral. With 3 aut. let. sig.: Charles Kemble, 27 Jan. 1854; Ellen (Tree) Kean, 17 Feb. [1853-56]; and Charles John Kean, 26 July 1858 (fragment); removed and catalogued separately as respectively Y.c.1645, Y.c.1646, Y.c.1647."]
 height: ["37"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Hering, Charles"]
-bookplate: ["Michael Tomkinson"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscribed by Charles Kean: "Presented by the Duke of Devonshire to Edmund Kean May 24th 1814.  Bought by Charles Kean at the sale of his fathers effects for three guineas June 17th 1834" (front flyleaf, recto). Also Mary Maria (Kean) Logie copy."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7215
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
-In Folger copy 21, the verses leaf with port. (π1) is inlaid (margins excised) and the title leaf (+π2) is remargined at the fore-edge. Portrait creased when printed, affecting the image (now flattened). Leaves 4A3.4 are remargined at the fore-edge and tail, affecting rules. Leaf 4C2 is mounted (margins excised). Imperfections affect text very slightly on B2, H3 verso, 2O5, *3C4 verso, 3K1, 3N6, 3T3, and 4A2. Leaves 2T4, 2Z6, and 3Q4 are short but apparently integral. With 3 aut. let. sig.: Charles Kemble, 27 Jan. 1854; Ellen (Tree) Kean, 17 Feb. [1853-56]; and Charles John Kean, 26 July 1858 (fragment); removed and catalogued separately as respectively Y.c.1645, Y.c.1646, Y.c.1647.
-
 37
 
 0
-
-\N
-
-\N
-
-Hering, Charles
-
-Michael Tomkinson
-
-\N
-
-0
-
-0
-
-Inscribed by Charles Kean: "Presented by the Duke of Devonshire to Edmund Kean May 24th 1814.  Bought by Charles Kean at the sale of his fathers effects for three guineas June 17th 1834" (front flyleaf, recto). Also Mary Maria (Kean) Logie copy.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

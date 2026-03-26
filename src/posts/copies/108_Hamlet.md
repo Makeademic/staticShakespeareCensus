@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 17"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Most bibliographies consider Wing S2951 to be a variant issue of this edition (and date Wing S2951 to 1676 as well), but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in four lines." [ESTC]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full crimson levant"]
-binder: ["Riviere"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["94"]
-Bartlett1939_notes: ["PICKERING & CHATTO. 8 3/16 x 6 5/16". Some blank margins mended. Bound in\r\nred morocco by Riviere."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1558
@@ -97,38 +74,8 @@ t
 
 \N
 
-Most bibliographies consider Wing S2951 to be a variant issue of this edition (and date Wing S2951 to 1676 as well), but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in four lines." [ESTC]
-
 0
 
 0
-
-\N
-
-Full crimson levant
-
-Riviere
-
-\N
-
-\N
-
-94
-
-PICKERING & CHATTO. 8 3/16 x 6 5/16". Some blank margins mended. Bound in\r\nred morocco by Riviere.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

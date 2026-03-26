@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1635 (Shakespeare, W. Late, And much admired Play, calld Pericles, Prince of Tyre)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Manuscript inscription: "Left by Sir Geo: Etherege with [name obliterated] 1689."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["A copy in the Lenox collection of the New York Public Library has on the title-page an early transcript note running: 'Left by Sir George Etherege [something obliterated and undecipherable] 1689.' Etherege the dramatist died in 1691."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["62"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 104
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-Manuscript inscription: "Left by Sir Geo: Etherege with [name obliterated] 1689."
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-A copy in the Lenox collection of the New York Public Library has on the title-page an early transcript note running: 'Left by Sir George Etherege [something obliterated and undecipherable] 1689.' Etherege the dramatist died in 1691.
-
-1
-
-f
-
-f
-
-62
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: ["f PR2751 .A2 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["In margin of p. 158 of Macbeth, in modern pencil: "Macbeth" and "Macduff" correcting a faulty SP."]
-condition: ["\N"]
-binding: ["Bound in red crushed levant morocco, gilt, marbled endpapers"]
-binder: ["Rivière & Son"]
-bookplate: ["John Francis Neylan; Robert Hoe"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["On front flyleaf: "acc. no. 003"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6946
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
 0
 
 0
-
-In margin of p. 158 of Macbeth, in modern pencil: "Macbeth" and "Macduff" correcting a faulty SP.
-
-\N
-
-Bound in red crushed levant morocco, gilt, marbled endpapers
-
-Rivière & Son
-
-John Francis Neylan; Robert Hoe
-
-front pastedown
-
-0
-
-0
-
-On front flyleaf: "acc. no. 003"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

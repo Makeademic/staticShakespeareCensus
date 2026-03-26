@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.522"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755449"]
-notes: ["There are two issues of this edition: in this issue the original title leaf was replaced by a single fold ¶2, which contains a new title page with a different play title and no performance attribution [¶1r], and which adds a new address to readers [¶2r].  [DEEP]"]
-local_notes: ["-final blank leaf"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1213"]
-Bartlett1939_notes: ["CRICHTON STUART. 6 7/8 x 4 9/16". M2 blank and lacking, cropped at bottom injuring some signatures and catchwords. With book-plate of 3rd Marquis of Bute. Bound in half yellow morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 261
@@ -99,40 +76,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120755449
 
-There are two issues of this edition: in this issue the original title leaf was replaced by a single fold ¶2, which contains a new title page with a different play title and no performance attribution [¶1r], and which adds a new address to readers [¶2r].  [DEEP]
-
--final blank leaf
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1213
-
-CRICHTON STUART. 6 7/8 x 4 9/16". M2 blank and lacking, cropped at bottom injuring some signatures and catchwords. With book-plate of 3rd Marquis of Bute. Bound in half yellow morocco.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S332.1655"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Slightly stained; 65976"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["540"]
-Bartlett1939_notes: ["BIRMINGHAM. 6¾ x 5". Purchased, March, 1884. Bound in red levant morocco, by Hammond."]
-Bartlett1916: ["359"]
-Bartlett1916_notes: ["BIRMINGHAM. 6¾ x 5". Purchased, March, 1884. Bound in red levant morocco, by Hammond."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 950
@@ -99,40 +76,8 @@ t
 
 \N
 
-Slightly stained; 65976
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-540
-
-BIRMINGHAM. 6¾ x 5". Purchased, March, 1884. Bound in red levant morocco, by Hammond.
-
-359
-
-BIRMINGHAM. 6¾ x 5". Purchased, March, 1884. Bound in red levant morocco, by Hammond.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22333 Copy 4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161351-153794"]
-notes: null
-local_notes: ["cs0900. Imperfect: title leaf and G4 are facsimiles. Folger file: The inner formes of gatherings A and B match those in copy 3. Trimmed, affecting headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin binding"]
-binder: ["W. Pratt"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["James Orchard Halliwell-Phillipps copy (with a signed MS. note in his hand on front fly-leaf: "I bought this volume of Lilly ... J.O.H."; bookplate of Warwick Castle, Shakespeare Library."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1253
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161351-153794
 
-cs0900. Imperfect: title leaf and G4 are facsimiles. Folger file: The inner formes of gatherings A and B match those in copy 3. Trimmed, affecting headlines.
-
 0
 
 0
-
-\N
-
-Red goatskin binding
-
-W. Pratt
-
-\N
-
-\N
-
-0
-
-0
-
-James Orchard Halliwell-Phillipps copy (with a signed MS. note in his hand on front fly-leaf: "I bought this volume of Lilly ... J.O.H."; bookplate of Warwick Castle, Shakespeare Library.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

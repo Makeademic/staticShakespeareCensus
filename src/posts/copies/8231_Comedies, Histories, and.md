@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz +32 copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Handwritten note inside front paste-down: "a fine and perfect copy"; clean copy, part from very light foxing on dedication and title pages. A number of leaves have been skilfully remargined."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Maroon goatskin, gilt tooling and gilt edges"]
-binder: ["Rivière"]
-bookplate: ["Cryptic monograph "CEATB" for Elizabethan Club"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Bookseller's price code(?) on dedication leaf: "1497 · 7 [x / - / -"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7457
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Handwritten note inside front paste-down: "a fine and perfect copy"; clean copy, part from very light foxing on dedication and title pages. A number of leaves have been skilfully remargined.
-
 0
 
 0
-
-\N
-
-Maroon goatskin, gilt tooling and gilt edges
-
-Rivière
-
-Cryptic monograph "CEATB" for Elizabethan Club
-
-\N
-
-0
-
-0
-
-Bookseller's price code(?) on dedication leaf: "1497 · 7 [x / - / -"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

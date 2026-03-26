@@ -24,31 +24,8 @@ location_name: ["Newberry Library"]
 shelfmark: ["VAULT Case 3A 888"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Rivière & Son"]
-bookplate: ["Herschel V. Jones; Louis H. Silver"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1195"]
-Bartlett1939_notes: ["CLARK, C. W. 7 3/16 x 5 1/8". The Cope (March, 1913, n. 186, £155 to), Quaritch\r\n(sold before January, 1917 to), Jones (March 4, 1919, n. 1403, $3750 to), Rosenbach copy. Bound in red levant morocco, by Riviere."]
-Bartlett1916: ["873"]
-Bartlett1916_notes: ["QUARITCH. 7 3/16 x 5 1/8". The Cope (March, 1913, No. 186) copy. Bound in\r\nred levant morocco, by Riviere."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1689
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-Rivière & Son
-
-Herschel V. Jones; Louis H. Silver
-
-\N
-
-1195
-
-CLARK, C. W. 7 3/16 x 5 1/8". The Cope (March, 1913, n. 186, £155 to), Quaritch\r\n(sold before January, 1917 to), Jones (March 4, 1919, n. 1403, $3750 to), Rosenbach copy. Bound in red levant morocco, by Riviere.
-
-873
-
-QUARITCH. 7 3/16 x 5 1/8". The Cope (March, 1913, No. 186) copy. Bound in\r\nred levant morocco, by Riviere.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

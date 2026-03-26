@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G g.3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["Imperfect; lacks title page"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["To the same year (1630) is assigned an imperfect copy (lacking the title-page) of a slightly differing impression, which is also in the Bodleian Library (Malone 891). It measures 4 11/16 x 2 5/16". A title-page, which is supplied in manuscript, suggests the date of 1630. The text is not identical with the perfect copy of that year, but it was clearly based on that\r\nedition. It was known, too, to the printer of the succeeding edition of 1636. It must  therefore be dated between 1630 and the latter year."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["17"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 12
@@ -99,40 +76,8 @@ t
 
 \N
 
-\N
-
-Imperfect; lacks title page
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-To the same year (1630) is assigned an imperfect copy (lacking the title-page) of a slightly differing impression, which is also in the Bodleian Library (Malone 891). It measures 4 11/16 x 2 5/16". A title-page, which is supplied in manuscript, suggests the date of 1630. The text is not identical with the perfect copy of that year, but it was clearly based on that\r\nedition. It was known, too, to the printer of the succeeding edition of 1636. It must  therefore be dated between 1630 and the latter year.
-
-1
-
-f
-
-f
-
-17
-
-0
-
-f
 
 f

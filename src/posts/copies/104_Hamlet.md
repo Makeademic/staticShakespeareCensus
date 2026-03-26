@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S317.1676"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Most bibliographies consider Wing S2951 to be a variant issue of this edition (and date Wing S2951 to 1676 as well), but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in four lines." [ESTC]"]
-local_notes: ["Slightly foxed; 63804"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["81"]
-Bartlett1939_notes: ["BIRMINGHAM. 8 3/8 x 6". Purchased, 1883. Bound in boards, morocco back."]
-Bartlett1916: ["62"]
-Bartlett1916_notes: ["BIRMINGHAM. 8 3/8 x 6". Purchased, 1883. Bound in boards, morocco back."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 975
@@ -97,42 +74,8 @@ t
 
 \N
 
-Most bibliographies consider Wing S2951 to be a variant issue of this edition (and date Wing S2951 to 1676 as well), but see Emma Depledge, "False Dating: The Case of the '1676' Hamlet Quartos", Papers of the Bibliographical Society of America, 2018. "In this edition, the imprint is in four lines." [ESTC]
-
-Slightly foxed; 63804
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-81
-
-BIRMINGHAM. 8 3/8 x 6". Purchased, 1883. Bound in boards, morocco back.
-
-62
-
-BIRMINGHAM. 8 3/8 x 6". Purchased, 1883. Bound in boards, morocco back.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: ["Dyce 25.D.67"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1068"]
-Bartlett1939_notes: ["DYCE COLLECTION. 7 3/8 x 5 1/8". Title mended in lower margins; many pages\r\nsoiled. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in calf."]
-Bartlett1916: ["760"]
-Bartlett1916_notes: ["DYCE COLLECTION. 7 3/8 x 5 1/8". Title mended in lower inner margins; many pages soiled. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in calf."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 432
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1068
-
-DYCE COLLECTION. 7 3/8 x 5 1/8". Title mended in lower margins; many pages\r\nsoiled. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in calf.
-
-760
-
-DYCE COLLECTION. 7 3/8 x 5 1/8". Title mended in lower inner margins; many pages soiled. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in calf.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

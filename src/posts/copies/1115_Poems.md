@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["From Sotheby's catalogue: "5 3/8 x 3 1/2 in. ... second, undated, title-page extended and remargined at bottom, tiny abrasion at top of frontispiece, catchword *3 carelessly printed and punched through, final leaf (M4) extended."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["From Sotheby's catalogue: "Russet morocco by Bedford, covers elaborately gilt-paneled, spine gilt in six compartments, marbled endpapers, gilt edges; spine lightly faded. Brown buckram folding-case."]
-binder: ["Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Sotheby's as part of Robert Pirie sale, 2-4 Dec 2015, lot 729, $125,000, purchaser unknown. From auction catalogue: "Alfred Henry Huth (morocco label) — Christie's New York, 18 November 1977, lot 115 (undesignated consignor) — Sotheby's London, 26 April 1982, lot 439 ("Property of a Gentleman"). acquisition: Purchased at the foregoing sale through Bernard Quaritch."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1630
@@ -99,38 +76,8 @@ t
 
 \N
 
-From Sotheby's catalogue: "5 3/8 x 3 1/2 in. ... second, undated, title-page extended and remargined at bottom, tiny abrasion at top of frontispiece, catchword *3 carelessly printed and punched through, final leaf (M4) extended."
-
 0
 
 0
-
-\N
-
-From Sotheby's catalogue: "Russet morocco by Bedford, covers elaborately gilt-paneled, spine gilt in six compartments, marbled endpapers, gilt edges; spine lightly faded. Brown buckram folding-case."
-
-Bedford
-
-\N
-
-\N
-
-0
-
-0
-
-Sold at Sotheby's as part of Robert Pirie sale, 2-4 Dec 2015, lot 729, $125,000, purchaser unknown. From auction catalogue: "Alfred Henry Huth (morocco label) — Christie's New York, 18 November 1977, lot 115 (undesignated consignor) — Sotheby's London, 26 April 1982, lot 439 ("Property of a Gentleman"). acquisition: Purchased at the foregoing sale through Bernard Quaritch."
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

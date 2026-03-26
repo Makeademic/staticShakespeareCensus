@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2940 Copy 6"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["cs968. Mutilated, affecting headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Disbound"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["882"]
-Bartlett1939_notes: ["FOLGER. 8 1/16 x 6¼". Cropped at top, injuring some head-lines. The Sotheby (February\r\n26, 1900, n. 1435) copy. Bound in half red morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1353
@@ -99,38 +76,8 @@ t
 
 \N
 
-cs968. Mutilated, affecting headlines.
-
 0
 
 0
-
-\N
-
-Disbound
-
-\N
-
-\N
-
-\N
-
-882
-
-FOLGER. 8 1/16 x 6¼". Cropped at top, injuring some head-lines. The Sotheby (February\r\n26, 1900, n. 1435) copy. Bound in half red morocco.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

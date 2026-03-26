@@ -24,31 +24,8 @@ location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: ["PR2750 .A30 1635"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://colenda.library.upenn.edu/catalog/81431-p38p5vs2w"]
-notes: null
-local_notes: ["Imperfect: leaves A1-B1, H1-I2 wanting; title and imprint supplied from Greg; leaf B2 mended at outside margin."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Penn copy has early ms. notes in margins, possibly by Lewis Theobald."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["Mr. H. H. Furness possesses and imperfect copy, which was at one time in the possession of Theobald, who has inserted many marginal notes."]
-prov_info: ["Formerly owned by Furness, Horace Howard.\r\nPossibly formerly owned by Theobald, Lewis, 1688-1744."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["65"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 2154
@@ -99,42 +76,8 @@ t
 
 https://colenda.library.upenn.edu/catalog/81431-p38p5vs2w
 
-Imperfect: leaves A1-B1, H1-I2 wanting; title and imprint supplied from Greg; leaf B2 mended at outside margin.
-
 0
 
 0
-
-Penn copy has early ms. notes in margins, possibly by Lewis Theobald.
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Mr. H. H. Furness possesses and imperfect copy, which was at one time in the possession of Theobald, who has inserted many marginal notes.
-
-Formerly owned by Furness, Horace Howard.\r\nPossibly formerly owned by Theobald, Lewis, 1688-1744.
-
-1
-
-f
-
-f
-
-65
-
-0
-
-f
 
 f

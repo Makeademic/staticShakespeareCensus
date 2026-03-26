@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.514"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755442"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1089"]
-Bartlett1939_notes: ["CRICHTON STUART. 6 15/16 x 4 7/8". Cropped at bottom injuring some catchwords and signatures. With "George Steevens" on title. The Steevens (May 13, 1800, n. 1297, 6s. to Stace for), 1st Marquis Bute copy. Bound in half yellow morocco."]
-Bartlett1916: ["775"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 395
@@ -102,35 +79,5 @@ https://digital.nls.uk/shakespeare-quartos/archive/120755442
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1089
-
-CRICHTON STUART. 6 15/16 x 4 7/8". Cropped at bottom injuring some catchwords and signatures. With "George Steevens" on title. The Steevens (May 13, 1800, n. 1297, 6s. to Stace for), 1st Marquis Bute copy. Bound in half yellow morocco.
-
-775
-
-CRICHTON STUART.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

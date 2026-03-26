@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22300 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163952-157582"]
-notes: null
-local_notes: ["cs0900."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["Hayday"]
-bookplate: ["William Gott"]
-bookplate_location: ["\N"]
-Bartlett1939: ["708"]
-Bartlett1939_notes: ["FOLGER. 7 x 5 5/16". The Gott (sold through Sotheran, July, 1907) copy. Bound in half red morocco, by Hayday."]
-Bartlett1916: ["498"]
-Bartlett1916_notes: ["FOLGER. The Gott (sold through Sotheran, 1907) copy. Bound in half red\r\nmorocco, by Lewis."]
-Lee_notes: null
-prov_info: ["armorial bookplate of William Gott (motto "nec temere nec timide")."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1305
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163952-157582
 
-cs0900.
-
 0
 
 0
-
-\N
-
-Red goatskin
-
-Hayday
-
-William Gott
-
-\N
-
-708
-
-FOLGER. 7 x 5 5/16". The Gott (sold through Sotheran, July, 1907) copy. Bound in half red morocco, by Hayday.
-
-498
-
-FOLGER. The Gott (sold through Sotheran, 1907) copy. Bound in half red\r\nmorocco, by Lewis.
-
-armorial bookplate of William Gott (motto "nec temere nec timide").
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

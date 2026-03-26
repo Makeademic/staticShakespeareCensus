@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell S.27[2]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Mispagination and duplication. The page numbers have been corrected in MS."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["814"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5½". I1-N2 supplied from smaller\r\ncopy. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old\r\nplays."]
-Bartlett1916: ["584"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5½". Ii-N2 supplied from smaller\r\ncopy. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old\r\nplays. Pressmark, S. 27. 2."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1334
@@ -99,40 +76,8 @@ t
 
 \N
 
-Mispagination and duplication. The page numbers have been corrected in MS.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-814
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5½". I1-N2 supplied from smaller\r\ncopy. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old\r\nplays.
-
-584
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5½". Ii-N2 supplied from smaller\r\ncopy. The Capell (presented, June, 1779) copy. Bound in brown calf, with other old\r\nplays. Pressmark, S. 27. 2.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

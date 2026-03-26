@@ -24,31 +24,8 @@ location_name: ["Eton College"]
 shelfmark: ["Sa1.4.30(03)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Interleaved. Bound as part of a set of five volumes of early editions of Shakespeare's plays."]
 height: ["17.3"]
 width: ["12.9"]
-marginalia: ["A few marginal annotations in ink. Diagonal line at top left corner of each verso made in red chalk."]
-condition: ["\N"]
-binding: ["18th-century gold-tooled, mottled calf."]
-binder: null
-bookplate: ["Armorial bookplate of Anthony Morris Storer (1746-1799)"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: ["Book label of Eton College Library. Bequeathed to Eton by Anthony Morris Storer in 1799."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1524
@@ -99,44 +76,8 @@ t
 
 \N
 
-Interleaved. Bound as part of a set of five volumes of early editions of Shakespeare's plays.
-
 17.3
 
 12.9
-
-A few marginal annotations in ink. Diagonal line at top left corner of each verso made in red chalk.
-
-\N
-
-18th-century gold-tooled, mottled calf.
-
-Armorial bookplate of Anthony Morris Storer (1746-1799)
-
-Front pastedown
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-Book label of Eton College Library. Bequeathed to Eton by Anthony Morris Storer in 1799.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

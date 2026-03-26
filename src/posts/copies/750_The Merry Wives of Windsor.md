@@ -24,31 +24,8 @@ location_name: ["Windsor Castle, Royal Collection Trust"]
 shelfmark: ["RCIN 1059072"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["18.5"]
 width: ["14.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["Rebound in early 20th century"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["729"]
-Bartlett1939_notes: ["WINDSOR CASTLE. 7¼ x 5 5/8". Unbound."]
-Bartlett1916: ["514"]
-Bartlett1916_notes: ["WINDSOR CASTLE. 7¼ x 5 5/8". Unbound."]
-Lee_notes: null
-prov_info: ["Probably acquired during the reign of King George VI (r. 1936-52)"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1529
@@ -102,37 +79,5 @@ t
 18.5
 
 14.7
-
-\N
-
-Rebound in early 20th century
-
-\N
-
-\N
-
-\N
-
-729
-
-WINDSOR CASTLE. 7¼ x 5 5/8". Unbound.
-
-514
-
-WINDSOR CASTLE. 7¼ x 5 5/8". Unbound.
-
-Probably acquired during the reign of King George VI (r. 1936-52)
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

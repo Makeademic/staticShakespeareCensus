@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 T1 1685c copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition displays the typographical peculiarities that Bartlett ascribes to the third of the undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that there is a colon after "Caesar" in line 1 of title. In this edition, p. 15 is usually--but, as noted on specific copies, not always--misnumbered 51. As in the second undated quarto, larger type was used to set C1v-C2r (pp. 18-19) and D2v-D2r (pp. 28-29). For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["484"]
-Bartlett1939_notes: ["KINGSLEY. 8 5/8 x 6 5/16". Cropped at top, injuring some head-lines. Bound in tan\r\ncalf by Wallis."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4947
@@ -97,38 +74,8 @@ t
 
 \N
 
-This edition displays the typographical peculiarities that Bartlett ascribes to the third of the undated quartos. (The fourth of these dates to around 1715 and is therefore not part of the Shakespeare Census; it can be distinguished from the other three by the fact that it collates A-G4 H2, instead of A-H4 like all the others, and by presence of a three-line note about the location of the scene beneath the Dramatis Personae, beginning: "SCENE, for the Three first Acts ..."). This edition can be distinguished from the others by the fact that there is a colon after "Caesar" in line 1 of title. In this edition, p. 15 is usually--but, as noted on specific copies, not always--misnumbered 51. As in the second undated quarto, larger type was used to set C1v-C2r (pp. 18-19) and D2v-D2r (pp. 28-29). For a full discussion of the undated editions of Julius Caesar, see Emma Depledge, forthcoming work.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-484
-
-KINGSLEY. 8 5/8 x 6 5/16". Cropped at top, injuring some head-lines. Bound in tan\r\ncalf by Wallis.
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

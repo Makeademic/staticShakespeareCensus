@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 09"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib79179-81212"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["31.6"]
 width: ["20"]
-marginalia: ["Signature A5+1 has pen MS indicating Shakespearean play quartos owned by William Gott: The Merry Wives of Windsor, Love’s Labour’s Lost, A Midsummer Night’s Dream, The Merchant of Venice, Richard II, 1 Henry IV,  Henry V,  2 Henry VI, 3 Henry VI, Romeo and Juliet, and King Lear."]
-condition: ["\N"]
-binding: ["Bound in the early nineteenth century, possibly by Charles Lewis (1786-1836), in red, cross- and box-grained goatskin. Gilt edges with a gauffered design. Red, yellow, green, and rose Dutch pattern curl marble binder's leaves. The covers have three gold-tooled double-line fillets, with added decorative patterns including a variety of cones, flowers, and pomegranates."]
-binder: ["Lewis, Charles"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["67"]
-rasmussen_west_notes: ["Leaves B2-B5, D2-D5, E1, E3, E4, E6, Z2, and Z5, are supplied from shorter copies, as are possibly d3 and d4."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6675
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib79179-81212
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 31.6
 
 20
-
-Signature A5+1 has pen MS indicating Shakespearean play quartos owned by William Gott: The Merry Wives of Windsor, Love’s Labour’s Lost, A Midsummer Night’s Dream, The Merchant of Venice, Richard II, 1 Henry IV,  Henry V,  2 Henry VI, 3 Henry VI, Romeo and Juliet, and King Lear.
-
-\N
-
-Bound in the early nineteenth century, possibly by Charles Lewis (1786-1836), in red, cross- and box-grained goatskin. Gilt edges with a gauffered design. Red, yellow, green, and rose Dutch pattern curl marble binder's leaves. The covers have three gold-tooled double-line fillets, with added decorative patterns including a variety of cones, flowers, and pomegranates.
-
-Lewis, Charles
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-67
-
-Leaves B2-B5, D2-D5, E1, E3, E4, E6, Z2, and Z5, are supplied from shorter copies, as are possibly d3 and d4.
-
-f
 
 f

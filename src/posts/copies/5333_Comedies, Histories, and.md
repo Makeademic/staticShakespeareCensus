@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 Fo.1 fragment 12"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Several plays, mostly from the same original copy: Winter's Tale (sig. Aa3 from a different copy); Henry V (incomplete) and 1-3 Henry VI (sig. h6 in facsimile); Henry VIII (sigs. v2-3 in facsimile); Titus Andronicus (sig. dd1 from a different copy)"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7738
@@ -99,36 +76,8 @@ f
 
 \N
 
-Several plays, mostly from the same original copy: Winter's Tale (sig. Aa3 from a different copy); Henry V (incomplete) and 1-3 Henry VI (sig. h6 in facsimile); Henry VIII (sigs. v2-3 in facsimile); Titus Andronicus (sig. dd1 from a different copy)
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

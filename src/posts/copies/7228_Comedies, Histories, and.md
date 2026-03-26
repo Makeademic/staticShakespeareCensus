@@ -24,31 +24,8 @@ location_name: ["University of Virginia"]
 shelfmark: ["PR2751 .A3 1663"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: detached and rebound copies of: Measure for measure (p. 61-84) -- Much ado about nothing. Love's labour's lost (p. 101-144) -- The Winter's Tale (p. 277-303); The detached parts are bound in 3 separate volumes; each in full red morocco, with the author and title and "From original third folio 1663" on cover."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Three volumes in red morocco; in slipcases."]
-binder: ["Bayntun, Riviere"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gift of Osa K. Lewis. Note on routing slip refers to a letter dated June 28, 1982."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7400
@@ -99,38 +76,8 @@ f
 
 \N
 
-Fragment: detached and rebound copies of: Measure for measure (p. 61-84) -- Much ado about nothing. Love's labour's lost (p. 101-144) -- The Winter's Tale (p. 277-303); The detached parts are bound in 3 separate volumes; each in full red morocco, with the author and title and "From original third folio 1663" on cover.
-
 0
 
 0
-
-\N
-
-Three volumes in red morocco; in slipcases.
-
-Bayntun, Riviere
-
-\N
-
-\N
-
-0
-
-0
-
-Gift of Osa K. Lewis. Note on routing slip refers to a letter dated June 28, 1982.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

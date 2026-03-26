@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.176.36"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/tragedieofkingri00shak_2/page/n5"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half red morocco-grained leather and brown paper"]
-binder: ["\N"]
-bookplate: ["Barton Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1085"]
-Bartlett1939_notes: ["BOSTON PUBLIC. 7¼ x 5 3/16". The Rodd (sold, September, 1844, to), Barton (sold, May, 1873) copy. Bound in half red morocco."]
-Bartlett1916: ["771"]
-Bartlett1916_notes: ["BOSTON PUBLIC. 7¼ x 5 3/16". The Barton (sold, May, 1873) copy. Bound\r\nin half red morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 399
@@ -102,35 +79,5 @@ https://archive.org/details/tragedieofkingri00shak_2/page/n5
 0
 
 0
-
-\N
-
-Half red morocco-grained leather and brown paper
-
-\N
-
-Barton Library
-
-\N
-
-1085
-
-BOSTON PUBLIC. 7¼ x 5 3/16". The Rodd (sold, September, 1844, to), Barton (sold, May, 1873) copy. Bound in half red morocco.
-
-771
-
-BOSTON PUBLIC. 7¼ x 5 3/16". The Barton (sold, May, 1873) copy. Bound\r\nin half red morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

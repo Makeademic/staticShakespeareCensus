@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Fitzwilliam Museum"]
 shelfmark: ["[none]"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["First two pages mounted"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Diced calf, gilt rolled border; spine & board edges gold tooled, border gold tooled on inside covers, gilt lettering on green spine label; marbled endpapers"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Fitzwilliam, 1782. Ms. inscr. on verso of p.419: 'John Knoyber'. With cutting from Quaritch's catalogue."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7536
@@ -99,40 +76,8 @@ f
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-First two pages mounted
-
 0
 
 0
-
-\N
-
-Diced calf, gilt rolled border; spine & board edges gold tooled, border gold tooled on inside covers, gilt lettering on green spine label; marbled endpapers
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Fitzwilliam, 1782. Ms. inscr. on verso of p.419: 'John Knoyber'. With cutting from Quaritch's catalogue.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

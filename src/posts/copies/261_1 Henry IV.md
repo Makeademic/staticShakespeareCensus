@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22287 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163913-157475"]
-notes: null
-local_notes: ["cs452."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Brown goatskin"]
-binder: ["Bedford"]
-bookplate: ["Armorial bookplate of John Kershaw (motto "perseverando")"]
-bookplate_location: ["\N"]
-Bartlett1939: ["278"]
-Bartlett1939_notes: ["FOLGER. 7 5/16 x 5¼". Several leaves slightly mended. Book-plate of John Kershaw. The Corser (February 13, 1871, n. 417), Kershaw (July 9, 1877, n. 1230), Quaritch (General Catalogue 322, March, 1879, n. 13547), Halliwell Rarities (sold, January, 1897, n. 26), Perry (sold, March, 1907) copy. Bound in brown levant morocco, by Bedford."]
-Bartlett1916: ["184"]
-Bartlett1916_notes: ["FOLGER. Several leaves slightly mended. Book-plate of John Kershaw. The\r\nCorser (February, 1871, No. 417), Kershaw (July, 1877, No. 1230), Halliwell\r\nRarities (sold, January, 1897, No. 26), Perry (sold, March, 1907) copy. Bound\r\nin brown levant morocco, by Bedford."]
-Lee_notes: null
-prov_info: ["Inscribed on back paste-down: "C&P J.O.H-P. [James Orchard Halliwell-Phillipps]"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1178
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163913-157475
 
-cs452.
-
 0
 
 0
-
-\N
-
-Brown goatskin
-
-Bedford
-
-Armorial bookplate of John Kershaw (motto "perseverando")
-
-\N
-
-278
-
-FOLGER. 7 5/16 x 5¼". Several leaves slightly mended. Book-plate of John Kershaw. The Corser (February 13, 1871, n. 417), Kershaw (July 9, 1877, n. 1230), Quaritch (General Catalogue 322, March, 1879, n. 13547), Halliwell Rarities (sold, January, 1897, n. 26), Perry (sold, March, 1907) copy. Bound in brown levant morocco, by Bedford.
-
-184
-
-FOLGER. Several leaves slightly mended. Book-plate of John Kershaw. The\r\nCorser (February, 1871, No. 417), Kershaw (July, 1877, No. 1230), Halliwell\r\nRarities (sold, January, 1897, No. 26), Perry (sold, March, 1907) copy. Bound\r\nin brown levant morocco, by Bedford.
-
-Inscribed on back paste-down: "C&P J.O.H-P. [James Orchard Halliwell-Phillipps]"
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

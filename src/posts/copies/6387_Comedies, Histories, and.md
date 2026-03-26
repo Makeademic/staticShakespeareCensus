@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2/fragment 05"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Sigs F1-G6 (Measure for Measure) and N1-O3 (MND) only. The lower outer corner of N3,4 is mutilated, affecting text.  Other imperfections affect text on N4 and O1, slightly on N3, and very slightly on O2. Bound in 2 vols."]
 height: ["33"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in 2 vols"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7283
@@ -99,36 +76,8 @@ t
 
 \N
 
-Sigs F1-G6 (Measure for Measure) and N1-O3 (MND) only. The lower outer corner of N3,4 is mutilated, affecting text.  Other imperfections affect text on N4 and O1, slightly on N3, and very slightly on O2. Bound in 2 vols.
-
 33
 
 0
-
-\N
-
-Bound in 2 vols
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

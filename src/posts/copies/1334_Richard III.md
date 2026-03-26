@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69359"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Signed by F. Bedford"]
-bookplate: ["E.D. Church"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1097"]
-Bartlett1939_notes: ["HUNTINGTON. 7 1/16 x 4 7/8". M2 has part of text in facsimile; stabbed throughout and mended on inner margins. Church book-plate. The B. F. Stevens (sold before 1883 to), N. Q. Pope (sold, October, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, by Bedford, for Mrs. Pope."]
-Bartlett1916: ["782"]
-Bartlett1916_notes: ["HUNTINGTON. 7 1/16 x 4 7/8". M2 has part of text in facsimile; stabbed throughout and mended on inner margins. Church hook-plate. The Pope (sold, October, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, by Bedford."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 403
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-Signed by F. Bedford
-
-E.D. Church
-
-\N
-
-1097
-
-HUNTINGTON. 7 1/16 x 4 7/8". M2 has part of text in facsimile; stabbed throughout and mended on inner margins. Church book-plate. The B. F. Stevens (sold before 1883 to), N. Q. Pope (sold, October, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, by Bedford, for Mrs. Pope.
-
-782
-
-HUNTINGTON. 7 1/16 x 4 7/8". M2 has part of text in facsimile; stabbed throughout and mended on inner margins. Church hook-plate. The Pope (sold, October, 1895), Church (sold, April, 1911) copy. Bound in red levant morocco, by Bedford.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

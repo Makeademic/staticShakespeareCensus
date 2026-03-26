@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig 6rb 629"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["TP mutilated and repaired and backed, some of the title restored in pen; printed character list from a much later edition pasted onto verso of backed TP [CMLB]"]
 height: ["18"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Re-bound"]
-binder: ["Riviere"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["MS inscription on TP: "R. Farmer" [Richard Farmer]"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4421
@@ -99,38 +76,8 @@ t
 
 \N
 
-TP mutilated and repaired and backed, some of the title restored in pen; printed character list from a much later edition pasted onto verso of backed TP [CMLB]
-
 18
 
 0
-
-\N
-
-Re-bound
-
-Riviere
-
-\N
-
-\N
-
-0
-
-0
-
-MS inscription on TP: "R. Farmer" [Richard Farmer]
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

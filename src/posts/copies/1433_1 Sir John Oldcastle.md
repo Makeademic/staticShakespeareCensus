@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1619 (Shakespeare, W. Shakespeare's plays; Pavier's collected edition, 1619. Sir John Oldcastle)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["C2 damaged and repaired; leaf C2 from a different copy has been inserted between original C2 and C3 [ZL]"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 760
@@ -99,38 +76,8 @@ t
 
 \N
 
-\N
-
-C2 damaged and repaired; leaf C2 from a different copy has been inserted between original C2 and C3 [ZL]
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

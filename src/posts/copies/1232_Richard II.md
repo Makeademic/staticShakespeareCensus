@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G d.39 (1)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["986"]
-Bartlett1939_notes: ["BODLEIAN. 7 x 4 7/8". Note by Malone: "D4. York. Should I do so, I should bely my thought. This line is wanting in the folio. This therefore was probably not the copy the editor printed from. M." Portrait of Richard II, by R. Elstrack "to be sold by Compton Holland" (probably from the Basiliologia), inserted facing title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. I."]
-Bartlett1916: ["692"]
-Bartlett1916_notes: ["BODLEIAN. 7 x 4 7/8". Note by Malone: "D4. York. Should I do so, I should\r\nbely my thought. This line is wanting in the folio. This therefore was probably\r\nnot the copy the editor printed from. M." Portrait of Richard II, by R. Elstrack\r\n"to be sold by Compton Holland" (probably from the Basiliologia), inserted facing title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. I. Pressmark, Malone, 32."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 365
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-986
-
-BODLEIAN. 7 x 4 7/8". Note by Malone: "D4. York. Should I do so, I should bely my thought. This line is wanting in the folio. This therefore was probably not the copy the editor printed from. M." Portrait of Richard II, by R. Elstrack "to be sold by Compton Holland" (probably from the Basiliologia), inserted facing title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. I.
-
-692
-
-BODLEIAN. 7 x 4 7/8". Note by Malone: "D4. York. Should I do so, I should\r\nbely my thought. This line is wanting in the folio. This therefore was probably\r\nnot the copy the editor printed from. M." Portrait of Richard II, by R. Elstrack\r\n"to be sold by Compton Holland" (probably from the Basiliologia), inserted facing title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. I. Pressmark, Malone, 32.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

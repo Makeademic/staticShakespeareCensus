@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22351 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161388-153855"]
-notes: null
-local_notes: ["cs448.  Trimmed, affecting direction-line on C3."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Dark blue (?) goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["A copy belonging to Mr. Marsden J. Perry, of Providence, formerly belonged to Halliwell[-Phillipps], who paid Quaritch £42 for it in November, 1885. It measures 5 11/16 x 3½"."]
-prov_info: ["MS. bibliographical note signed by James Orchard Halliwell-Phillipps on front free endpaper: "I gave Quaritch forty guineas for this ..."; Quaritch sale catalogue entry for this copy pasted on front paste-down"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["25"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 684
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161388-153855
 
-cs448.  Trimmed, affecting direction-line on C3.
-
 0
 
 0
-
-\N
-
-Dark blue (?) goatskin
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-A copy belonging to Mr. Marsden J. Perry, of Providence, formerly belonged to Halliwell[-Phillipps], who paid Quaritch £42 for it in November, 1885. It measures 5 11/16 x 3½".
-
-MS. bibliographical note signed by James Orchard Halliwell-Phillipps on front free endpaper: "I gave Quaritch forty guineas for this ..."; Quaritch sale catalogue entry for this copy pasted on front paste-down
-
-1
-
-f
-
-f
-
-25
-
-0
-
-f
 
 f

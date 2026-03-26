@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 26101 Copy 9"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Many bibliographies and library catalogues consider this edition part of Whole Contention, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions."]
-local_notes: ["Pericles only. cs900. Imperfect: lacking all before chi1 (part 3 only)."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Half blue goatskin"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["A copy belongs to Earl Howe, and is at Gopsall in the collection formed by Charles Jennens. It measures 7 1/8 x 5¼"."]
-prov_info: ["Jennens-Curzon-Howe library copy (Folger files)"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["26"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 333
@@ -99,42 +76,8 @@ t
 
 \N
 
-Many bibliographies and library catalogues consider this edition part of Whole Contention, due to its continuous signatures. But since most copies of STC 26101 contain only one or the other of the plays, the Shakespeare Census separates the two plays into discrete editions.
-
-Pericles only. cs900. Imperfect: lacking all before chi1 (part 3 only).
-
 0
 
 0
-
-\N
-
-Half blue goatskin
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-A copy belongs to Earl Howe, and is at Gopsall in the collection formed by Charles Jennens. It measures 7 1/8 x 5¼".
-
-Jennens-Curzon-Howe library copy (Folger files)
-
-1
-
-f
-
-f
-
-26
-
-0
-
-f
 
 f

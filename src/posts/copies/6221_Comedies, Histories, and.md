@@ -24,31 +24,8 @@ location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: ["-q- PFORZ 907"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists John Smethwick as the publisher."]
-local_notes: ["Pforzheimer catalogue calls this a "made up copy", and says the Effigies leaf is a facsimile."]
 height: ["33"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Blue morocco stamped on front turn-in"]
-binder: ["Pratt, W."]
-bookplate: ["W.K. Bixby"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7265
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists John Smethwick as the publisher.
-
-Pforzheimer catalogue calls this a "made up copy", and says the Effigies leaf is a facsimile.
-
 33
 
 0
-
-\N
-
-Blue morocco stamped on front turn-in
-
-Pratt, W.
-
-W.K. Bixby
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

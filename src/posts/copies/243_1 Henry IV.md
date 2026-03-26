@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.10"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=14&LHPage=-2&RHCopy=14&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["258"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 7 x 4¾", An old "6" and modern "8" on title; list of\r\ncharacters in old hand on verso; scribbles on several leaves. The Garrick\r\n(bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on back."]
-Bartlett1916: ["168"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 7 x 4¾", An old "6" and modern "8" on title; list of\r\ncharacters in old hand on verso; scribbles on several leaves. The Garrick\r\n(bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on back. Pressmark, C. 34. k. 10."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 846
@@ -102,35 +79,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=14&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-258
-
-BRITISH MUSEUM. 7 x 4¾", An old "6" and modern "8" on title; list of\r\ncharacters in old hand on verso; scribbles on several leaves. The Garrick\r\n(bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on back.
-
-168
-
-BRITISH MUSEUM. 7 x 4¾", An old "6" and modern "8" on title; list of\r\ncharacters in old hand on verso; scribbles on several leaves. The Garrick\r\n(bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on back. Pressmark, C. 34. k. 10.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

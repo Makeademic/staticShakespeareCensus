@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["Ig 6Db 632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://brbl-dl.library.yale.edu/vufind/Record/3446328"]
-notes: null
-local_notes: ["Imperfect: t.p. wanting and supplied in facsimile; leaf A2 mutilated and restored."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Some MS marginal notes in a fairly early hand [CMLB]; MS page numbers in top outer corner of each page (starting on sig. A2r)"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["John Hall"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 845
@@ -99,38 +76,8 @@ t
 
 https://brbl-dl.library.yale.edu/vufind/Record/3446328
 
-Imperfect: t.p. wanting and supplied in facsimile; leaf A2 mutilated and restored.
-
 0
 
 0
-
-Some MS marginal notes in a fairly early hand [CMLB]; MS page numbers in top outer corner of each page (starting on sig. A2r)
-
-\N
-
-\N
-
-\N
-
-John Hall
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

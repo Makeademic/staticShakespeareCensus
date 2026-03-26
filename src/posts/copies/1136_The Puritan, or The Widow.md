@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.533"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["hakespeare added in black ink after "W. S." on title page. "26" added in black in after imprint year on t.p.\r\nG1: piece of paper at bottom torn off without loss of text"]
 height: ["17.8"]
 width: ["12"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in half yellow morocco"]
-binder: ["\N"]
-bookplate: ["3rd Marquis of Bute"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["CRICHTON STUART"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 699
@@ -99,38 +76,8 @@ t
 
 \N
 
-hakespeare added in black ink after "W. S." on title page. "26" added in black in after imprint year on t.p.\r\nG1: piece of paper at bottom torn off without loss of text
-
 17.8
 
 12
-
-\N
-
-Bound in half yellow morocco
-
-\N
-
-3rd Marquis of Bute
-
-front pastedown
-
-0
-
-0
-
-CRICHTON STUART
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

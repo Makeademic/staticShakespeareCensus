@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 T3 1619"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: ["Disbound and mounted on larger sheets. Book label of Henry Bacon Collamore on front pastedown."]
 height: ["16.8"]
 width: ["10.4"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full burgundy morocco armorial binding with marbled paper applied to front and back boards."]
-binder: ["\N"]
-bookplate: ["H. Dyke Gautier; Frank J. Hogan"]
-bookplate_location: ["Front pastedown."]
-Bartlett1939: ["526"]
-Bartlett1939_notes: ["HOGAN. 6 5/8 x 4¾". Top line of title in facsimile; H1, H4 lacking; cropped at top\r\ninjuring some head-lines. The Phillipps (June 24, 1919, n. 880b, with 8 others,\r\n£710 to), Sotheran (sold to), Wells (who had them rebound separately and sold),\r\nAnderson (December 8, 1925, n. 178, $550) copy. Bound in red levant morocco, by Riviere, for Wells."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Stonehill on 2 February 1949."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 579
@@ -99,42 +76,8 @@ t
 
 \N
 
-\N
-
-Disbound and mounted on larger sheets. Book label of Henry Bacon Collamore on front pastedown.
-
 16.8
 
 10.4
-
-\N
-
-Bound in full burgundy morocco armorial binding with marbled paper applied to front and back boards.
-
-\N
-
-H. Dyke Gautier; Frank J. Hogan
-
-Front pastedown.
-
-526
-
-HOGAN. 6 5/8 x 4¾". Top line of title in facsimile; H1, H4 lacking; cropped at top\r\ninjuring some head-lines. The Phillipps (June 24, 1919, n. 880b, with 8 others,\r\n£710 to), Sotheran (sold to), Wells (who had them rebound separately and sold),\r\nAnderson (December 8, 1925, n. 178, $550) copy. Bound in red levant morocco, by Riviere, for Wells.
-
-0
-
-Purchased from Stonehill on 2 February 1949.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

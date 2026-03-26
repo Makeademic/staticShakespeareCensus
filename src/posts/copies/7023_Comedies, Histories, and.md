@@ -24,31 +24,8 @@ location_name: ["Ron Gillespie collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: no "verses" leaf, no title leaf, and no additional plays. From auction catalogue: ""To the Reader" verse leaf and title in facsimile, [A3--A4] remargined, worm track in lower margin of quires C-D and another in F-G, marginal soiling, mended tear in gutter margin of last leaf, tear in Q4 just entering border, contemporary marginal notes and corrections on pp. 802-803, 812, 829."]
 height: ["33"]
 width: ["21.8"]
-marginalia: null
-condition: ["\N"]
-binding: ["19th-century calf, gilt roll-tooled border, spine gilt; rebacked with original spine laid down, rubbed. Red half-morocco drop box"]
-binder: ["\N"]
-bookplate: ["William Constable; Joseph W. Drexel; Lucy Wharton Drexel"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Sold at Sotheby's, 2004, $39,000, buyer unknown."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7998
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here.
-
-Includes: no "verses" leaf, no title leaf, and no additional plays. From auction catalogue: ""To the Reader" verse leaf and title in facsimile, [A3--A4] remargined, worm track in lower margin of quires C-D and another in F-G, marginal soiling, mended tear in gutter margin of last leaf, tear in Q4 just entering border, contemporary marginal notes and corrections on pp. 802-803, 812, 829."
-
 33
 
 21.8
-
-\N
-
-19th-century calf, gilt roll-tooled border, spine gilt; rebacked with original spine laid down, rubbed. Red half-morocco drop box
-
-\N
-
-William Constable; Joseph W. Drexel; Lucy Wharton Drexel
-
-\N
-
-0
-
-0
-
-Sold at Sotheby's, 2004, $39,000, buyer unknown.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

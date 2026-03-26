@@ -24,31 +24,8 @@ location_name: ["Princeton University"]
 shelfmark: ["EX 3925.359 1598"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in dark blue goatskin"]
-binder: ["Bedford, Francis"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["565"]
-Bartlett1939_notes: ["LAW. 6¾ x 4 7/8". Head-lines cropped. Probably the Thomas Allen (June 1, 1795, n. 1217, £8. 8s.) copy. The Gaisford (April 23, 1890, n. 1737, £140 to), Quaritch (General Catalogue 1737, sold to), Alfred Law (bequeathed, 1913) copy. Bound in blue morocco, by Bedford (when bought by Gaisford it was bound with other Shakespeare Quartos)."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["The Allen?-Gaisford-Quaritch-Law copy. With bookplate of Thomas Gaisford, of Offington, Worthing. Gift of Donald L. Maggin, Class of 1948."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 223
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-Bound in dark blue goatskin
-
-Bedford, Francis
-
-\N
-
-\N
-
-565
-
-LAW. 6¾ x 4 7/8". Head-lines cropped. Probably the Thomas Allen (June 1, 1795, n. 1217, £8. 8s.) copy. The Gaisford (April 23, 1890, n. 1737, £140 to), Quaritch (General Catalogue 1737, sold to), Alfred Law (bequeathed, 1913) copy. Bound in blue morocco, by Bedford (when bought by Gaisford it was bound with other Shakespeare Quartos).
-
-0
-
-The Allen?-Gaisford-Quaritch-Law copy. With bookplate of Thomas Gaisford, of Offington, Worthing. Gift of Donald L. Maggin, Class of 1948.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

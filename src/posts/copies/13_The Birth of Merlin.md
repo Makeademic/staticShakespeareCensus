@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["H.3.c.20(2)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Numerous pages uncut at bottom.\r\nRed ownership stamp "Adv Lib" at bottom of title page."]
 height: ["17.8"]
 width: ["13"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound with 5 other plays in half green morocco"]
-binder: ["\N"]
-bookplate: ["J. Maitland Thomson"]
-bookplate_location: ["front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Volume with 6 17th-c. plays was presented to the Advocates Library (predecessor of National Library of Scotland) by John Maitland Thomson, Advocate, on 17 Oct. 1912."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["t"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1100
@@ -97,38 +74,8 @@ t
 
 \N
 
-Numerous pages uncut at bottom.\r\nRed ownership stamp "Adv Lib" at bottom of title page.
-
 17.8
 
 13
-
-\N
-
-Bound with 5 other plays in half green morocco
-
-\N
-
-J. Maitland Thomson
-
-front pastedown
-
-0
-
-0
-
-Volume with 6 17th-c. plays was presented to the Advocates Library (predecessor of National Library of Scotland) by John Maitland Thomson, Advocate, on 17 Oct. 1912.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-t
 
 f

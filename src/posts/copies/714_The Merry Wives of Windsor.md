@@ -24,31 +24,8 @@ location_name: ["Bibliothèque nationale de France (National Library of France)"
 shelfmark: ["RES-YK-59"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["On title page: "arg. ent. 3361."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["J. Clarke"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["696"]
-Bartlett1939_notes: ["BIBLIOTHEQUE NATIONALE, PARIS. 7 5/16 x 5 7/16''. With "3877 £6. 16s." in\r\npencil. The Pickering (sold, 1840) copy. Bound in dark blue morocco, by J. Clarke."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1652
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-On title page: "arg. ent. 3361."
-
-\N
-
-\N
-
-J. Clarke
-
-\N
-
-\N
-
-696
-
-BIBLIOTHEQUE NATIONALE, PARIS. 7 5/16 x 5 7/16''. With "3877 £6. 16s." in\r\npencil. The Pickering (sold, 1840) copy. Bound in dark blue morocco, by J. Clarke.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

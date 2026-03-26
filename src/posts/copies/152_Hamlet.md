@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["PROMPT Ham. 54"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this state the publisher's name is spelled correctly. [ESTC]"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Promptbook marked by John Ward"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Frederick William Cosens"]
-bookplate_location: ["\N"]
-Bartlett1939: ["123"]
-Bartlett1939_notes: ["FOLGER. 8½ x 6½". Title extended on outer margins; [A2] mended in corners.\r\nNote by Halliwell on fly-leaf; stage directions, etc. in old hand throughout. The\r\nCosens (November 11, 1890, n. 4073), Barrett copy. Bound in half green morocco."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1642
@@ -97,40 +74,8 @@ t
 
 \N
 
-In this state the publisher's name is spelled correctly. [ESTC]
-
 0
 
 0
-
-Promptbook marked by John Ward
-
-\N
-
-\N
-
-\N
-
-Frederick William Cosens
-
-\N
-
-123
-
-FOLGER. 8½ x 6½". Title extended on outer margins; [A2] mended in corners.\r\nNote by Halliwell on fly-leaf; stage directions, etc. in old hand throughout. The\r\nCosens (November 11, 1890, n. 4073), Barrett copy. Bound in half green morocco.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

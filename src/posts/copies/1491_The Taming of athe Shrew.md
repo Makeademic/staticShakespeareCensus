@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1631 (Shakespeare, W. Wittie And Pleasant Comedie Called The Taming of the Shrew)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1184"]
-Bartlett1939_notes: ["NEW YORK PUBLIC. 7 3/8 x 5 3/16". Wormhole in upper blank margin. The\r\nH. Stevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870;\r\nNew York Public, May, 1895) copy. Bound in red morocco, by Mackenzie."]
-Bartlett1916: ["856"]
-Bartlett1916_notes: ["NEW YORK PUBLIC. 7 3/8 x 5 3/16". Wormhole in upper blank margin. The\r\nH. Stevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870;\r\nNew York Public, May, 1895) copy. Bound in red morocco, by Mackenzie."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 233
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1184
-
-NEW YORK PUBLIC. 7 3/8 x 5 3/16". Wormhole in upper blank margin. The\r\nH. Stevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870;\r\nNew York Public, May, 1895) copy. Bound in red morocco, by Mackenzie.
-
-856
-
-NEW YORK PUBLIC. 7 3/8 x 5 3/16". Wormhole in upper blank margin. The\r\nH. Stevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870;\r\nNew York Public, May, 1895) copy. Bound in red morocco, by Mackenzie.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

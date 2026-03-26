@@ -24,31 +24,8 @@ location_name: ["University of Glasgow"]
 shelfmark: ["Sp Coll Hunterian Co.3.27m"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Gathering E exists in two states: This issue contains the original E3 and E4."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Manuscript inscription on titlepage of what was the sixth item of the sammelband volume in which this item was previously bound: "John Smyth being A noneste man this is his boocke"."]
-condition: ["\N"]
-binding: ["20th century burgundy buckram library binding, replacing an earlier - probably 17th century sammelband binding - in which this was the thirteenth and final item (nb. evidence reconstituing order supplied by Aaron Pratt, July 2016, housed in Co.3.27 case)."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["328"]
-Bartlett1939_notes: ["HUNTERIAN MUSEUM, GLASGOW. 7 9/16 x 5 3/8". Rebound, c. 1937, for Hunterian Museum."]
-Bartlett1916: ["213"]
-Bartlett1916_notes: ["HUNTERIAN MUSEUM, GLASGOW. Bound with Henry IV, Pt. 1, 1599,\r\nand works by other authors. Pressmark, Co. 3. 27."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 519
@@ -97,42 +74,8 @@ t
 
 \N
 
-Gathering E exists in two states: This issue contains the original E3 and E4.
-
 0
 
 0
-
-Manuscript inscription on titlepage of what was the sixth item of the sammelband volume in which this item was previously bound: "John Smyth being A noneste man this is his boocke".
-
-\N
-
-20th century burgundy buckram library binding, replacing an earlier - probably 17th century sammelband binding - in which this was the thirteenth and final item (nb. evidence reconstituing order supplied by Aaron Pratt, July 2016, housed in Co.3.27 case).
-
-\N
-
-\N
-
-\N
-
-328
-
-HUNTERIAN MUSEUM, GLASGOW. 7 9/16 x 5 3/8". Rebound, c. 1937, for Hunterian Museum.
-
-213
-
-HUNTERIAN MUSEUM, GLASGOW. Bound with Henry IV, Pt. 1, 1599,\r\nand works by other authors. Pressmark, Co. 3. 27.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

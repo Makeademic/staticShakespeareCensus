@@ -24,31 +24,8 @@ location_name: ["US Library of Congress"]
 shelfmark: ["PR2750 .A27 1619"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["770"]
-Bartlett1939_notes: ["LIBRARY OF CONGRESS. 6 11/16 x 4 9/16". Slightly foxed. Nos. "927" and "2105"\r\napparently from old catalogues, appear in book. Purchased in 1876. Bound in red\r\nmorocco, gilt tooling, gilt gauffered edges."]
-Bartlett1916: ["549"]
-Bartlett1916_notes: ["LIBRARY OF CONGRESS. 6 11/16 x 4 9/16". Slightly foxed. Nos. "927" and\r\n"2105" apparently from old catalogues, appear in book. Purchased in 1876. Bound\r\nin red morocco, gilt tooling, gilt gauffered edges."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1530
@@ -97,40 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-770
-
-LIBRARY OF CONGRESS. 6 11/16 x 4 9/16". Slightly foxed. Nos. "927" and "2105"\r\napparently from old catalogues, appear in book. Purchased in 1876. Bound in red\r\nmorocco, gilt tooling, gilt gauffered edges.
-
-549
-
-LIBRARY OF CONGRESS. 6 11/16 x 4 9/16". Slightly foxed. Nos. "927" and\r\n"2105" apparently from old catalogues, appear in book. Purchased in 1876. Bound\r\nin red morocco, gilt tooling, gilt gauffered edges.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

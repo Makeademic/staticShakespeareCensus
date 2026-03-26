@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["f Chrzanowski 1632s"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]"]
-local_notes: ["The first leaf, (A1r) "To the Reader", as well as the lower half of the t.p. portrait and the colophon and rules on leaf 3d4 are all in facsimile"]
 height: ["0"]
 width: ["0"]
-marginalia: ["Early annotations on p. 60 (leaf E6v) and p. 100 (leaf I2v) and modern pencil annotations on leaves A3v and A4 of preliminaries"]
-condition: ["\N"]
-binding: ["Bound in early calf, rebacked, with floral gilt border and title in gilt on red and green spine labels, marbled endpapers; all edges gilt"]
-binder: ["\N"]
-bookplate: ["Douglas Maxwell Moffat"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gift of Paul Chrzanowski"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7315
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at his shop at the signe of the Blacke Beare in Pauls Church-yard" [DEEP]
-
-The first leaf, (A1r) "To the Reader", as well as the lower half of the t.p. portrait and the colophon and rules on leaf 3d4 are all in facsimile
-
 0
 
 0
-
-Early annotations on p. 60 (leaf E6v) and p. 100 (leaf I2v) and modern pencil annotations on leaves A3v and A4 of preliminaries
-
-\N
-
-Bound in early calf, rebacked, with floral gilt border and title in gilt on red and green spine labels, marbled endpapers; all edges gilt
-
-\N
-
-Douglas Maxwell Moffat
-
-\N
-
-0
-
-0
-
-Gift of Paul Chrzanowski
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

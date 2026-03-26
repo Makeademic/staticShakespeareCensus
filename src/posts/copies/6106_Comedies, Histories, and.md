@@ -24,31 +24,8 @@ location_name: ["Oxford University, Exeter College"]
 shelfmark: ["\N"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["Some pages of AYL either from a different copy or later facsimiles (shorter than the rest); torn leaf in H5 (pp 72-3)"]
 height: ["0"]
 width: ["0"]
-marginalia: ["On t.p., in pencil: "vol 1"; on A5r at top, “Shakespeare” written upside down. Plays in table of contents numbered in pencil by category, and, in pen at bottom: “in al 36”. Underlining, commonplace markers, and corrections in many plays; inked finger print in LLL, p. 135; extensive corrections in R3 with "1598" appended, suggesting a later editorial annotator comparing the quarto; next to the character list before JC: "T: B", "Amen", "Diro Vobis"]
-condition: ["\N"]
-binding: ["Brown leather, with "Shakespeare's Works / The Second Impression" tooled in gold on spine"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Initials "J. S." (?) next to imprint; on sig. A4r at bottom: “this cost 2[l? 8?]s 6d”; on sig. *r: "Janes" or "James" or "Jones”; on rear endpaper: "tomos price his book"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6870
@@ -99,42 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-Some pages of AYL either from a different copy or later facsimiles (shorter than the rest); torn leaf in H5 (pp 72-3)
-
 0
 
 0
-
-On t.p., in pencil: "vol 1"; on A5r at top, “Shakespeare” written upside down. Plays in table of contents numbered in pencil by category, and, in pen at bottom: “in al 36”. Underlining, commonplace markers, and corrections in many plays; inked finger print in LLL, p. 135; extensive corrections in R3 with "1598" appended, suggesting a later editorial annotator comparing the quarto; next to the character list before JC: "T: B", "Amen", "Diro Vobis"
-
-\N
-
-Brown leather, with "Shakespeare's Works / The Second Impression" tooled in gold on spine
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Initials "J. S." (?) next to imprint; on sig. A4r at bottom: “this cost 2[l? 8?]s 6d”; on sig. *r: "Janes" or "James" or "Jones”; on rear endpaper: "tomos price his book"
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

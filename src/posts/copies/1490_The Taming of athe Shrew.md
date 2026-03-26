@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.517"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755447"]
-notes: null
-local_notes: ["tp. torn with some loss of imprint"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1173"]
-Bartlett1939_notes: ["CRICHTON STUART. 6 15/16 x 4 5/8". Title mounted, corner defective; F2 defective\r\nin corner; cropped at top, injuring some head-lines. With "Ex dono Christoph.\r\nGewen dno." on title book-plate of 3rd Marquis Bute. The Gewen, Forster (November\r\n24, 1806, n. 2133, 10s. 6d. to Stace for), 1st Marquis Bute copy. Bound in\r\nrussia."]
-Bartlett1916: ["845"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 224
@@ -99,40 +76,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120755447
 
-tp. torn with some loss of imprint
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1173
-
-CRICHTON STUART. 6 15/16 x 4 5/8". Title mounted, corner defective; F2 defective\r\nin corner; cropped at top, injuring some head-lines. With "Ex dono Christoph.\r\nGewen dno." on title book-plate of 3rd Marquis Bute. The Gewen, Forster (November\r\n24, 1806, n. 2133, 10s. 6d. to Stace for), 1st Marquis Bute copy. Bound in\r\nrussia.
-
-845
-
-CRICHTON STUART.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

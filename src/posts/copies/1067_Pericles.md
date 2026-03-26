@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22339 Copy 4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163949-157577"]
-notes: null
-local_notes: ["cs946. Imperfect: wanting the title leaf; a replacement is supplied in facsimile. Some margins are repaired."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["W. Pratt"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Probably the copy sold in Sotheran catalogue #671, 'Biblioteca Pretiosa', April 1907, lot 397."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1390
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163949-157577
 
-cs946. Imperfect: wanting the title leaf; a replacement is supplied in facsimile. Some margins are repaired.
-
 0
 
 0
-
-\N
-
-Red goatskin
-
-W. Pratt
-
-\N
-
-\N
-
-0
-
-0
-
-Probably the copy sold in Sotheran catalogue #671, 'Biblioteca Pretiosa', April 1907, lot 397.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

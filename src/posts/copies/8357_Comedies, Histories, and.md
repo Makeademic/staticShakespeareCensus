@@ -24,31 +24,8 @@ location_name: ["Free Library of Philadelphia"]
 shelfmark: ["RBD EL Sh15M 1685"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: Page 193-300 only (containing Pericles, Prince of Tyre; The London prodigal; The history of Thomas Lord Cromwell; Sir John Oldcastle Lord Cobham; The puritan, or The widow of Watlingstreet; A Yorkshire tragedy; The tragedy of Locrine); Joints cracked ; hinges cracked ; boards rubbed ; corners rubbed ; spine damaged."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Quarter bound in leather"]
-binder: ["\N"]
-bookplate: ["Dr. Augustine Fish"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7484
@@ -99,36 +76,8 @@ t
 
 \N
 
-Fragment: Page 193-300 only (containing Pericles, Prince of Tyre; The London prodigal; The history of Thomas Lord Cromwell; Sir John Oldcastle Lord Cobham; The puritan, or The widow of Watlingstreet; A Yorkshire tragedy; The tragedy of Locrine); Joints cracked ; hinges cracked ; boards rubbed ; corners rubbed ; spine damaged.
-
 0
 
 0
-
-\N
-
-Quarter bound in leather
-
-\N
-
-Dr. Augustine Fish
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

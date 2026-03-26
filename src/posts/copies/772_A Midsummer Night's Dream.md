@@ -24,31 +24,8 @@ location_name: ["Bibliothèque nationale de France (National Library of France)"
 shelfmark: ["RES-YK-90"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["On title page: "arg. ent. 3359"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["749"]
-Bartlett1939_notes: ["BIBLIOTHEQUE NATIONALE, PARIS. 7 5/16 x 5 3/8". With "3874" in pencil. The\r\nPickering (sold, 1840) copy. Bound in dark blue morocco by [Clarke]."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["On front flyleaf: "£5 5" and "fine copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1656
@@ -97,42 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-On title page: "arg. ent. 3359"
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-749
-
-BIBLIOTHEQUE NATIONALE, PARIS. 7 5/16 x 5 3/8". With "3874" in pencil. The\r\nPickering (sold, 1840) copy. Bound in dark blue morocco by [Clarke].
-
-0
-
-On front flyleaf: "£5 5" and "fine copy"
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

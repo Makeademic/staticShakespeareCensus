@@ -24,31 +24,8 @@ location_name: ["Dartmouth College"]
 shelfmark: ["Hickmott 35"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Crimson morocco binding with green levant doublures"]
-binder: ["Lortic Fils"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["639"]
-Bartlett1939_notes: ["HOGAN. 7 1/8 x 5 3/16". Few words on last leaf in facsimile. The Quaritch (sold, December\r\n12, 1898, to), Adams (December 7, 1931, n. 227, £100) copy. Bound in red\r\nmorocco, green morocco doublures, by Lortie."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1533
@@ -97,38 +74,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-Crimson morocco binding with green levant doublures
-
-Lortic Fils
-
-\N
-
-\N
-
-639
-
-HOGAN. 7 1/8 x 5 3/16". Few words on last leaf in facsimile. The Quaritch (sold, December\r\n12, 1898, to), Adams (December 7, 1931, n. 227, £100) copy. Bound in red\r\nmorocco, green morocco doublures, by Lortie.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

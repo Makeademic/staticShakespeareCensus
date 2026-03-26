@@ -24,31 +24,8 @@ location_name: ["Yale University, Beinecke Library"]
 shelfmark: ["1978 +55 copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be sold at his shop at the signe of the blacke Beare in Pauls Church-yard"; the original sheet πA2.5 was replaced by a cancel, which is printed on thicker paper and probably dates from 1641, after Thomas Cotes died. [DEEP]"]
-local_notes: ["Sequence of the preliminary leaves varies from the norm; the misprint in pagination for the second count p. 88 (repeat) has been corrected; signature cc₁₋₃ is missigned bb₁₋₃ (bb3 not signed).  Title page and last leaves backed; extra leaf of Ben Jonson's verses laid in."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7335
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be sold at his shop at the signe of the blacke Beare in Pauls Church-yard"; the original sheet πA2.5 was replaced by a cancel, which is printed on thicker paper and probably dates from 1641, after Thomas Cotes died. [DEEP]
-
-Sequence of the preliminary leaves varies from the norm; the misprint in pagination for the second count p. 88 (repeat) has been corrected; signature cc₁₋₃ is missigned bb₁₋₃ (bb3 not signed).  Title page and last leaves backed; extra leaf of Ben Jonson's verses laid in.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Mal. 210 (6)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Lacking title page. Title supplied in manuscript by Malone with reference to "Vol. 59" for his other copy."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Above Dramatis Personae: "Birth of Merlin 1662. Read"]
-condition: ["\N"]
-binding: ["Modern binding, April 1927"]
-binder: ["Wilmot"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Edmond Malone;"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4483
@@ -97,40 +74,8 @@ t
 
 \N
 
-Lacking title page. Title supplied in manuscript by Malone with reference to "Vol. 59" for his other copy.
-
 0
 
 0
-
-Above Dramatis Personae: "Birth of Merlin 1662. Read"
-
-\N
-
-Modern binding, April 1927
-
-Wilmot
-
-\N
-
-\N
-
-0
-
-0
-
-Edmond Malone;
-
-\N
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

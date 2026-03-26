@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["f HEW 7.11.2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists John Smethwick as the publisher."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Old calf, blind-stamped on front and back covers, red morocco label on spine; in full red morocco case"]
-binder: ["\N"]
-bookplate: ["Clarence S. Bement"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7392
@@ -99,36 +76,8 @@ t
 
 \N
 
-This issue lists John Smethwick as the publisher.
-
 0
 
 0
-
-\N
-
-Old calf, blind-stamped on front and back covers, red morocco label on spine; in full red morocco case
-
-\N
-
-Clarence S. Bement
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

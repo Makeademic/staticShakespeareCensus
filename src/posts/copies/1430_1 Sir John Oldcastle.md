@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["STC 18796"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Hr4: "heath heath[?]" in early hand [ZL]"]
-condition: ["\N"]
-binding: ["Blue morocco, gold tooled"]
-binder: ["W. Mansell"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["William A. White copy, with his signature on front flyleaf and "5 Feby 98"; flyleaf notation suggests it was purchased from Alexander Denham & Co. for $300"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 767
@@ -99,40 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-Hr4: "heath heath[?]" in early hand [ZL]
-
-\N
-
-Blue morocco, gold tooled
-
-W. Mansell
-
-\N
-
-\N
-
-0
-
-0
-
-William A. White copy, with his signature on front flyleaf and "5 Feby 98"; flyleaf notation suggests it was purchased from Alexander Denham & Co. for $300
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Guildhall Library"]
 shelfmark: ["GL5264"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Some writing on the verso of the title page has been erased."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full morocco; blind ruling; gilt edges"]
-binder: ["Hayday"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["282"]
-Bartlett1939_notes: ["GUILDHALL LIBRARY, LONDON. 7 x 4 7/8". A4 mended in lower margin;\r\nG3 lower margin frayed. Acquired prior to 1859. Bound in red morocco, by\r\nHayday."]
-Bartlett1916: ["189"]
-Bartlett1916_notes: ["GUILDHALL LIBRARY, LONDON. 7 x 4 7/8". A4 mended in lower margin;\r\nG3 lower margin frayed. Acquired prior to 1859. Bound in red morocco, by\r\nHayday."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 451
@@ -99,40 +76,8 @@ t
 
 \N
 
-Some writing on the verso of the title page has been erased.
-
 0
 
 0
-
-\N
-
-Full morocco; blind ruling; gilt edges
-
-Hayday
-
-\N
-
-\N
-
-282
-
-GUILDHALL LIBRARY, LONDON. 7 x 4 7/8". A4 mended in lower margin;\r\nG3 lower margin frayed. Acquired prior to 1859. Bound in red morocco, by\r\nHayday.
-
-189
-
-GUILDHALL LIBRARY, LONDON. 7 x 4 7/8". A4 mended in lower margin;\r\nG3 lower margin frayed. Acquired prior to 1859. Bound in red morocco, by\r\nHayday.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Phoenix Public Library"]
 shelfmark: ["822.33 ISh15m 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]"]
-local_notes: ["Variant "Allot 5" and "Effigies c" on engraved portrait title-page. In the Phoenix Public Library's Alfred Knight Collection."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Tracing of Shakespeare's face on verso on title page"]
-condition: ["\N"]
-binding: ["Red morocco with gold tooled compartments on spine."]
-binder: ["Rivière"]
-bookplate: ["Alfred Knight; H.C.L. Morris"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7328
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists Robert Allot as the publisher in the imprint and lists it as "to be fold at the signe of the Blacke Beare" in "Pauls Church-yard" [DEEP]
-
-Variant "Allot 5" and "Effigies c" on engraved portrait title-page. In the Phoenix Public Library's Alfred Knight Collection.
-
 0
 
 0
-
-Tracing of Shakespeare's face on verso on title page
-
-\N
-
-Red morocco with gold tooled compartments on spine.
-
-Rivière
-
-Alfred Knight; H.C.L. Morris
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

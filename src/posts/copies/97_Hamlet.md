@@ -24,31 +24,8 @@ location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: ["PR2807.A1 1637"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red crushed levant morocco, inside gilt dentelles, gilt edges"]
-binder: ["Riviere"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["76"]
-Bartlett1939_notes: ["SUTRO, ALFRED. 7 3/16 x 5 3/8". Title in facsimile; A2 mended injuring one letter; margins mended. The Amer. Art Assn. (November 30, 1931, n. 208, $50) copy. Bound in levant morocco, by Riviere"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["From the collection of Alfred Sutro. With a letter loosely inserted from Bernard Quaritch to S. O. Landry, Esq., dated 21 Nov 1922, explaining that Quaritch purchased the copy at "a small country sale and I am unable to tell you the name of the former owner. It was then without a title, I supplied this in facsimile and had the book bound."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 571
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-Red crushed levant morocco, inside gilt dentelles, gilt edges
-
-Riviere
-
-\N
-
-\N
-
-76
-
-SUTRO, ALFRED. 7 3/16 x 5 3/8". Title in facsimile; A2 mended injuring one letter; margins mended. The Amer. Art Assn. (November 30, 1931, n. 208, $50) copy. Bound in levant morocco, by Riviere
-
-0
-
-From the collection of Alfred Sutro. With a letter loosely inserted from Bernard Quaritch to S. O. Landry, Esq., dated 21 Nov 1922, explaining that Quaritch purchased the copy at "a small country sale and I am unable to tell you the name of the former owner. It was then without a title, I supplied this in facsimile and had the book bound."
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

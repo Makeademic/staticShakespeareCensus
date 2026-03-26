@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22293 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163895-157433"]
-notes: ["\N"]
-local_notes: ["cs0900. Burn-hole on F2, affecting text. Stained, affecting text."]
 height: ["0"]
 width: ["0"]
-marginalia: ["Pencilled MS. notes on front free endpaper."]
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["Hayday"]
-bookplate: ["William Gott"]
-bookplate_location: ["\N"]
-Bartlett1939: ["521"]
-Bartlett1939_notes: ["FOLGER. 7 x 5¼". The Gott (sold through Sotheran, July, 1907) copy. Bound in\r\nred morocco, by Hayday."]
-Bartlett1916: ["325"]
-Bartlett1916_notes: ["FOLGER. The Gott (sold through Sotheran, 1907) copy. Bound in red morocco,\r\nby Lewis."]
-Lee_notes: null
-prov_info: ["armorial bookplate of William Gott (motto "nec temere nec timide")."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1239
@@ -99,46 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163895-157433
 
-\N
-
-cs0900. Burn-hole on F2, affecting text. Stained, affecting text.
-
 0
 
 0
-
-Pencilled MS. notes on front free endpaper.
-
-\N
-
-Red goatskin
-
-Hayday
-
-William Gott
-
-\N
-
-521
-
-FOLGER. 7 x 5¼". The Gott (sold through Sotheran, July, 1907) copy. Bound in\r\nred morocco, by Hayday.
-
-325
-
-FOLGER. The Gott (sold through Sotheran, 1907) copy. Bound in red morocco,\r\nby Lewis.
-
-armorial bookplate of William Gott (motto "nec temere nec timide").
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

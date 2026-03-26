@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["F3-21 MR 3607"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here."]
-local_notes: ["Includes: 1663 "verses" leaf, 1663 title leaf without the portrait."]
 height: ["33.9"]
 width: ["22.8"]
-marginalia: ["Pages numbers added in ink to the Catalogue; occasional MS corrections and manicules; in pencil on 2C3r: "Gunpowder | a much better | Invention"]
-condition: ["\N"]
-binding: ["Black leather, yellow cloth endpapers, gilt edges, in a pull-off case made by Rivière & Son"]
-binder: ["\N"]
-bookplate: ["Arthur Wilmer Lissauer"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8100
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue is dated 1663, with verses "To the Reader" on A1v and the title page on [A2]r. Some copies include the portrait on the title page and some do not. Only copies with none of the distinctive features of the 1664 issue are listed here.
-
-Includes: 1663 "verses" leaf, 1663 title leaf without the portrait.
-
 33.9
 
 22.8
-
-Pages numbers added in ink to the Catalogue; occasional MS corrections and manicules; in pencil on 2C3r: "Gunpowder | a much better | Invention"
-
-\N
-
-Black leather, yellow cloth endpapers, gilt edges, in a pull-off case made by Rivière & Son
-
-\N
-
-Arthur Wilmer Lissauer
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

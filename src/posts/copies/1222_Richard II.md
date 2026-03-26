@@ -24,31 +24,8 @@ location_name: ["British Library"]
 shelfmark: ["C.34.k.44"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=63&LHPage=-2&RHCopy=63&RHPage=-1"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["988"]
-Bartlett1939_notes: ["BRITISH MUSEUM. 6¾ x 5". Cropped at top, injuring most head-lines; two large\r\nholes in B1 clumsily mended. "John Bancroft" on title; writing on H2-H4. The Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on back."]
-Bartlett1916: ["694"]
-Bartlett1916_notes: ["BRITISH MUSEUM. 6¾ x 5". Cropped at top, injuring most headlines; two\r\nlarge holes in Bi clumsily mended. "John Bancroft" on title; writing on H2-H4.\r\nThe Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's\r\narms on back. Pressmark , C. 34. k. 44."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 371
@@ -100,35 +77,5 @@ https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=63&LH
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-988
-
-BRITISH MUSEUM. 6¾ x 5". Cropped at top, injuring most head-lines; two large\r\nholes in B1 clumsily mended. "John Bancroft" on title; writing on H2-H4. The Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's arms on back.
-
-694
-
-BRITISH MUSEUM. 6¾ x 5". Cropped at top, injuring most headlines; two\r\nlarge holes in Bi clumsily mended. "John Bancroft" on title; writing on H2-H4.\r\nThe Garrick (bequeathed, January, 1779) copy. Bound in red morocco, Garrick's\r\narms on back. Pressmark , C. 34. k. 44.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

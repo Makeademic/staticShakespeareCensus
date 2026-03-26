@@ -24,31 +24,8 @@ location_name: ["New York Public Library"]
 shelfmark: ["*KC 1639 (Shakespeare, W. Historie Of Henry the Fourth)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["287"]
-Bartlett1939_notes: ["NEW YORK PUBLIC. 6 15/16 x 5". C1 mended in blank margins. The H. Stevens\r\n(sold, December, 1855), Lenox (incorporated as Lenox Library, 1870; New York\r\nPublic, May, 1895) copy. Bound in green morocco, by Bedford."]
-Bartlett1916: ["193"]
-Bartlett1916_notes: ["NEW YORK PUBLIC. 6 15/16 x 5". Ci mended in blank margins. The H.\r\nStevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound in green morocco, by Bedford."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 446
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-287
-
-NEW YORK PUBLIC. 6 15/16 x 5". C1 mended in blank margins. The H. Stevens\r\n(sold, December, 1855), Lenox (incorporated as Lenox Library, 1870; New York\r\nPublic, May, 1895) copy. Bound in green morocco, by Bedford.
-
-193
-
-NEW YORK PUBLIC. 6 15/16 x 5". Ci mended in blank margins. The H.\r\nStevens (sold, December, 1855), Lenox (incorporated as Lenox Library, 1870; New York Public, May, 1895) copy. Bound in green morocco, by Bedford.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

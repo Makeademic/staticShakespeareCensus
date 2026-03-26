@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 Fo.1 frag. folder 15"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Measure for Measure and part of LLL (pp. 123-32); some leaves still (barely) conjugate; some wormholes in MM; in general, heavily damaged with many sewing holes visible."]
 height: ["0"]
 width: ["0"]
-marginalia: ["On MM p. 62: "Jo. Bagnall" written twice; on p. 68 "Measure" and other pen trials; on p. 69: "for for for for"; on p. 81: "E K(?)"; on p. 84: "finis" written twice;"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7741
@@ -99,38 +76,8 @@ t
 
 \N
 
-Measure for Measure and part of LLL (pp. 123-32); some leaves still (barely) conjugate; some wormholes in MM; in general, heavily damaged with many sewing holes visible.
-
 0
 
 0
-
-On MM p. 62: "Jo. Bagnall" written twice; on p. 68 "Measure" and other pen trials; on p. 69: "for for for for"; on p. 81: "E K(?)"; on p. 84: "finis" written twice;
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

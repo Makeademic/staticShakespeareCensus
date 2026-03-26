@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 14646 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161420-153900"]
-notes: null
-local_notes: ["Leaves K4-L3 from another copy, possibly Folger copy 3; wanting last blank."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red goatskin, gold-tooled"]
-binder: ["Bedford"]
-bookplate: ["William Gott"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["bookplate of William Gott (motto 'nec temere nec timide'); inscription on back free endpaper: 'Halliwell Sale at Sotheby's...1858' [J. O. Halliwell-Phillipps copy]."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1430
@@ -97,38 +74,8 @@ t
 
 https://digitalcollections.folger.edu/bib161420-153900
 
-Leaves K4-L3 from another copy, possibly Folger copy 3; wanting last blank.
-
 0
 
 0
-
-\N
-
-Red goatskin, gold-tooled
-
-Bedford
-
-William Gott
-
-\N
-
-0
-
-0
-
-bookplate of William Gott (motto 'nec temere nec timide'); inscription on back free endpaper: 'Halliwell Sale at Sotheby's...1858' [J. O. Halliwell-Phillipps copy].
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

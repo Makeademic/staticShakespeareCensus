@@ -24,31 +24,8 @@ location_name: ["Carnegie Mellon University"]
 shelfmark: ["Posner PR2751 .A2 1632"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.library.cmu.edu/node/68299"]
-notes: ["This issue lists John Smethwick as the publisher."]
-local_notes: ["Cover scratched ; edges rubbed ; spine cracked at edges ; pages foxed and cockled ; box shelfworn. Scanned 9/02."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in blue levant morocco gilt, inner dentelles. In a blue morocco box lined in blue velvet by Sangorski and Sutcliffe"]
-binder: ["Lloyd"]
-bookplate: ["R. Percy Alden; Family of Henry Posner"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7007
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.library.cmu.edu/node/68299
 
-This issue lists John Smethwick as the publisher.
-
-Cover scratched ; edges rubbed ; spine cracked at edges ; pages foxed and cockled ; box shelfworn. Scanned 9/02.
-
 0
 
 0
-
-\N
-
-Bound in blue levant morocco gilt, inner dentelles. In a blue morocco box lined in blue velvet by Sangorski and Sutcliffe
-
-Lloyd
-
-R. Percy Alden; Family of Henry Posner
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

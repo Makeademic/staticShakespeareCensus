@@ -24,31 +24,8 @@ location_name: ["Library of Birmingham"]
 shelfmark: ["S341.1695"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["T.p. repaired and mounted; badly foxed throughout; 2746"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["910"]
-Bartlett1939_notes: ["BIRMINGHAM. 8 3/8 x 6 5/16 ". Some headlines cropped. Purchased in 1871.\r\nBound in half calf."]
-Bartlett1916: ["646"]
-Bartlett1916_notes: ["BIRMINGHAM. 8 3/8 x 6 5/16 ". Some headlines cropped. Purchased in 1871.\r\nBound in half calf."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 987
@@ -99,40 +76,8 @@ t
 
 \N
 
-T.p. repaired and mounted; badly foxed throughout; 2746
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-910
-
-BIRMINGHAM. 8 3/8 x 6 5/16 ". Some headlines cropped. Purchased in 1871.\r\nBound in half calf.
-
-646
-
-BIRMINGHAM. 8 3/8 x 6 5/16 ". Some headlines cropped. Purchased in 1871.\r\nBound in half calf.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

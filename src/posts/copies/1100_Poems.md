@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22344 Copy 7"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161408-153882"]
-notes: null
-local_notes: ["cs60. A made-up copy. Imperfect: lacking the portrait, gathering *, leaves A1, C7, and gatherings K-M; bound in their places are modern reprints of the missing leaves."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Possibly Thomas Brown copy (armorial bookplate of Brown (motto "industria et probitate") attached to STC worksheet (Folger files)."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1400
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161408-153882
 
-cs60. A made-up copy. Imperfect: lacking the portrait, gathering *, leaves A1, C7, and gatherings K-M; bound in their places are modern reprints of the missing leaves.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Possibly Thomas Brown copy (armorial bookplate of Brown (motto "industria et probitate") attached to STC worksheet (Folger files).
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

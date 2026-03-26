@@ -24,31 +24,8 @@ location_name: ["John Carter Brown Library"]
 shelfmark: ["D630 .S527t"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["837"]
-Bartlett1939_notes: ["JOHN CARTER BROWN LIBRARY. 7 3/16 x 5¼". Acquired prior to 1871.\r\nBound in red levant morocco."]
-Bartlett1916: ["599"]
-Bartlett1916_notes: ["JOHN CARTER BROWN LIBRARY. 7 3/16 x 5¼". Acquired prior to 1871.\r\nBound in red levant morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1344
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-837
-
-JOHN CARTER BROWN LIBRARY. 7 3/16 x 5¼". Acquired prior to 1871.\r\nBound in red levant morocco.
-
-599
-
-JOHN CARTER BROWN LIBRARY. 7 3/16 x 5¼". Acquired prior to 1871.\r\nBound in red levant morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

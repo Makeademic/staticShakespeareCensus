@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22285 Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163911-157472"]
-notes: null
-local_notes: ["Imperfect: title leaf is cropped, affecting first line of title; burn-hole, affecting imprint. Cropped throughout, affecting headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Olive goatskin"]
-binder: ["\N"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["251"]
-Bartlett1939_notes: ["FOLGER. 6 7/8 x 4¾". Cropped at top injuring "THE" on title and some head-lines. The Warwick (sold, 1897) copy. Bound in olive morocco."]
-Bartlett1916: ["162"]
-Bartlett1916_notes: ["FOLGER. The Warwick copy."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1166
@@ -99,40 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163911-157472
 
-Imperfect: title leaf is cropped, affecting first line of title; burn-hole, affecting imprint. Cropped throughout, affecting headlines.
-
 0
 
 0
-
-\N
-
-Olive goatskin
-
-\N
-
-Warwick Castle
-
-\N
-
-251
-
-FOLGER. 6 7/8 x 4¾". Cropped at top injuring "THE" on title and some head-lines. The Warwick (sold, 1897) copy. Bound in olive morocco.
-
-162
-
-FOLGER. The Warwick copy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

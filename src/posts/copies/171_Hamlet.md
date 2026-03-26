@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2954 Copy 2"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with either issue of the 1695 edition."]
-local_notes: ["Imperfect: lacking sig. A, D4 and E1. Torn and mutilated, affecting text."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS. marginal notes throughout, incorporating the changes made in Rowe's 1709 edition."]
-condition: ["\N"]
-binding: ["Disbound. Detached wrappers, with bookseller's catalogue entry for this copy pasted on front cover."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["152"]
-Bartlett1939_notes: ["FOLGER. 8 11/16 x 6 13/16 ". Title and [A2] lacking; torn on inner margins; M1 extended on inner margin, some letters lacking. Manuscript notes in old hand throughout. Unbound."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1142
@@ -97,42 +74,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with either issue of the 1695 edition.
-
-Imperfect: lacking sig. A, D4 and E1. Torn and mutilated, affecting text.
-
 0
 
 0
-
-MS. marginal notes throughout, incorporating the changes made in Rowe's 1709 edition.
-
-\N
-
-Disbound. Detached wrappers, with bookseller's catalogue entry for this copy pasted on front cover.
-
-\N
-
-\N
-
-\N
-
-152
-
-FOLGER. 8 11/16 x 6 13/16 ". Title and [A2] lacking; torn on inner margins; M1 extended on inner margin, some letters lacking. Manuscript notes in old hand throughout. Unbound.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

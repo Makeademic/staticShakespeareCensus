@@ -24,31 +24,8 @@ location_name: ["Princeton University"]
 shelfmark: ["EX 3741.6.3915.1634"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Ms. inscription on verso of free front endpaper: Collated perfect, A. Dyce. Bound in red goatskin."]
 height: ["0"]
 width: ["0"]
-marginalia: ["\N"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: ["Booklabel of G. B. Simpson and bookplates of John Kershaw and Percy Fitzgerald. Gift of Daniel Maggin."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1602
@@ -99,46 +76,8 @@ t
 
 \N
 
-Ms. inscription on verso of free front endpaper: Collated perfect, A. Dyce. Bound in red goatskin.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-Booklabel of G. B. Simpson and bookplates of John Kershaw and Percy Fitzgerald. Gift of Daniel Maggin.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

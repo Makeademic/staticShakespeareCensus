@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22338"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib163948-157573"]
-notes: ["There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]"]
-local_notes: ["runk 7H4. A made-up copy: the title leaf and I1 or I2 are from another copy. I1 and I2 are damaged and repaired, affecting some text."]
 height: ["0"]
 width: ["0"]
-marginalia: ["A few MS. markings."]
-condition: ["\N"]
-binding: ["Red goatskin"]
-binder: ["Tuckett"]
-bookplate: ["Warwick Castle"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["Private American owners include Mr. H. C. Folger, junior, of New York ..."]
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["53"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1385
@@ -99,42 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib163948-157573
 
-There are two issues of this edition: this issue lists a bookshop location in the imprint. [DEEP]
-
-runk 7H4. A made-up copy: the title leaf and I1 or I2 are from another copy. I1 and I2 are damaged and repaired, affecting some text.
-
 0
 
 0
-
-A few MS. markings.
-
-\N
-
-Red goatskin
-
-Tuckett
-
-Warwick Castle
-
-\N
-
-0
-
-0
-
-Private American owners include Mr. H. C. Folger, junior, of New York ...
-
-1
-
-f
-
-f
-
-53
-
-0
-
-f
 
 f

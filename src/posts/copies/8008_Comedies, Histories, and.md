@@ -24,31 +24,8 @@ location_name: ["Buffalo and Erie County Public Library"]
 shelfmark: ["RBR ENG.3 S4 1685"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["37"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["In maroon morocco, with gilt stamped triple border; spine with gilt stamped title and elaborately decorated panels; gilt stamped inside dentelles; red, green, gold and black marbled endpapers; gilt edges. In a slipcase."]
-binder: ["Rivière & Son"]
-bookplate: ["Charles Clifton"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Donated by Colonel Charles Clifton, 1924."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7430
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 37
 
 0
-
-\N
-
-In maroon morocco, with gilt stamped triple border; spine with gilt stamped title and elaborately decorated panels; gilt stamped inside dentelles; red, green, gold and black marbled endpapers; gilt edges. In a slipcase.
-
-Rivière & Son
-
-Charles Clifton
-
-\N
-
-0
-
-0
-
-Donated by Colonel Charles Clifton, 1924.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

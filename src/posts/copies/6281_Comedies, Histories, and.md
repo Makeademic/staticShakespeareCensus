@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2 no.50"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Wants both πA2 (title leaf) and πA5 ("Effigies" leaf). Wants also πA1,3,4,6 and *1.4. Wants port. (on title page). Wants leaves B5,6 and C2 (Two Gent.); D3.4 (Merry Wives); K6 (Much Ado); L1 (Much Ado and LLL); L2 (LLL); c2-i1 (most of Rich. II, 1 Hen. IV entire, and most of 2 Hen. IV); and 3c2 and 3d1.4 (Cymb. and including the colophon). Imperfections affect text on C5, 3c1,6, and 3d2, slightly on K1, l5, y4,5, and 2h2, and very slightly on I5, S3, c1, 2i5, 2n5, and 2z5."]
 height: ["33"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7277
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Wants both πA2 (title leaf) and πA5 ("Effigies" leaf). Wants also πA1,3,4,6 and *1.4. Wants port. (on title page). Wants leaves B5,6 and C2 (Two Gent.); D3.4 (Merry Wives); K6 (Much Ado); L1 (Much Ado and LLL); L2 (LLL); c2-i1 (most of Rich. II, 1 Hen. IV entire, and most of 2 Hen. IV); and 3c2 and 3d1.4 (Cymb. and including the colophon). Imperfections affect text on C5, 3c1,6, and 3d2, slightly on K1, l5, y4,5, and 2h2, and very slightly on I5, S3, c1, 2i5, 2n5, and 2z5.
-
 33
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

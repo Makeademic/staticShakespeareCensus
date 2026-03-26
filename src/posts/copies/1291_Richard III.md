@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.511"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755445"]
-notes: null
-local_notes: ["-last line of imprint"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1047"]
-Bartlett1939_notes: ["CRICHTON STUART. 6 13/16 x 4 15/16". Cropped at bottom, last line of imprint\r\nlacking; G3 has small hole. Inlaid, with notes by Theobald, Steevens and Forster;\r\nbook-plate of 3rd Marquis of Bute. The Theobald (October 30, 1744), Steevens\r\n(May 13, 1800, n. 1295, £1. 5s. to), Forster (November 24, 1806, n. 2116, £I. 11s.\r\n6d. to Stace for), 1st Marquis Bute copy. Bound in half green straight-grained morocco."]
-Bartlett1916: ["743"]
-Bartlett1916_notes: ["CRICHTON STUART. L. Theobald's signature. The Theobald, Steevens, Bute\r\ncopy."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 474
@@ -99,40 +76,8 @@ t
 
 https://digital.nls.uk/shakespeare-quartos/archive/120755445
 
--last line of imprint
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1047
-
-CRICHTON STUART. 6 13/16 x 4 15/16". Cropped at bottom, last line of imprint\r\nlacking; G3 has small hole. Inlaid, with notes by Theobald, Steevens and Forster;\r\nbook-plate of 3rd Marquis of Bute. The Theobald (October 30, 1744), Steevens\r\n(May 13, 1800, n. 1295, £1. 5s. to), Forster (November 24, 1806, n. 2116, £I. 11s.\r\n6d. to Stace for), 1st Marquis Bute copy. Bound in half green straight-grained morocco.
-
-743
-
-CRICHTON STUART. L. Theobald's signature. The Theobald, Steevens, Bute\r\ncopy.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

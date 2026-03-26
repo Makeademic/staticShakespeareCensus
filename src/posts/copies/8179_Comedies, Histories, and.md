@@ -24,31 +24,8 @@ location_name: ["Staatsbibliothek zu Berlin—Preussischer Kulturbesitz (Berlin 
 shelfmark: ["2" Zc 5660<a>"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Another copy with shelf mark 2" Zc 5660 was destroyed during World War 2."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Embossing on the front cover"]
-binder: ["Zaehnsdorf"]
-bookplate: ["John Fitchett Marsh; ex libris Josef Kainz"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7448
@@ -99,38 +76,8 @@ f
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Another copy with shelf mark 2" Zc 5660 was destroyed during World War 2.
-
 0
 
 0
-
-\N
-
-Embossing on the front cover
-
-Zaehnsdorf
-
-John Fitchett Marsh; ex libris Josef Kainz
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2/fragment 09"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Sigs Y2-Z6 (T.N.) only.  Patches affect text on Y2,5."]
 height: ["32"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Manuscript additions include inscription "Richard Paine his hand" (18th-cent.), on Z6 verso."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7263
@@ -99,38 +76,8 @@ t
 
 \N
 
-Sigs Y2-Z6 (T.N.) only.  Patches affect text on Y2,5.
-
 32
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Manuscript additions include inscription "Richard Paine his hand" (18th-cent.), on Z6 verso.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

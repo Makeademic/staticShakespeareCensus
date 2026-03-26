@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69338"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Cropped at head."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Birdsall of Northampton"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["836"]
-Bartlett1939_notes: ["HUNTINGTON. 7 x 4¾". Title, A2-D1, F1-F1, H1, H4, K1-K3, L3-M1 badly\r\ncropped at top; scribbling on several pages. The Devonshire (sold, January, 1914)\r\ncopy. Bound in crimson morocco, by Birdsall."]
-Bartlett1916: ["598"]
-Bartlett1916_notes: ["HUNTINGTON. 7 x 4¾". Title, A2-D4, Fi-F4, Hi, H4, Ki-K3, L3-Mi, badly\r\ncropped at top; scribbling on several pages. The Devonshire (sold, January, 1914)\r\ncopy. Bound in crimson morocco, by Birdsall."]
-Lee_notes: null
-prov_info: ["signature of John Williams"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 208
@@ -99,42 +76,8 @@ t
 
 \N
 
-Cropped at head.
-
 0
 
 0
-
-\N
-
-\N
-
-Birdsall of Northampton
-
-\N
-
-\N
-
-836
-
-HUNTINGTON. 7 x 4¾". Title, A2-D1, F1-F1, H1, H4, K1-K3, L3-M1 badly\r\ncropped at top; scribbling on several pages. The Devonshire (sold, January, 1914)\r\ncopy. Bound in crimson morocco, by Birdsall.
-
-598
-
-HUNTINGTON. 7 x 4¾". Title, A2-D4, Fi-F4, Hi, H4, Ki-K3, L3-Mi, badly\r\ncropped at top; scribbling on several pages. The Devonshire (sold, January, 1914)\r\ncopy. Bound in crimson morocco, by Birdsall.
-
-signature of John Williams
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.478"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included."]
-local_notes: ["Wanting pages 45-46."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["136"]
-Bartlett1939_notes: ["CRICHTON STUART. 8¼ x 6 3.16 ". G3 lacking; B4 torn, some words lacking in\r\nlower outer corner; C4, G2, E3, slightly torn and mended; cropped at top injuring\r\nsome head-lines; M2 blank and lacking. With book-plate of 3rd Marquis Bute. Probably Forster (November 24, 1806, n. 2142, 10s. 6d., to Stace for), 1st Marquis Bute. Bound in half green straight-grained morocco."]
-Bartlett1916: ["102"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1144
@@ -97,42 +74,8 @@ t
 
 \N
 
-In this issue, H. Herringman, R. Bentley, J. Tonson, T. Bennet, and F. Sanders are included in the imprint; in the other issue, only Bentley is included.
-
-Wanting pages 45-46.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-136
-
-CRICHTON STUART. 8¼ x 6 3.16 ". G3 lacking; B4 torn, some words lacking in\r\nlower outer corner; C4, G2, E3, slightly torn and mended; cropped at top injuring\r\nsome head-lines; M2 blank and lacking. With book-plate of 3rd Marquis Bute. Probably Forster (November 24, 1806, n. 2142, 10s. 6d., to Stace for), 1st Marquis Bute. Bound in half green straight-grained morocco.
-
-102
-
-CRICHTON STUART.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

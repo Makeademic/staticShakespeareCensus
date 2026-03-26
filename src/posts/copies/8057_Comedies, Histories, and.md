@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["f HEW 7.11.4"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["Engraved portraits of Shakespeare mounted inside front cover and on front flyleaf, the latter signed, "G. Vertue Sculpsit."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS notes by Peter Wright, dated 1812, on front flyleaf, frontispiece, and title-page."]
-condition: ["\N"]
-binding: ["Contemporary calf (rebacked), with original fly-leaves and end-papers; morocco label on spine, green vine pattern painted on edges; in full red morocco case."]
-binder: ["\N"]
-bookplate: ["Peter Wright"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7505
@@ -99,40 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-Engraved portraits of Shakespeare mounted inside front cover and on front flyleaf, the latter signed, "G. Vertue Sculpsit."
-
 0
 
 0
-
-MS notes by Peter Wright, dated 1812, on front flyleaf, frontispiece, and title-page.
-
-\N
-
-Contemporary calf (rebacked), with original fly-leaves and end-papers; morocco label on spine, green vine pattern painted on edges; in full red morocco case.
-
-\N
-
-Peter Wright
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

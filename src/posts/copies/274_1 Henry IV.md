@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G d.40 (5)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["270"]
-Bartlett1939_notes: ["BODLEIAN. 6 13/16 x 4 13/16 ". Cropped at top, cutting off top of "THE" in title and several head-lines; two holes burnt in middle of title; A2 has corner cut off; wormhole runs through several leaves. Owner's name (?) dated "1720" obliterated from title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. II."]
-Bartlett1916: ["178"]
-Bartlett1916_notes: ["BODLEIAN. 6 13/16 x 4 13/16 ". Cropped at top, cutting off top of "THE" in title and several headlines; two holes burnt in middle of title; A2 has corner cut off; wormhole runs through several leaves. Owner's name (?) dated "1720" obliterated from title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. II. Pressmark, Malone, 33."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 443
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-270
-
-BODLEIAN. 6 13/16 x 4 13/16 ". Cropped at top, cutting off top of "THE" in title and several head-lines; two holes burnt in middle of title; A2 has corner cut off; wormhole runs through several leaves. Owner's name (?) dated "1720" obliterated from title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. II.
-
-178
-
-BODLEIAN. 6 13/16 x 4 13/16 ". Cropped at top, cutting off top of "THE" in title and several headlines; two holes burnt in middle of title; A2 has corner cut off; wormhole runs through several leaves. Owner's name (?) dated "1720" obliterated from title. The Malone (presented, 1821) copy. Inlaid and bound with other plays in Vol. II. Pressmark, Malone, 33.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

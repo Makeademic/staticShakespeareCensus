@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 61"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib78783-80816"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["31.7"]
 width: ["20"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in the late nineteenth century by Riviere, in red Cape morocco goatskin. Sewn on 6 single raised cords laced through the boards. Front bead, double tiered headband, sewn with turquoise, black and white silk over a rolled paper cores. There is gilt on all three edges. Endpapers are marble paper nonpareil with French curl flyleaf and pastedown in red, blue, and yellow."]
-binder: ["Riviere, Robert"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["119"]
-rasmussen_west_notes: ["This copy has the distinction of containing the fewest number of press variants in the first state, with only a single page vv2v in Othello having reading in the uncorrected state."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6725
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib78783-80816
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 31.7
 
 20
-
-\N
-
-Bound in the late nineteenth century by Riviere, in red Cape morocco goatskin. Sewn on 6 single raised cords laced through the boards. Front bead, double tiered headband, sewn with turquoise, black and white silk over a rolled paper cores. There is gilt on all three edges. Endpapers are marble paper nonpareil with French curl flyleaf and pastedown in red, blue, and yellow.
-
-Riviere, Robert
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-119
-
-This copy has the distinction of containing the fewest number of press variants in the first state, with only a single page vv2v in Othello having reading in the uncorrected state.
-
-f
 
 f

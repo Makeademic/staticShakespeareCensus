@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22347 Bd.w. STC 22341.8"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digitalcollections.folger.edu/bib161999-154741"]
-notes: null
-local_notes: ["cs0063.3. Cropped, affecting headlines. Also bound with: Shakespeare, William. [The passionate pilgrime. London? 1599?]  -- Middleton, T. The ghost of Lucrece. At London: Printed by Valentine Simmes, 1600 (STC 17885.5) -- E.C. Emaricdulfe. At London: Printed for Matthew Law, 1595 (STC 4268) -- Shakespeare, W. Venus and Adonis. Imprinted at London for William Leake, dwelling in Paules Churchyard, at the signe of the Greyhound, 1599 (STC 22358a)."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Contemporary unreinforced vellum case binding; no pastedowns; the gilt initials ’G.O.’; stored in a modern case."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["John Burton in early hand inside front cover;"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["t"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 612
@@ -99,38 +76,8 @@ t
 
 https://digitalcollections.folger.edu/bib161999-154741
 
-cs0063.3. Cropped, affecting headlines. Also bound with: Shakespeare, William. [The passionate pilgrime. London? 1599?]  -- Middleton, T. The ghost of Lucrece. At London: Printed by Valentine Simmes, 1600 (STC 17885.5) -- E.C. Emaricdulfe. At London: Printed for Matthew Law, 1595 (STC 4268) -- Shakespeare, W. Venus and Adonis. Imprinted at London for William Leake, dwelling in Paules Churchyard, at the signe of the Greyhound, 1599 (STC 22358a).
-
 0
 
 0
-
-\N
-
-Contemporary unreinforced vellum case binding; no pastedowns; the gilt initials ’G.O.’; stored in a modern case.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-John Burton in early hand inside front cover;
-
-1
-
-f
-
-f
-
-0
-
-0
-
-t
 
 f

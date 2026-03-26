@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell R.21[2]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["242"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Upper corner torn off K2,\r\nand wormholes. Collated throughout in Capell's hand with the edition of 1608.\r\nThe Capell ( presented, June, 1779) copy. Bound with other plays in brown calf."]
-Bartlett1916: ["154"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Upper corner torn off K2,\r\nand wormholes. Collated throughout in Capell's hand with the edition of 1608.\r\nThe Capell ( presented, June, 1779) copy. Bound with other plays in brown calf.\r\nPressmark, R. 21. 2."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1160
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-242
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Upper corner torn off K2,\r\nand wormholes. Collated throughout in Capell's hand with the edition of 1608.\r\nThe Capell ( presented, June, 1779) copy. Bound with other plays in brown calf.
-
-154
-
-TRINITY COLLEGE, CAMBRIDGE. 7¼ x 5¼". Upper corner torn off K2,\r\nand wormholes. Collated throughout in Capell's hand with the edition of 1608.\r\nThe Capell ( presented, June, 1779) copy. Bound with other plays in brown calf.\r\nPressmark, R. 21. 2.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["X 822.33 S71695"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed."]
-local_notes: null
 height: ["21.6"]
 width: ["16"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full black morocco with title on spine; gilt inner dentelles."]
-binder: null
-bookplate: null
-bookplate_location: null
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased from Stonehill on 20 November 1944."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 895
@@ -97,32 +74,8 @@ t
 
 \N
 
-In this issue, only R. Bentley is included in the imprint; in the other issue, H. Herringman, J. Tonson, T. Bennet, and F. Sanders are also listed.
-
 21.6
 
 16
-
-\N
-
-Bound in full black morocco with title on spine; gilt inner dentelles.
-
-0
-
-0
-
-Purchased from Stonehill on 20 November 1944.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

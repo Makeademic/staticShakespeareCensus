@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell W.5[6]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Copy note: lacks the last leaf."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["350"]
-Bartlett1939_notes: ["TRINITY COLLEGE, CAMBRIDGE. 6½ x 4¾". Cropped at top, injuring titlepage\r\nand most head-lines. The Capell (presented, June, 1779) copy. Bound in brown\r\ncalf, with other plays."]
-Bartlett1916: ["233"]
-Bartlett1916_notes: ["TRINITY COLLEGE, CAMBRIDGE. 6½ x 4¾". Cropped at top, injuring titlepage\r\nand most headlines. The Capell (presented, June, 1779) copy. Bound in brown\r\ncalf, with other plays. Pressmark, W. 5. 5."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1188
@@ -99,40 +76,8 @@ t
 
 \N
 
-Copy note: lacks the last leaf.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-350
-
-TRINITY COLLEGE, CAMBRIDGE. 6½ x 4¾". Cropped at top, injuring titlepage\r\nand most head-lines. The Capell (presented, June, 1779) copy. Bound in brown\r\ncalf, with other plays.
-
-233
-
-TRINITY COLLEGE, CAMBRIDGE. 6½ x 4¾". Cropped at top, injuring titlepage\r\nand most headlines. The Capell (presented, June, 1779) copy. Bound in brown\r\ncalf, with other plays. Pressmark, W. 5. 5.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

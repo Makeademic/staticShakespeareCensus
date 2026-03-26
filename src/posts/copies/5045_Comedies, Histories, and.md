@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22273 fo. 1 no. 14"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
-local_notes: null
 height: ["32.8"]
 width: ["20"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in the late nineteenth century by Bedford in red goatskin. Rough gilt on all edges. Binder's leaves are of dull, mottled, purple/brown paper. The covers are gilt-tooled to a triple design of single-line fillets; at the angles is a windswept tulip ornament projecting out from each corner of the second panel; between the second and inner panels is a composite ornament in each corner."]
-binder: ["Bedford, Francis"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["71"]
-rasmussen_west_notes: ["When Sidney Lee completed his 1902 Census, this was the only copy he listed as being owned by Henry Clay Folger. By the time the Census went to press, Folger owned six copies. When he died in 1930, he was by far the most notable collector of First Folios in the world. This shows how quickly the majority of Folger’s iconic collection was acquired."]
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6681
@@ -99,38 +76,8 @@ t
 
 \N
 
-This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
-
 32.8
 
 20
-
-\N
-
-Bound in the late nineteenth century by Bedford in red goatskin. Rough gilt on all edges. Binder's leaves are of dull, mottled, purple/brown paper. The covers are gilt-tooled to a triple design of single-line fillets; at the angles is a windswept tulip ornament projecting out from each corner of the second panel; between the second and inner panels is a composite ornament in each corner.
-
-Bedford, Francis
-
-\N
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-71
-
-When Sidney Lee completed his 1902 Census, this was the only copy he listed as being owned by Henry Clay Folger. By the time the Census went to press, Folger owned six copies. When he died in 1930, he was by far the most notable collector of First Folios in the world. This shows how quickly the majority of Folger’s iconic collection was acquired.
-
-f
 
 f

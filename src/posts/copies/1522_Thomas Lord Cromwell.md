@@ -24,31 +24,8 @@ location_name: ["Yale University, Elizabethan Club"]
 shelfmark: ["Eliz 205"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://brbl-dl.library.yale.edu/vufind/Record/3446772"]
-notes: null
-local_notes: ["The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Crimson goatskin, gold tooling on cover and spine, gilt edges."]
-binder: ["Bedford, Francis"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 745
@@ -97,36 +74,8 @@ t
 
 https://brbl-dl.library.yale.edu/vufind/Record/3446772
 
-The Huth copy (with bookplate) acquired by Mr. Cochran in November 1911 prior to the public sale. Gift of Alexander S. Cochran, December 1911.
-
 0
 
 0
-
-\N
-
-Crimson goatskin, gold tooling on cover and spine, gilt edges.
-
-Bedford, Francis
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

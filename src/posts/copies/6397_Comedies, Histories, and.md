@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["STC 22274 Fo.2/fragment 15"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Sigs 2b3-2e6 (last page of Troilus, Cor, and first page of Titus) and 2r6-2v1 (Lear and first page of Oth.) only."]
 height: ["31"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Folger Shakespeare Library 50th Anniversary"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Gift of Dr. and Mrs. T. D. Duane."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7249
@@ -99,38 +76,8 @@ t
 
 \N
 
-Sigs 2b3-2e6 (last page of Troilus, Cor, and first page of Titus) and 2r6-2v1 (Lear and first page of Oth.) only.
-
 31
 
 0
-
-\N
-
-\N
-
-\N
-
-Folger Shakespeare Library 50th Anniversary
-
-\N
-
-0
-
-0
-
-Gift of Dr. and Mrs. T. D. Duane.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

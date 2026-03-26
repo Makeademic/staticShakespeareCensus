@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR 2829.A1 1695 *"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Bound in old paneled calf."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Richard Lane Freer"]
-bookplate_location: ["\N"]
-Bartlett1939: ["935"]
-Bartlett1939_notes: ["MAGGS. 2½ x 6 7/16". With book-plate of Richard Lane Freer, and book-ticket "Full Court Library / Div. 36.B. / No. 6529." Bound in brown mottled calf."]
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 994
@@ -99,38 +76,8 @@ t
 
 \N
 
-Bound in old paneled calf.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Richard Lane Freer
-
-\N
-
-935
-
-MAGGS. 2½ x 6 7/16". With book-plate of Richard Lane Freer, and book-ticket "Full Court Library / Div. 36.B. / No. 6529." Bound in brown mottled calf.
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

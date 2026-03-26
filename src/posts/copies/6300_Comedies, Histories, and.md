@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["F2-15 MR 1941"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Title leaf and "verses" leaf in facsimile."]
 height: ["33.7"]
 width: ["23.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full red morocco, gilt edges, marbled endpapers"]
-binder: ["Bedford, Francis"]
-bookplate: ["Wentworth Buller"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8132
@@ -99,38 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Title leaf and "verses" leaf in facsimile.
-
 33.7
 
 23.7
-
-\N
-
-Full red morocco, gilt edges, marbled endpapers
-
-Bedford, Francis
-
-Wentworth Buller
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

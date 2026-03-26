@@ -24,31 +24,8 @@ location_name: ["Southern Methodist University"]
 shelfmark: ["909"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1632 folio edition."]
-local_notes: ["Imperfect: Fourteen pages in facsimile bound in, including t.p.; list of facsimile pages on recto of first flyleaf."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Boynton & Bath"]
-binder: ["\N"]
-bookplate: ["Milam R. Wade"]
-bookplate_location: ["Inside front cover"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscription on first flyleaf: R.A. Fird[?] 1952."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 6881
@@ -99,40 +76,8 @@ f
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1632 folio edition.
-
-Imperfect: Fourteen pages in facsimile bound in, including t.p.; list of facsimile pages on recto of first flyleaf.
-
 0
 
 0
-
-\N
-
-Boynton & Bath
-
-\N
-
-Milam R. Wade
-
-Inside front cover
-
-0
-
-0
-
-Inscription on first flyleaf: R.A. Fird[?] 1952.
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

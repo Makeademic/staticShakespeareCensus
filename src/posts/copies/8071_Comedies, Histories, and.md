@@ -24,31 +24,8 @@ location_name: ["John Rylands Library, University of Manchester"]
 shelfmark: ["8570"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: ["MS pencil note on front fly-leaf verso: Portrait 4th state"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Nineteenth-century full brown calf; single gilt fillet to form a border; gilt-tooled board edges and turn-ins; marbled end-papers;six double raised bands to spine; ornately gilt-tooled within compartments; brown leather label in second compartment: Shakespear's / Works; direct-tooled in gilt at foot of spine: M. DC. LXXXV.; blue ribbon marker attached; all edges gilt."]
-binder: ["\N"]
-bookplate: ["John Rylands Library 1894, E Bibliotheca Spenceriana"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7208
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
-MS pencil note on front fly-leaf verso: Portrait 4th state
-
 0
 
 0
-
-\N
-
-Nineteenth-century full brown calf; single gilt fillet to form a border; gilt-tooled board edges and turn-ins; marbled end-papers;six double raised bands to spine; ornately gilt-tooled within compartments; brown leather label in second compartment: Shakespear's / Works; direct-tooled in gilt at foot of spine: M. DC. LXXXV.; blue ribbon marker attached; all edges gilt.
-
-\N
-
-John Rylands Library 1894, E Bibliotheca Spenceriana
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

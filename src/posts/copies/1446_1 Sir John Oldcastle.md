@@ -24,31 +24,8 @@ location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: ["PR2867 .A1 1619 *"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Written on front endpaper: “1st Edition / 2d Edition same year omits name of Shakespeare from title. / The Lord Howe copy”.  On title page to right of author attribution: “Tis impossible”. \r\nMS note below HT on A3r: “Act 1. Scen .1. Hereford. Herbert & Powis with their men fighting”"]
-condition: ["\N"]
-binding: ["Half dark blue morocco."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Book-plate of Herschel V. Jones."]
-bibliography: ["Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 18."]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1584
@@ -99,42 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-Written on front endpaper: “1st Edition / 2d Edition same year omits name of Shakespeare from title. / The Lord Howe copy”.  On title page to right of author attribution: “Tis impossible”. \r\nMS note below HT on A3r: “Act 1. Scen .1. Hereford. Herbert & Powis with their men fighting”
-
-\N
-
-Half dark blue morocco.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Book-plate of Herschel V. Jones.
-
-Zachary Lesser, Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (University of Pennsylvania Press, 2021), 18.
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

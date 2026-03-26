@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69312"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Binding signed by Birdsall, Northampton."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["231"]
-Bartlett1939_notes: ["HUNTINGTON. 6 7/8 x 4¾". Cropped at foot, last figure of date in imprint difficult\r\nto read. The Devonshire (sold, January, 1914) copy. Bound in crimson morocco, by\r\nBirdsall, for Duke of Devonshire."]
-Bartlett1916: ["142"]
-Bartlett1916_notes: ["HUNTINGTON. 6 7/8 x 4¾". Cropped at foot, last figure of date in imprint difficult\r\nto read. The Devonshire (sold, January, 1914) copy. Bound in crimson morocco, by\r\nBirdsall, for Duke of Devonshire."]
-Lee_notes: null
-prov_info: ["Devonshire copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 523
@@ -99,42 +76,8 @@ t
 
 \N
 
-Binding signed by Birdsall, Northampton.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-231
-
-HUNTINGTON. 6 7/8 x 4¾". Cropped at foot, last figure of date in imprint difficult\r\nto read. The Devonshire (sold, January, 1914) copy. Bound in crimson morocco, by\r\nBirdsall, for Duke of Devonshire.
-
-142
-
-HUNTINGTON. 6 7/8 x 4¾". Cropped at foot, last figure of date in imprint difficult\r\nto read. The Devonshire (sold, January, 1914) copy. Bound in crimson morocco, by\r\nBirdsall, for Duke of Devonshire.
-
-Devonshire copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

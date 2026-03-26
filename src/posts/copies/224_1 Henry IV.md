@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["69314"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["Signed by Frank Bedford"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["239"]
-Bartlett1939_notes: ["HUNTINGTON. 6 7/8 x 5 3/16 ". I4 extended in upper portion with headlines in\r\nfacsimile. With Locker and Church book-plates. The Tite (May, 1874, No.\r\n2736, £25 10s. to Ellis for), Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound in red levant morocco, by Bedford."]
-Bartlett1916: ["152"]
-Bartlett1916_notes: ["HUNTINGTON. 6 7/8 x 5 3/16 ". I4 extended in upper portion with headlines in\r\nfacsimile. With Locker and Church book-plates. The Tite (May, 1874, No.\r\n2736), Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound\r\nin red levant morocco, by Bedford."]
-Lee_notes: null
-prov_info: ["bookplates of Frederick Locker and E.D. Church"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 471
@@ -102,37 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-Signed by Frank Bedford
-
-\N
-
-\N
-
-239
-
-HUNTINGTON. 6 7/8 x 5 3/16 ". I4 extended in upper portion with headlines in\r\nfacsimile. With Locker and Church book-plates. The Tite (May, 1874, No.\r\n2736, £25 10s. to Ellis for), Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound in red levant morocco, by Bedford.
-
-152
-
-HUNTINGTON. 6 7/8 x 5 3/16 ". I4 extended in upper portion with headlines in\r\nfacsimile. With Locker and Church book-plates. The Tite (May, 1874, No.\r\n2736), Locker (sold, January, 1905), Church (sold, April, 1911) copy. Bound\r\nin red levant morocco, by Bedford.
-
-bookplates of Frederick Locker and E.D. Church
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

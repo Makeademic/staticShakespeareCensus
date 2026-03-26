@@ -24,31 +24,8 @@ location_name: ["Private collection"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists John Smethwick as the publisher."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Offered for sale at Australian Book Auctions, 2013, unsold. From auction catalogue: "Dame Mabel Brookes acquired this copy of the Second Folio through great American bookseller A.S.W. Rosenbach in about 1935. Mr. Rodney Davidson, a family member, was given the work by Dame Mabel before her death in 1975 and it was subsequently sold in rooms in 2007."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7955
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists John Smethwick as the publisher.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Offered for sale at Australian Book Auctions, 2013, unsold. From auction catalogue: "Dame Mabel Brookes acquired this copy of the Second Folio through great American bookseller A.S.W. Rosenbach in about 1935. Mr. Rodney Davidson, a family member, was given the work by Dame Mabel before her death in 1975 and it was subsequently sold in rooms in 2007."
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

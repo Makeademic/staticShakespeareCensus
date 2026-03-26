@@ -24,31 +24,8 @@ location_name: ["Boston Public Library"]
 shelfmark: ["G.176.23"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://archive.org/details/midsommernightsd1619shak"]
-notes: ["\N"]
-local_notes: null
 height: ["19"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Olive goatskin"]
-binder: ["John Mackenzie"]
-bookplate: ["Armorial bookplate of the Barton Library"]
-bookplate_location: ["\N"]
-Bartlett1939: ["751"]
-Bartlett1939_notes: ["BOSTON PUBLIC. 7 x 5¼". The Bright (March 3, 1845, n. 5102, £7. 5s.), Barton\r\n(sold, May, 1873) copy. Bound in brown morocco, by Mackenzie."]
-Bartlett1916: ["534"]
-Bartlett1916_notes: ["BOSTON PUBLIC. 7x 5¼". The Bright (March, 1845, No. 5102), Barton\r\n(sold, May, 1873) copy. Bound in brown morocco, by Mackenzie."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1320
@@ -97,40 +74,8 @@ t
 
 https://archive.org/details/midsommernightsd1619shak
 
-\N
-
 19
 
 0
-
-\N
-
-Olive goatskin
-
-John Mackenzie
-
-Armorial bookplate of the Barton Library
-
-\N
-
-751
-
-BOSTON PUBLIC. 7 x 5¼". The Bright (March 3, 1845, n. 5102, £7. 5s.), Barton\r\n(sold, May, 1873) copy. Bound in brown morocco, by Mackenzie.
-
-534
-
-BOSTON PUBLIC. 7x 5¼". The Bright (March, 1845, No. 5102), Barton\r\n(sold, May, 1873) copy. Bound in brown morocco, by Mackenzie.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

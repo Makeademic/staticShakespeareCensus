@@ -24,31 +24,8 @@ location_name: ["National Library of Scotland"]
 shelfmark: ["Bute.521"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://digital.nls.uk/shakespeare-quartos/archive/120755448"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["1196"]
-Bartlett1939_notes: ["CRICHTON STUART. 6¾ x 4 9/16''. Inlaid, A4, F3, F4 have holes, C1-D2 have wormholes. Notes by Steevens. Perhaps the Fillingham (April 24, 1805, n. 537, £1. 2s. to), Scott copy. The Steevens (May 13, 1800, n. 1304, £2. 12s. to Nicol for), 1st Marquis Bute copy. Bound in half yellow morocco."]
-Bartlett1916: ["866"]
-Bartlett1916_notes: ["CRICHTON STUART."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 87
@@ -100,35 +77,5 @@ https://digital.nls.uk/shakespeare-quartos/archive/120755448
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-1196
-
-CRICHTON STUART. 6¾ x 4 9/16''. Inlaid, A4, F3, F4 have holes, C1-D2 have wormholes. Notes by Steevens. Perhaps the Fillingham (April 24, 1805, n. 537, £1. 2s. to), Scott copy. The Steevens (May 13, 1800, n. 1304, £2. 12s. to Nicol for), 1st Marquis Bute copy. Bound in half yellow morocco.
-
-866
-
-CRICHTON STUART.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

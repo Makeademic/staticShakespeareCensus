@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2957A Copy 1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["In this setting of the title page, the first line of the title verse has "fluvus" and second line of imprint has "Hodgkinsonne". [ESTC]"]
-local_notes: ["cs84. Trimmed, affecting headlines."]
 height: ["0"]
 width: ["0"]
-marginalia: ["MS markings."]
-condition: ["\N"]
-binding: ["Green goatskin with gilt tooled panel, spine-panels, and gilt rolled turn-ins; top edge gilt"]
-binder: ["Bradstreet's"]
-bookplate: ["Armorial bookplate of Thomas Jefferson McKee (motto "meum et tuum"), signed  "EDF 1895."]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1517
@@ -99,40 +76,8 @@ t
 
 \N
 
-In this setting of the title page, the first line of the title verse has "fluvus" and second line of imprint has "Hodgkinsonne". [ESTC]
-
-cs84. Trimmed, affecting headlines.
-
 0
 
 0
-
-MS markings.
-
-\N
-
-Green goatskin with gilt tooled panel, spine-panels, and gilt rolled turn-ins; top edge gilt
-
-Bradstreet's
-
-Armorial bookplate of Thomas Jefferson McKee (motto "meum et tuum"), signed  "EDF 1895."
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

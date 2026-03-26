@@ -24,31 +24,8 @@ location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: ["61839"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["-T.p.; A2 cut down and mounted; cropped at head."]
 height: ["0"]
 width: ["0"]
-marginalia: ["\N"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: ["\N"]
-Bartlett1916: ["0"]
-Bartlett1916_notes: ["\N"]
-Lee_notes: ["\N"]
-prov_info: ["bookplate of Marsden J. Perry; signature of A.S.W. Rosenbach, 22 July 1919"]
-bibliography: ["\N"]
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 634
@@ -97,48 +74,8 @@ t
 
 \N
 
--T.p.; A2 cut down and mounted; cropped at head.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-\N
-
-0
-
-\N
-
-\N
-
-bookplate of Marsden J. Perry; signature of A.S.W. Rosenbach, 22 July 1919
-
-\N
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

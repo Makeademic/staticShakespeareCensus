@@ -24,31 +24,8 @@ location_name: ["Ohio State University"]
 shelfmark: ["PR2750 A21 1634"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Pencil inscription on recto of first front pastedown; "last 2 leaves facs / Title var. "Seruants," (orig. 'Seruants.') / unrec. in Greg."\r\n\r\nPencil inscription on rear pastedown: "last two leaves in facsimile, inner / margin of L4 repaired; cropped at head and foot throughout / Bernard Quaritch, Q"\r\n\r\nTrimmed at exterior margins.\r\n\r\nGilt binder's statement stamped on front board' turn-in: "Bound for Bernard Quaritch, Ltd / by Sangorski and Sutcliffe"]
 height: ["17"]
 width: ["11.7"]
-marginalia: null
-condition: ["\N"]
-binding: ["Full dark-blue crushed morocco with title and author stamped in gilt on spine, double gilt fillets on turn-ins, and binder credit stamped in gilt on the lower turn-in on the front board."]
-binder: ["Sangorski and Sutcliffe"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Stanley J. Kahrl; Bernard Quaritch"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 4006
@@ -99,38 +76,8 @@ t
 
 \N
 
-Pencil inscription on recto of first front pastedown; "last 2 leaves facs / Title var. "Seruants," (orig. 'Seruants.') / unrec. in Greg."\r\n\r\nPencil inscription on rear pastedown: "last two leaves in facsimile, inner / margin of L4 repaired; cropped at head and foot throughout / Bernard Quaritch, Q"\r\n\r\nTrimmed at exterior margins.\r\n\r\nGilt binder's statement stamped on front board' turn-in: "Bound for Bernard Quaritch, Ltd / by Sangorski and Sutcliffe"
-
 17
 
 11.7
-
-\N
-
-Full dark-blue crushed morocco with title and author stamped in gilt on spine, double gilt fillets on turn-ins, and binder credit stamped in gilt on the lower turn-in on the front board.
-
-Sangorski and Sutcliffe
-
-\N
-
-\N
-
-0
-
-0
-
-Stanley J. Kahrl; Bernard Quaritch
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

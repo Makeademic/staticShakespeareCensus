@@ -24,31 +24,8 @@ location_name: ["University of Notre Dame, Hesburgh Library"]
 shelfmark: ["XLarge PR 2751 .A3 1664"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Fragment: [30] leaves (p. 509-540, 761-788)"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Donated to the library in May, 2003 by John Richard Steidl and Kathryn Jean Kaluzny (Renton, WA)."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 7406
@@ -99,38 +76,8 @@ f
 
 \N
 
-Fragment: [30] leaves (p. 509-540, 761-788)
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Donated to the library in May, 2003 by John Richard Steidl and Kathryn Jean Kaluzny (Renton, WA).
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

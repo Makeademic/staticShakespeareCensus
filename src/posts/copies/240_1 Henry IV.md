@@ -24,31 +24,8 @@ location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: ["Dyce 26 Box 51/1"]
 location_verified: ["t"]
 digital_facsimile_URL: ["http://collections.vam.ac.uk/item/O1443759/the-historie-of-henry-the-book-shakespeare-william/"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["248"]
-Bartlett1939_notes: ["DYCE COLLECTION. 7 3/8 x 5 7/8". Stained. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in red morocco, by Murton."]
-Bartlett1916: ["159"]
-Bartlett1916_notes: ["DYCE COLLECTION. 7 7/16 x 5 13/16". Stained; G-K, foxed; Fi-F4 much cleaned. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in red morocco."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 465
@@ -102,35 +79,5 @@ http://collections.vam.ac.uk/item/O1443759/the-historie-of-henry-the-book-shakes
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-248
-
-DYCE COLLECTION. 7 3/8 x 5 7/8". Stained. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in red morocco, by Murton.
-
-159
-
-DYCE COLLECTION. 7 7/16 x 5 13/16". Stained; G-K, foxed; Fi-F4 much cleaned. "C.P. A. Dyce." The Dyce (bequeathed, 1869) copy. Bound in red morocco.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

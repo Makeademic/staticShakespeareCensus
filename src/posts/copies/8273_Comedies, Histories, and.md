@@ -24,31 +24,8 @@ location_name: ["Princeton University"]
 shelfmark: ["EXKA Oversize Special 1685q Shakespeare"]
 location_verified: ["f"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers."]
-local_notes: ["The title leaf (+π2) is a cancellans."]
 height: ["37"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["19th-century red goatskin"]
-binder: ["\N"]
-bookplate: ["Robert Hoe; Grenville Kane"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7211
@@ -99,38 +76,8 @@ f
 
 \N
 
-This issue differs in the setting of the title page from the other two, and it lists H. Herringman as the publisher in the imprint and Joseph Knight and Francis Saunders as the booksellers.
-
-The title leaf (+π2) is a cancellans.
-
 37
 
 0
-
-\N
-
-19th-century red goatskin
-
-\N
-
-Robert Hoe; Grenville Kane
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2915 Fo.4 no.23"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["The copies listed here cannot be identified with any one specific issue of the 1685 folio edition."]
-local_notes: ["Folger copy 23 wants the "verses" leaf with port., [pi]1 (supplied in facsim., with the facsim. port. mounted) and the title leaf, [pi]2 (supplied in facsim.). Also wants [superscript pi]A1. A short and narrow copy: gutters small and edges closely trimmed, affecting many rules at the lower margin and some direction lines and some rules at the outer margin. Margins of [superscript pi]A2-4, A6, and 3X6-4C1 are patched, and 4C2 is mounted. Imperfections affect text slightly on H2, 4A3, 4B6, and 4C1 and very slightly on 19 other leaves (list on file)."]
 height: ["34"]
 width: ["0"]
-marginalia: ["With slight manuscript additions passim (record on file)."]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["John Russell, 4th Duke of Bedford (dated 1736),  Cavendish de Thornton, i.e., Richard Cavendish (dated 1857); George Herbert Palmer"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Signed: "W. B. Burbige"? (19th-cent.), [superscript pi]A2 recto, and "July 15 1789 Haverhi[ll] Jno Webb (18th-cent., cropped), X5 recto. Sold as lot #402 in the sale at Anderson Auction Co., New York, Jan. 7-8, 1913, "The Library of George S. Payson ... with a Few Important Additions. ..."]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7412
@@ -99,42 +76,8 @@ t
 
 \N
 
-The copies listed here cannot be identified with any one specific issue of the 1685 folio edition.
-
-Folger copy 23 wants the "verses" leaf with port., [pi]1 (supplied in facsim., with the facsim. port. mounted) and the title leaf, [pi]2 (supplied in facsim.). Also wants [superscript pi]A1. A short and narrow copy: gutters small and edges closely trimmed, affecting many rules at the lower margin and some direction lines and some rules at the outer margin. Margins of [superscript pi]A2-4, A6, and 3X6-4C1 are patched, and 4C2 is mounted. Imperfections affect text slightly on H2, 4A3, 4B6, and 4C1 and very slightly on 19 other leaves (list on file).
-
 34
 
 0
-
-With slight manuscript additions passim (record on file).
-
-\N
-
-\N
-
-\N
-
-John Russell, 4th Duke of Bedford (dated 1736),  Cavendish de Thornton, i.e., Richard Cavendish (dated 1857); George Herbert Palmer
-
-\N
-
-0
-
-0
-
-Signed: "W. B. Burbige"? (19th-cent.), [superscript pi]A2 recto, and "July 15 1789 Haverhi[ll] Jno Webb (18th-cent., cropped), X5 recto. Sold as lot #402 in the sale at Anderson Auction Co., New York, Jan. 7-8, 1913, "The Library of George S. Payson ... with a Few Important Additions. ..."
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

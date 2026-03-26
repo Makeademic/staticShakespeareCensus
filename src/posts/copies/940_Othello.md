@@ -24,31 +24,8 @@ location_name: ["Harvard University, Houghton Library"]
 shelfmark: ["13408.124.20*"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["899"]
-Bartlett1939_notes: ["HARVARD. 8 5/8 x 6¼". The White (purchased, April, 1903, presented, June, 1928) copy. Bound in calf."]
-Bartlett1916: ["645"]
-Bartlett1916_notes: ["WHITE. 8 5/8 x 6¼". Purchased, April, 1903. Bound in calf."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1012
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-899
-
-HARVARD. 8 5/8 x 6¼". The White (purchased, April, 1903, presented, June, 1928) copy. Bound in calf.
-
-645
-
-WHITE. 8 5/8 x 6¼". Purchased, April, 1903. Bound in calf.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

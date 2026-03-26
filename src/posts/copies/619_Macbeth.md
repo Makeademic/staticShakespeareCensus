@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Mal. 1010"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["596"]
-Bartlett1939_notes: ["BODLEIAN. 8 3/8 x 6¼". Title and list of Persons Names, backed. Purchased, 1878. Bound in half blue morocco."]
-Bartlett1916: ["405"]
-Bartlett1916_notes: ["BODLEIAN. 8 3/8 x 6¼". Title and list of Persons Names, backed. Purchased,\r\n1878. Bound in half blue morocco. Pressmark, Malone, 1010."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 921
@@ -100,35 +77,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-596
-
-BODLEIAN. 8 3/8 x 6¼". Title and list of Persons Names, backed. Purchased, 1878. Bound in half blue morocco.
-
-405
-
-BODLEIAN. 8 3/8 x 6¼". Title and list of Persons Names, backed. Purchased,\r\n1878. Bound in half blue morocco. Pressmark, Malone, 1010.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

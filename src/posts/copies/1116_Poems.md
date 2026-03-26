@@ -24,31 +24,8 @@ location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: ["SR 50.40"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Early [?] MS. pencil marks on A5r, B2r, B3r, B4v, C4r, C6r, D3v, D5v, D6r, D8v, E3r, K7v, and K8r; 83253009"]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["Copies are in the following public libraries in England: ... the Shakespeare Memorial Library, Stratford-on-Avon."]
-prov_info: ["ex-libris of Estelle Doheny on front end page; purchased by the Friends of SBT with the aid of the V&amp;A Museum, 27th February 1990; Binding by Heritage Bindery, c. 1988"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 645
@@ -99,40 +76,8 @@ t
 
 \N
 
-Early [?] MS. pencil marks on A5r, B2r, B3r, B4v, C4r, C6r, D3v, D5v, D6r, D8v, E3r, K7v, and K8r; 83253009
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Copies are in the following public libraries in England: ... the Shakespeare Memorial Library, Stratford-on-Avon.
-
-ex-libris of Estelle Doheny on front end page; purchased by the Friends of SBT with the aid of the V&amp;A Museum, 27th February 1990; Binding by Heritage Bindery, c. 1988
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: ["MR 0839"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, R. Chiswell, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["34.5"]
 width: ["22.5"]
-marginalia: null
-condition: ["\N"]
-binding: ["Boxed in solander case"]
-binder: ["Bedford, Francis"]
-bookplate: ["Francis Kettaneh"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 8155
@@ -99,36 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, R. Chiswell, and R. Bentley as publishers in the imprint.
-
 34.5
 
 22.5
-
-\N
-
-Boxed in solander case
-
-Bedford, Francis
-
-Francis Kettaneh
-
-\N
-
-0
-
-0
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

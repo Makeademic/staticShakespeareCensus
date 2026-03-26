@@ -24,31 +24,8 @@ location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: ["Dyce 26 Box 43/3"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: ["Written vertically on title page: "Iudgement"]
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Inscription on t.p.: "George Steevens"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["t"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1485
@@ -99,40 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-Written vertically on title page: "Iudgement"
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-Inscription on t.p.: "George Steevens"
-
-1
-
-t
-
-f
-
-0
-
-0
-
-f
 
 f

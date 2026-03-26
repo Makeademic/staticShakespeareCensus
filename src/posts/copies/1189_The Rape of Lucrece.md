@@ -24,31 +24,8 @@ location_name: ["Folger Shakespeare Library"]
 shelfmark: ["S2943 Copy 6"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]"]
-local_notes: ["cs452. Fragment: Frontispiece only. Frontispiece retains third line at foot."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["Maroon goatskin with gilt rolled turn-ins and marbled endpapers; all edges gilt."]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["t"]
 ---
 1083
@@ -99,38 +76,8 @@ t
 
 \N
 
-Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]
-
-cs452. Fragment: Frontispiece only. Frontispiece retains third line at foot.
-
 0
 
 0
-
-\N
-
-Maroon goatskin with gilt rolled turn-ins and marbled endpapers; all edges gilt.
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 t

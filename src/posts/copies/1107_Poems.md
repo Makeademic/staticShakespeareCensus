@@ -24,31 +24,8 @@ location_name: ["Martin Bodmer Foundation, Geneva"]
 shelfmark: ["[none]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056490?page=002"]
-notes: null
-local_notes: ["Described in Erne & Singh, #153."]
 height: ["14"]
 width: ["8.9"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco, gilt, gilt edges"]
-binder: ["Bedford, Francis"]
-bookplate: ["John Camp Williams"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1503
@@ -99,36 +76,8 @@ t
 
 https://bodmerlab.unige.ch/fr/constellations/early-modern-english-books/mirador/1072056490?page=002
 
-Described in Erne & Singh, #153.
-
 14
 
 8.9
-
-\N
-
-Red morocco, gilt, gilt edges
-
-Bedford, Francis
-
-John Camp Williams
-
-\N
-
-0
-
-0
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

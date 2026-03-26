@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G d.45 (5)"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["210"]
-Bartlett1939_notes: ["BODLEIAN. 6 13/16 x 5". Malone's note: "This is the second edition of this play,\r\nwhich I have collated with the first printed in 1598." The Malone (presented,\r\n1821) copy. Inlaid and bound in tree calf, yellow edges, with "E.M." on covers,\r\nwith other plays in Vol. VII. of the collection."]
-Bartlett1916: ["125"]
-Bartlett1916_notes: ["BODLEIAN. 6 13/16 x 5". Malone's note: "This is the second edition of this play,\r\nwhich I have collated with the first printed in 1598." The Malone (presented,\r\n1821) copy. Inlaid and bound in tree calf, yellow edges, with "E.M." on covers,\r\nwith other plays in Vol. VII. of the collection. Pressmark, Malone, 38."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 416
@@ -99,40 +76,8 @@ t
 
 \N
 
-\N
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-210
-
-BODLEIAN. 6 13/16 x 5". Malone's note: "This is the second edition of this play,\r\nwhich I have collated with the first printed in 1598." The Malone (presented,\r\n1821) copy. Inlaid and bound in tree calf, yellow edges, with "E.M." on covers,\r\nwith other plays in Vol. VII. of the collection.
-
-125
-
-BODLEIAN. 6 13/16 x 5". Malone's note: "This is the second edition of this play,\r\nwhich I have collated with the first printed in 1598." The Malone (presented,\r\n1821) copy. Inlaid and bound in tree calf, yellow edges, with "E.M." on covers,\r\nwith other plays in Vol. VII. of the collection. Pressmark, Malone, 38.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

@@ -24,31 +24,8 @@ location_name: ["Cambridge University, King's College"]
 shelfmark: ["Keynes.C.7.78"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Imperfect: lacks first blank leaf (A1).\r\n\r\nSignatures: A⁴(-A1), B-H⁴."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: null
-binder: null
-bookplate: ["King's College, Keynes Bequest, 1946"]
-bookplate_location: ["Front pastedown"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["From the bequest of John Maynard Keynes (1883-1946)."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 875
@@ -97,34 +74,8 @@ t
 
 \N
 
-Imperfect: lacks first blank leaf (A1).\r\n\r\nSignatures: A⁴(-A1), B-H⁴.
-
 0
 
 0
-
-\N
-
-King's College, Keynes Bequest, 1946
-
-Front pastedown
-
-0
-
-0
-
-From the bequest of John Maynard Keynes (1883-1946).
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

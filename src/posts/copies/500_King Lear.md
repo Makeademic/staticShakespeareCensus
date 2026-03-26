@@ -24,31 +24,8 @@ location_name: ["Haverford College"]
 shelfmark: ["Philips 49"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["\N"]
-local_notes: null
 height: ["16.8"]
 width: ["11.9"]
-marginalia: null
-condition: ["\N"]
-binding: ["Red morocco, gold lettering, gold inner dentelles, marbled endpapers"]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["E.L. Ferris copy;\r\nWilliam Pyle Philips copy"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 580
@@ -99,38 +76,8 @@ t
 
 \N
 
-\N
-
 16.8
 
 11.9
-
-\N
-
-Red morocco, gold lettering, gold inner dentelles, marbled endpapers
-
-Riviere & Son
-
-\N
-
-\N
-
-0
-
-0
-
-E.L. Ferris copy;\r\nWilliam Pyle Philips copy
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

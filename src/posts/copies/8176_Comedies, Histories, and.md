@@ -24,31 +24,8 @@ location_name: ["Smith College"]
 shelfmark: ["825 SB 1685"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: ["This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint."]
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["Walter Edwin Frew; John Monks"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Signature "Peter Haxby, Lambeth, Surry, eajus liber anno Domini 1773 Decr of Cattal Eaborious Yorkshire" on pi1r. Gift from the estate of Charles McCamic, in honor of his wife, Elizabeth McCoach McCamic, Class of 1920, 1961"]
-bibliography: null
-created_by_id: ["\N"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 7197
@@ -99,38 +76,8 @@ t
 
 \N
 
-This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-Walter Edwin Frew; John Monks
-
-\N
-
-0
-
-0
-
-Signature "Peter Haxby, Lambeth, Surry, eajus liber anno Domini 1773 Decr of Cattal Eaborious Yorkshire" on pi1r. Gift from the estate of Charles McCamic, in honor of his wife, Elizabeth McCoach McCamic, Class of 1920, 1961
-
-\N
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

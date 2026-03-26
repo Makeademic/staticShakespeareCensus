@@ -24,31 +24,8 @@ location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: ["822.33 U1 1635"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["18.1"]
 width: ["12.6"]
-marginalia: null
-condition: ["\N"]
-binding: ["Bound in full red morocco with title on spine; gilt-tooled inner dentelles."]
-binder: ["Riviere & Son"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: null
-prov_info: ["Purchased March 1957."]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 100
@@ -102,33 +79,5 @@ t
 18.1
 
 12.6
-
-\N
-
-Bound in full red morocco with title on spine; gilt-tooled inner dentelles.
-
-Riviere & Son
-
-\N
-
-\N
-
-0
-
-0
-
-Purchased March 1957.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

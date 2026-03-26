@@ -24,31 +24,8 @@ location_name: ["Oxford University, Bodleian Library"]
 shelfmark: ["Arch. G e.16"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: null
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["244"]
-Bartlett1939_notes: ["BODLEIAN. 7 1/8 x 5 3/16 ". Heber stamp on fly-leaf. The Heber (Part II, June 5, 1834, No. 5458, £3. 13s. 6d. to), Thorpe copy. Bound in half morocco."]
-Bartlett1916: ["155"]
-Bartlett1916_notes: ["BODLEIAN. 7 1/8 x 5 3/16 ". Heber stamp on fly-leaf. The Heber (June, 1834,\r\nNo. 5458) copy. Bound in half morocco. Pressmark, Malone, 869."]
-Lee_notes: null
-prov_info: null
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["0"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["f"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 460
@@ -102,35 +79,5 @@ t
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-244
-
-BODLEIAN. 7 1/8 x 5 3/16 ". Heber stamp on fly-leaf. The Heber (Part II, June 5, 1834, No. 5458, £3. 13s. 6d. to), Thorpe copy. Bound in half morocco.
-
-155
-
-BODLEIAN. 7 1/8 x 5 3/16 ". Heber stamp on fly-leaf. The Heber (June, 1834,\r\nNo. 5458) copy. Bound in half morocco. Pressmark, Malone, 869.
-
-1
-
-f
-
-f
-
-0
-
-0
-
-f
 
 f

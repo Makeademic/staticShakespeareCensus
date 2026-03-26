@@ -24,31 +24,8 @@ location_name: ["Cambridge University, Trinity College"]
 shelfmark: ["Capell *.22[1]"]
 location_verified: ["t"]
 digital_facsimile_URL: ["\N"]
-notes: null
-local_notes: ["Lacking the first leaf (blank except signature A). Lee mistook the order of items in this book: Passionate Pilgrim is first, Venus and Adonis second."]
 height: ["0"]
 width: ["0"]
-marginalia: null
-condition: ["\N"]
-binding: ["\N"]
-binder: ["\N"]
-bookplate: ["\N"]
-bookplate_location: ["\N"]
-Bartlett1939: ["0"]
-Bartlett1939_notes: null
-Bartlett1916: ["0"]
-Bartlett1916_notes: null
-Lee_notes: ["The Capell copy measures 4½ x 3¼. Its state is somewhat dirty, and the date on the second title-page has been cut off by the binder. With it is bound up the 1620 edition of Venus Adonis, which it follows. There is an old MS note at the end of the book running, 'Not quite perfect, see 4 or 5 leaves back: so it cost me but 3 Halfpence.' This copy, which once belonged to 'Honest Tom Martin' of Palgrave, the historian of Thetford (1697-1771), has his autograph signature. It was reproduced in photo-lithography in 1883 in the Shakspere-Quarto facsimiles, No. 10, with an introduction by Professor Dowden."]
-prov_info: ["On front flyleaf: recto: "Isaac / Rabson / Eius / Liber 1739 / 1812"; verso: "Tho. Martin" and "Anne Shute" with lines underneath: "Shakespeare was a Woolcomber / Ben Johnson a Foot Soldier in [the] Dutch Service [??ys] ye English / [??]an's Evning Post June 24, / 1740. / [H]omer was a Beggar / [E]uripides an Herbgatherer / [P]lautus a Baker's Serv[an]t / [T]erence a Slave / Virgil ye Son of a Basketmaker.'  On rear endpaper: "WB" in top right corner and "Not quite perfect, / see 4 or 5 Leaves back, / so it cost me but 3 Halfpence"]
-bibliography: null
-created_by_id: ["1"]
-apocryphal: ["f"]
-hidden: ["f"]
-Lee: ["1"]
-rasmussen_west: ["0"]
-rasmussen_west_notes: null
-in_early_sammelband: ["t"]
-Bartlett_MS_Annotations: null
 fragment: ["f"]
 ---
 1372
@@ -99,40 +76,8 @@ t
 
 \N
 
-Lacking the first leaf (blank except signature A). Lee mistook the order of items in this book: Passionate Pilgrim is first, Venus and Adonis second.
-
 0
 
 0
-
-\N
-
-\N
-
-\N
-
-\N
-
-\N
-
-0
-
-0
-
-The Capell copy measures 4½ x 3¼. Its state is somewhat dirty, and the date on the second title-page has been cut off by the binder. With it is bound up the 1620 edition of Venus Adonis, which it follows. There is an old MS note at the end of the book running, 'Not quite perfect, see 4 or 5 leaves back: so it cost me but 3 Halfpence.' This copy, which once belonged to 'Honest Tom Martin' of Palgrave, the historian of Thetford (1697-1771), has his autograph signature. It was reproduced in photo-lithography in 1883 in the Shakspere-Quarto facsimiles, No. 10, with an introduction by Professor Dowden.
-
-On front flyleaf: recto: "Isaac / Rabson / Eius / Liber 1739 / 1812"; verso: "Tho. Martin" and "Anne Shute" with lines underneath: "Shakespeare was a Woolcomber / Ben Johnson a Foot Soldier in [the] Dutch Service [??ys] ye English / [??]an's Evning Post June 24, / 1740. / [H]omer was a Beggar / [E]uripides an Herbgatherer / [P]lautus a Baker's Serv[an]t / [T]erence a Slave / Virgil ye Son of a Basketmaker.'  On rear endpaper: "WB" in top right corner and "Not quite perfect, / see 4 or 5 Leaves back, / so it cost me but 3 Halfpence"
-
-1
-
-f
-
-f
-
-1
-
-0
-
-t
 
 f
