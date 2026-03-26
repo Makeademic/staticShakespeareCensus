@@ -1,0 +1,136 @@
+---
+id: ["1083"]
+title_id: ["26"]
+title: ["The Rape of Lucrece"]
+image: ["titleicon/rape-of-lucrece.png"]
+extant_copies: ["51"]
+plus_fragment: ["4"]
+issue: ["f"]
+issue_id: ["89"]
+edition_id: ["78"]
+year: ["1655"]
+start_date: ["1655"]
+end_date: ["1655"]
+from_estc: ["t"]
+STC_Wing: ["S2943"]
+STC_Wing_URL: null
+ESTC: ["R13087"]
+edition_number: ["9"]
+edition_format: ["8°"]
+DEEP: ["\N"]
+NSC: ["1189"]
+location_id: ["7"]
+location_name: ["Folger Shakespeare Library"]
+shelfmark: ["S2943 Copy 6"]
+location_verified: ["t"]
+digital_facsimile_URL: ["\N"]
+notes: ["Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]"]
+local_notes: ["cs452. Fragment: Frontispiece only. Frontispiece retains third line at foot."]
+height: ["0"]
+width: ["0"]
+marginalia: null
+condition: ["\N"]
+binding: ["Maroon goatskin with gilt rolled turn-ins and marbled endpapers; all edges gilt."]
+binder: ["\N"]
+bookplate: ["\N"]
+bookplate_location: ["\N"]
+Bartlett1939: ["0"]
+Bartlett1939_notes: null
+Bartlett1916: ["0"]
+Bartlett1916_notes: null
+Lee_notes: null
+prov_info: null
+bibliography: null
+created_by_id: ["1"]
+apocryphal: ["f"]
+hidden: ["f"]
+Lee: ["0"]
+rasmussen_west: ["0"]
+rasmussen_west_notes: null
+in_early_sammelband: ["f"]
+Bartlett_MS_Annotations: null
+fragment: ["t"]
+---
+1083
+
+26
+
+The Rape of Lucrece
+
+titleicon/rape-of-lucrece.png
+
+51
+
+4
+
+f
+
+89
+
+78
+
+1655
+
+1655
+
+1655
+
+t
+
+S2943
+
+R13087
+
+9
+
+8°
+
+\N
+
+1189
+
+7
+
+Folger Shakespeare Library
+
+S2943 Copy 6
+
+t
+
+\N
+
+Tarquin banished: or, The revvard of lust' by J. Quarles has separate dated title page and pagination; register is continuous. [ESTC]
+
+cs452. Fragment: Frontispiece only. Frontispiece retains third line at foot.
+
+0
+
+0
+
+\N
+
+Maroon goatskin with gilt rolled turn-ins and marbled endpapers; all edges gilt.
+
+\N
+
+\N
+
+\N
+
+0
+
+0
+
+1
+
+f
+
+f
+
+0
+
+0
+
+f
+
+t

@@ -1,0 +1,128 @@
+---
+id: ["1046"]
+title_id: ["11"]
+title: ["Julius Caesar"]
+image: ["titleicon/julius-caesar.png"]
+extant_copies: ["128"]
+plus_fragment: null
+issue: ["f"]
+issue_id: ["39"]
+edition_id: ["34"]
+year: ["1684"]
+start_date: ["1684"]
+end_date: ["1684"]
+from_estc: ["t"]
+STC_Wing: ["S2922"]
+STC_Wing_URL: null
+ESTC: ["R15574"]
+edition_number: ["1"]
+edition_format: ["4°"]
+DEEP: ["0"]
+NSC: ["393"]
+location_id: ["15"]
+location_name: ["University of Illinois, Urbana-Champaign"]
+shelfmark: ["822.33 TI"]
+location_verified: ["t"]
+digital_facsimile_URL: ["\N"]
+notes: null
+local_notes: null
+height: ["20.9"]
+width: ["15.8"]
+marginalia: null
+condition: ["\N"]
+binding: ["Bound in full red morocco with title on spine; gilt-tooled inner dentelles."]
+binder: ["H. Zucker, Pennsylvania"]
+bookplate: null
+bookplate_location: null
+Bartlett1939: ["0"]
+Bartlett1939_notes: null
+Bartlett1916: ["0"]
+Bartlett1916_notes: null
+Lee_notes: null
+prov_info: ["Purchased 8 February 1955 from Stonehill."]
+bibliography: null
+created_by_id: ["1"]
+apocryphal: ["f"]
+hidden: ["f"]
+Lee: ["0"]
+rasmussen_west: ["0"]
+rasmussen_west_notes: null
+in_early_sammelband: ["f"]
+Bartlett_MS_Annotations: null
+fragment: ["f"]
+---
+1046
+
+11
+
+Julius Caesar
+
+titleicon/julius-caesar.png
+
+128
+
+f
+
+39
+
+34
+
+1684
+
+1684
+
+1684
+
+t
+
+S2922
+
+R15574
+
+1
+
+4°
+
+0
+
+393
+
+15
+
+University of Illinois, Urbana-Champaign
+
+822.33 TI
+
+t
+
+\N
+
+20.9
+
+15.8
+
+\N
+
+Bound in full red morocco with title on spine; gilt-tooled inner dentelles.
+
+H. Zucker, Pennsylvania
+
+0
+
+0
+
+Purchased 8 February 1955 from Stonehill.
+
+1
+
+f
+
+f
+
+0
+
+0
+
+f
+
+f

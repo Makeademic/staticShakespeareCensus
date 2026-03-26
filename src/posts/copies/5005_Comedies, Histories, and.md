@@ -1,0 +1,138 @@
+---
+id: ["6796"]
+title_id: ["43"]
+title: ["Comedies, Histories, and Tragedies: F1"]
+image: ["titleicon/F1.png"]
+extant_copies: ["229"]
+plus_fragment: ["164"]
+issue: ["t"]
+issue_id: ["149"]
+edition_id: ["135"]
+year: ["1623"]
+start_date: ["1623"]
+end_date: ["1623"]
+from_estc: ["f"]
+STC_Wing: ["22273"]
+STC_Wing_URL: null
+ESTC: ["S111228"]
+edition_number: ["Copies"]
+edition_format: ["2°"]
+DEEP: ["5081"]
+NSC: ["5005"]
+location_id: ["101"]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
+shelfmark: ["RES-YK-29"]
+location_verified: ["t"]
+digital_facsimile_URL: ["\N"]
+notes: ["This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays."]
+local_notes: null
+height: ["31.6"]
+width: ["20"]
+marginalia: ["A5+1 has MS commentary, cf. "post-Restoration": The Tempest "better than Dryden"; A Midsummer Night’s Dream and The Taming of the Shrew "pretty good"; The Merry Wives of Windsor, The Merchant of Venice, As You Like It, and Twelfth Night "good"; Timon of Athens "or the History of man | =kind."; The Two Gentlemen of Verona "b[a]d"; the remaining Comedies "ind[ifferent]."]
+condition: ["\N"]
+binding: ["The binding is dark red calfskin with extensive gold-tooled detailing on all surfaces. On the front and back boards the detailing is based around an inner and outer border of double gold fillets with floral detailing filling in the areas between the borders. At the center of both boards is a sunburst design composed of an inner oval surrounded by floral detailing that finishes in a diamond shape. There are several black scratches across the center of the back board."]
+binder: ["\N"]
+bookplate: ["\N"]
+bookplate_location: ["\N"]
+Bartlett1939: ["0"]
+Bartlett1939_notes: null
+Bartlett1916: ["0"]
+Bartlett1916_notes: null
+Lee_notes: null
+prov_info: null
+bibliography: null
+created_by_id: ["\N"]
+apocryphal: ["f"]
+hidden: ["f"]
+Lee: ["0"]
+rasmussen_west: ["194"]
+rasmussen_west_notes: ["Lawyer and antiquarian Thomas Amyot is the first fixed point in this copy’s history. Fellow of the Royal Society and of the Society of Antiquaries,  Amyot was also a founding member (in 1838) of the Camden Society—devoted to publishing manuscripts on British history—as well as being involved with the Shakespeare Society.  Amyot’s biography reveals many connections with Shakespeare, including the antiquarian’s chairmanship of the London Committee for the Purchase of Shakespeare's Birthplace in 1847, and his close relationship with the infamous forger, John Payne Collier —Collier apparently used this copy of the folio when he was "editing" Shakespeare."]
+in_early_sammelband: ["f"]
+Bartlett_MS_Annotations: null
+fragment: ["f"]
+---
+6796
+
+43
+
+Comedies, Histories, and Tragedies: F1
+
+titleicon/F1.png
+
+229
+
+164
+
+t
+
+149
+
+135
+
+1623
+
+1623
+
+1623
+
+f
+
+22273
+
+S111228
+
+Copies
+
+2°
+
+5081
+
+5005
+
+101
+
+Bibliothèque nationale de France (National Library of France)
+
+RES-YK-29
+
+t
+
+\N
+
+This edition exists in three distinct states: the first includes copies that were sold without Troilus and Cressida; the second contains Troilus and Cressida but without its prologue and with a redundant final page of Romeo and Juliet crossed out by the printer; the third includes a cancel leaf with the Prologue of Troilus on its recto and the first page of the play, reprinted from a new setting of type, on its verso. In none of the states is Troilus included in the "Catalogue" of plays.
+
+31.6
+
+20
+
+A5+1 has MS commentary, cf. "post-Restoration": The Tempest "better than Dryden"; A Midsummer Night’s Dream and The Taming of the Shrew "pretty good"; The Merry Wives of Windsor, The Merchant of Venice, As You Like It, and Twelfth Night "good"; Timon of Athens "or the History of man | =kind."; The Two Gentlemen of Verona "b[a]d"; the remaining Comedies "ind[ifferent]."
+
+\N
+
+The binding is dark red calfskin with extensive gold-tooled detailing on all surfaces. On the front and back boards the detailing is based around an inner and outer border of double gold fillets with floral detailing filling in the areas between the borders. At the center of both boards is a sunburst design composed of an inner oval surrounded by floral detailing that finishes in a diamond shape. There are several black scratches across the center of the back board.
+
+\N
+
+\N
+
+\N
+
+0
+
+0
+
+\N
+
+f
+
+f
+
+0
+
+194
+
+Lawyer and antiquarian Thomas Amyot is the first fixed point in this copy’s history. Fellow of the Royal Society and of the Society of Antiquaries,  Amyot was also a founding member (in 1838) of the Camden Society—devoted to publishing manuscripts on British history—as well as being involved with the Shakespeare Society.  Amyot’s biography reveals many connections with Shakespeare, including the antiquarian’s chairmanship of the London Committee for the Purchase of Shakespeare's Birthplace in 1847, and his close relationship with the infamous forger, John Payne Collier —Collier apparently used this copy of the folio when he was "editing" Shakespeare.
+
+f
+
+f
