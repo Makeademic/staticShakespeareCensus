@@ -1,5 +1,21 @@
 [
-    { "title": "The Birth of Merlin", "titleImage": "img/title_icons/birth-of-merlin.png", "titleURL": "/Birth-of-Merlin/" },
-    { "title": "1 Henry IV", "titleImage": "img/title_icons/1-henry-iv.png", "titleURL": "/1-Henry-IV/" },
-    { "title": "A Yorkshire Tragedy", "titleImage": "img/title_icons/yorkshire-tragedy.png", "titleURL": "/A-Yorkshire-Tragedy/"}
+    { "title": "The Birth of Merlin", "titleImage": "assets/img/title_icons/birth-of-merlin.png", "titleURL": "/Birth-of-Merlin/" },
+    { "title": "Comedies, Histories, and Tragedies: F1", "titleImage": "assets/img/title_icons/F1.png", "titleURL": "/F1/" },    
+    { "title": "Comedies, Histories, and Tragedies: F2", "titleImage": "assets/img/title_icons/f2.png", "titleURL": "/F2/" },  
+    { "title": "Comedies, Histories, and Tragedies: F3", "titleImage": "assets/img/title_icons/f3.png", "titleURL": "/F3/" },  
+    { "title": "Comedies, Histories, and Tragedies: F4", "titleImage": "assets/img/title_icons/f4.png", "titleURL": "/F4/" },     
+    { "title": "Cupid's Cabinet Unlocked", "titleImage": "assets/img/title_icons/cupids-cabinet-unlocked.png", "titleURL": "/Cupids-Cabinet-Unlocked/" },  
+    { "title": "Hamlet", "titleImage": "assets/img/title_icons/hamlet.png", "titleURL": "/Hamlet/" },  
+    { "title": "1 Henry IV", "titleImage": "assets/img/title_icons/1-henry-iv.png", "titleURL": "/1-Henry-IV/" },
+    { "title": "2 Henry IV", "titleImage": "assets/img/title_icons/2-henry-iv.png", "titleURL": "/2-Henry-IV/" },
+    { "title": "Henry V", "titleImage": "assets/img/title_icons/henry-v.png", "titleURL": "/Henry-V/" },
+    { "title": "2 Henry VI", "titleImage": "assets/img/title_icons/2-henry-vi.png", "titleURL": "/2-Henry-VI/" },
+    { "title": "3 Henry VI", "titleImage": "assets/img/title_icons/3-henry-vi.png", "titleURL": "/3-Henry-VI/" },
+    { "title": "Julius Caesar", "titleImage": "assets/img/title_icons/julius-caesar.png", "titleURL": "/Julius-Caesar/" },
+    { "title": "King Lear", "titleImage": "assets/img/title_icons/king-lear.png", "titleURL": "/King-Lear/" },
+    { "title": "Locrine", "titleImage": "assets/img/title_icons/locrine.png", "titleURL": "/Locrine/" },   
+    { "title": "The London Prodigal", "titleImage": "assets/img/title_icons/london-prodigal.png", "titleURL": "/The-London-Prodigal/" },
+    { "title": "Love's Labors Lost", "titleImage": "assets/img/title_icons/loves-labors-lost.png", "titleURL": "/Loves-Labors-Lost/" },
+    { "title": "Love's Martyr", "titleImage": "assets/img/title_icons/loves-martyr.png", "titleURL": "/Loves-Martyr/" }, 
+    { "title": "A Yorkshire Tragedy", "titleImage": "assets/img/title_icons/yorkshire-tragedy.png", "titleURL": "/A-Yorkshire-Tragedy/"}
 ]
