@@ -1,0 +1,108 @@
+{% from "macros/yes_no_switch_field.njk" import YesNo %}
+{# NOTE: `copy-filter` is not a class used for styling. It is a class used to group together input elements responsible for copy-filtering, so that it is easy to iterate over them in JS #}
+
+<fieldset>
+    <legend>Year</legend>
+    {# Dummy input used to simply fill in the blank for NoScript users #}
+    {# The real dual-slider is created in assets/js/dual_sliders_conf.js #}
+    <div class="copy-filter flex" name="year" id="yearSlider">1<input type="range" min="1591" max="1700" value="1650">1650</input></div>
+</fieldset>
+
+<br>
+
+<fieldset class="flex flex-col">
+    <legend>Title</legend>
+        {% for title in collections.posts | mapToDbField("title") | flatten | sort | uniq %}
+        <div class="inline-flex mt-3">
+            <input type="radio"
+                   name="titles"
+                   value="{{ title }}"
+                   id="copy-{{ title }}"
+                   onclick="updatePostGrid(this)"
+                   class="copy-filter form-radio h-5 w-5 text-blue-500 border-gray-300 transition duration-100 ease-in-out shadow-sm focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none focus:ring-opacity-50 focus:ring-offset-0  disabled:opacity-50 disabled:cursor-not-allowed">
+            <label for="copy-{{ firmware }}" class="ml-2 text-gray-700">{{ title }}
+            </label>
+        </div>
+        {% endfor %}
+</fieldset>
+
+<br>
+
+<fieldset class="mb-3 xl:w-96">
+    <legend class="form-check-label inline-block text-gray-800" id="locationLegend">
+      Location
+    </legend>
+    <select id="locationSelection" name="locations" onchange="updatePostGrid(this)" class="copy-filter form-select
+      block
+      px-3
+      py-1.5
+      text-base
+      font-normal
+      text-gray-700
+      bg-white bg-clip-padding bg-no-repeat
+      border border-solid border-gray-300
+      rounded
+      transition
+      ease-in-out
+      m-0
+      focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" 
+      aria-labelledby="locationSelectionLegend">
+        <option value="" selected>Any</option>
+        {% for locationName in collections.posts | mapToDbField("location_name") | flatten | sort | uniq  %}
+        <option value="{{ location_name }}">{{ location_name }}</option>
+        {% endfor %}
+    </select>
+</fieldset>
+
+
+<br>
+
+
+{{ YesNo("Fragment", "isFragment") }}
+
+<br>
+
+<fieldset class="block text-left">
+    <legend>Edition(s) (Ctrl+Click to select more than one)</legend>
+    <select name="editions" id="editions-multi-select" onchange="updatePostGrid(this)" class="copy-filter form-multiselect block w-full mt-1 border-2"
+        aria-label="Editions selection" multiple>
+       {% for edition in collections.posts | mapToDbField("edition_number") | flatten | sort | uniq  %}
+           <option value="{{ edition }}">{{ edition }}</option>
+       {% endfor %}
+     </select>
+</fieldset>
+
+<br>
+
+
+<fieldset class="flex flex-col">
+    <legend>Edition Format</legend>
+    {% for editionFormat in collections.posts | mapToDbField("edition_format") | flatten | sort | uniq %}
+        <label class="inline-flex items-center mt-3">
+            <input type="checkbox" name="editionFormat" value="{{ editionFormat }}" onclick="updatePostGrid(this)" class="copy-filter form-checkbox h-5 w-5 text-gray-600">
+            <span class="ml-2 text-gray-700">{{ editionFormat }}</span>
+        </label>
+   {% endfor %}
+</fieldset>
+
+<br>
+
+{{ YesNo("Is Location Verified?", "isLocationVerified") }}
+
+<br>
+
+
+
+
+<div class="flex justify-between flex-wrap">
+    {# See https://webhint.io/docs/user-guide/hints/hint-button-type/ for the merits of adding `type="button"` to a <button> #}
+    <button type="button" onclick="resetSidebarFilters(true); toggleFullScreenSidebar();" class="button float-left mt-9">Reset filters</button>
+    {# The "Apply filters" button is a bit misleading in terms of how 
+    it technically works. The different filters are applied as soon as
+    you make a selection (e.g. select a keyboard or a OS) so there is no
+    need for an "Apply" button. However, the sidebar/filters menu is 
+    shown in full-screen for mobile users so they don't see the live
+    filtering of results and need a convenient way to minimise the
+    filters-menu in order to look at the filtered results. #}
+    <button type="button" onclick="toggleFullScreenSidebar()" class="button float-right mt-9 md:hidden">Apply filters</button>
+</div>

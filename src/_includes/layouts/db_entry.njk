@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+{% from "macros/boolean_to_yes_no.njk" import booleanToYesNo %}
+{% from "macros/show_categorical_array.njk" import showCategoricalArray %}
+
+{% if isFragment %}
+    {% set fragmentStatus = "Fragment" %}
+{% else %}
+    {% set fragmentStatus = "Non-Fragment" %}
+{% endif %}
+
+<article class="max-w-5xl mx-auto">
+    <header class="mb-14">
+        <h1 class="text-3xl text-center font-bold leading-normal text-gray-900 mt-0 mb-3">Copy Details for the {{ title }} ({{ year }})</h1>
+        <h2 class="text-2xl text-center leading-normal text-gray-750 mt-0 mb-3">SC: {{ NSC }}</h2>
+        {% if image %}
+            <a href="{{ image | url }}">
+            <img
+            class="w-full m-0 rounded-t lazy"
+            src="{% if image %}{{ image | url }}{% elif image %}{{ image | url }}{% else %}{{ '/assets/img/no-image.svg' | url }}{% endif %}"
+            width="500"
+            height="500"
+            alt="{{ title }}">
+            </a>
+        {% endif %}
+    </header>
+    <div id="content" class="prose text-gray-800 max-w-none">
+        <table>
+            <th colspan="2" class="text-xl font-bold">Copy Details</th>
+            <tr>
+                <td>SC #:</td>
+                <td>{{ NSC }}</td>
+            </tr>
+            <tr>
+                <td>Location</td>
+                <td>{{ location }}</td>
+            </tr>
+            <tr>
+                <td>Shelfmark</td>
+                <td>{{ shelfmark }}</td>
+            </tr>
+             <tr>
+                <td>Copy-Specific Notes</td>
+                <td>{{ local_notes }}</td>
+            </tr> 
+              <tr>
+                <td>Provenance</td>
+                <td>{{ prov_info }}</td>
+            </tr>
+               <tr>
+                <td>Size</td>
+                <td>Height: {{ height }} x Width: {{ width }}</td>
+            </tr> 
+               <tr>
+                <td>Marginalia</td>
+                <td>{{ marginalia }}</td>
+            </tr>
+               <tr>
+                <td>Binding</td>
+                <td>{{ binding }}</td>
+            </tr>                                              
+            <tr>
+                <td>Fragment</td>
+                <td>{{ booleanToYesNo(isFragment) }}</td>
+            </tr>
+            <tr>
+                <td>Location Verified</td>
+                <td>{{ booleanToYesNo(isLocationVerified) }}</td>
+            </tr>
+            <tr>
+                <td>Firmware(s)</td>
+                <td>{{ showCategoricalArray(firmwares, "N/A") }}</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</article>

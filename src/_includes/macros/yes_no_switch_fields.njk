@@ -1,0 +1,9 @@
+{% macro YesNo(legend, dbFieldName) %}
+<fieldset class="switch-field">
+    <legend>{{ legend }}</legend>
+    <input type="radio" id="{{ legend | slugify }}-yes" name="{{ dbFieldName }}" class="copy-filter" value="true"  onclick="updatePostGrid(this)"/>
+    <label for="{{ legend | slugify }}-yes">Yes</label>
+    <input type="radio" id="{{ legend | slugify }}-no"  name="{{ dbFieldName }}" class="copy-filter" value="false" onclick="updatePostGrid(this)"/>
+    <label for="{{ legend | slugify }}-no">No</label>
+</fieldset>
+{% endmacro %}

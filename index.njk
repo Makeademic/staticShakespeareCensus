@@ -1,0 +1,29 @@
+---
+layout: layouts/default
+isMainScreen: true
+title: Shakespeare Census
+---
+
+{% block main %}
+<table>
+
+    {% for data in titles %}
+    <tr>
+      <td class="w-[150px] text-center align-top">
+      <div>
+      <div>
+      <a href="{{ data.titleURL }}">
+      <img src="{{ data.titleImage }}"
+      </a>
+      <div>
+      <div>
+      <a href="{{ data.titleURL }}">{{ data.title }}</a>
+      </div>
+      </td>
+    </tr>
+    {% endfor %}
+
+</table>
+{% endblock %}
+
+

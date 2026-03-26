@@ -1,0 +1,10 @@
+[
+    {
+        "label": "About",
+        "url": "/about"
+    },
+    {
+        "label": "Search",
+        "url": "/searchpage"
+    }
+]
