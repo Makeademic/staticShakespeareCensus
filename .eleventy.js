@@ -18,7 +18,7 @@ module.exports = (config) => {
   config.addFilter('readableDate', require('./lib/filters/readableDate'));
   //config.addFilter('minifyJs', require('./lib/filters/minifyJs'));
 
-  config.addTransform('minifyHtml', require('./lib/transforms/minifyHTML'));
+  //config.addTransform('minifyHtml', require('./lib/transforms/minifyHTML'));
 
   config.addCollection('posts', require('./lib/collections/posts'));
   config.addCollection('tagList', require('./lib/collections/tagList'));

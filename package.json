@@ -19,10 +19,9 @@
   },
   "homepage": "https://github.com/Makeademic/staticShakespeareCensus#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy": "^3.1.2",
     "@tailwindcss/cli": "^4.2.2",
     "cross-env": "^10.1.0",
-    "html-minifier": "^4.0.0",
     "luxon": "^3.7.2",
     "rimraf": "^6.1.3",
     "terser": "^5.46.1"
