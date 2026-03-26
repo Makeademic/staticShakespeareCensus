@@ -1,5 +1,3 @@
-{% from "macros/show_categorical_array.njk" import showCategoricalArray %}
-
 {%- set lazyImage = "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201%201'%20height%3D'500'%20width%3D'960'%20style%3D'background-color%3Argb(203%2C213%2C224)'%2F%3E" -%}
 {% for post in paged.posts %}
     {% if post.data.isFragment %}
@@ -24,7 +22,7 @@
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
                     <p id="location-table-cell-{{ post.data.fileSlug }}"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Location:</strong> {{ post.data.location_name }}</p>
-                    <p id="year-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 break-words text-right"><strong>Year:</strong> {{ showCategoricalArray(post.data.year, "N/A") }}</p>
+                    <p id="year-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 break-words text-right"><strong>Year:</strong> {{ post.data.year }}</p>
                     <div class="flexitems-break"></div>
                     <a href= "{{ post.data.STC_Wing_URL }}"><p id="STC-table-cell-{{ post.data.fileSlug }}" class="text-gray-700 mb-1 max-w-2/5"><strong>STC / Wing:</strong> {{ post.data.STC_Wing }}</p></a>
                     <p id="fragment-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 break-words text-right">{{ post.data.fragment }}</p>
